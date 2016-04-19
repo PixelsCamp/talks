@@ -1,4 +1,4 @@
-# talks
+![Pixels love GitHub](https://b.pixels.camp/img/pixels_love_github.svg)
 
 How to submit a Talk
 ========================
@@ -7,7 +7,9 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 
 * Log in to **GitHub** or create an account.
 * **Fork this repository**.
-* Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name. (ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
+* Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name.  
+(ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
+
 * Edit the file and fill in each section.
 * When you're ready, **submit a pull request**.
 * Anyone can comment your pull request. If your talk is accepted we will merge it.
@@ -47,5 +49,6 @@ Relevance is tricky as it doesn’t necessarily translate to geeky or codable. S
 
 Is it old news? Has it been heavily discussed in the past? Sometimes good talks get rejected because they get old. Try to awe the attendees with some fresh insights!
 
-Thanks,
-The PixelsCamp Crew
+
+
+Thanks, the PixelsCamp Crew
