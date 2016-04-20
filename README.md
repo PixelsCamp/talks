@@ -1,4 +1,4 @@
-![Pixels love GitHub](https://b.pixels.camp/img/pixels_love_github.svg)
+![Pixels love GitHub](http://b.pixels.camp/img/pixels_love_github.svg)
 
 How to submit a Talk
 ========================
