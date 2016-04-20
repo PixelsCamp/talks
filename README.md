@@ -34,7 +34,7 @@ If you want to include any other files related to your presentation, like keynot
 
 ### Contact Info
 
-Make sure we have a way to contact you! Either set up your e-mail address in your GitHub profile, or include it on your proposal. If we accept your talk, we'll need a way to contact you.
+Make sure we have a way to contact you! Either set up your e-mail address in your GitHub profile, or include it on your proposal.
 
 
 What are we looking for?
