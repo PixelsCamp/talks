@@ -9,10 +9,10 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 * **Fork this repository**.
 * Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name.  
 (ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
-
 * Edit the file and fill in each section.
 * When you're ready, **submit a pull request**.
 * Anyone can comment your pull request. If your talk is accepted we will merge it.
+* Deadline for submitting talks is July 31st. After than we won't be accepting more pull requests.
 * We will respond to everyone who submits a proposal even if it's not accepted.
 
 
