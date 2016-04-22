@@ -1,7 +1,10 @@
-![Pixels love GitHub](http://b.pixels.camp/img/pixels_love_github.svg)
+[![Pixels love GitHub](http://b.pixels.camp/img/pixels_camp_loves_github.svg)](http://pixels.camp)
 
-How to submit a Talk
-========================
+
+# [Pixels Camp 2016](http://pixels.camp) Call for Talks
+
+
+## How to submit a talk
 
 Talks proposals are handled through GitHub pull requests. Follow the instructions below:
 
@@ -16,8 +19,7 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 * We will respond to everyone who submits a proposal even if it's not accepted.
 
 
-What should be in the proposal?
--------------------------------
+## What should be in the proposal?
 
 Every proposal should have, at minimum, the following information: 
 
@@ -29,19 +31,18 @@ Every proposal should have, at minimum, the following information:
 * Presentation Language
 
 
-### Related Files
+#### Related Files
 
 If you want to include any other files related to your presentation, like keynotes, code samples, videos, etc, make a directory with the same name as your presentation and put the files in there.
 
-### Contact Info
+#### Contact Info
 
 Make sure we have a way to contact you! Either set up your e-mail address in your GitHub profile, or include it on your proposal.
 
 
-What are we looking for?
-------------------------
+## What are we looking for?
 
-### Relevance
+#### Relevance
 
 Is the talk relevant for the PixelsCamp attendance? Namely, would it make sense for a bunch of nerds to sit through your talk in the context of a technological event?  
 Relevance is tricky as it doesn’t necessarily translate to geeky or codable. Sometimes interesting talks show up and aren’t even related to technology.
@@ -49,7 +50,6 @@ Relevance is tricky as it doesn’t necessarily translate to geeky or codable. S
 #### Novelty
 
 Is it old news? Has it been heavily discussed in the past? Sometimes good talks get rejected because they get old. Try to awe the attendees with some fresh insights!
-
 
 
 Thanks, the PixelsCamp Crew
