@@ -1,4 +1,4 @@
-[![Pixels love GitHub](http://b.pixels.camp/img/pixels_camp_loves_github.svg)](http://pixels.camp)
+[![Pixels love GitHub](http://pixels.camp/img/pixels_camp_loves_github.svg)](http://pixels.camp)
 
 
 # [Pixels Camp 2016](http://pixels.camp) Call for Talks
