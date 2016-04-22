@@ -12,7 +12,7 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 * Edit the file and fill in each section.
 * When you're ready, **submit a pull request** and comment using your markdown file contents.
 * Anyone can comment your pull request. If your talk is accepted we will merge it.
-* Deadline for submitting talks is July 31st. After than we won't be accepting more pull requests.
+* Deadline for submitting talks is **July 31st**. After than we won't be accepting more pull requests.
 * We will respond to everyone who submits a proposal even if it's not accepted.
 
 
@@ -26,6 +26,7 @@ Every proposal should have, at minimum, the following information:
 * Presentation Title
 * Presentation Description
 * Presentation Duration (typically 30 mins, but we're open minded)
+* Presentation Language
 
 
 ### Related Files
