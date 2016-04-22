@@ -10,7 +10,7 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 
 * Log in to **GitHub** or create an account.
 * **Fork this repository**.
-* Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name.  
+* Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/pixels_camp_talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name.  
 (ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
 * Edit the file and fill in each section.
 * When you're ready, **submit a pull request** and comment using your markdown file contents.
