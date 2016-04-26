@@ -51,5 +51,5 @@ Relevance is tricky as it doesn’t necessarily translate to geeky or codable. S
 
 Is it old news? Has it been heavily discussed in the past? Sometimes good talks get rejected because they get old. Try to awe the attendees with some fresh insights!
 
-
+<br>
 Thanks, the PixelsCamp Crew
