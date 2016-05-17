@@ -20,5 +20,6 @@ Links
 -----
 
 * Slides: https://goblindegook.github.io/developing-for-humans/
+* Blog entry: https://goblindegook.com/2016/designing-developing-for-humans
 * Blog: https://goblindegook.com
 * Github: https://github.com/goblindegook
