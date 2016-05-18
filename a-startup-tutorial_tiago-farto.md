@@ -23,4 +23,4 @@ Links
 
 * https://www.xrl.pt (I've got the domain, and an host... someday it might even have an HTTP(S) server running in there!)
 * Twitter: https://twitter.com/xernobyl (meh)
-* Github: https://github.com/xernobyl (empty)
+* Github: https://github.com/xernobyl (empty'ish)
