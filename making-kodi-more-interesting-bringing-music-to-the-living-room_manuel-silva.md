@@ -1,7 +1,7 @@
 ﻿Making KODI more interesting: bringing music to the living room
 ===============================================================
 
-* Speaker   : *Manuel Silva*
+* Speaker   : *Manuel Silva* (msilva@portolinux.net)
 * Available : *October 6th, 2pm-10pm*, *October 7th, 2pm-10pm*, *October 8th, 10am-1pm* 
 * Length    : *30 mins*
 * Language  : *English*
@@ -19,7 +19,7 @@ KODI is a pretty nice entertainment thing, specially when combined with Raspberr
 * bore our guests with the photos taken during our last vacations (and expect them to leave);
 * ...
 
-NOS Discos is a great place to get in touch with new Portuguese music for free but... who really accesses a web-site in these days? Single purpose "apps" on our set-top boxes (media centres), phones and tablets (almost) killed the general purpose browser usage. So let's bring NOS Discos to the media centre and make music available at users' will!
+NOS Discos is a great place to get in touch with new Portuguese music for free but... who really accesses a web-site nowadays? Single purpose "apps" on our set-top boxes (media centres), phones and tablets (almost) killed the general purpose browser usage. So let's bring NOS Discos to the media centre and make music available at users' will!
 
 Speaker Bio
 -----------
