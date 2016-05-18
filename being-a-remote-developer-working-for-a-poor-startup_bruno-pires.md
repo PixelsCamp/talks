@@ -1,5 +1,5 @@
 
-Being a remote developer working for a poor startup
+Being a remote developer working for a startup
 ========================
 
 * Speaker   : Bruno Pires
