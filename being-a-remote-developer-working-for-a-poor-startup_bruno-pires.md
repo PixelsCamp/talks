@@ -42,7 +42,8 @@ Reports from his colleagues and friends state that his level of annoyance and la
 Links
 -----
 
+* Home: : [webpage](http://brunopires.pt "title" target="_blank")
 * Twitter: [@brunoacpires](https://twitter.com/brunoacpires "title" target="_blank")
-* Flipboard Magazine: https://flipboard.com/@piresbruno
+* Talks & Articles: [Revista Programar](http://www.revista-programar.info/author/bpires/ "title" target="_blank") e [Comunidade Netponto](http://netponto.org/membro/bruno-pires/ "title" target="_blank") 
 * Company: http://www.safertaxi.com
 * Github: https://github.com/piresbruno
