@@ -32,7 +32,7 @@ They just care about three things: you get the job done, you are available when 
 Speaker Bio
 -----------
 
-Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated an huge ability when it comes to being lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to copy/paste and was always asking his mentors and work colleagues, why!?
+Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated an huge ability when it comes to being lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to copy/paste and is always asking his mentors and work colleagues, why!?
 
 Currently, Bruno is VP of Something @SaferTaxi, and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
 
