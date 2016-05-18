@@ -11,8 +11,6 @@ Description
 
 In this talk we will present some techniques that we use on a day to day basis in our research, where we combine our internet-wide data scanning and acquisition platform with ML/Data science techniques which allows us to find things faster or extract results in a more automated way. We will focus on practical cases and examples that even our audience at home will be able to use if they want. A couple of examples we will look at is how to classify images such as VNC screenshots, we will look at network scans and using machine learning to classify them and also the use of natural language processing to analyze CVEs. We will also talk a bit about a data analysis and classification pipeline architecture, we will look at the different technologies and what they do and how they can be used.
 
-In this talk we will present some techniques that we use on a day to day basis in our research, where we combine our internet-wide data scanning and acquisition platform with ML/Data science techniques which allows us to find things faster or extract results in a more automated way. We will focus on practical cases and examples that even our audience at home will be able to use if they want.
-
 We will start by giving a very brief entry to the data science world and talk about:
 
 * Technologies
