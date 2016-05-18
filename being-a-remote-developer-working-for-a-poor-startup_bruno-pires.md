@@ -8,16 +8,17 @@ Being a remote developer working for a poor startup
 * Language  : English
 
 
+
 Description
 -----------
 
 Nowadays with the tools, the super-fast internet and the new mindset being practiced across multiple countries, the concept of being a remote worker is changing.
 
-It's moving away from being the dream of many and the reality of a few, to a new trend, moreover in the startup world, the real one, where companies that almost no one knows, struggle to keep up with the challenges, goals, and at the same time deal with the limited availability of developers within their region, that want to work for a early stage company.
+It's moving away from being the dream of many and the reality of a few, to a new trend, moreover in the startup world, the real one, where companies that almost no one knows, struggle to keep up with the challenges, goals  and deadlines, at the same time need to deal with the limited availability of developers within their region, that want to work for a early stage company.
 
 This is not a tale about the startups you read about in TechCrunch, Wired, Mashable or see in "Silicon Valley" tv series, this is not about companies that can afford to offer 10k for a new hire to choose their desktop setup, so they can feel comfortable and happy.
 
- This is the about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things to happen, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, get an average salary with almost no benefits.
+ This is the about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things to happen without a huge team behind, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, and get an average salary with almost no benefits.
 
 These companies are looking for guys like you, yes you!!! 
 
@@ -27,12 +28,13 @@ They just care about three things: you get the job done, you are available when 
 
 ---------------
 
+
 Speaker Bio
 -----------
 
-Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated an huge ability when it comes to being lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to do copy/paste and was always asking his mentors and work colleagues, why!?
+Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated an huge ability when it comes to being lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to copy/paste and was always asking his mentors and work colleagues, why!?
 
-Currently, Bruno is VP of Something @SaferTaxi, and is lucky to work with a multi-cultural and distributed team  of lazy software developers, engineers and designers. 
+Currently, Bruno is VP of Something @SaferTaxi, and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
 
 Reports from his colleagues and friends state that his level of annoyance and laziness is increasing at an factorial rate!
 
