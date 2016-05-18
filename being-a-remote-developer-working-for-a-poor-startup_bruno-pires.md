@@ -18,7 +18,7 @@ It's moving away from being the dream of many and the reality of a few, to a new
 
 This is not a tale about the startups you read about in TechCrunch, Wired, Mashable or see in "Silicon Valley" tv series, this is not about companies that can afford to offer 10k for a new hire to choose their desktop setup, so they can feel comfortable and happy.
 
-This is about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things happen without a huge team behind him, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, get an average salary with almost no benefits.
+This is about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things happen without a huge team behind him, a jack of all trades that they can afford and that, somehow is up to the challenge and willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, get an average salary with almost no benefits.
 
 These companies are looking for developers like you, yes you!!!
 
