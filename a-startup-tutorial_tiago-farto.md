@@ -1,4 +1,4 @@
-A Startup Programming Tutorial (Or how I programmed on a startup and ultimatly lead it to doom)
+A Startup Programming Tutorial (Or how I programmed on a startup and ultimately lead it to doom)
 ===============================================================================================
 
 * Speaker   : *Tiago Farto*
