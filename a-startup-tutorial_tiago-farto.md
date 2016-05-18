@@ -1,4 +1,4 @@
-A Startup Programming Tutorial (Or how I programmed on a startup and ultimately lead it to doom)
+A Startup Programming Tutorial (Or how I programmed on a startup and ultimately led it to doom)
 ===============================================================================================
 
 * Speaker   : *Tiago Farto*
@@ -16,7 +16,7 @@ Speaker Bio
 -----------
 
 I am awesome! Because several girls on tinder said so. I'll elaborate on that later... maybe I could even submit a talk... hmm.
-Dropped out of college. Twice. Worked on that said startup, and now I am developing software for television. Yada yada yada.
+Dropped out of college. Twice. Worked on that said startup, and now I am developing software for television (TV channel, not firmware). Yada yada yada.
 
 Links
 -----
