@@ -20,7 +20,7 @@ This is not a tale about the startups you read about in TechCrunch, Wired, Masha
 
  This is about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things to happen without a huge team behind, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, and get an average salary with almost no benefits.
 
-These companies are looking for guys like you, yes you!!! 
+These companies are looking for developers like you, yes you!!! 
 
 They are don't care if you working from home, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English). 
 
