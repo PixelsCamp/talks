@@ -19,6 +19,8 @@ We will start by giving a very brief entry to the data science world and talk ab
 * Algorithms and how they can be used
 * How people can come into the world of data and machine learning
 * Data visualization techniques and what are the best choices for different types of data
+
+
 A couple of examples we will look at is how to classify images such as VNC or x11 screenshots, OCR, we will look at network scans and using machine learning to classify them and also the use of natural language processing to analyze CVEs. We will look at scoring and classification algorithms and how they can be used on ip addresses and we will talk about the use of learning and how we are applying it in real life.
 
 We will also talk a bit about a data analysis and classification pipeline architecture, we will look at the different technologies and what they do and how they can be used.
