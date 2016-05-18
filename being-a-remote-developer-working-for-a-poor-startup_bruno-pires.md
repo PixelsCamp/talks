@@ -36,7 +36,7 @@ Bruno is a Software Craftsman, College dropout who, since yearly age as demonstr
 
 Currently, Bruno is VP of Something @SaferTaxi, and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
 
-Reports from his colleagues and friends state that his level of annoyance and laziness is increasing at an factorial rate!
+Reports from his colleagues and friends state that his level of annoyance and laziness is increasing at an factorial rate of his age!
 
 
 Links
