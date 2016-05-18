@@ -43,6 +43,6 @@ Links
 -----
 
 * Twitter: [@brunoacpires](https://twitter.com/brunoacpires "title" target="_blank")
-* Blog: https://flipboard.com/@piresbruno
+* Flipboard Magazine: https://flipboard.com/@piresbruno
 * Company: http://www.safertaxi.com
 * Github: https://github.com/piresbruno2
