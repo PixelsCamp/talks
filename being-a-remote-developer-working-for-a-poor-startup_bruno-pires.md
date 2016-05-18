@@ -22,7 +22,7 @@ This is about the 99.5% of the startups you never heard about, the ones that nee
 
 These companies are looking for developers like you, yes you!!!
 
-They are don't care if you work from home/coffe/beach, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English).
+They don't care if you work from home/coffe/beach, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English).
 
 They just care about three things: you get the job done, you are available (also when $%&## hits the fan) and that you learn from your mistakes.
 
