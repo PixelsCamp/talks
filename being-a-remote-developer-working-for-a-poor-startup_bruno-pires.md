@@ -14,11 +14,11 @@ Description
 
 Nowadays with the tools, the super-fast internet and the new mindset being practiced across multiple countries, the concept of being a remote worker is changing.
 
-It's moving away from being the dream of many and the reality of a few, to a new trend, moreover in the startup world, the real one, where companies that almost no one knows, struggle to keep up with the challenges, goals  and deadlines, at the same time need to deal with the limited availability of developers within their region, that want to work for a early stage company.
+It's moving away from being the dream of many and the reality of a few, to a new trend, moreover in the startup world, the real one, where companies that almost no one knows, struggle to keep up with the challenges, goals  and deadlines, and at the same time need to deal with the limited availability of developers within their region, that want to work for a early stage company.
 
 This is not a tale about the startups you read about in TechCrunch, Wired, Mashable or see in "Silicon Valley" tv series, this is not about companies that can afford to offer 10k for a new hire to choose their desktop setup, so they can feel comfortable and happy.
 
- This is the about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things to happen without a huge team behind, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, and get an average salary with almost no benefits.
+ This is about the 99.5% of the startups you never heard about, the ones that need to hire carefully, the ones that need a developer that makes things to happen without a huge team behind, a jack of all trades that they can afford, and somehow is up to the challenge, willing to face the rollercoaster full of uncertainties that is working for an startup, work long hours and with luck, and get an average salary with almost no benefits.
 
 These companies are looking for guys like you, yes you!!! 
 
@@ -42,6 +42,7 @@ Reports from his colleagues and friends state that his level of annoyance and la
 Links
 -----
 
+* Twitter: [@brunoacpires](https://twitter.com/brunoacpires "title" target="_blank")
 * Blog: https://flipboard.com/@piresbruno
 * Company: http://www.safertaxi.com
-* Github: https://github.com/piresbruno
+* Github: https://github.com/piresbruno2
