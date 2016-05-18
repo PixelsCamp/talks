@@ -22,9 +22,9 @@ This is not a tale about the startups you read about in TechCrunch, Wired, Masha
 
 These companies are looking for developers like you, yes you!!! 
 
-They are don't care if you working from home, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English). 
+They are don't care if you work from home/coffe/beach, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English). 
 
-They just care about three things: you get the job done, you are available when $%&## hits the fan and that you learn from your mistakes.
+They just care about three things: you get the job done, you are available (also when $%&## hits the fan) and that you learn from your mistakes.
 
 ---------------
 
