@@ -41,7 +41,9 @@ Speaker Bio
 
 Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated a huge ability to be lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to copy/paste and is always asking his mentors and work colleagues, why!?
 
-Currently, Bruno is VP of Something @SaferTaxi, and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
+
+
+Currently, Bruno is [VP of Something @SaferTaxi](https://twitter.com/brunoacpires/status/475294596713680896 "title" target="_blank"), and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
 
 Reports from his colleagues and friends state that his level of annoyance and laziness is increasing at an factorial rate of his age!
 
