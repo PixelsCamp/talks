@@ -1,10 +1,10 @@
 [My Awesome Talk Title]
 ========================
 
-* Speaker   : [My Name, eg: *Celso Martinho*]
-* Available : [Dates/Times Available, eg: *October 6th, 9am-12pm*] 
-* Length    : [Length of Presentation, eg: *30 mins*]
-* Language  : [Presentation Language, eg: *English*]
+* Speaker   : Rafael Galrito
+* Available : October 6, morning (flexible schedule)
+* Length    : 30 mins  (20 talk + 10 questions)
+* Language  : English / Portuguese (wtv)
 
 Description
 -----------
@@ -17,11 +17,13 @@ Description
 Speaker Bio
 -----------
 
-I am awesome! [But elaborate why]
+I'm a free and open source enthusiast. Debian, i3, zsh, bash, and ssh is my everyday.
+22 yo, studied in Porto and Bruges. Intern in Eindhoven.
+
 
 Links
 -----
 
-* Blog: http://whereiwrite.com
-* Company: http://whereiwork.com
-* Github: http://github.com/my-github-username
+* Blog: rafaelgalrito.pt
+* Company: 
+* Github: https://github.com/rGalrito
