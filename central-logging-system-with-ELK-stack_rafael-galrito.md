@@ -1,0 +1,41 @@
+Central logging system with ELK stack
+========================
+
+* Speaker   : Rafael Galrito
+* Available : October 6 - morning (flexible schedule)
+* Length    : 30 mins  (10 talk, 10 demo + 10 questions)
+* Language  : English / Portuguese (wtv)
+
+Description
+-----------
+
+ELK stack is a highly customizable log shipping and log visualization stack. Running on AWS, Digital Ocean or self-hosted, it allows a fast and scalable iteration through stored logs / information. The ELK stack is Open Source software.
+
+[ELK Stack](https://www.elastic.co/) is composed by:
+Elastic Search (Distributed, scalable, Real-time search and analytics capabilities, RESTful API);
+Kibana (Flexible analytics and visualization platform, Real-time summary and charting of streaming data);
+Logstash (Centralize data processing of all types, Quickly extend to custom log formats, Easily add plugins for custom data sources);
+Filebeat (Lightweight data shippers for many types of data you want to enrich with Logstash).
+
+All these tools can also work as standalone.
+
+In this talk, we'll go through the entire ELK stack. Demo will focus on quickly setup ELK stack, logstash filters and data visualization.
+
+---------------
+
+Speaker Bio
+-----------
+
+I'm a free and open source enthusiast. Debian, i3, zsh, bash, and ssh is my everyday.
+22 yo, studied in Porto and Bruges. Intern in Eindhoven.
+
+Feel free to reach me on Twitter: @rGalrito
+(won't disclosure email account here)
+
+Links
+-----
+
+* Blog: http://rafaelgalrito.pt
+* Company: ...
+* Github: https://github.com/rGalrito
+* Twitter: https://twitter.com/rGalrito
