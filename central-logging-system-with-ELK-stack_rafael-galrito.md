@@ -9,9 +9,9 @@ Central logging system with ELK stack
 Description
 -----------
 
-ELK stack is a highly customizable log shipping and log visualization stack. Running on AWS, Digital Ocean or self-hosted, it allows a fast and scalable iteration through stored logs / information. The ELK stack is Open Source software.
+[ELK Stack](https://www.elastic.co/) is a highly customizable log shipping and log visualization stack. Running on AWS, Digital Ocean or self-hosted, it allows a fast and scalable iteration through stored logs / information. The ELK stack is Open Source software.
 
-[ELK Stack](https://www.elastic.co/) is composed by:
+ELK stack is composed by:
 Elastic Search (Distributed, scalable, Real-time search and analytics capabilities, RESTful API);
 Kibana (Flexible analytics and visualization platform, Real-time summary and charting of streaming data);
 Logstash (Centralize data processing of all types, Quickly extend to custom log formats, Easily add plugins for custom data sources);
@@ -19,7 +19,7 @@ Filebeat (Lightweight data shippers for many types of data you want to enrich wi
 
 All these tools can also work as standalone.
 
-In this talk, we'll go through the entire ELK stack. Demo will focus on quickly setup ELK stack, logstash filters and data visualization.
+In this talk, we'll go really fast through the entire ELK stack programs. Demo will focus on quickly setup ELK stack, logstash filters and data visualization.
 
 ---------------
 
