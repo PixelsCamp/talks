@@ -34,6 +34,8 @@ Speaker Bio
 -----------
 I like to code (.)
 
+Software Developer at Condé Nast Commerce working on style.com
+
 Links
 -----
 * Blog: http://brunex.name
