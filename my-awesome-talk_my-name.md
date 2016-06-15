@@ -24,4 +24,3 @@ Links
 
 * Blog: http://whereiwrite.com
 * Company: http://whereiwork.com
-* Github: http://github.com/my-github-username
