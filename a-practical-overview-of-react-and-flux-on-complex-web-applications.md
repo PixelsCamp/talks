@@ -1,0 +1,35 @@
+A practical overview of React and Flux on complex web applications
+========================
+
+* Speaker   : João Valente
+* Available : anytime
+* Length    : 30 minutes
+* Language  : English
+
+Description
+-----------
+
+If you have been developing rich web applications for some time, you probably love [React](https://facebook.github.io/react/) by now. This talk aims to provide a brief introduction to React and [Flux](https://facebook.github.io/flux/) and jump right away into a production use case, where things aren’t as simple as the examples you get from tutorials!
+
+Using React to build encapsulated UI components is just the tip of the iceberg.
+
+For two years now, I've been developing a large size Web application at Doist, where we juggle around with React, as well as data fetching, error handling, and local data management, all while providing a smooth and predictable user experience where the user is confident about their actions whether they succeed or fail.
+
+In the first part, we'll dive into the basic concepts of the React framework and the Flux unidirectional data flow architecture.
+
+Based on these two concepts we'll dive into production code to see how to:
+
+- Deliver data to React components from localStorage or fetch remote data if needed;
+- Handle API errors gracefully, retrying if possible, and, if not, warn the user and recover from optimistic UI updates that were made;
+- Manage data to respect the browser's localStorage limits.
+
+Speaker Bio
+-----------
+
+_wip_
+
+Links
+-----
+
+* Company: http://doist.com
+* Github: http://github.com/jvalente
