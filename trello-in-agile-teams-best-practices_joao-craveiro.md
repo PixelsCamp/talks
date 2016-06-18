@@ -1,5 +1,5 @@
-Teamwork with Trello: best practices (provisional title)
-====================================
+Trello in agile teams: best practices
+=====================================
 
 * Speaker   : João Craveiro
 * Available : 6th and 7th afternoon, 8th all-day
