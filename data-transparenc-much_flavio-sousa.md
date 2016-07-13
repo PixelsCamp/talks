@@ -23,18 +23,18 @@ Put in another way, we basically solved the UX problem and the lesson to be lear
 
 What other examples are out there? What other use cases and shifts to happen by having government institutions to release them, even if having an API at least a publicly accessible csv.
 
-
-Speaker Bio
------------
-
-Software Engineer at Style.com.
-
 Links
 -----
 
 * Melhor da Zona: [http://melhordazona.com](http://melhordazona.com)
 * Melhor da Zona Blog: [http://blog.melhordazona.com](http://blog.melhordazona.com)
 * Melhor da Zona facebbok: [https://www.facebook.com/melhordazona](https://www.facebook.com/melhordazona)
+
+Speaker Bio
+-----------
+
+Software Engineer at Style.com.
+
 
 * Github: [https://github.com/fjsousa](https://github.com/fjsousa)
 * My other Blog [datajournal.co.uk](datajournal.co.uk)
