@@ -21,7 +21,7 @@ However, the only change we introduced was data accessibility. The data was alre
 
 Put in another way, we basically solved the UX problem and the lesson to be learned is that if the data is just dumped in a location, users can't do much with it, they can't reason about it and in case like this, it's equal to not being there at all.
 
-What other examples are out there? What other use cases and shifts to happen by having government institutions to release them, even if having an API at least a publicly accessible csv.
+What other examples are out there? What other use cases and shifts can happen simply by having government institutions releasing the data.
 
 Links
 -----
@@ -37,4 +37,4 @@ Software Engineer at Style.com.
 
 
 * Github: [https://github.com/fjsousa](https://github.com/fjsousa)
-* My other Blog [datajournal.co.uk](datajournal.co.uk)
+* My other Blog [http://datajournal.co.uk](http://datajournal.co.uk)
