@@ -25,8 +25,11 @@ Speaker Bio
 -----------
 
 I am awesome! Well, at least the Pixels Camp template says I am... In fact I'm just a boring geek guy when I am with non-geek friends and a boring music-lover when I am among geeks. So how did it start? Well, during my early years my favourite toys were electrical cables, damaged toasters, radios... Then a computer came to my life when I was 9 and my parents realised they ruined my childhood. I spent hours and hours exploring and thinking how could I do something with that boxy beige thing. My first big project was a newspaper and it was inspired by a car-crash my mother had.
+
 When I was 14, me and a friend were doing our very first software piece for real usage! It was written in Clipper and it helped to manage a daycare centre.
+
 I went to college in the technological branch of science studies where I met a new reality: the Internet! Once again, I just didn't feel right as a spectator - I had to develop things for this new media. I found myself studying Perl to help me to generate some static HTML files. I then reinvented it to run as a CGI on the server-side. Later on I did Erasmus in Glasgow developing in Python and PgSQL.
+
 Shortly after finishing my studies, I co-founded Porto Linux community. I still don't feel right as a mere spectator.
 
 Links
