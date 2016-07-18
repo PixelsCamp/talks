@@ -1,7 +1,7 @@
 OOZ2Mars Rover - Making of
 ==========================
 
-* Speaker   : Luís Correia (optionally Basílio Vieira and Nuno Correia)
+* Speaker   : Luís Correia (optionally Basílio Vieira and Nuno Correia for moral support)
 * Available : all dates 
 * Length    : (at least) 30 mins
 * Language  : Portuguese
