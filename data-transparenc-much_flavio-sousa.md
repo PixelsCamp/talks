@@ -1,4 +1,4 @@
-Data Transparency much?
+Melhor da Zona or: How I Learned to Stop Worrying and Love Data Transparency
 ========================
 
 * Speaker   : Flávio Sousa
