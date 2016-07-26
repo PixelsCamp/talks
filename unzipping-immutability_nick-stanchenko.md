@@ -1,10 +1,10 @@
-[Unzipping Immutability]
+Unzipping Immutability
 ========================
 
-* Speaker   : [Nick Stanchenko]
-* Available : [Any time] 
-* Length    : [30–40 minutes]
-* Language  : [English]
+* Speaker   : Nick Stanchenko
+* Available : Any time
+* Length    : 30–40 minutes
+* Language  : English
 
 Description
 -----------
