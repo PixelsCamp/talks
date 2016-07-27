@@ -35,5 +35,5 @@ Links
 -----
 
 * **Blog:** http://antonioalegria.com (*deprecated*)
-* **Company:** http://feedzai.com.com
+* **Company:** http://feedzai.com
 * **Github:** http://github.com/antonioalegria
