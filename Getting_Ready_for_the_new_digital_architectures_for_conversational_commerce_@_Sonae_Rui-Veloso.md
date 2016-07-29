@@ -1,4 +1,4 @@
-[My Awesome Talk Title]
+Getting Ready for the new digital architectures for conversational commerce @ Sonae
 ========================
 
 * Speaker   : Rui Veloso
