@@ -24,7 +24,7 @@ Speaker Bio
 -----------
 I'm an Italian-Portuguese Software Developer (wanna be Engineer) who loves to build new concepts and things while always grounding my creations in Computer Science and academia. I strongly believe the software industry and academia have become too further apart and I'm on a mission to marry them!
 
-Lately I've been greatly tangled in the Elixir and Erlang ecosystem and have been doing my best to spread the word about it here in Lisbon. Other interests of mine have been Software Architecture, Cloud Computing and parallel and concurrent programming. Also I'm finishing my Master's this year while working at S21sec.
+Lately I've been greatly tangled in the Elixir and Erlang ecosystem (I'm part of the staff of the official [Elixir Forum](http://elixirforum.com)) and have been doing my best to spread the word about it here in Lisbon. Other interests of mine have been Software Architecture, Cloud Computing and parallel and concurrent programming. Also I'm finishing my Master's this year while working at S21sec.
 
 Outside of software development I'm a music aficionado (specially by Progressive Music) and weightlifting enthusiast. If you wanna discuss music or lift some weights please holla at me anytime!
 
