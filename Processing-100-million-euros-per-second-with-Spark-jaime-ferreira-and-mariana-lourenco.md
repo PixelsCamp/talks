@@ -3,7 +3,7 @@ Processing 100 million euros per second with Spark to detect credit card data br
 
 * Speaker   : Jaime Ferreira and Mariana Lourenço
 * Available : 6-7 October, any time 
-* Length    : 20 Mins
+* Length    : 20-30 Mins
 * Language  : English
 
 Description
