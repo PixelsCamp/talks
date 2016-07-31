@@ -9,7 +9,7 @@ Why we need more women in Tech?
 Description
 -----------
 
-The answer to this question is simple: diverse teams are more effective teams. Teams with gender diversity have been proven to be more creative, productive and innovative. Yet, the number of women pursuing a career path in technological industries is significantly lower than men and, as if that were not enough, it is estimated that half the women who enter the technology field leave over time. What are the reasons behind this gender­gap? What can we do to reverse this? 
+The answer to this question is simple: diverse teams are more effective teams. Teams with gender diversity have proved to be more creative, productive and innovative. Yet, the number of women pursuing a career path in technological industries is significantly lower than men and, as if that were not enough, it is estimated that half the women who enter the technology field leave over time. What are the reasons behind this gender­gap? What can we do to reverse this? 
 
 Around the world, several programs emerged focused on women. Programs, such as Rails Girls, Rails Girls Summer of Code, Women in Tech, Women Techmakers and Lean In, aim to invigorate the women working in tech and amplify their voices. But is that enough?
 
