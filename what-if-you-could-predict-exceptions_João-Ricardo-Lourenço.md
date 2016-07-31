@@ -31,3 +31,4 @@ Links
 -----
 
 * Github: http://github.com/Jorl17
+* Contact: jorl17.8@gmail.com
