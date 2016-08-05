@@ -1,4 +1,4 @@
-Let Docker help you to build better software
+Let Docker help you build better software
 ========================
 
 * Speaker   : Katarzyna Kittel
