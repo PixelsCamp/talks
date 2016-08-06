@@ -6,7 +6,7 @@ Minecraft in College
 * Length    : around 30 min 
 * Language  : Portuguese or English (if needed)
 
- Description
+Description
 -----------
 
 Minecraft is a game developed by Markus Persson (or "Notch") and it's a voxel's sandbox. When I first saw the game, I thought that this was a good thing for kids to play and increase the barriers of their own imagination. It was a very different game and it open doors for a bunch of things. Small computers with some kb of RAM, data storage, logic and arithmetics. But, after some time, I saw that this was just a part of it: there was a programming part.
