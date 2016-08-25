@@ -12,9 +12,14 @@ Description
 Do you know what Ansible is? Do you want to? Do you feel like your `dotfiles`
 repo is too messy and confusing? Then this talk is for you!
 
-In this talk, you'll learn how to use Ansible for setting up your development
-environment, and also to ansible anything up, like any of your projects or
-anything that you want.
+I will be showing you how I setup my develpment tools using Ansible to make
+it super simple to get a new laptop and start feeling like home again.
+
+This is a talk targetted at beginners in Ansible, among other things, you'll learn:
+- What is Ansible
+- When/How to use Ansible
+- Why you should care about Ansible
+- How to organize your dotfiles using Ansible :shipit:
 
 ---------------
 
