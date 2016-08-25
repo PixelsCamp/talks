@@ -14,9 +14,11 @@ Trello is a very flexible productivity tool, with a wide range of application sc
 Speaker Bio
 -----------
 
-I am a software engineer turned pro??ct manager at Premium Minds. I've joined Premium Minds in 2014, developing J2EE-based backend solutions, and I've gradually embraced agile project/product management duties. I like to think of myself as a product-inclined software engineer turned into a development-conscious project/product manager.
+Although there are titles attached to the things I do at a given moment, I have a hard time attributing one short designation to me as a professional. I love solving real problems of real people using computer technology as a means to it — be it by coding, by gathering requirements, by managing a project, by helping other people be more efficient, or by simply spreading knowledge.
 
-Before that? Well, a lot. From old to new, I've worked at a computer store, done web development, blogged, written tech pieces for a newspaper supplement, researched on embedded and real-time systems, wrote two theses and over a dozen papers, and taught subjects such as embedded systems, operating systems, computer architecture, computer networks and object-oriented programming.
+I'm currently (since 2014) with Premium Minds, where I've been through the duties of developer, pro[du|je]ct manager, and agile coach. I'm also a professor at Universidade Lusófona (since 2013), where I lecture on computer architectures and on computer networks.
+
+Before that? Well, a lot. From old to new, I've worked at a computer store, done web development, written tech pieces for a newspaper supplement, researched on embedded and real-time systems, wrote two theses and over a dozen papers, and been a teaching assistant at U. Lisbon for embedded systems, operating systems, computer architecture, and object-oriented programming courses.
 
 Links
 -----
