@@ -1,4 +1,4 @@
-Web Security 101 - Things that can make the difference.
+Web Security 101 - Things that can make a difference.
 ========================
 
 * Speaker   : Renato Rodrigues
