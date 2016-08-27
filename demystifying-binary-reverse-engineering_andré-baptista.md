@@ -1,4 +1,4 @@
-[Demystifying Binary Reverse Engineering]
+Demystifying Binary Reverse Engineering
 ========================
 
 * Speaker   : André Baptista
