@@ -21,6 +21,8 @@ I'm proposing a 70-30% theoretical/practical talk about how GraphQL is shaping w
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/1144866?v=3&s=400)
+
 I'm a software engineer, experienced in the embedded and web worlds, passionate about technology and entrepreneurship. IST alumni.
 
 Currently working at meta-icg, Portugal, as a Lead Developer, creating a new crazy product. Shhhh, it's still a bit of a secret! :)
@@ -36,3 +38,4 @@ Links
 
 * Github: http://github.com/jcmfernandes
 * email: jfernandes _be_smart_ meta-icg.com
+
