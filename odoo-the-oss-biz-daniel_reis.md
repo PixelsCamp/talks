@@ -50,6 +50,8 @@ possible component to implementation of their business idea*.
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars1.githubusercontent.com/u/1246629?v=3&s=400)
+
 Daniel is an open source enthusiast, actively engaged in the Odoo
 Community. Is a member of the Odoo Community Association (OCA),
 and the representative for the Project & Service Steering Commitee and
@@ -78,17 +80,11 @@ Links
 * Github: http://github.com/dreispt
 * email: dgreis at sapo dot pt
 
-
 Some previous talks:
 
-* ["Desafios para um ERP em Código
-  Aberto"](https://www.youtube.com/watch?v=SUC8kYURRdk), Evento Linux
-  2015
-* ["Bending the Odoo Learning
-  Curve"](http://www.slideshare.net/dreispt/bending-the-odoo-learning-curve-odoo-experience-2015), Odoo Experience 2015
-* ["Service Management with
-  Odoo/OpenERP"](http://www.slideshare.net/dreispt/service-management-with-odooopenerpopendays2014danielreis),
-  Odoo Days 2014
-* ["Using the `pip` package manager for
-  Odoo"](http://www.slideshare.net/dreispt/pip-installation-opendays2014danielreis),
-  Odoo Days 2014
+* ["Desafios para um ERP em Código Aberto"](https://www.youtube.com/watch?v=SUC8kYURRdk), Evento Linux 2015
+* ["Bending the Odoo Learning Curve"](http://www.slideshare.net/dreispt/bending-the-odoo-learning-curve-odoo-experience-2015), Odoo Experience 2015
+* ["Service Management with Odoo/OpenERP"](http://www.slideshare.net/dreispt/service-management-with-odooopenerpopendays2014danielreis), Odoo Days 2014
+* ["Using the `pip` package manager for Odoo"](http://www.slideshare.net/dreispt/pip-installation-opendays2014danielreis), Odoo Days 2014
+
+Click [here][1] to see the full calendar and pick your favorite talks
