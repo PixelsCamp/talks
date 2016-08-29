@@ -2,7 +2,6 @@ Pushing React Further
 =====================
 
 * Speaker   : *João Neves*
-* Available : *Any time* 
 * Length    : *30 mins*
 * Language  : *English*
 
@@ -22,6 +21,8 @@ Expect to see the highlights of this 2-year journey and leave with some takeaway
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars2.githubusercontent.com/u/693294?v=3&s=400)
+
 I am passionate about technology and love Software development.
 I enjoy spending some of my spare time working on software projects and exploring and learning state-of-the-art technologies. 
 When I'm not in front of a computer screen I like to drive, travel and record videos with my quadcopter.
@@ -37,3 +38,5 @@ Links
 * Company: https://www.outsystems.com
 * Github: http://github.com/joaompneves
 * Twitter: https://twitter.com/joaomiguelneves
+
+Click [here][1] to see the full calendar and pick your favorite talks
