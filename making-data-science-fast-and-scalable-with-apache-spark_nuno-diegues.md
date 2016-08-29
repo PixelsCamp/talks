@@ -2,7 +2,6 @@ Making Data Science Fast and Scalable with Apache Spark
 ========================
 
 * Speaker   : Nuno Diegues
-* Available : Any time
 * Length    : 30 mins
 * Language  : English
 
@@ -16,10 +15,11 @@ In this talk we will tell you all about our Spark deployment and how we use it t
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/889015?v=3&s=400)
+
 I am a Software Engineer at Feedzai, working with both real-time systems to process data really fast and help our clients detect patterns in it (say, fraud detection), as well as processing large amounts of data in off-line jobs for Data Science pipelines. Of course this means working with lots of interesting technology and getting various types of distributed systems work in practice.
 Before this, I obtained a Ph.D. degree from Instituto Superior Tecnico (hopefully this will be official by October!), working also with distributed systems and making them faster, yet simpler to use.
-
-
 
 Links
 -----
@@ -27,3 +27,5 @@ Links
 * Site: http://www.nunodiegues.com/
 * Company: http://www.feedzai.com
 * Github: http://github.com/nmldiegues
+
+Click [here][1] to see the full calendar and pick your favorite talks
