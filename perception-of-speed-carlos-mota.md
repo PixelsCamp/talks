@@ -2,7 +2,6 @@ Perception Of Speed
 ========================
 
 * Speaker   : Carlos Mota
-* Available : October 6th-8th (preferable after a bucket of coffee if it's in the morning)
 * Length    : 30 to 45mins
 * Language  : English
 
@@ -25,6 +24,8 @@ Yes. Time is relative and we want the users to feel that every action is as resp
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars0.githubusercontent.com/u/478962?v=3&s=400)
+
 Hello human,
 
 I'm a strong believer that... HAL didn't do anything to harm Dave, he(?) was truly preoccupied with his friend safety. Also the answer to life, the universe and everything seems to (still) be 42.
@@ -40,3 +41,7 @@ Links
 * Github: http://github.com/cmota
 * Twitter: http://twitter.com/cafonsomota
 * LinkedIn: http://linkedin.com/in/cafonsomota
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
