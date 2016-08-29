@@ -15,7 +15,7 @@ This talk intends to shed some light into nginx's (somewhat) advanced configurat
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
+![Speaker Image](https://avatars2.githubusercontent.com/u/937276?v=3&s=400)
 
 For the past 13 years I've been a systems administrator and a software developer, both in the academic and corporate worlds, working with proprietary and open-source technologies on meaningless and critical systems (and applications) with various degrees of complexity and scale. I've run with scissors and broken things in production.
 
