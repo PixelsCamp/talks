@@ -2,7 +2,6 @@ Why teach your young padawans how to code - redux
 =================================================
 
 * Speaker   : Marco Amado
-* Available : Anytime of the 3 days
 * Length    : 25-40 minutes
 * Language  : Portuguese, unless there's at least one non-portuguese-speaking attendee, in which case, English
 
@@ -24,6 +23,8 @@ It'll have two parts:
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars2.githubusercontent.com/u/1004528?v=3&s=400)
+
 I've been a professional developer for ten years now, ranging from web (both frontend and backend) to desktop and mobile applications.
 
 I have two daughters, aged 12 and 5, and that pretty much qualifies me to give this talk; or to give Zen workshops; or the "Top ten reasons why Frozen is much deeper than it seems on the surface" talk. You pick.
@@ -37,3 +38,7 @@ Links
 * Company: https://www.moloni.com
 * Github: https://github.com/mjamado
 * Twitter: https://twitter.com/mjamado
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
