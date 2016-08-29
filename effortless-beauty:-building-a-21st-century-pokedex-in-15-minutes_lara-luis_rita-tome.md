@@ -2,7 +2,7 @@ Effortless beauty: building a 21st century Pokedex in 15 minutes
 ========================
 
 * Speaker   : Lara Luís and Rita Tomé
-* Available : Any time
+* Available : October 6th and 7th all day
 * Length    : ~45 minutes
 * Language  : Portuguese
 
