@@ -1,4 +1,4 @@
-Micro services For the Win
+Microservices For the Win
 ========================
 
 * Speaker   : Nelson Gomes
