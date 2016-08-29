@@ -1,4 +1,4 @@
-[I for one welcome our new Cyber Overlords! An introduction to the use of machine learning in cybersecurity]
+I for one welcome our new Cyber Overlords! An introduction to the use of machine learning in cybersecurity
 ========================
 
 * Speaker   : Tiago Balgan Henriques, Florentino Bexiga, Filipa Rodrigues, Ana Barbosa
