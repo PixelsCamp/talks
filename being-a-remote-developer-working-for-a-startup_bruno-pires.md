@@ -1,12 +1,9 @@
-
 Being a remote developer working for a startup
 ========================
 
 * Speaker   : Bruno Pires
-* Available : October 7th - 8th, 11am - 6pm
 * Length    : 30min
 * Language  : English
-
 
 
 Description
@@ -24,29 +21,22 @@ These companies are looking for developers like you, yes you!!!
 
 They don't care if you work from home/coffe/beach, that you only work from 6pm to 2am because that's when you are productive, they don't care if you are in a different time-zone and don't speak their native language (as long as you speak English).
 
-
-
-
 They just care about three things: 
 
 * you get the job done 
 * you are available (also when $%&## hits the fan) 
 * you learn from your mistakes.
 
----------------
-
-
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars1.githubusercontent.com/u/3534606?v=3&s=400)
+
 Bruno is a Software Craftsman, College dropout who, since yearly age as demonstrated a huge ability to be lazy. This laziness, together with his love about everything that involved computers, transformed him into a annoying and lazy software developer, witch hates to copy/paste and is always asking his mentors and work colleagues, why!?
-
-
 
 Currently, Bruno is [VP of Something @SaferTaxi](https://twitter.com/brunoacpires/status/475294596713680896 "title" target="_blank"), and is lucky to work with a multi-cultural and world wide distributed team of lazy software developers, engineers and designers. 
 
 Reports from his colleagues and friends state that his level of annoyance and laziness is increasing at an factorial rate of his age!
-
 
 Links
 -----
@@ -56,3 +46,7 @@ Links
 * Talks & Articles: [Revista Programar](http://www.revista-programar.info/author/bpires/ "title" target="_blank") e [Comunidade Netponto](http://netponto.org/membro/bruno-pires/ "title" target="_blank") 
 * Company: http://www.safertaxi.com
 * Github: https://github.com/piresbruno
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
