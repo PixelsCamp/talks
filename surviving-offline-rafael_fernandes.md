@@ -2,7 +2,6 @@ Surviving the offline status
 ========================
 
 * Speakers  : Rafael Fernandes and Antoni Huguet Vives
-* Available : Anytime, all of the time! 
 * Length    : 40 minutes
 * Language  : English
 
@@ -27,14 +26,16 @@ To do so, we are going to explain and demonstrate the necessary concepts to make
 
 We intend to show you how easy is to build a simple and efficient web app that can "survive" intermittent Internet connectivity without affecting user experience.
 
----------------
-
 Speakers Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/16895121?v=3&s=400)
 
 ANTONI HUGUET VIVES
 
 Antoni is a senior front-end developer focused on architecture, performance and data visualisation: he basically likes to create fast useful things that are nice to interact with! He has always demanded the same characteristic from all projects he worked with: it must provide a technical challenge. His never-ending curiosity pushes him to spend nights reading posts about the new internet standards (great fan of ES 2015 and ES2016 by the way!). He feels happy whenever he can mix these new fresh tech ingredients and bake them into lovely apps. When any of his web apps are delicious enough to satisfy consumers and pleasant for his colleagues to work with he feels one with the universe. He believe now it’s time to share all the passion and knowledge he happened to learn during those years so he recently decided to start participating in talks.
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/13440961?v=3&s=400)
 
 RAFAEL FERNANDES
 
@@ -48,4 +49,6 @@ Both Rafael and Antoni work for NonDutch, lending their expertise so that compan
 Links
 -----
 * Company: http://www.nondutch.nl
-* Github: https://github.com/AdamModus && https://github.com/MrFrontend
+* Github: https://github.com/AdamModus https://github.com/MrFrontend
+
+Click [here][1] to see the full calendar and pick your favorite talks
