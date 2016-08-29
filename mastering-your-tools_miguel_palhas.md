@@ -1,4 +1,4 @@
-# Mastering your Tools (title is a Work in Progress)
+# Mastering your Tools
 
 * Speaker: Miguel Palhas
 * Length: 30-45 minutes
