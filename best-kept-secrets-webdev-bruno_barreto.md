@@ -2,7 +2,6 @@
 ========================
 
 *  Speaker : Bruno Barreto
-*  Available : any day/hour
 *  Length : 45 min
 *  Language : English/Portuguese as the attendees prefer...
 
@@ -32,6 +31,9 @@ So bring your laptops and don't be afraid of some (parenthesis (ftw!))
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/208790?v=3&s=400)
+
 I like to code (.)
 
 Software Developer at Condé Nast Commerce working on style.com
@@ -41,3 +43,5 @@ Links
 * Blog: http://brunex.name
 * Company: http://beta.style.com
 * Github: http://github.com/necker
+
+Click [here][1] to see the full calendar and pick your favorite talks

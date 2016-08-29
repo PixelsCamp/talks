@@ -2,7 +2,6 @@ Odoo - The Open Source Business Apps Platform For The 21st Century
 ==================================================================
 
 * Speaker   : Daniel Reis
-* Available : October 8th, any hour
 * Length    : 30 mins should be fine
 
 

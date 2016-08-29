@@ -2,7 +2,6 @@ An user experience using Tor
 ========================
 
 * Speaker   : Pedro Frazão
-* Available : October 6th, 7th and 8th
 * Length    : 30 mins
 * Language  : English
 

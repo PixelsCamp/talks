@@ -2,7 +2,6 @@ GraphQL to the rescue!
 ========================
 
 * Speaker   : João Fernandes
-* Available : October 6th, 7th and 8th
 * Length    : 30 mins
 * Language  : English
 

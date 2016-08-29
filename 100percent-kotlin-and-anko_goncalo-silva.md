@@ -2,7 +2,6 @@
 ========================
 
 * Speaker    : Gonçalo Silva
-* Available  : All day, every day
 * Length      : 30 mins
 * Language : English
 
