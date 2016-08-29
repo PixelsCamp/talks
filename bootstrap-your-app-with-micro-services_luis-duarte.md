@@ -1,8 +1,7 @@
-[Bootstrap your app using Microservices]
+Bootstrap your app using Microservices
 ========================
 
 * Speaker   : Luís Duarte
-* Available : October 7th and 8th
 * Length    : 30-45 mins
 * Language  : English
 
@@ -20,11 +19,12 @@ Overview:
 	- Integrate Spring Boot with Consul.
 	- Configure Local API Gateway (Kong) to act as reverse proxy.
 
----------------
 If there is time left, i'll demonstrate how to deploy the components to Amazon ECS (Elastic Container Service), replacing Kong with Amazon's API Gateway, which will most likely be the provider being used for the App Hosting.
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/1164534?v=3&s=400)
 
 A Sofware Engineer with 2 years of experience as Sys Admin and 5 years of experience as a Developer. I consider myself a "techie" that loves to keep up to date with latest trends in Software Architecture.
 
@@ -36,3 +36,7 @@ Links
 * Blog: http://www.luisduarte.net
 * Github: http://github.com/driverpt
 * LinkedIn: https://pt.linkedin.com/in/driverpt
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
