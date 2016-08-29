@@ -2,7 +2,6 @@ Hungry for innovation
 ========================
 
 * Speaker   : Ivo Jesus
-* Available : Oct 6th and 7th
 * Length    : 10-15 min
 * Language  : English
 
@@ -14,6 +13,8 @@ This is a story about cakes and geeks. Everyday a "cake trolley" full of croissa
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
+
 Ivo Jesus is a guy who thinks he is a software engineer but in fact is just a random nerd.
 His tool of choice is Ruby but can cope with everything (except COBOL!)
 Father of two, bike owner (and scarred for life because of it).
@@ -24,3 +25,7 @@ Links
 * Company: [http://equalexperts.com](http://equalexperts.com)
 * Github: [http://github.com/LynxEyes](http://github.com/LynxEyes)
 * Twitter: [http://twitter.com/Lynx_Eyes](http://twitter.com/Lynx_Eyes)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
