@@ -2,7 +2,6 @@ High Performance Front-End Development With React+Redux
 =======================================================
 
 * Speaker   : Hugo Daniel
-* Available : October 6th, 7th and 8th
 * Length    : 45 mins
 * Language  : English
 
@@ -26,6 +25,8 @@ Join the trenches if any of these interest you :D
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/95355?v=3&s=400)
+
 I am a code enthusiast that enjoys elegant approaches to hard problems.
 
 Recently I was the web developer of a ad:tech company and focused my efforts on real-time dashboard analytics.
@@ -38,3 +39,6 @@ Links
 * Blog: http://www.hugodaniel.pt
 * Github: https://github.com/HugoDaniel
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
