@@ -2,7 +2,7 @@ ES2015: my favourite parts
 ========================
 
 * Speaker   : Andre Duarte
-* Length    : ideally 60 mins; can reduce scope to 30 min, but will have to cut on some of my favourites
+* Length    : 60 mins
 * Language  : English
 
 Description
