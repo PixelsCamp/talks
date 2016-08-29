@@ -6,8 +6,6 @@
 * Length      : 30 mins
 * Language : English
 
-
-
 Description
 -----------
 
@@ -19,16 +17,12 @@ The new Todoist for Android Wear, [previewed at Google I/O's keynote](https://ww
 
 This talk will walk you through some of the highlights of going all in with Kotlin and Anko. The meatiest of meats. Enough of code samples — let's see how these behave when developing for millions.
 
-
-
----------------
-
-
 Speaker Bio
 -----------
 
-Gonçalo is passionate about building products. Developing an idea and turning it into reality ticks all the right boxes for him. Currently, Head of Android and Product Designer at [Doist](http://doist.io).
+![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
 
+Gonçalo is passionate about building products. Developing an idea and turning it into reality ticks all the right boxes for him. Currently, Head of Android and Product Designer at [Doist](http://doist.io).
 
 Links
 -----
