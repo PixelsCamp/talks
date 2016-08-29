@@ -1,7 +1,7 @@
-Micro services For the Win========================
+Micro services For the Win
+========================
 
 * Speaker   : Nelson Gomes
-* Available : October 7th and 8th 
 * Length    : 30 to 60 minutes depending of available slots
 * Language  : English
 
@@ -23,10 +23,10 @@ Overview:
 * Circuit breakers and resource management;
 * Distributed processing and redundancy;
  
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/1128772?v=3&s=400)
 
 With 16 years of experience on IT, several of them working with open source technologies and projects, I developed a good knowledge of IoT, and on system architechure. 
 
@@ -40,12 +40,10 @@ Part of Codebits Programming Contest 2010 8th place winning team.
 
 ITIL Foundation V3 certified, Zend Certified Engineer, Linux LPIC-1 certified
 
-Links
------
-
-* Linkedin: https://pt.linkedin.com/in/nelsonricardogomes
-
 Contact
 -------
 
-nelson.ricardo.gomes@gmail.com
+* Linkedin: https://pt.linkedin.com/in/nelsonricardogomes
+* Github: https://github.com/nelsongomes
+
+Click [here][1] to see the full calendar and pick your favorite talks
