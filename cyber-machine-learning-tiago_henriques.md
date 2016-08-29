@@ -32,39 +32,32 @@ https://blog.binaryedge.io/2015/09/30/vnc-image-analysis-and-data-science/
 
 https://blog.binaryedge.io/2015/08/10/data-technologies-and-security-part-1/ 
 
----------------
 Speaker Bio
 -----------
 
 Tiago, Filipa, Ana and Florentino swim in data every single day. From looking at what people are downloading to how they are exposing themselves, we LOVE DATA!
 
-<p style="text-align: center;">
-<img src="https://dl.dropboxusercontent.com/s/trp23b8i0r9r22u/Tiago%20Balgan.png?dl=0" width=80x>
-</p>
+![Speaker Image](https://dl.dropboxusercontent.com/s/trp23b8i0r9r22u/Tiago%20Balgan.png?dl=0)
 
-Tiago is the CEO and Data necromancer at BinaryEdge however he gets to meddle in the intersection of data science and cybersecurity by providing his team with lovely problems that they solve on a daily basis.
+Tiago Henriques is the CEO and Data necromancer at BinaryEdge however he gets to meddle in the intersection of data science and cybersecurity by providing his team with lovely problems that they solve on a daily basis.
 
-<p style="text-align: center;">
-<img src="https://dl.dropboxusercontent.com/s/53ussxkirux8i1i/Filipa.png?dl=0" width=80x>
-</p>
+![Speaker Image](https://dl.dropboxusercontent.com/s/53ussxkirux8i1i/Filipa.png?dl=0)
 
 Filipa is the Data Diva at BinaryEdge, she dances the macarena with numbers to get them to tell her all their dirty secret.
 
-<p style="text-align: center;">
-<img src="https://dl.dropboxusercontent.com/s/mgkojm17ennio8j/Florentino.png?dl=0" width=80x>
-</p>
+![Speaker Image](https://dl.dropboxusercontent.com/s/mgkojm17ennio8j/Florentino.png?dl=0)
 
-Florentino is the Data MacGyver at BinaryEdge, on a daily basis he needs to deploy infrastructure used to analyse big and realtime data.When not doing that he can be found creating models to analyse data,give me an orange, i'll give you a skynet. Why an orange you ask? I'm hungry and like oranges, there!
+Florentino Bexiga is the Data MacGyver at BinaryEdge, on a daily basis he needs to deploy infrastructure used to analyse big and realtime data.When not doing that he can be found creating models to analyse data,give me an orange, i'll give you a skynet. Why an orange you ask? I'm hungry and like oranges, there!
 
-<p style="text-align: center;">
-<img src="https://dl.dropboxusercontent.com/s/ntjwvmtbtgnm5rc/Ana.png?dl=0" width=80x>
-</p>
+![Speaker Image](https://dl.dropboxusercontent.com/s/ntjwvmtbtgnm5rc/Ana.png?dl=0)
 
-Ana is the Data Ferret at BinaryEdge. She is small and hides between the 110th and 111th characters of the ascii code to see and show data in that unique perspective of someone who can’t reach the box of cookies stored on top of the capitol 'I'
+Ana Barbosa is the Data Ferret at BinaryEdge. She is small and hides between the 110th and 111th characters of the ascii code to see and show data in that unique perspective of someone who can’t reach the box of cookies stored on top of the capitol 'I'
 
 Links
 -----
 
 * Blog: https://blog.binaryedge.io
 * Company: https://binaryedge.io
-* Github: https://github.com/balgan https://github.com/binaryedge https://github.com/frbexiga https://github.com/filipacsr
+* Github: https://github.com/balgan https://github.com/binaryedge https://github.com/fbexiga https://github.com/filipacsr https://github.com/anabarbosaBE
+
+
