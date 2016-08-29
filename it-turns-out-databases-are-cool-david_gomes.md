@@ -2,7 +2,6 @@ It Turns Out Databases Are Cool
 ===============================
 
 * Speaker   : David Gomes
-* Available : Any Time
 * Length    : 30 mins
 * Language  : English, but I can do Portuguese if _everyone_ in the audience at the time prefers it
 
@@ -19,6 +18,9 @@ tl;dr: Whether you're really into databases or just use them because you have to
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/741621?v=3&s=400)
+
 Software Engineer who studied Software Engineering at the University of Coimbra and is
 currently working for MemSQL in San Francisco.
 
@@ -28,3 +30,5 @@ Links
 * Blog: http://davidgom.es
 * Company: http://memsql.com
 * Github: http://github.com/davidgomes
+
+Click [here][1] to see the full calendar and pick your favorite talks
