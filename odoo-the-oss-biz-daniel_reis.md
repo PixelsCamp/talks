@@ -87,3 +87,5 @@ Some previous talks:
 * ["Using the `pip` package manager for Odoo"](http://www.slideshare.net/dreispt/pip-installation-opendays2014danielreis), Odoo Days 2014
 
 Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

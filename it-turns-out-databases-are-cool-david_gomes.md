@@ -32,3 +32,5 @@ Links
 * Github: http://github.com/davidgomes
 
 Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

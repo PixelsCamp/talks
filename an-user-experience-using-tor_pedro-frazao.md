@@ -37,3 +37,5 @@ Links
 * Github: http://github.com/pedrofrazao/
 
 Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

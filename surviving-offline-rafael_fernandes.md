@@ -52,3 +52,5 @@ Links
 * Github: https://github.com/AdamModus https://github.com/MrFrontend
 
 Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

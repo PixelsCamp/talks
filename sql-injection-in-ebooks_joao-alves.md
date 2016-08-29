@@ -29,3 +29,5 @@ Links
 * Twitter: https://twitter.com/jpralves
 
 Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

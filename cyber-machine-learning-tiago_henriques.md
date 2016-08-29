@@ -59,4 +59,6 @@ Links
 * Company: https://binaryedge.io
 * Github: https://github.com/balgan https://github.com/binaryedge https://github.com/fbexiga https://github.com/filipacsr https://github.com/anabarbosaBE
 
+Click [here][1] to see the full calendar and pick your favorite talks
 
+[1]: https://pixels.camp/schedule/
