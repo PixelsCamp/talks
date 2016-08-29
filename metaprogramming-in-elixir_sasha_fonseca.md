@@ -2,7 +2,6 @@ Metaprogramming with Elixir
 ========================
 
 * Speaker   : *Sasha Fonseca*
-* Available : *all day, everyday*
 * Length    : *30-35min*
 * Language  : *English* or *Portuguese*
 
@@ -19,9 +18,11 @@ In this talk I will give an introduction to metaprogramming with Elixir, demysti
 
 Prior knowledge of Elixir is not required for this talk.
 
----------------
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/3422400?v=3&s=400)
+
 I'm an Italian-Portuguese Software Developer (wanna be Engineer) who loves to build new concepts and things while always grounding my creations in Computer Science and academia. I strongly believe the software industry and academia have become too further apart and I'm on a mission to marry them!
 
 Lately I've been greatly tangled in the Elixir and Erlang ecosystem (I'm part of the staff of the official [Elixir Forum](http://elixirforum.com)) and have been doing my best to spread the word about it here in Lisbon. Other interests of mine have been Software Architecture, Cloud Computing and parallel and concurrent programming. Also I'm finishing my Master's this year while working at S21sec.
@@ -33,3 +34,7 @@ Links
 * Company: https://s21sec.com
 * Github: http://github.com/sashaafm
 * Email: sashaafm arroba gmail ponto com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
