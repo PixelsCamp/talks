@@ -2,7 +2,6 @@ ES2015: my favourite parts
 ========================
 
 * Speaker   : Andre Duarte
-* Available : any day/hour
 * Length    : ideally 60 mins; can reduce scope to 30 min, but will have to cut on some of my favourites
 * Language  : English
 
@@ -16,6 +15,8 @@ My aim is to present you my favourite parts and show you how to easily fall back
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars0.githubusercontent.com/u/3946510?v=3&s=400)
+
 I’m a software engineer. I love the web. I prefer the browser. Currently working at Betfair, for the past years I’ve been part of a team of amazing engineers, also known as blippers, who are trying to build some amazing web apps. 
 
 Links
@@ -24,3 +25,7 @@ Links
 * Blog: https://andreduarte.info/
 * Company: http://www.blip.pt/
 * Github: https://github.com/onemanclapping/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
