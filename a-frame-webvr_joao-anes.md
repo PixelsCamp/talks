@@ -10,7 +10,7 @@ Description
 
 [WebVR](https://webvr.info/) is a cool idea, but it faces an uncertain future. Development is messy. Want to draw a simple box with your face as its texture? Sure, all you have to do is set up the render loop boilerplate, initialize all your renderers and cameras, setup lights, setup event listeners for resize, setup stereoscopy for that sweet WebVR support... What if it was simpler?
 
-Enter [a-frame](https://aframe.io), a framework, developed by the [MozVR team](https://mozvr.com/) @ Mozilla, that allows web designers to take the plunge into WebVR, by hiding away render complexity in simple easy-to-read DOM markup, using an entity-component-system, built to leverage the tools we already use as webdevs. Sounds fancy right? 
+Enter [a-frame](https://aframe.io), a framework, developed by the [MozVR team](https://mozvr.com/) @ Mozilla, that allows web designers to take the plunge into WebVR by hiding away render complexity in simple easy-to-read DOM markup, using an entity-component-system built to leverage the tools we already use as webdevs. Sounds fancy right? 
 
 In this talk, we'll go through what a-frame is, how it works, and how simple it is to do things, with some live examples to boot. It'll be a-blast!
 
