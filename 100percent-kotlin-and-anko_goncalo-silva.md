@@ -30,3 +30,5 @@ Links
 * Twitter: http://twitter.com/goncalossilva
 * Github: http://github.com/goncalossilva
 * Company: http://doist.com
+*
+Click [here][1] to see the full calendar and pick your favorite talks
