@@ -1,4 +1,4 @@
-[One of the best kept secrets of web development]
+One of the best kept secrets of web development
 ========================
 
 *  Speaker : Bruno Barreto
