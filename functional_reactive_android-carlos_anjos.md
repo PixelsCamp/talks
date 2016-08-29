@@ -2,7 +2,6 @@ Functional Reactive Android (and groovy)
 ========================
 
 * Speaker   : Carlos Anjos
-* Available : Anytime
 * Length    : +- 45 mn
 * Language  : English
 
@@ -21,10 +20,10 @@ Well, it's been my platform of choice for the last 7 years, but there's no need 
 ###Groovy
 I gave it a shot a couple of months ago, and haven't looked back. I'll give several examples why you might consider it too. (note: it can be gentle, you don't have to switch everything to a completely different language all at once, so don't be shy)
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/1188378?v=3&s=400)
 
 I started as backend developer at INESC-INOV, doing platforms in Java and MySQL and squeezing every bit of performance that I could for portuguese and brazilian telcos dealing mainly with massive use of SMS.
 Than started working for SAPO and transitioned to Android, pushing the envelope with slightly obscure compilers like AspectJ
@@ -37,3 +36,7 @@ Links
 * Company: http://muzzley.com
 * Github: http://github.com/anjosc
 * LinkedIn: https://pt.linkedin.com/in/anjosc
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
