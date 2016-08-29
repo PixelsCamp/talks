@@ -13,7 +13,7 @@ This is a story about cakes and geeks. Everyday a "cake trolley" full of croissa
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
+![Speaker Image](https://avatars3.githubusercontent.com/u/773898?v=3&s=400)
 
 Ivo Jesus is a guy who thinks he is a software engineer but in fact is just a random nerd.
 His tool of choice is Ruby but can cope with everything (except COBOL!)
