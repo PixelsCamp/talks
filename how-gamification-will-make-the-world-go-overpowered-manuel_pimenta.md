@@ -2,7 +2,6 @@ How Gamification Will Make The World Go Overpowered
 ========================
 
 * Speaker   : *Manuel Pimenta*
-* Available : *October 6th, 9am-12pm; October 7th, all day; October 8th, all day* 
 * Length    : *30 mins*
 * Language  : *English or Portuguese or Both*
 
@@ -15,11 +14,10 @@ Well they've clearly never led a 20 people raid on Sunwell and witness the power
 And that's what I want to share you: the Epic Quest of a Gamification Designer, to bring that power that games have mastered, beyond the simple points, badges and leaderboards trope, to all the Muggles out there and lead them... to Victory! 
 For the Horde!!!
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/20842165?v=3&s=400)
 
 I'm a Gamification Designer at Novabase, with a background in software development, analysis and overall coding magic.
 I'm seriously passionate about using game mechanics and game design techniques to solve problems and engage people, and I've been spreading the fun in domains like eLearning, employee engagement and ideation for the last four years.
@@ -29,8 +27,13 @@ At the end of the day, I'm just a firm believer that games and gamification will
 Links
 -----
 
+* Github: https://github.com/MPimenta
 * LinkedIn: https://pt.linkedin.com/in/manuelpimenta
 * Facebook: https://www.facebook.com/lostkaleb
 * Twitter: https://twitter.com/WhiskeyJackMP
 * Slideshare: http://www.slideshare.net/lostkaleb
 * Company: http://www.novabase.pt | http://www.gameshifters.novabase.pt/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
