@@ -39,3 +39,6 @@ Links
 * Github: http://github.com/jcmfernandes
 * email: jfernandes _be_smart_ meta-icg.com
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
