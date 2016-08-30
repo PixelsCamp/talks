@@ -2,7 +2,6 @@ Developing for Humans
 =====================
 
 * Speaker   : Luís Rodrigues
-* Available : Any
 * Length    : 30 minutes
 * Language  : English
 
@@ -14,6 +13,8 @@ Think UX is a designer's job? Think again. Everybody has a responsibility to pro
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/285497?v=3&s=400)
+
 Luís Rodrigues is a web engineer with a penchant for writing and design.
 
 Links
@@ -23,3 +24,7 @@ Links
 * Blog entry: https://goblindegook.com/2016/designing-developing-for-humans
 * Blog: https://goblindegook.com
 * Github: https://github.com/goblindegook
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
