@@ -2,7 +2,6 @@ Melhor da Zona or: How I Learned to Stop Worrying and Love Data Transparency
 ========================
 
 * Speaker   : Flávio Sousa
-* Available : Any Day/Time
 * Length    : 30 mins
 * Language  : English/Portuguese
 
@@ -33,8 +32,14 @@ Links
 Speaker Bio
 -----------
 
-Software Engineer at Style.com.
+![Speaker Image](https://avatars1.githubusercontent.com/u/4125060?v=3&s=400)
 
+Software Engineer at Style.com. Skilled hacker complete with black hoodie. Likes to code.
 
 * Github: [https://github.com/fjsousa](https://github.com/fjsousa)
 * My other Blog [http://datajournal.co.uk](http://datajournal.co.uk)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
+
