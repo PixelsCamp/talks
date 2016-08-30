@@ -2,8 +2,7 @@ Running Node.js in Production using systemd
 ===========================================
 
 * Speaker   : Luke Bond
-* Available : Anytime during the conference
-* Length    : 25mins talking, not including questions. I can also make it infinitely more detailed if you want a longer one. I can also do it as a workshop (perhaps 90+mins).
+* Length    : 25mins talking, not including questions.
 * Language  : English
 
 Description
@@ -15,11 +14,10 @@ In this talk I'll show developers how easy it is to configure systemd to run you
 
 The talk will be demo-heavy, demonstrating just how easy it is to do all of this yourself from scratch.
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/3177600?v=3&s=400)
 
 I am a back-end developer working at YLD.io, a London-based software engineering consultancy, working mostly with Node.js and Docker.
 I built an open-source container-based PaaS called Paz (http://paz.sh) in Node.js, CoreOS and Docker.
@@ -32,3 +30,7 @@ Links
 * Blog: http://lukebond.ghost.io/
 * Company: https://yld.io
 * Github: http://github.com/lukebond
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
