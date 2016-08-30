@@ -18,6 +18,8 @@ After some tryes, I realize that I was learning Java in a different way that I l
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars1.githubusercontent.com/u/6806598?v=3&s=400)
+
 I'm currently studying Masters on Informatics Engineering, Intelligent Systems, that made a lot of Android Workshops to students from all ages, participated in some College's Projects (Agenda7 Coimbra), with a lot of interests in the Health Area (my thesis is on this area), Transportation Systems, Train's Photography and, of course, Minecraft.
 
 If you want to know more about me, you can check out the following links.
@@ -28,3 +30,7 @@ Links
 * Site: http://www.jtmnf.pt
 * Github: https://github.com/jtmnf
 * Minecraft Projects: https://minecraft.curseforge.com/members/jtmnf/projects
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
