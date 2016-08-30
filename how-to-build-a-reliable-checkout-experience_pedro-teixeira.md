@@ -2,7 +2,6 @@ How to Build a Reliable Checkout Experience
 ========================
 
 * Speaker   : Pedro Teixeira
-* Available : October 6th, 7th and 8th
 * Length    : 30 mins
 * Language  : English
 
@@ -17,11 +16,10 @@ HTTP has taken us far, but it's probably not the best transport to deliver compl
 
 This talk proposes an original architecture style that will sit in front of your micro-service stack and that you can attach to any existing service back-end. The author will show an implementation of this architecture pattern: a proof-of-concept application and a set of client and server open-source libraries built on top of PouchDB, and Node.js.
 
-
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/47910?v=3&s=400)
 
 Pedro is Chief Futurist at YLD. His role involves exploring new technologies that can help address customers’ issues and ensuring this knowledge is shared within YLD. Pedro first taught himself how to program on a 48K ZX Spectrum when he was only 9 years old. When he’s not saving the world from bad software design he plays guitar and drums. 
 
@@ -31,3 +29,7 @@ Links
 * Blog: http://blog.yld.io/author/pedro/
 * Company: http://yld.io
 * Github: http://github.com/pgte
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
