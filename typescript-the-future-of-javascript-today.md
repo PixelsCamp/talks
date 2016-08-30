@@ -22,7 +22,7 @@ used and developed by many people across many organizations. It's the language
 that's being used by Google's team behind Angular2. It's the language that has
 been used at Facebook to specify the ImmutableJS API.
 
-Let's get to know TypeScript, it's differences from plain JavaScript, it's
+Let's get to know TypeScript, its differences from plain JavaScript, its
 mighty advantages and why it can give you the piece of mind of strongly-typed
 languages while still letting you have all the advantages of JavaScript's
 flexibility.
