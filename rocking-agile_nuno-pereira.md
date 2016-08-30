@@ -2,9 +2,8 @@ Rocking Agile - How to do Agile in a Rock Band
 =====================
  
 * Speaker   : Nuno Pereira
-* Available : 6 and 7 October
 * Length    : 30 minutes
-* Language  : Slides in English, Spoken can be English or Portuguese, you're choice
+* Language  : English
  
 Description
 -----------
@@ -14,11 +13,16 @@ Do you believe that agile is only for IT teams? You’re wrong. I have been usin
 Speaker Bio
 -----------
  
+![Speaker Image](https://avatars2.githubusercontent.com/u/19184971?v=3&s=400)
+
 Nuno Silva Pereira is a Delivery Lead @ Equal Experts and a musician wanna be with his band "Secret Symmetry". He has worked for more that 10 years within IT and Telco's (Sapo, Portugal Telecom, Nos) and has played in several bands since his 14.
- 
  
 Links
 -----
  
  * Linkedin: https://www.linkedin.com/in/nunosilvapereira
+ * Github: https://github.com/nunoaspereira
  
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
