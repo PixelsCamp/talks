@@ -2,8 +2,7 @@ OOZ2Mars Rover - Making of
 ==========================
 
 * Speaker   : Luís Correia (optionally Basílio Vieira and Nuno Correia for moral support)
-* Available : all dates 
-* Length    : (at least) 30 mins
+* Length    : 45 mins
 * Language  : Portuguese
 
 Description
@@ -15,6 +14,9 @@ Blueprints (not really), code, mechanics and all other parts will be explained i
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/191885?v=3&s=400)
+
 Legendary bicopter/tricopter builder, member of the fine One Over Zero community, mostly known as the "lobster crew"
 Co-creator of OOZLabs, a closed maker group that essentially makes things and stuff.
 
@@ -25,3 +27,7 @@ Links
 * Company: http://labs.oneoverzero.org
 * Github: https://github.com/oozlabs / https://github.com/luisfcorreia
 * Contact: buga@loide.net
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
