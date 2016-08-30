@@ -2,7 +2,6 @@ A Startup Programming Tutorial (Or how I programmed on a startup and ultimately 
 ===============================================================================================
 
 * Speaker   : *Tiago Farto*
-* Available : *Yes?* 
 * Length    : *I'll try to keep it 30 mins*
 * Language  : *English, with a little bit of Japanese (a word)*
 
@@ -15,8 +14,9 @@ Since startups are all the rage nowadays I thought lots of people, 7, wouldn't m
 Speaker Bio
 -----------
 
-I am awesome! Because several girls on tinder said so. I'll elaborate on that later... maybe I could even submit a talk... hmm.
-Dropped out of college. Twice. Worked on that said startup, and now I am developing software for television (TV channel, not firmware). Yada yada yada.
+![Speaker Image](https://avatars0.githubusercontent.com/u/1585571?v=3&s=400)
+
+Tiago Farto joined Electrical and Computer Engineering thingy at IST; b) Dropped out; c) Tried Computer Science; d) Dropped out again; e) Joined startup as co-founder; f) ...bankrupt; g) Started working at wTVision. h) ...didn't get fired, company still has profits... something's fishy. ...and between the previously mentioned highlights I paint, rock climb, play bass, and code stuff that never sees the light of day.
 
 Links
 -----
@@ -24,3 +24,7 @@ Links
 * https://www.xrl.pt (I've got the domain, and an host... someday it might even have an HTTP(S) server running in there!)
 * Twitter: https://twitter.com/xernobyl (meh)
 * Github: https://github.com/xernobyl (empty'ish)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
