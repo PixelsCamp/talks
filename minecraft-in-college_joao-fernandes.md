@@ -2,7 +2,6 @@ Minecraft in College
 ========================
 
 * Speaker   : João Fernandes
-* Available : 3 days
 * Length    : around 30 min 
 * Language  : Portuguese or English (if needed)
 
