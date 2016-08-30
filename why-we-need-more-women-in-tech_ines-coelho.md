@@ -2,7 +2,6 @@ Why we need more women in Tech?
 ========================
 
 * Speaker   : Inês Coelho
-* Available : All days
 * Length    : 20 to 30 min 
 * Language  : English
 
@@ -18,6 +17,8 @@ The Diversity Problem affects us all, men and women, from all colours, races and
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/3616894?v=3&s=400)
+
 I'm a Biochemist and Software  Engineer, that support several initiatives that promote Diversity in Tech, Gender Equality and Women Empowerment. Currently, I'm Chair of IEEE-UC Women in Engineering affinity group and I am an [alumna](https://teams.railsgirlssummerofcode.org/teams/66) of the 2015 edition of Rails Girls Summer of Code and a [supervisor](https://teams.railsgirlssummerofcode.org/teams/205) in the current edition.  I'm also an organizer of the renewed GDG Coimbra.
 
 My biggest achievement, so far, was [being retweeted by Carrie Fisher] (https://twitter.com/ines_opcoelho/status/681725407591284736). By the way, Han shot first. And Firefly should be watched in the correct order.
@@ -27,3 +28,7 @@ Links
 
 * Blog: https://about.me/inescoelho
 * Github: https://github.com/inescoelho
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
