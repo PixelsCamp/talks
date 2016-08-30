@@ -2,7 +2,6 @@ Central logging system with ELK stack
 ========================
 
 * Speaker   : Rafael Galrito
-* Available : October 6 - morning (flexible schedule)
 * Length    : 30 mins  (10 talk, 10 demo + 10 questions)
 * Language  : English / Portuguese (wtv)
 
@@ -21,10 +20,10 @@ All these tools can also work as standalone.
 
 In this talk, we'll go really fast through the entire ELK stack programs. Demo will focus on quickly setup ELK stack, logstash filters and data visualization.
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/6261165?v=3&s=400)
 
 I'm a free and open source enthusiast. Debian, i3, zsh, bash, and ssh is my everyday.
 22 yo, studied in Porto and Bruges. Intern in Eindhoven.
@@ -36,6 +35,9 @@ Links
 -----
 
 * Blog: http://rafaelgalrito.pt
-* Company: ...
 * Github: https://github.com/rGalrito
 * Twitter: https://twitter.com/rGalrito
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
