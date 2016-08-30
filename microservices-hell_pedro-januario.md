@@ -2,7 +2,6 @@
 ========================
 
 * Speaker   : Pedro Januário
-* Available : October 6th, 7th, 8th
 * Length    : 30m (20m Talk + 10m Q&A)
 * Language  : English / Portuguese
 
@@ -18,6 +17,8 @@ I will approach some solutions to common problems and in some case most likely a
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars0.githubusercontent.com/u/477458?v=3&s=400)
+
 I am awesome! INDEED... :D [But elaborate why]
 
 Technology Evangelist at Singular, I love to explore new technologies and find solutions for problems our customers have on daily basis.
@@ -30,3 +31,7 @@ Links
 * Company: http://wearesingular.com/pj
 * Github: http://github.com/pjanuario
 * Twitter: https://twitter.com/prnjanuario
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
