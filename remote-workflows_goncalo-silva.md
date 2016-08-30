@@ -2,11 +2,8 @@ Remote workflows
 ========================
 
 * Speaker    : Gonçalo Silva
-* Available  : All day, every day
 * Length      : 30 mins
 * Language : English
-
-
 
 Description
 -----------
@@ -21,13 +18,10 @@ We are as passionate about building a great company as we are about building gre
 
 This talk will let you in on the core processes that laid the foundations to achieve this. All major lessons, good and bad, in 30 minutes. Some of them, you'll find in books. Some, in common sense. Some others, you'll find in this talk.
 
-
-
----------------
-
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
 
 Gonçalo is passionate about building products. Developing an idea and turning it into reality ticks all the right boxes for him. Currently, Head of Android and Product Designer at [Doist](http://doist.io).
 
@@ -38,3 +32,7 @@ Links
 * Twitter: http://twitter.com/goncalossilva
 * Github: http://github.com/goncalossilva
 * Company: http://doist.com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
