@@ -2,7 +2,6 @@ Unzipping Immutability
 ========================
 
 * Speaker   : Nick Stanchenko
-* Available : Any time
 * Length    : 30–40 minutes
 * Language  : English
 
@@ -23,10 +22,10 @@ Note: although the Scala language will be used as the vehicle for illustrating c
 absolutely no prior knowledge of Scala is required.
 However Scala programmers might additionally benefit from some practical approaches presented.
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/2670454?v=3&s=400)
 
 I am a Lisbon-based Scala enthusiast with background in computer science and human-computer interaction.
 Previously known in the Scala community as the creator of Macroid, a composable UI DSL for Android,
@@ -39,3 +38,7 @@ Links
 * Twitter: https://twitter.com/nickstanch
 * Company: https://feedzai.com
 * Github: http://github.com/stanch
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
