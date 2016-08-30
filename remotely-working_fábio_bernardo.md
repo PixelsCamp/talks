@@ -2,7 +2,6 @@ Remotely Working
 ========================
 
 * Speaker   : Fábio Bernardo
-* Available : Any
 * Length    : 30 mins
 * Language  : English
 
@@ -20,12 +19,11 @@ Two years ago I started working for a **100% remote development agency**. We wor
 * Anyone can work remotely?
 * What lessons did you learn during your experience that can be applied to other companies both local and remote?
 
-####The talk length:
-
-I think **20 minutes of talking** and **10 minutes of Q&A** is the best format for this topic.
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/177740?v=3&s=400)
 
 I'm an iOS developer. Did some backend Java ages ago. For the last two years I've been doing everything from project managing, leading a dev team, mentoring, backend dev, teaching, and hacking some marketing and sales. 
 
@@ -36,3 +34,7 @@ Links
 * Company: http://mokriya.com
 * Github: https://github.com/fbernardo
 * Twitter: https://twitter.com/fbbernardo
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
