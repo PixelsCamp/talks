@@ -2,8 +2,7 @@ Bad Algorithms Make Great Music
 ========================
 
 * Speaker   : António Lopes
-* Available : October 6th and 7th (all-day), would like to avoid October 8th
-* Length    : 30 mins should suffice, but some time should be accounted for comments/questions afterwards
+* Length    : 45 mins
 * Language  : English or Portuguese, I'll leave it to the audience to decide
 
 Description
@@ -15,12 +14,10 @@ To make it a bit less boring I decided to spice up the simulations by using diff
 
 This made me think if these automatically-generated pieces of music could pass as being the work of a unknown (human) artist. So I decided to put them to the test. You won't believe what happened next.
 
-
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/329746?v=3&s=400)
 
 ```java
 try{
@@ -64,3 +61,7 @@ Links
 * Blog: http://antoniolopes.info/blog/
 * Company: http://www.iscte-iul.pt/
 * Github: https://github.com/antoniolopes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
