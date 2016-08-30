@@ -1,4 +1,4 @@
-[Microservices HELL]
+Microservices HELL
 ========================
 
 * Speaker   : Pedro Januário
