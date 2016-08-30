@@ -2,7 +2,6 @@ A practical overview of React and Flux on complex web applications
 ========================
 
 * Speaker   : João Valente
-* Available : anytime
 * Length    : 30 minutes
 * Language  : English
 
@@ -26,10 +25,16 @@ Based on these two concepts we'll dive into production code to see how to:
 Speaker Bio
 -----------
 
-_wip_
+![Speaker Image](https://avatars3.githubusercontent.com/u/40036?v=3&s=460)
+
+I’m a JavaScript developer & enthusiast at Doist. I live happily in Porto where I co-founded Porto Summer of Code, the king tech event in the north.
 
 Links
 -----
 
 * Company: http://doist.com
 * Github: http://github.com/jvalente
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
