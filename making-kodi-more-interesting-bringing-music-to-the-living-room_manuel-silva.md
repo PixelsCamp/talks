@@ -1,8 +1,7 @@
 ﻿Making KODI more interesting: bringing music to the living room
 ===============================================================
 
-* Speaker   : *Manuel Silva* (msilva@portolinux.net)
-* Available : *October 6th, 2pm-10pm*, *October 7th, 2pm-10pm*, *October 8th, 10am-1pm* 
+* Speaker   : *Manuel Silva*
 * Length    : *30 mins*
 * Language  : *English*
 
@@ -11,7 +10,6 @@ Description
 
 KODI is a nice piece of software, NOS Discos is a cool site to discover new Portuguese music artists. Mixing both is just a geeky thing.
 
----------------
 KODI is a pretty nice entertainment thing, specially when combined with Raspberry Pi and an Internet connection. It is great to:
 * watch on-line videos (ARTE Concert and TED Talks are a MUST!);
 * get weather information in the morning so we can decide what (not) to wear;
@@ -23,6 +21,8 @@ NOS Discos is a great place to get in touch with new Portuguese music for free b
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/18592942?v=3&s=400)
 
 I am awesome! Well, at least the Pixels Camp template says I am... In fact I'm just a boring geek guy when I am with non-geek friends and a boring music-lover when I am among geeks. So how did it start? Well, during my early years my favourite toys were electrical cables, damaged toasters, radios... Then a computer came to my life when I was 9 and my parents realised they ruined my childhood. I spent hours and hours exploring and thinking how could I do something with that boxy beige thing. My first big project was a newspaper and it was inspired by a car-crash my mother had.
 
@@ -37,3 +37,7 @@ Links
 
 * Company: http://portolinux.org/
 * Github: http://github.com/mnsilva
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
