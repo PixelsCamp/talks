@@ -14,11 +14,13 @@ Angular 2 is a complete re-write of the super popular Web framework AngularJS. T
 Speaker Bio
 -----------
 
-Samuel is a passionate Java and Open Source evangelist and the JUG Leader of [Portugal Java User Group](https://jug.pt) (PT.JUG). He is enthusiastic about Web technologies, considers himself a Web advocate and participates in several W3C Working Groups.
+![Speaker Image](https://avatars2.githubusercontent.com/u/134441?v=3&s=400)
 
-Currently, Samuel is the CTO at [Present Technologies](https://www.present-technologies.com) in Coimbra, Portugal. He is responsible for stimulating innovation, knowledge sharing, coaching and technology choices activities.
+Samuel is a passionate Java and Web Software craftsman, and an Open Source Software enthusiast.
 
-He is also the author of the blog [samaxes.com](https://samaxes.com) and tweets as [@samaxes](https://twitter.com/samaxes).
+He is the CTO at [Present Technologies](https://www.present-technologies.com), where he is responsible for stimulating innovation, knowledge sharing, coaching, and technology roadmap implementation. He is the JUG Leader of PT.JUG - [Portugal Java User Group](https://jug.pt), and an Invited Expert in several W3C Working Groups.
+
+Samuel is also the author of the blog [samaxes.com](https://samaxes.com) and tweets as [@samaxes](https://twitter.com/samaxes).
 
 Links
 -----
