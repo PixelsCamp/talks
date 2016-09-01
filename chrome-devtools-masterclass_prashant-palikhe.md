@@ -2,7 +2,6 @@ Chrome DevTools Masterclass
 ========================
 
 * Speaker   : *Prashant Palikhe*
-* Available : *Any day*
 * Length    : *~40 mins*
 * Language  : *English*
 
@@ -29,6 +28,8 @@ During the session, we will debug a Trello board of bugs on a dummy web app that
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars2.githubusercontent.com/u/2657709?v=3&s=400)
+
 Prashant is a front-end developer who likes to look under the hood of the tools that he works with everyday. On an attempt to understand why the code that he wrote behaved the way it did in the browsers, he came across a number of tools that the browsers provided which helped him gain clarity on those matters. He believes in "learning by sharing" which is why he enjoys giving talks on this subject to help others catch up with the latest and greatest of these browser tools.
 
 Links
@@ -37,3 +38,7 @@ Links
 * Twitter: https://twitter.com/prashantpalikhe
 * Company: http://nondutch.nl
 * Github: https://github.com/prashantpalikhe
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
