@@ -1,4 +1,4 @@
-[Unbabel AI Powered Human Translation]
+Unbabel AI Powered Human Translation
 ========================
 
 * Speaker   : [João Graça]
