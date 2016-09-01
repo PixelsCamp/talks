@@ -2,7 +2,6 @@ Trello in agile teams: best practices
 =====================================
 
 * Speaker   : João Craveiro
-* Available : 6th and 7th afternoon, 8th all-day
 * Length    : 30 mins
 * Language  : English
 
@@ -13,6 +12,8 @@ Trello is a very flexible productivity tool, with a wide range of application sc
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/7196535?v=3&s=400)
 
 Although there are titles attached to the things I do at a given moment, I have a hard time attributing one short designation to me as a professional. I love solving real problems of real people using computer technology as a means to it — be it by coding, by gathering requirements, by managing a project, by helping other people be more efficient, or by simply spreading knowledge.
 
@@ -26,3 +27,7 @@ Links
 * About me: http://about.me/jcraveiro
 * Github: http://github.com/jpgcc
 * Company: http://www.premium-minds.com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
