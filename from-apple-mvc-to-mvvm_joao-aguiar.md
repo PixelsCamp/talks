@@ -1,4 +1,4 @@
-[From Apple MVC to MVVM
+From Apple MVC to MVVM
 ========================
 
 * Speaker   : *João Aguiar*
@@ -22,7 +22,7 @@ I will also talk about how you can improve your core using Reactive Programming 
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
+![Speaker Image](https://avatars0.githubusercontent.com/u/4295126?v=3&s=400)
 
 Hi, my name is João Aguiar. I am a Software Engineer focused on mobile applications.  
 Born in the mobile era and impressed by the capabilities of smartphones, I start learning how to develop applications for it, doing it for the last 5 years.  
