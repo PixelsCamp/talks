@@ -1,7 +1,7 @@
 Minecraft in College
 ========================
 
-* Speaker   : João Fernandes
+* Speaker   : João Tiago Fernandes
 * Length    : around 30 min 
 * Language  : Portuguese or English (if needed)
 
