@@ -2,7 +2,6 @@ Perceived Perfomance or How to make your site feel faster
 ========================
 
 * Speaker   : Wilson Alberto
-* Available : October 6th/7th, 9am-9pm 
 * Length    : 30 mins
 * Language  : English
 
@@ -26,9 +25,10 @@ This talk will run through some of these techniques and try to give a better und
 when in reality it definitely is not.
 
 
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/11983436?v=3&s=400)
 
 I'm a UI Developer for Farfetch in Porto, Portugal.
 
@@ -44,3 +44,7 @@ Links
 * Stack   : http://stackoverflow.com/users/4841675/wilson-alberto
 * Company : http://www.farfetch.com
 * Github  : http://github.com/wilsonmsalberto
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
