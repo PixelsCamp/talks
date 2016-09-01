@@ -1,25 +1,22 @@
 Unbabel AI Powered Human Translation
 ========================
 
-* Speaker   : [João Graça]
-* Available : [October 6,7,8
-* Length    : [60 mins]
-* Language  : [English]
+* Speaker   : João Graça
+* Available : October 6,7,8
+* Length    : 60 mins
+* Language  : English
 
 Description
 -----------
 
-[Presentation description goes here. Try to keep it under say, 500 words, but more than 140 characters]
+The Unbabel platform combines a novel approach to machine translation with a community of bilinguals and freelance translators 
+which results in human quality translations, at a fraction of the cost, an order of magnitude faster. 
 
----------------
-[*All things below are optional*]
 
 Speaker Bio
 -----------
 
 João is the CTO of Unbabel a startup whose mission is to enable seamless, trustworthy written communication in different languages. 
-The Unbabel platform combines a novel approach to machine translation with a community of bilinguals and freelance translators 
-which results in human quality translations, at a fraction of the cost, an order of magnitude faster. 
 Before that João was a research scientist at Dezine and previously at FlashGroup. 
 João has a PhD in Machine Learning and Machine Translation from UPENN and IST Lisb ,He has many publications in Natural Language Processing in top world conferences and had a full PhD scholarship from the Portuguese Foundation for Science and Technology.
 He is the founder and organizer of the Lisbon Machine Learning Summer School. 
