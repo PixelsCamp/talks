@@ -2,7 +2,6 @@ Demystifying Binary Reverse Engineering
 ========================
 
 * Speaker   : André Baptista
-* Available : Any time
 * Length    : ~40 mins
 * Language  : English/Portuguese
 
@@ -27,6 +26,8 @@ Do you want to find out the secrets of reverse engineering? Just dive in!
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/4028874?v=3&s=400)
+
 Yo! I live in Coimbra, Portugal, where I was born in 1994. I started programming when I was 12 and using Linux when I was 15. Since then, I started developing random projects and doing some personal research about Computer Science. When I was in the high school I spent a lot of time exploring the world of Information Security. Then, I went to the University of Coimbra, where I finished my BSc in Computer Science in 2015.
 
 I just completed the first year of my MSc in Information Security in the University of Porto. I've always loved Infosec and online security challenges are my supper. In April 2015 I joined xSTF, a CTF team from the University of Porto. Since then, we've been spending weekends in the University pwning stuff and drinking beers.
@@ -39,3 +40,7 @@ Links
 * Blog: http://abaptista.github.io
 * Github: https://github.com/ABaptista
 * Contact: amccbaptista@gmail.com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
