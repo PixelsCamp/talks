@@ -2,7 +2,6 @@ Angular 2 and Progressive Web Apps
 ==================================
 
 * Speaker   : Samuel Santos
-* Available : October 6-7th, 11am-12pm
 * Length    : 30 mins
 * Language  : Portuguese
 
@@ -31,3 +30,7 @@ Links
 * Twitter: https://twitter.com/samaxes
 * LinkedIn: https://www.linkedin.com/in/samaxes
 * Speaker Deck: https://speakerdeck.com/samaxes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
