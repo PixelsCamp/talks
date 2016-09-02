@@ -37,7 +37,7 @@ and implementation on combating code-reuse attacks on modern systems.
 Speaker Bio
 -----------
 
-![Speaker Image](http://aefcup.pt/wp/wp-content/uploads/DSC00340.jpg)
+![Speaker Image](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/img/federico_bento.jpg?raw=true)
 
 My name is Federico Bento, 20 years old, and a college student from Faculty of Science University of Porto.
 
