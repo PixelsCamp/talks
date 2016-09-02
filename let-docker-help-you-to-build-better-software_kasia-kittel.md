@@ -19,7 +19,7 @@ Speaker Bio
 
 ![Speaker Image](https://avatars0.githubusercontent.com/u/11980812?v=3&s=400)
 
-I started as Webmaster in dial-up times.  In 2007 I finished my M.Eng in Informatics. Since that time I have been working as software engineer or developer. I love the Internet and new technologies, especially these that help to deliver better software. Currently I am Scala developer at Equal Experts.
+I started as Webmaster in dial-up times.  In 2007 I finished my M.Eng in Informatics. Since that time I have been working as software engineer or developer. I love the Internet and new technologies, especially those that help to deliver better software. Currently I am a Scala developer at Equal Experts.
 
 Links
 -----
