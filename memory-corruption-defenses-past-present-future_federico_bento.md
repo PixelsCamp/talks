@@ -2,7 +2,6 @@ Memory Corruption Defenses: Past, Present, Future
 ========================
 
 * Speaker   : Federico Bento
-* Available : Any time
 * Length    : 30-40 minutes
 * Language  : Portuguese/English
 
@@ -37,6 +36,8 @@ and implementation on combating code-reuse attacks on modern systems.
 
 Speaker Bio
 -----------
+
+![Speaker Image](http://aefcup.pt/wp/wp-content/uploads/DSC00340.jpg)
 
 My name is Federico Bento, 20 years old, and a college student from Faculty of Science University of Porto.
 
@@ -90,3 +91,7 @@ slash security antagonizer and be a part of a red team ;)
 
 Nothing more to add, just that I am
 ''=~('(?{'.('[_).]^'^'+-@@)~').'"'.(']@@^,[[]^[@_^[@+_'^')//~@>>)~=/-~"/^}').',$/})')
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
