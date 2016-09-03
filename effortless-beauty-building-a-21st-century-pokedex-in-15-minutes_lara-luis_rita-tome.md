@@ -2,7 +2,6 @@ Effortless beauty: building a 21st century Pokedex in 15 minutes
 ========================
 
 * Speaker   : Lara Luís and Rita Tomé
-* Available : October 6th and 7th all day
 * Length    : ~45 minutes
 * Language  : Portuguese
 
@@ -19,15 +18,17 @@ bring their creativity into the tech world.
 
 Join us and understand how all this technology works under the hood!
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/277/12b/0be58d9.jpg)
 
 Lara has a MSc in Computer Engineering from Universidade Nova de Lisboa. 
 Her first job out of university was with the OutSystems’ SWAT team. This team develops small projects that solve critical needs from the field or address high-value opportunities. 
 Besides coding, Lara enjoys to get in touch with students and introduce them to the OutSystems world! 
 In her free time, she enjoys getting out with friends, headbang in metal music concerts and read fiction books.
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1c0/043/191d287.jpg)
 
 Rita has a MSc in Computer Engineering from Instituto Superior Técnico de Lisboa. 
 Her first job out of university was with the OutSystems’ DevOps team. This team develops the tools that not only help developers to manage and deploy their apps but that also provide logging, performance analysis tools and much more! 
@@ -38,3 +39,8 @@ Links
 
 * Blog: https://medium.com/outsystems-engineering
 * Company: http://www.outsystems.com
+* Github: https://github.com/lara-luis and https://github.com/rtome13
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
