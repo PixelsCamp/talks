@@ -2,7 +2,6 @@ Testing and Intelligent Feedback - Do it yourself!
 ========================
 
 * Speaker   : Sérgio Silva, Diogo Oliveira
-* Available : Always
 * Length    : 30 mins
 * Language  : English
 
@@ -20,6 +19,8 @@ We will show you why and how did we built our own path to creating an awesome an
 Speaker Bio
 -----------
 
+![Speaker Image](https://media.licdn.com/media/p/8/000/2ad/301/220aae4.jpg)
+
 **Sérgio Silva**
 
 I have an MSc in Computer Science at FCT/UNL, where I’ve developed my passion for both software and teaching - I taught some courses like Compilers, Operating Systems and Algorithms.
@@ -27,6 +28,8 @@ I have an MSc in Computer Science at FCT/UNL, where I’ve developed my passion 
 Afterwards, I joined OutSystems in 2013, where I’ve been proudly developing the OutSystems Platform. Today, I’m a team leader at OutSystems, working together with awesome people to develop and improve the Platform’s generated IDE. When I’m not doing that, I’m constantly trying to figure out better ways to make everyone more productive - myself included since I’m lazy -, and that’s led me to help improve our quality process at the company.
 
 My hobbies involve travel, playing games, cooking for friends and martial arts.
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/097/181/08a78e0.jpg)
 
 **Diogo Oliveira**
 
@@ -42,3 +45,8 @@ Links
 
 * Blog: https://medium.com/outsystems-engineering
 * Company: http://www.outsystems.com
+* Github: https://github.com/Diogomrol
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
