@@ -17,6 +17,8 @@ In this talk, we'll go through what a-frame is, how it works, and how simple it 
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars1.githubusercontent.com/u/240720?v=3&s=400)
+
 I've been a software engineer for 2 years now, graduated from FEUP at '14, with a knack and passion for infrastructure, system analysis, automation and quirky retorts. Gamer for years. I love the web stack, and how web standards have elevated the term "web app" to something you don't cringe at over the years. It only gets better from here on out!
 
 Links
@@ -24,3 +26,7 @@ Links
 
 * Company: http://www.lifeonmars.pt
 * Github: http://github.com/joaoanes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
