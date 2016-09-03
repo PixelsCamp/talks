@@ -1,4 +1,4 @@
-An user experience using Tor
+A user experience using Tor
 ========================
 
 * Speaker   : Pedro Frazão
