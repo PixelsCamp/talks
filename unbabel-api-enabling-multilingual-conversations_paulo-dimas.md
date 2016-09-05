@@ -14,7 +14,9 @@ The Unbabel API makes this reality possible giving access to a crowd of human tr
 
 Speaker Bio
 -----------
+
 ![Speaker Image](https://avatars3.githubusercontent.com/u/5994582?v=3&s=400)
+
 Paulo Dimas is the Head of Product at Unbabel, building the world’s translation layer by empowering with AI technology a worldwide community of bilinguals. Paulo has a passion for products, having developed his first commercial one at 14 years of age. After joining INESC at 16 to do research on interactive systems, Paulo has founded 2 startups, the last one Wizi, a VC funded geo-social startup that partnered with mobile carriers in 3 continents, taking geo-social discovery to any mobile subscriber. Paulo has created patents in geo-location technology and developed award-winning projects for major companies in the Media and Telecom industries.
 
 Links
