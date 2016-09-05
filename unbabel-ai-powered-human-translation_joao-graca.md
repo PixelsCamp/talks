@@ -9,8 +9,7 @@ Unbabel AI Powered Human Translation
 Description
 -----------
 
-The Unbabel platform combines a novel approach to machine translation with a community of bilinguals and freelance translators 
-which results in human quality translations, at a fraction of the cost, an order of magnitude faster. 
+Unbabel empowers with Artificial Intelligence a community of 40K+ translators worldwide to increase the speed of delivering human quality translation and dramatically reduce translation costs. It does so by relying in a complex symbiosis between man and machine. From machine translation and automatic post-editing, to quality estimation, AI powered grammar correction, and smart translator selection based on their past usage, Unbabel employs a wide range of machine learning and natural language processing tools. In this talk I will describe those tools, and how they interact with the crowd of human translators. In a world where the Internet is diverging by the emergence of multiple language-centric internets, Unbabel is uniting these internets to extend the global reach of businesses worldwide.
 
 
 Speaker Bio
