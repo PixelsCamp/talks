@@ -8,23 +8,13 @@ Unbabel API: Enabling Multilingual Conversations
 
 Description
 -----------
-The wave of using messaging apps as interfaces for all kinds of services started in China with WeChat and has rapidly become a new global reality. You can now order a pizza, buy products or book a flight chatting with a service on Facebook Messenger. The conversation may happen with a bot, a real human or a mix of both. The challenge is that the conversation is seamless no matter what language the user speaks.
+The wave of messaging apps as interfaces for all kinds of services started in China with WeChat and has rapidly become a new global reality. You can now order a pizza, buy products or book a flight chatting on Facebook Messenger. The conversation may happen with a bot, a real human or a mix of both. The challenge is that no matter what language is spoken by the user the conversation is seamless.
 
-Unbabel’s API makes this reality possible by combining a crowd of human translators, distributed worldwide, with Artificial Intelligence technology. The result is human quality translations
-
-This session will show how in a few minutes you can enable multilingual conversations.
-
-
+The Unbabel API makes this reality possible giving access to a crowd of human translators, distributed worldwide, empowered with Artificial Intelligence technology. The result are human quality translations that make chat conversations flow naturally in more than 20 languages. This session will show how you can make this possible with a few lines of code.
 
 Speaker Bio
 -----------
-
-João is the CTO of Unbabel a startup whose mission is to enable seamless, trustworthy written communication in different languages. 
-Before that João was a research scientist at Dezine and previously at FlashGroup. 
-João has a PhD in Machine Learning and Machine Translation from UPENN and IST Lisb ,He has many publications in Natural Language Processing in top world conferences and had a full PhD scholarship from the Portuguese Foundation for Science and Technology.
-He is the founder and organizer of the Lisbon Machine Learning Summer School.
-
-
+Paulo Dimas is the Head of Product at Unbabel, building the world’s translation layer by empowering with AI technology a worldwide community of bilinguals. Paulo has a passion for products, having developed his first commercial one at 14 years of age. After joining INESC at 16 to do research on interactive systems, Paulo has founded 3 startups, the last one Wizi, a VC funded geo-social startup that partnered with mobile carriers in 3 continents, taking geo-social discovery to any mobile subscribers. Paulo has created patents in geo-location technology and developed award-winning projects for major companies in the Media and Telecom industries.
 
 Links
 -----
