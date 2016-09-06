@@ -2,7 +2,6 @@ Getting Ready for the new digital architectures for conversational commerce @ So
 ========================
 
 * Speaker   : Rui Veloso
-* Available : October 6th, 7th 
 * Length    : 30 mins
 * Language  : English
 
@@ -24,11 +23,10 @@ Decision trees will be scripted in ways of a “natural” and more human conver
  
 Some say 2016 is the year of conversational commerce – I think it is now more than a buzz and inflated expectations! And a new perspective on the supporting digital architecture is emerging – let us share some thoughts.
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/20731979?v=3&s=400)
 
 Rui Veloso is a Solution Architect for Sonae Digital Channels solutions and for the last two years was responsible for the development of Sonae MC e-commerce platform.  
 He has 13 years of experience in software architecture, software development, and leading and coaching development teams.
@@ -39,3 +37,8 @@ Links
 
 * LinkedIn: https://www.linkedin.com/in/ruiveloso
 * Company: http://www.sonae.pt 
+* Github: https://github.com/ruiveloso
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
