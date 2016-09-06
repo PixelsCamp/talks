@@ -15,7 +15,7 @@ Speaker Bio
 
 ![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARCAAAAJGFmODdiMWY3LTIyM2EtNDBmNC1iYzRhLTcxNmVhNGE3NTk2Yg.jpg)
 
-Maria Lourenço, is a Data Scientist at Feedzai.
+Mariana Lourenço, is a Data Scientist at Feedzai.
 
 ![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/076/14a/189d3a9.jpg)
 
