@@ -2,7 +2,6 @@ What if you could predict exceptions?
 ========================
 
 * Speaker   : João Ricardo Lourenço
-* Available : Any time
 * Length    : 30 minutes
 * Language  : English (or Portuguese, it doesn't really matter, though English is the current priority)
 
@@ -13,10 +12,10 @@ We've all heard about exceptions: most modern languages and frameworks have the 
 
 In this talk, I will introduce a new exception model developed as part of my thesis, called **PreX -- Preventive Exception Handling**. This model defies the current preconception that you can only react to exceptions. Imagine the possibilities if you can predict an exception and act on this prediction: **you no longer write `try-catch` blocks, but, instead, write `try-prevent-catch` blocks where a specific action for a _potential_ exception can be written**. I will detail the model, its current implementation and how it compares to current revitalization strategies in our experiments. In the end, perhaps this will help you think "outside the box" when it comes to exceptions -- perhaps you don't really always have to just _handle_ them, you might be able to _prevent_ them.
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1668225?v=3&s=400)
 
 My name is João Ricardo Lourenço and I'm 23 years old. I finished my BSc in Computer Science ("Engenharia Informática") in 2014 and finished my MSc in Computer Science this year (2016), both in the University of Coimbra. My thesis involved the proposal, implementation and validation of a new preventive exception handling model (the theme of this talk), and was graded 20/20. I have been working as a researcher for the University of Coimbra (as a member of CISUC - Center for Informatics and Systems of the University of Coimbra) since 2012, having published several papers in the area of NoSQL databases and exception handling. I have also been an invited assistant teacher for the "Acertar o Rumo" programme for two years, where I tutored several students in basic programming skills and advanced Java Enterprise topics such as JPA, EJBs or JSF. I've been awarded several prizes and scolarships throughout my academic career.
 
@@ -31,4 +30,8 @@ Links
 -----
 
 * Github: http://github.com/Jorl17
-* Contact: jorl17.8@gmail.com
+* Contact: jorl17.8 at gmail.com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
