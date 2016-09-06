@@ -2,10 +2,8 @@
 ========================
 
 * Speaker   : Hugo Lourenço
-* Available : October 6th and 7th all day, October 8th 9am-12pm
 * Length    : 30 mins
 * Language  : English
-* Keywords  : IoT, leds, interactive, domotics
 
 Description
 -----------
@@ -18,10 +16,10 @@ So I embarked in this long adventure of designing and implementing a rather larg
 
 In this talk I'll tell you about the project itself and the challenges I faced, both at the hardware and software level.
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/11883662?v=3&s=400)
 
 I've been using computers since the time of the venerable ZX Spectrum. Soon after convincing my parents to buy me one, I spent most of my time tweaking with it rather than playing games on it.
 
@@ -35,3 +33,8 @@ Links
 
 * Blog: https://medium.com/outsystems-engineering
 * Company: http://www.outsystems.com
+* Github: https://github.com/hlouren
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
