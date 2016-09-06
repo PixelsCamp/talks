@@ -2,7 +2,6 @@ Processing 100 million euros per second with Spark to detect credit card data br
 ========================
 
 * Speaker   : Jaime Ferreira and Mariana Lourenço
-* Available : 6-7 October, any time 
 * Length    : 20-30 Mins
 * Language  : English
 
@@ -13,9 +12,23 @@ In recent years fraudsters have stolen hundreds of millions of credit cards whic
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARCAAAAJGFmODdiMWY3LTIyM2EtNDBmNC1iYzRhLTcxNmVhNGE3NTk2Yg.jpg)
+
+Maria Lourenço, is a Data Scientist at Feedzai.
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/076/14a/189d3a9.jpg)
+
+Jaime Ferreira, is a Data Scientist at Feedzai.
+
 Jaime and Mariana are part of Feedzai's Research team. The primary goal of the team is to develop new algorithms and adapt existing ones to the domain of fraud detection, keeping Feedzai the state-of-the-art leader in fraud detection.
 
 Links
 -----
 
 * Company: http://feedzai.com
+* Github: https://github.com/jaimerferreira
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
