@@ -1,4 +1,4 @@
-Getting Ready for the new digital architectures for conversational commerce @ Sonae
+Getting Ready for the new digital architectures for conversational commerce
 ========================
 
 * Speaker   : Rui Veloso
