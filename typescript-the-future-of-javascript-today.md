@@ -2,7 +2,6 @@ TypeScript &mdash; The Future of JavaScript, Today!
 ===================================================
 
 * Speaker   : Miguel Ventura
-* Available : Anytime
 * Length    : 30mins
 * Language  : English
 
@@ -29,6 +28,8 @@ flexibility.
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/47368?v=3&s=400)
 
 I'm a Lead Software Engineer at OutSystems. I build front-ends, middleware,
 backends, and things that build those things. I like camping, code,
