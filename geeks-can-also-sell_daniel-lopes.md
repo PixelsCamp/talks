@@ -2,7 +2,6 @@ Geeks can also sell
 ========================
 
 * Speaker   : Daniel Lopes
-* Available : October 6th - October 8th, 2pm - 11:59pm
 * Length    : 30 min-45 min
 * Language  : English
 
@@ -21,10 +20,10 @@ I want to show you that selling (ideas) is part of our lives, and that we all sh
 I want to show you that sales is a lot about being helpful and providing value, in a honest manner. 
 I want to show that you, geek as me, are on a great position to do sales for your field.
 
----------------
-
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
 
 Hi, I'm Daniel. I'm a Physics Eng who got in love with entrepreneurship. 
 I do Product, Sales and Code at Whitesmith, and am a radio broadcaster at RUC.
@@ -33,5 +32,9 @@ Links
 -----
 
 * Blog: http://danielflopes.com
-* Company: http://whitesmith.co  \o/  \o/
+* Company: http://whitesmith.co
 * Github: http://github.com/danielflopes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
