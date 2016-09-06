@@ -2,7 +2,6 @@ Unbabel API: Enabling Multilingual Conversations
 ========================
 
 * Speaker: Paulo Dimas
-* Available: October 6,7,8
 * Length: 30 mins
 * Language: English
 
@@ -23,3 +22,8 @@ Links
 -----
 * Blog: https://blog.unbabel.com/
 * Company: http://www.unbabel.com
+* Github: https://github.com/pdimas
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
