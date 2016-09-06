@@ -23,7 +23,7 @@ I want to show that you, geek as me, are on a great position to do sales for you
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/102931?v=3&s=400)
+![Speaker Image](https://avatars1.githubusercontent.com/u/1325415?v=3&s=400)
 
 Hi, I'm Daniel. I'm a Physics Eng who got in love with entrepreneurship. 
 I do Product, Sales and Code at Whitesmith, and am a radio broadcaster at RUC.
