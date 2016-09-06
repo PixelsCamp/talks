@@ -1,8 +1,7 @@
-[FRP my Swift]
+FRP my Swift
 ========================
 
 * Speaker   : Afonso Graça
-* Available : Anytime  
 * Length    : 30
 * Language  : English, but I can do Portuguese if _everyone_ in the audience at the time prefers it
 
@@ -20,6 +19,8 @@ My goal is to present my process of learning what FRP was, what was the thought 
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars3.githubusercontent.com/u/4775087?v=3&s=400)
+
 Software developer and UX enthusiast, currently working for Unbabel, tinkering and dabbling in iOS and Frontend.
 
 Links
@@ -28,3 +29,7 @@ Links
 * Blog: http://afonsograca.com
 * Company: https://unbabel.com
 * Github: https://github.com/afonsograca
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
