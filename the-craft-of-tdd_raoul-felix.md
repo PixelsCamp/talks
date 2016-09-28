@@ -48,6 +48,8 @@ easier while avoiding some common traps as you continue on this path.
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars0.githubusercontent.com/u/9947?v=3&s=466)
+
 Hi! My name is Raoul and I have the privilege of working with many talented,
 bright, and curious software engineers at Talkdesk over the past few years where
 I currently serve as the CTO as well as Team Lead of our Routing Team. I'm
@@ -67,3 +69,7 @@ Contact Info
 
 * Email: hi AT rfelix.com
 * Twitter: [@rfelix_com](https://twitter.com/rfelix_com) (open DMs)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
