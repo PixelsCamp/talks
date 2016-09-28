@@ -2,7 +2,6 @@ The Craft of TDD
 ================
 
 * Speaker   : Raoul Felix
-* Available : October 6th,  7th, or 8th
 * Length    : ~ 30min
 * Language  : English
 
