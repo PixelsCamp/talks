@@ -1,4 +1,4 @@
-An interactive Voice & Chat for the Pixel Camp event
+An interactive Voice & Chat for the Pixels Camp event
 ========================
 
 * Speaker   : Stève Sfartz and Austin Hyland
