@@ -27,6 +27,8 @@ Video
 
 [![Video](https://img.youtube.com/vi/yeMvhuD689A/maxresdefault.jpg)](https://www.youtube.com/watch?v=yeMvhuD689A)
 
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
