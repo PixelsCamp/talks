@@ -25,7 +25,7 @@ However Scala programmers might additionally benefit from some practical approac
 Video
 -----
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/yeMvhuD689A"></iframe>
+[![Video](https://img.youtube.com/vi/yeMvhuD689A/maxresdefault.jpg)](https://www.youtube.com/watch?v=yeMvhuD689A)
 
 Speaker Bio
 -----------
