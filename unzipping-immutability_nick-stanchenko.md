@@ -22,6 +22,11 @@ Note: although the Scala language will be used as the vehicle for illustrating c
 absolutely no prior knowledge of Scala is required.
 However Scala programmers might additionally benefit from some practical approaches presented.
 
+Video
+-----
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/yeMvhuD689A"></iframe>
+
 Speaker Bio
 -----------
 
