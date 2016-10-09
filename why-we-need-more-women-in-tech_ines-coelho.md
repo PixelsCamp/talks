@@ -2,7 +2,7 @@ Why we need more women in Tech?
 ========================
 
 * Speaker   : Inês Coelho
-* Length    : 20 to 30 min 
+* Length    : 20 to 30 min
 * Language  : English
 
 Description
@@ -13,6 +13,13 @@ The answer to this question is simple: diverse teams are more effective teams. T
 Around the world, several programs focused on women have emerged, such as Rails Girls, Rails Girls Summer of Code, Women in Tech, Women Techmakers and Lean In. These programs aim to invigorate women working in tech and amplify their voices. But is that enough?
 
 The Diversity Problem affects us all, men and women, from all colours, races and religions. And each of us holds the power to make a difference. By breaking the current stereotypes and by providing new role models, each and every one of us can help to make a difference. 
+
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/YWbSmkC-kpY/maxresdefault.jpg)](https://www.youtube.com/watch?v=YWbSmkC-kpY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
