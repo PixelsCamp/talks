@@ -12,6 +12,13 @@ This session will cover intermediate to advanced Git commands and usage that wil
 
 We will go over things like revision selection, advanced rebasing, bisecting, large files, subproject strategies, interesting index operations, the reflog, bundling, merge tools, stashing and branch filtering.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/uV7R7HcgjZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uV7R7HcgjZ4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
