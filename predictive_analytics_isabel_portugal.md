@@ -17,6 +17,12 @@ This talk aims to cover the following topics:
 -	How to quickly prototype predictive models and why you need to?
 -	Sharing one of my predictive analytics projects and some interesting findings.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/jTb1JnUV2xY/maxresdefault.jpg)](https://www.youtube.com/watch?v=jTb1JnUV2xY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
