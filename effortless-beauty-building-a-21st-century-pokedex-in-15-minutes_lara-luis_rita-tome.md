@@ -18,6 +18,13 @@ bring their creativity into the tech world.
 
 Join us and understand how all this technology works under the hood!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/e1E-LmKBnNc/maxresdefault.jpg)](https://www.youtube.com/watch?v=e1E-LmKBnNc)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
