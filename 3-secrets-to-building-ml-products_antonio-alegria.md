@@ -14,6 +14,12 @@ While data technologies have been exploding and becoming commoditized, using the
  
 Let’s demystify machine learning system’s Data Science lifecycle (from data to production to a continuously evolvable system). Explore the fundamental recipe to build data-learning products that put data to work and provide experiences that are, ironically, more human.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/p7s1lcaeoZk/maxresdefault.jpg)](https://www.youtube.com/watch?v=p7s1lcaeoZk)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
