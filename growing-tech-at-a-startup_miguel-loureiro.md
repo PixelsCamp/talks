@@ -10,6 +10,13 @@ Description
 
 This session is all about sharing the challenges and how we at Uniplaces tackled those to become what we are today. Architectural decisions, infrastructure, prioritization, processes, scaling the engineering team, and more. If you want details on how things evolved in a tech startup, this is the talk you're looking for.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/MfDui9n1Iho/maxresdefault.jpg)](https://www.youtube.com/watch?v=MfDui9n1Iho)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
