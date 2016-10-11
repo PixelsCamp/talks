@@ -10,6 +10,13 @@ Description
 
 In recent years fraudsters have stolen hundreds of millions of credit cards which they then resell and use, resulting in losses of billions of euros for banks, merchants and consumers. In this talk we describe BreachRadar, a new approach to data breach detection using a distributed, graph-based algorithm implemented in Spark. BreachRadar has already proven its scalability by processing about 4000 million transactions per hour, or about 100 million euros per second, and has discovered types of breaches as precise as a single compromised ATM or as wide as a nationwide merchant network.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/oMX0hqxqnY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=oMX0hqxqnY8)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
