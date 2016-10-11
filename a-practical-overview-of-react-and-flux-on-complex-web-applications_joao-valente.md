@@ -22,6 +22,14 @@ Based on these two concepts we'll dive into production code to see how to:
 - Handle API errors gracefully, retrying if possible, and, if not, warn the user and recover from optimistic UI updates that were made;
 - Manage data to respect the browser's localStorage limits.
 
+
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/ce4zvLmrSqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ce4zvLmrSqs)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
