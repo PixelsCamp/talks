@@ -31,6 +31,13 @@ https://blog.binaryedge.io/2015/09/30/vnc-image-analysis-and-data-science/
 
 https://blog.binaryedge.io/2015/08/10/data-technologies-and-security-part-1/ 
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/QanlXTe7AL4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QanlXTe7AL4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
