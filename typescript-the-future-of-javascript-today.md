@@ -26,6 +26,13 @@ mighty advantages and why it can give you the piece of mind of strongly-typed
 languages while still letting you have all the advantages of JavaScript's
 flexibility.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/5OBFfGC3eaI/maxresdefault.jpg)](https://www.youtube.com/watch?v=5OBFfGC3eaI)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
