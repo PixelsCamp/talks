@@ -33,6 +33,12 @@ In this talk I will present the current situation of all exploitation techniques
 and actual ongoing research on creating these defenses, and finally my own idea 
 and implementation on combating code-reuse attacks on modern systems.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/xWBAXBCq6Qo/maxresdefault.jpg)](https://www.youtube.com/watch?v=xWBAXBCq6Qo)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
