@@ -12,6 +12,13 @@ Lua is probably one of the most underrated programming languages. It accomplishe
 
 The purpose of this talk is to give a quick - but hopefully useful - taste of the language for busy geeks.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/FsvpK0gAHTY/maxresdefault.jpg)](https://www.youtube.com/watch?v=FsvpK0gAHTY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
