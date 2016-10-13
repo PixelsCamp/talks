@@ -29,6 +29,13 @@ The idea is to have 15 mins where I'll sell and talk about why this is a kickass
 
 So bring your laptops and don't be afraid of some (parenthesis (ftw!))
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/HQBj5a6zrcU/maxresdefault.jpg)](https://www.youtube.com/watch?v=HQBj5a6zrcU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
