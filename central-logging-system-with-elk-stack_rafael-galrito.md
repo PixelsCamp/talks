@@ -20,6 +20,13 @@ All these tools can also work as standalone.
 
 In this talk, we'll go really fast through the entire ELK stack programs. Demo will focus on quickly setup ELK stack, logstash filters and data visualization.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/1o17FYiEPXE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1o17FYiEPXE)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
