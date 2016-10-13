@@ -25,6 +25,13 @@ And finish off with:
 
 During the session, we will debug a Trello board of bugs on a dummy web app that mimics real-world problems using Chrome DevTools.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/KykP5Z5E4kA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KykP5Z5E4kA)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
