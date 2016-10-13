@@ -19,6 +19,12 @@ Two years ago I started working for a **100% remote development agency**. We wor
 * Anyone can work remotely?
 * What lessons did you learn during your experience that can be applied to other companies both local and remote?
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/m5SjhU0CGpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=m5SjhU0CGpw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
