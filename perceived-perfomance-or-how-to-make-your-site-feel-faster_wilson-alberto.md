@@ -24,6 +24,12 @@ Simple things that make the experience much richer and feel much faster.
 This talk will run through some of these techniques and try to give a better understanding as to why something is fast
 when in reality it definitely is not.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/BM4BjQYa6ew/maxresdefault.jpg)](https://www.youtube.com/watch?v=BM4BjQYa6ew)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
