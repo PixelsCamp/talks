@@ -14,6 +14,13 @@ Some years pass (and I was in my second year on College) and I decided to enter 
 
 After some tryes, I realize that I was learning Java in a different way that I learned in College. Inheritance, (abstract) Classes, API's, etc. The way that I learned Java with this was very different from the normal classes that I had, it was very different and, nowadays, games can teach us not only to think, but also how to program. Minecraft was not the pionner on this, but it helped. And export this way of learning to the College could help to new future Engineers learn new languages.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/pqhPIUY70e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=pqhPIUY70e4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
