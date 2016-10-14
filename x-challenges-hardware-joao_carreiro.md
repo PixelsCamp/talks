@@ -14,6 +14,13 @@ Building hardware is hard, building something we can call a product and not only
 
 In this talk I'll try to touch a bit on the importance of UX in hardware products but mostly talk about the most common road blocks I see people hitting and (maybe) how they can go around them.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/xeZ9LBok2mQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=xeZ9LBok2mQ)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
