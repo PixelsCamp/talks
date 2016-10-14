@@ -16,6 +16,13 @@ We need to bring the distributed properties of the Internet back! That is why we
 
 This talk will go through the design of IPFS and how we can build fully decentralised Web Applications using Web technologies, today!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/nq9NR2bciFI/maxresdefault.jpg)](https://www.youtube.com/watch?v=nq9NR2bciFI)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
