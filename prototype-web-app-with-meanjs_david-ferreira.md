@@ -10,6 +10,13 @@ Description
 
 On a world where creating startups is getting high popularity, web developers find a certain difficulty to quick prototype a web app from the database, server and frontend. In this session will be shown how to do it quickly using the full-stack framework MEAN js. MEAN stands for Mongo + Express + Angular + Node.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/w71R_8KCzg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=w71R_8KCzg0)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
