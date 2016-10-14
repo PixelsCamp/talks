@@ -17,6 +17,13 @@ I'm proposing a 70-30% theoretical/practical talk about how GraphQL is shaping w
 - The impact on backend development (e.g., schemas, scaling, tooling)
 - Should you use it? (e.g., maturity, future plans for the language)
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/b8BRd01oH9E/maxresdefault.jpg)](https://www.youtube.com/watch?v=b8BRd01oH9E)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
