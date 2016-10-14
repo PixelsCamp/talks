@@ -12,6 +12,13 @@ Description
 WebdriverIO is an open source testing utility for nodejs. It makes it possible to write super easy selenium tests with JavaScript in your favorite BDD or TDD test framework.
 This talk is an overview of Automation, Regression, Functional Testing, Continuous Integration and how it can be achieved through WebdriverIO. We'll also take a look at Page Object Pattern, Visual Regression and how to hook in to SauceLabs Cloud Service.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/QColOqRFdGg/maxresdefault.jpg)](https://www.youtube.com/watch?v=QColOqRFdGg)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
