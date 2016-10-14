@@ -13,6 +13,13 @@ We will explain the idea, concept and execution of our very fine Mars Rover that
 Blueprints (not really), code, mechanics and all other parts will be explained in under 30 minutes
 There will be a small 10 minute presentation about what OOZLabs is
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/jWgmPDPLJDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=jWgmPDPLJDc)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
