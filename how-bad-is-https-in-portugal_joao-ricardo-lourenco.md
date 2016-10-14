@@ -12,6 +12,13 @@ There have been numerous exploits and attacks on HTTPS in recent years. HTTPS is
 
 Together with a friend, **we conducted research on the list of Portugal's 50 most visited web sites, as well as some critical websites (such as those of banks or financial institutions) to evaluate just how bad HTTPS is in Portugal**. We wanted to know how easy it was to extract personal data (think usernames and passwords) from these websites. The results surprised us, and they might surprise you too. This is not a talk filled with new ideas and concepts, although the attacks and techniques used are described in detail. The goal of this talk is to shed light on bad security practices being used in _Your Next Favorite Website_ (or, more importantly, your non-tech-savvy dad's _Next Favorite Website_), helping you understand how you can prevent your _(dad's)_ traffic from being sniffed, or how you can improve your next website. You would think most of this talk would be elementary -- so did we, but that didn't stop these websites from being highly vulnerable.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/uQGCfgEQM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uQGCfgEQM4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
