@@ -12,6 +12,13 @@ Sometimes I wonder how can I love Javascript when all of a sudden it stops knowi
 
 My aim is to present you my favourite parts and show you how to easily fall back in love with JS.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/4bC-gUylpGI/maxresdefault.jpg)](https://www.youtube.com/watch?v=4bC-gUylpGI)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
