@@ -20,6 +20,13 @@ Well, it's been my platform of choice for the last 7 years, but there's no need 
 ###Groovy
 I gave it a shot a couple of months ago, and haven't looked back. I'll give several examples why you might consider it too. (note: it can be gentle, you don't have to switch everything to a completely different language all at once, so don't be shy)
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/wCcYz2DZUfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=wCcYz2DZUfg)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
