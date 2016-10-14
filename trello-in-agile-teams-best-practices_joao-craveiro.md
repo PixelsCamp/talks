@@ -10,6 +10,13 @@ Description
 
 Trello is a very flexible productivity tool, with a wide range of application scenarios. In agile software development, small to medium projects can surely benefit from its simplicity (compared to more fully-featured --- and expensive --- tools). This talk is about the three main building blocks of a Trello board: labels, lists, and checklists. They're so simple, and yet so easy to get wrong in ways you may regret halfway through --- if you don't know some details about how these three elements work in Trello. I do not intend to prescribe a given way to organize your backlog/sprints/Kanban/whatever in a Trello board: in the end, you'll have my personal recipe for Trello-supported agile development with a good balance between the typical project management needs and not imposing too much overhead on development team members.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/sccGjlFEFqI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sccGjlFEFqI)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
