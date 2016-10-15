@@ -20,6 +20,13 @@ This is a talk targetted at beginners in Ansible, among other things, you'll lea
 - Why you should care about Ansible
 - How to organize your dotfiles using Ansible :shipit:
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/hFwFqrHtsyo/maxresdefault.jpg)](https://www.youtube.com/watch?v=hFwFqrHtsyo)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
