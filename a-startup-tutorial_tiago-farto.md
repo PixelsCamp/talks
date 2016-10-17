@@ -11,6 +11,13 @@ Description
 Around September 2012 I joined Nozomi as a co-founder, a startup devoted to the development of hardware for criminal investigation, and during most of the time I was the sole programmer until we eventually closed in the Summer of 2015.
 Since startups are all the rage nowadays I thought lots of people, 7, wouldn't mind hearing about my experience facts and fiction, being the only programmer at an hardware startup. Feel free to make suggestions on what you would like to hear me talking about... if you do like to hear me talking... for some reason.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/f2zJVfuBSfU/maxresdefault.jpg)](https://www.youtube.com/watch?v=f2zJVfuBSfU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
