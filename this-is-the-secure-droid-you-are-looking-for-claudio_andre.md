@@ -16,6 +16,13 @@ Show me the code: We will see practical examples of wrong implementations and se
 
 I will also cover some of the new security features coming to developers on Android Nougat.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/ec24so4sLNQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ec24so4sLNQ)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
