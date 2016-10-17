@@ -12,6 +12,13 @@ Getting close to its 12th anniversary, nginx is now one the most popular web ser
 
 This talk intends to shed some light into nginx's (somewhat) advanced configuration bits. May contain traces of Lua.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/wm5AXFg07DA/maxresdefault.jpg)](https://www.youtube.com/watch?v=wm5AXFg07DA)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
