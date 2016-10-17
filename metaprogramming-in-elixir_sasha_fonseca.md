@@ -18,6 +18,13 @@ In this talk I will give an introduction to metaprogramming with Elixir, demysti
 
 Prior knowledge of Elixir is not required for this talk.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/uBWFBU97Qkw/maxresdefault.jpg)](https://www.youtube.com/watch?v=uBWFBU97Qkw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
