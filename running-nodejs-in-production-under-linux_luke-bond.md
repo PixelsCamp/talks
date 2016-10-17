@@ -14,6 +14,13 @@ In this talk I'll show developers how easy it is to configure systemd to run you
 
 The talk will be demo-heavy, demonstrating just how easy it is to do all of this yourself from scratch.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/GVzWQgPYiMg/maxresdefault.jpg)](https://www.youtube.com/watch?v=GVzWQgPYiMg)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 

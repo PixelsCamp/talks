@@ -14,6 +14,13 @@ Aptoide's motto is "Own your Android Store", meaning that any user can have a st
 
 This talk will be focused on the steps taken to implement a Big Data architecture capable scaling, both horizontal and vertically, to handle the increasing number of Aptoide users, all the way from data gathering to making content available to users.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/jugibwGhIW4/maxresdefault.jpg)](https://www.youtube.com/watch?v=jugibwGhIW4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
