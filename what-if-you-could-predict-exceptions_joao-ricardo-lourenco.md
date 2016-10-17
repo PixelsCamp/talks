@@ -12,6 +12,13 @@ We've all heard about exceptions: most modern languages and frameworks have the 
 
 In this talk, I will introduce a new exception model developed as part of my thesis, called **PreX -- Preventive Exception Handling**. This model defies the current preconception that you can only react to exceptions. Imagine the possibilities if you can predict an exception and act on this prediction: **you no longer write `try-catch` blocks, but, instead, write `try-prevent-catch` blocks where a specific action for a _potential_ exception can be written**. I will detail the model, its current implementation and how it compares to current revitalization strategies in our experiments. In the end, perhaps this will help you think "outside the box" when it comes to exceptions -- perhaps you don't really always have to just _handle_ them, you might be able to _prevent_ them.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/6tH26mS2-OE/maxresdefault.jpg)](https://www.youtube.com/watch?v=6tH26mS2-OE)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
