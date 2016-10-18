@@ -16,6 +16,13 @@ _Functional Reactive Programming_ (FRP) is not that new, it has been around sinc
 
 My goal is to present my process of learning what FRP was, what was the thought process behind it and how using it made my Swift project more concise and easier to understand.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/ysRAws4s6uE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ysRAws4s6uE)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
