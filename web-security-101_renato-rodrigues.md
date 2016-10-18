@@ -12,6 +12,13 @@ Security nowadays is a hot topic. Everyone is on alert for the latest database l
 
 Everyone needs to start somewhere. However, getting the basics right isn't always a straightforward process. On this presentation, I will tap into the foundations of web security and also give an overview of the latest trends in attacks such as template, server side injections and weird attacks with CSS. Ultimately, provide ways to improve or put new skills into practice to stay ahead of the game.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/Tep11H8O5x4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tep11H8O5x4)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
