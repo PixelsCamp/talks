@@ -15,6 +15,13 @@ Having been an avid programmer for several years now, I've amassed a pretty good
 
 This talk will feature some examples of very practical advices using my tools of choice (mostly Linux, Tmux, Vim & Ruby), but every piece of knowledge can be applied to other languages or technologies. Whether you're on Vim or Sublime Text, you should never feel limited by what you *think* your tool allows you to do.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/jrBTpf7-yaw/maxresdefault.jpg)](https://www.youtube.com/watch?v=jrBTpf7-yaw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 ## Speaker Bio
 
 ![Speaker Image](https://avatars2.githubusercontent.com/u/283819?v=3&s=400)
