@@ -16,6 +16,13 @@ In this presentation we will shed some light on these questions, show you that d
 
 We will show you why and how did we built our own path to creating an awesome and stable product, continuously and by default, as well as how are we benefiting from it on a daily basis!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/3TxOF_t3tyY/maxresdefault.jpg)](https://www.youtube.com/watch?v=3TxOF_t3tyY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
