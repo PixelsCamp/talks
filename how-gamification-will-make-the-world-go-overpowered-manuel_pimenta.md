@@ -14,6 +14,13 @@ Well they've clearly never led a 20 people raid on Sunwell and witness the power
 And that's what I want to share you: the Epic Quest of a Gamification Designer, to bring that power that games have mastered, beyond the simple points, badges and leaderboards trope, to all the Muggles out there and lead them... to Victory! 
 For the Horde!!!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/ow3B4kfxVpQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ow3B4kfxVpQ)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
