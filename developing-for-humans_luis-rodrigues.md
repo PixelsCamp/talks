@@ -10,6 +10,13 @@ Description
 
 Think UX is a designer's job? Think again. Everybody has a responsibility to provide their visitors an excellent experience, and sometimes a pretty interface and smooth animations aren't enough to save your site, your app or your business. I'll be talking about how UX extends well beyond your device's screen, and share stories of how CPUs, slow networks, random number generators and the economy may conspire to ruin your day.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/eBJd5TfIXrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=eBJd5TfIXrY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
