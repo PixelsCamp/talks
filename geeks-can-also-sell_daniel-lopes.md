@@ -20,6 +20,13 @@ I want to show you that selling (ideas) is part of our lives, and that we all sh
 I want to show you that sales is a lot about being helpful and providing value, in a honest manner. 
 I want to show that you, geek as me, are on a great position to do sales for your field.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/96xg_XOG-18/maxresdefault.jpg)](https://www.youtube.com/watch?v=96xg_XOG-18)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
