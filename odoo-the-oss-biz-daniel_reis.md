@@ -46,6 +46,13 @@ possible component to implementation of their business idea*.
 <del>And of course, sell a few more books.</del>
 
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/OaVnaEr8IAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=OaVnaEr8IAw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
