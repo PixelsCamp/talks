@@ -21,6 +21,13 @@ Overview:
 
 If there is time left, i'll demonstrate how to deploy the components to Amazon ECS (Elastic Container Service), replacing Kong with Amazon's API Gateway, which will most likely be the provider being used for the App Hosting.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/_3ujgUZz-NU/maxresdefault.jpg)](https://www.youtube.com/watch?v=_3ujgUZz-NU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
