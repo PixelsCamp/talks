@@ -14,6 +14,13 @@ To make it a bit less boring I decided to spice up the simulations by using diff
 
 This made me think if these automatically-generated pieces of music could pass as being the work of a unknown (human) artist. So I decided to put them to the test. You won't believe what happened next.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/RG1IBCwbGe8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RG1IBCwbGe8)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
