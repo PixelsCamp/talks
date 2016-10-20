@@ -21,6 +21,13 @@ We can make all sort of optimisations on our code - and yet, sometimes, we can't
 Yes. Time is relative and we want the users to feel that every action is as responsible as possible.
 
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/Rc_rXl4C_A0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rc_rXl4C_A0)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
