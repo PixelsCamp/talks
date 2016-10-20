@@ -14,6 +14,13 @@ Enter [a-frame](https://aframe.io), a framework, developed by the [MozVR team](h
 
 In this talk, we'll go through what a-frame is, how it works, and how simple it is to do things, with some live examples to boot. It'll be a-blast!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/30JiFcKkAHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=30JiFcKkAHE)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
