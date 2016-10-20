@@ -12,6 +12,13 @@ Ever wondered how companies that handle large amounts of data deal with inclusio
 
 This talk will cover the basics behind bloom filters. It will explain why such an ancient, unconventional data structure is so widely used, especially when performance and space-efficiency is required. We will go on a journey through bloom filter land, analysing their behaviour, how different properties affect their internal performance and how you can improve your application by using a bloom filter.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/i05DjYt5ovk/maxresdefault.jpg)](https://www.youtube.com/watch?v=i05DjYt5ovk)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
