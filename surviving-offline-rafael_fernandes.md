@@ -26,6 +26,13 @@ To do so, we are going to explain and demonstrate the necessary concepts to make
 
 We intend to show you how easy is to build a simple and efficient web app that can "survive" intermittent Internet connectivity without affecting user experience.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/ZEOt05QUUn8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZEOt05QUUn8)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speakers Bio
 -----------
 
