@@ -42,7 +42,12 @@ At the end of the talk I hope to convince you that TDD is actually quite useful,
 and that you leave with some awareness on how to make writing these tests a bit
 easier while avoiding some common traps as you continue on this path.
 
----------------
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/nQ2ne-qEVGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=nQ2ne-qEVGU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
