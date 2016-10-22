@@ -23,6 +23,13 @@ Decision trees will be scripted in ways of a “natural” and more human conver
  
 Some say 2016 is the year of conversational commerce – I think it is now more than a buzz and inflated expectations! And a new perspective on the supporting digital architecture is emerging – let us share some thoughts.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/mhSPCD17X5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=mhSPCD17X5o)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
