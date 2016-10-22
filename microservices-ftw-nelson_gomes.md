@@ -22,7 +22,14 @@ Overview:
 * Adding a cache layer (Google Guava/Hazelcast);
 * Circuit breakers and resource management;
 * Distributed processing and redundancy;
- 
+
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/G1cgq97HY04/maxresdefault.jpg)](https://www.youtube.com/watch?v=G1cgq97HY04)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
