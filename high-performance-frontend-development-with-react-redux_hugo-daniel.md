@@ -22,6 +22,13 @@ Overview:
 
 Join the trenches if any of these interest you :D
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/L9Ejdinj-qo/maxresdefault.jpg)](https://www.youtube.com/watch?v=L9Ejdinj-qo)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
