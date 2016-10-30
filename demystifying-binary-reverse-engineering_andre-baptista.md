@@ -23,6 +23,13 @@ In this talk, after a brief introduction, I'm going to show you:
 
 Do you want to find out the secrets of reverse engineering? Just dive in!
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/q_jBaPXpr_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=q_jBaPXpr_k)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
