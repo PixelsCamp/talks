@@ -29,6 +29,13 @@ Links
 * Melhor da Zona Blog: [http://blog.melhordazona.com](http://blog.melhordazona.com)
 * Melhor da Zona Facebbok: [https://www.facebook.com/melhordazona](https://www.facebook.com/melhordazona)
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/fZm0paShVMw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fZm0paShVMw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
