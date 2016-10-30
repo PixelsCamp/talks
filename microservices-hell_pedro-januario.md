@@ -14,6 +14,13 @@ Well, if you are looking for that on this talk then *this is not the talk you ar
 In this talk I will explore some of the pitfalls and common problems that turn your new microservices architecture into a living nightmare, moving you from the promised land directly to hell...
 I will approach some solutions to common problems and in some case most likely advise you to drop microservices until you are ready for it.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/3nqFSnJVEJU/maxresdefault.jpg)](https://www.youtube.com/watch?v=3nqFSnJVEJU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
