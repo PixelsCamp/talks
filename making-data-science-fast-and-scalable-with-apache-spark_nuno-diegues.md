@@ -13,6 +13,13 @@ At Feedzai we face exactly that challenge, as we process large amounts of data t
 In this talk we will tell you all about our Spark deployment and how we use it to empower our Data Science pipelines to extract meaning from the large amounts of streaming data arriving to our systems. We will talk about our use of Spark low level APIs, which we use to dynamically generate Spark programs on-the-fly that scale to process large amounts of data in parallel. While doing so, we will delve into some challenges of doing so, such as: correctly partitioning the work, optimizing Spark shuffles, reducing the serialization costs, deploying it to large clusters, and all other difficulties you would face when putting Spark to use with high performance requirements.
 
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/viROKBea3jg/maxresdefault.jpg)](https://www.youtube.com/watch?v=viROKBea3jg)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
