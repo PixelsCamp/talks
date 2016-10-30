@@ -18,6 +18,13 @@ We are as passionate about building a great company as we are about building gre
 
 This talk will let you in on the core processes that laid the foundations to achieve this. All major lessons, good and bad, in 30 minutes. Some of them, you'll find in books. Some, in common sense. Some others, you'll find in this talk.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/aA-EehkIs0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=aA-EehkIs0Y)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
