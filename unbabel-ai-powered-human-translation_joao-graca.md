@@ -11,6 +11,13 @@ Description
 Unbabel empowers with Artificial Intelligence a community of 40K+ translators worldwide to increase the speed of delivering human quality translation and dramatically reduce translation costs. It does so by relying in a complex symbiosis between man and machine. From machine translation and automatic post-editing, to quality estimation, AI powered grammar correction, and smart translator selection based on their past usage, Unbabel employs a wide range of machine learning and natural language processing tools. In this talk I will describe those tools, and how they interact with the crowd of human translators. In a world where the Internet is diverging by the emergence of multiple language-centric internets, Unbabel is uniting these internets to extend the global reach of businesses worldwide.
 
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/rx9MYeagiL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=rx9MYeagiL0)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
