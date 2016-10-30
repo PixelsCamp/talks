@@ -16,6 +16,13 @@ HTTP has taken us far, but it's probably not the best transport to deliver compl
 
 This talk proposes an original architecture style that will sit in front of your micro-service stack and that you can attach to any existing service back-end. The author will show an implementation of this architecture pattern: a proof-of-concept application and a set of client and server open-source libraries built on top of PouchDB, and Node.js.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/Y4UBQa2epPc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y4UBQa2epPc)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
