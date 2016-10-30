@@ -12,6 +12,13 @@ To use the Tor network or not isn't only question of privacy. You can
 gain privacy (but not necessarily) and you will lose speed,
 accessibility and functionality. This presentation will show what you will lose.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/btpyOmfFGu0/maxresdefault.jpg)](https://www.youtube.com/watch?v=btpyOmfFGu0)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
