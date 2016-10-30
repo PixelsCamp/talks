@@ -9,6 +9,13 @@ Description
 
 Connecting the dots, being able to analyze a diverse set of information made of billions of pieces of discrete data allows to build the maps that reveal where the malicious infrastructure is hidden and where the attacks are staged. This turns the table of traditional security with a new approach where the defender takes the upper hand on the attacker, being able to pivot through the criminal infrastructure.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/CMgqtbgx1Bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CMgqtbgx1Bw)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
