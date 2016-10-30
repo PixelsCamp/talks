@@ -16,6 +16,13 @@ So I embarked in this long adventure of designing and implementing a rather larg
 
 In this talk I'll tell you about the project itself and the challenges I faced, both at the hardware and software level.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/93wUpPuk/maxresdefault.jpg)](https://www.youtube.com/watch?v=93wUpPuk)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
