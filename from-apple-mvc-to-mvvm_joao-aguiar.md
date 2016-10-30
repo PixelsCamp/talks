@@ -18,6 +18,12 @@ In this presentation I will talk about the advantages of moving from MVC to MVVM
 
 I will also talk about how you can improve your core using Reactive Programming and dependency injection.  
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/hTs_NLCh-KY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hTs_NLCh-KY)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
