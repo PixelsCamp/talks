@@ -16,6 +16,13 @@ The new Todoist for Android Wear, [previewed at Google I/O's keynote](https://ww
 
 This talk will walk you through some of the highlights of going all in with Kotlin and Anko. The meatiest of meats. Enough of code samples — let's see how these behave when developing for millions.
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/bYcFjIXDDJU/maxresdefault.jpg)](https://www.youtube.com/watch?v=bYcFjIXDDJU)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
