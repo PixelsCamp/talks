@@ -18,6 +18,13 @@ Expect to see the highlights of this 2-year journey and leave with some takeaway
 - how to deal with very complex UIs (hint: virtualization)
 - improving css animations and transitions
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/6Kug9Z7bu38/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Kug9Z7bu38)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
+
 Speaker Bio
 -----------
 
