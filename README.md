@@ -1,6 +1,3 @@
-[![Pixels love GitHub](https://pixels.camp/img/pixels_camp_loves_github.svg)](https://pixels.camp)
-
-
 # [Pixels Camp 2017](https://pixels.camp) Call for Talks
 
 
