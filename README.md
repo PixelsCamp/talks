@@ -1,7 +1,7 @@
 [![Pixels love GitHub](https://pixels.camp/img/pixels_camp_loves_github.svg)](https://pixels.camp)
 
 
-# [Pixels Camp 2016](https://pixels.camp) Call for Talks
+# [Pixels Camp 2017](https://pixels.camp) Call for Talks
 
 
 ## How to submit a talk
@@ -45,12 +45,17 @@ Make sure we have a way to contact you! Either set up your e-mail address in you
 
 #### Relevance
 
-Is the talk relevant for the PixelsCamp attendance? Namely, would it make sense for a bunch of nerds to sit through your talk in the context of a technological event?  
+* Is the talk relevant for the PixelsCamp attendance?
+* Does it make sense for a bunch of hard code technical audience to sit through your talk in the context of Pixels Camp?
+
 Relevance is tricky as it doesn’t necessarily translate to geeky or codable. Sometimes interesting talks show up and aren’t even related to technology.
 
 #### Novelty
 
-Is it old news? Has it been heavily discussed in the past? Sometimes good talks get rejected because they get old. Try to awe the attendees with some fresh insights!
+* Is it old news?
+* Has it been heavily discussed in the past?
+
+Sometimes good talks get rejected because they get old. Try to awe the attendees with fresh insights!
 
 <br>
 <br>
