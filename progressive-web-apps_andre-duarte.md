@@ -9,7 +9,7 @@ Progressive Web Apps
 Description
 -----------
 
-This is a presentation about the concept of Progressive Web Apps. Native code has always been regarded as the superior means of developing a mobile application. The Web, although extremely powerful, is sometimes seen as a cheaper alternative so companies don't have to develop the same products twice (or more). But wouldn't it be great if we could develop an application just once and have the exact same experience as a native app? And wouldn't it be great it that pratform was global and free?
+This is a presentation about the concept of Progressive Web Apps. Native code has always been regarded as the superior means of developing a mobile application. The Web, although extremely powerful, is sometimes seen as a cheaper alternative so companies don't have to develop the same products twice (or more). But wouldn't it be great if we could develop an application just once and have the exact same experience as a native app? And wouldn't it be great if that platform was global and free?
 
 That is the idea behind Progressive Web Apps: a set of guidelines for both application developers and browser developers so that the web can fill the gaps that still make the native experience better for the user. This won't be an extensive overview of all the guidelines but a set of my personal favourites.
 
