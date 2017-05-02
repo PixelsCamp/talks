@@ -13,7 +13,7 @@ This is a presentation about the concept of Progressive Web Apps. Native code ha
 
 That is the idea behind Progressive Web Apps: a set of guidelines for both application developers and browser developers so that the web can fill the gaps that still make the native experience better for the user. This won't be an extensive overview of all the guidelines but a set of my personal favourites.
 
-Since 30 minutes are not enough the offer live coding, I want this presentation to be followed by a small practical exercise (the presentation setup is not ideal for this, so we'll just find a table) where we will take a standard web app and make it progressive in less than 30 minutes.
+Since 30 minutes is not enough to offer live coding, I want this presentation to be followed by a small practical exercise (the presentation setup is not ideal for this, so we'll just find a table) where we will take a standard web app and make it progressive in less than 30 minutes.
 
 Speaker Bio
 -----------
