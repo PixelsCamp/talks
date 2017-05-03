@@ -11,9 +11,6 @@ Description
 
 An overview of the benefits of using typed languages when working with React and React Native, with examples in TypeScript, including setup using Webpack and tsc, a comparison with standard PropTypes and Flow, common caveats, and strategies for converting your existing applications. 
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
 
@@ -23,5 +20,5 @@ Links
 -----
 
 * Blog: https://goblindegook.com
-* Company: https://equalexperts.co
+* Company: https://equalexperts.com
 * Github: http://github.com/goblindegook
