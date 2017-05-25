@@ -17,7 +17,7 @@ Let's fly for a minute:
 ```js
 true + true === 2   // true
 true - true === 0   // true
-true === 1
+true === 1          // false
 ```
 I know the felling :shit:
 
