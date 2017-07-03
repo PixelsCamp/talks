@@ -19,6 +19,8 @@ Speaker Bio
 
 A Software Engineer with 2 years of experience as Sys Admin and 6 years of experience as a Developer. I consider myself a "techie" that loves to keep up to date with latest trends in Software.
 
+Currently working for BitSight, the Standard in Security Ratings.
+
 With a BSc Degree in Computer Science and Computer Engineering from Instituto Superior de Engenharia de Lisboa (ISEL).
 
 Links
