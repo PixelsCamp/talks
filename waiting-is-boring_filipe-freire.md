@@ -3,7 +3,7 @@ Waiting is boring
 
 * Speaker   : Filipe Freire
 * Available : Anytime
-* Length    : 20-25 mins
+* Length    : 30-35 mins
 * Language  : English
 
 Description
