@@ -32,6 +32,6 @@ In my professional life I've had to wait in a lot of different ways. Be it for e
 Links
 -----
 
-* Blog: filfreire.github.io
+* Blog: https://filfreire.github.io
 * Company: http://www.blip.pt/
 * Github: http://github.com/filfreire
