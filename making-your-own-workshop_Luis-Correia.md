@@ -1,4 +1,4 @@
-[My Awesome Talk Title]
+[Making your own workshop (for woodworking)]
 ========================
 
 * Speaker   : Luís Correia
