@@ -1,4 +1,4 @@
-[Making your own workshop (for woodworking)]
+Making your own workshop (for woodworking)
 ========================
 
 * Speaker   : Luís Correia
