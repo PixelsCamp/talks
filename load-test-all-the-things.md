@@ -21,12 +21,13 @@ This will be a hands-on session where we will explore some load testing tools, l
 Speaker Bio
 -----------
 
-Nuno Caneco is Senior Software Engineer at Talkdesk, Portugal.
+Nuno Caneco is an Engineering Manager and Cluster Lead at Farfetch.
+
 Nuno is passionate about building good, reliable and performant software. Beside building software, Agile is also a big part of Nuno's professional career, as he has been making his way as Scrum Master and coaching Teams.
 
 Links
 -----
 
 * Blog: https://medium.com/@nuno.caneco
-* Company: https://www.talkdesk.com/
+* Company: https://www.farfetch.com/
 * Github: https://github.com/nmcc/
