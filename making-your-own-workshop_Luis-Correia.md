@@ -9,8 +9,13 @@ Making your own workshop (for woodworking)
 Description
 -----------
 
-Ever wanted to start making and fixing stuff? In this talk you can learn which basic tools you'll need to start your own garage workshop. I'll be focusing on woodworking as it's my new hobby.
-This talk will be a slideshow as I'm unable to bring my heavy tools up on stage.
+Ever wanted to start making stuff? In this talk you can learn which tools you'll need to start your own garage workshop. I'll be focusing on woodworking as it's my new hobby.
+
+From the humble hammer to the table saw, from screwdriver to powerdrill there's a whole universe of possibilities.
+
+This talk will be mostly a slideshow as I'm unable to bring my heavy tools up on stage.
+
+I'll describe how I've made my tablesaw from an old circular saw and some plans I bought online.
 
 
 Speaker Bio
