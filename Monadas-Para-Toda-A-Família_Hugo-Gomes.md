@@ -1,4 +1,4 @@
-Monadas para toda a família
+Monads for the whole family
 ===========================
 
 * Speaker   : Hugo Gomes
@@ -9,23 +9,23 @@ Monadas para toda a família
 Description
 -----------
 
-As monadas são um conceito avançado de programação que pode ser utilizado em qualquer linguagem mesmo por praticantes de nível iniciado e/ou com poucos conhecimentos técnicos.
+Monads are an advanced programming concept that can be used in any computer language by beginners.
 
-São também conhecidas por serem profundamente confusas e difíceis de se explicar.
+They are also known to be very hard to explain and to lead those who venture into confusion and frustration.
 
-Com esta palestra não pretendo tentar explicar o que são nem como funcionam (pessoas bem mais inteligentes e capazes do que eu já o tentaram fazer sem grande sucesso).
+In this talk I don't intend to explain what they are or how they work (way smarter people than me have tried this without success).
 
-Em vez disso decidi centrar o tema nos habituais exemplos basicos que se usam para aprender os paradigmas tradicionais da programação por forma a capacitar os audazes a decompor qualquer problema em monadas.
+Instead I decided to center the subject on the usual canonical programming examples that are used to explain your typical programming paradigms, that way I hope to enable the audacious to decompose any problem with monads.
 
-Encaminharei a audiência através de uma série de exemplos cuidadosamente coligidos para que as Monadas passem de caixinha do tesouro com perninhas para o verdadeiro caixote do lixo que são.
+I will lead the audience through a set of carefully collided examples so that they can see past the magical mythical golden aura that Monads have and realize the true trash cans that they really are.
 
 ---------------
 
 Speaker Bio
 -----------
 
-Programo há muitos anos em Haskell. Os suficientes para não gostar da linguagem.
-Apesar disso soube recentemente que [tenho um git award na coisa](http://git-awards.com/users?country=portugal&language=haskell), que é uma maneira sofisticada de dizer que se fosse um cão seria um chihuahua ![Tás a olhar ? Levas uma lambdidela](http://files.dogster.com/pix/dogs/81/281/281_1250532891.jpg).
+I have been coding in Haskell for many years and since the day that i started that i absolutely hate it. In spite of that someone recently told me that i have a [pt git award for it](http://git-awards.com/users?country=portugal&language=haskell), which is a highly sophisticated way of saying that if i was a dog i would be a chihuahua
+![Tás a olhar ? Levas uma lambdidela](http://files.dogster.com/pix/dogs/81/281/281_1250532891.jpg).
 
 Links
 -----
