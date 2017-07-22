@@ -7,13 +7,13 @@
 
 Talk proposals are handled through GitHub Pull Requests. Follow the instructions below:
 
-* Make sure you're logged in to **GitHub**;
-* **Fork** this repository into your account;
-* **Duplicate** the `my-awesome-talk_my-name.md` template into a **new file**;
-* Rename the **new file** using your talk's title and your name
+1. Make sure you're logged in to **GitHub**;
+2. **Fork** this repository into your account;
+3. **Duplicate** the `my-awesome-talk_my-name.md` template into a **new file**;
+4. Rename the **new file** using your talk's title and your name
 (eg: `pixels-camp-is-going-to-be-legen-dary_celso-martinho.md`);
-* Edit the **new file** and fill in each section (**do not delete the template file**);
-* When you're ready, submit a **Pull Request** and paste your markdown file contents into the **first comment**.
+5. Edit the **new file** and fill in each section (**do not delete the template file**);
+6. When you're ready, submit a **Pull Request** and paste your markdown file contents into the **first comment**.
 
 **Note:** If you're proposing more than one talk, please open **separate** Pull Requests.
 
