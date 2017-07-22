@@ -3,18 +3,25 @@
 
 ## How to submit a talk
 
-Talks proposals are handled through GitHub pull requests. Follow the instructions below:
+Talk proposals are handled through GitHub Pull Requests. Follow the instructions below:
 
-* Log in to **GitHub** or create an account.
-* **Fork this repository**.
-* **Duplicate** the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/talks/blob/master/my-awesome-talk_my-name.md) file first and rename the **new file** after your talk title and your name.  
-(ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
-* Edit the **new file** and fill in each section.
-* **Do not delete the template file.**
-* When you're ready, **submit a pull request** and **comment** using your markdown file contents.
-* Anyone can comment your pull request. If your talk is accepted we will merge it.
-* Deadline for submitting talks is **July 31st**. After than we won't be accepting more pull requests.
-* We will respond to everyone who submits a proposal even if it's not accepted.
+* Make sure you're logged in to **GitHub**;
+* **Fork** this repository into your account;
+* **Duplicate** the `my-awesome-talk_my-name.md` template into a **new file**;
+* Rename the **new file** using your talk's title and your name
+(eg: `pixels-camp-is-going-to-be-legen-dary_celso-martinho.md`);
+* Edit the **new file** and fill in each section (**do not delete the template file**);
+* When you're ready, submit a **Pull Request** and paste your markdown file contents into the **first comment**.
+
+### What happens next?
+
+* Anyone can comment (and vote) on your Pull Request.
+* If your talk is accepted we will merge the Pull Request.
+* We'll give feedback to anyone who submits a talk proposal even if isn't accepted.
+
+The deadline for submitting talks is **July 31st**. After than we won't be accepting any more Pull Requests.
+
+Speakers must also be participants, so don't forget to **apply** for Pixels Camp here: https://pixels.camp
 
 
 ## What should be in the proposal?
@@ -42,7 +49,7 @@ Make sure we have a way to contact you! Either set up your e-mail address in you
 
 #### Relevance
 
-* Is the talk relevant for the PixelsCamp attendance?
+* Is the talk relevant for the Pixels Camp attendance?
 * Does it make sense for a bunch of hard code technical audience to sit through your talk in the context of Pixels Camp?
 
 Relevance is tricky as it doesn’t necessarily translate to geeky or codable. Sometimes interesting talks show up and aren’t even related to technology.
@@ -55,5 +62,6 @@ Relevance is tricky as it doesn’t necessarily translate to geeky or codable. S
 Sometimes good talks get rejected because they get old. Try to awe the attendees with fresh insights!
 
 <br>
-<br>
-Thanks, the Pixels Camp crew
+Thanks,
+
+The Pixels Camp crew
