@@ -1,5 +1,7 @@
 # [Pixels Camp 2017](https://pixels.camp) Call for Talks
 
+![Call For Talks](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/call_for_talks.jpg)
+
 
 ## How to submit a talk
 
@@ -12,6 +14,8 @@ Talk proposals are handled through GitHub Pull Requests. Follow the instructions
 (eg: `pixels-camp-is-going-to-be-legen-dary_celso-martinho.md`);
 * Edit the **new file** and fill in each section (**do not delete the template file**);
 * When you're ready, submit a **Pull Request** and paste your markdown file contents into the **first comment**.
+
+**Note:** If you're proposing more than one talk, please open **separate** Pull Requests.
 
 ### What happens next?
 
@@ -26,7 +30,7 @@ Speakers must also be participants, so don't forget to **apply** for Pixels Camp
 
 ## What should be in the proposal?
 
-Every proposal should have, at minimum, the following information: 
+Every proposal should have, at minimum, the following information:
 
 * Your Name
 * Your Availability (what days/times you are able to do this presentation)
