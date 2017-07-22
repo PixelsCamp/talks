@@ -1,7 +1,7 @@
 X challenges of creating a hardware product and how to overcome them (or not)
 ========================
 
-* Speaker   : Jo„o Carreiro
+* Speaker   : Jo√£o Carreiro
 * Length    : 30 mins
 * Language  : English
 
