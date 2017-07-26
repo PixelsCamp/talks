@@ -2,7 +2,7 @@ FLL from referee to coach
 ========================
 
 * Speaker   : Pedro Frazão
-* Available : October 6th, 7th and 8th
+* Available : September 28th, 29th and 30th
 * Length    : 10 or 30 mins
 * Language  : Portuguese
 
