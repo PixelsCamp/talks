@@ -15,8 +15,7 @@ Picture this: you make tests in a continuous integration workplace. Be it webpag
 
 Somewhere along the way you've gone to the dark side. You have to make the computer wait or sleep because something is not ready.
 
-So, what can we use to avoid painful hammered sleeps?
-Forget about standard "waiting". There are new techniques that are not known by many, but that make waiting in tests smarter.
+Forget about standard "waiting". There are new techniques that are not known by many, but that make waiting in tests smarter. Some of these techniques will be live demonstrated for a typical frontend application test and micro-service with an API and messaging.
 
 ---------------
 
