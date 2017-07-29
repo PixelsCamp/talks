@@ -23,7 +23,7 @@ Talk proposals are handled through GitHub Pull Requests. Follow the instructions
 * If your talk is accepted we will merge the Pull Request.
 * We'll give feedback to anyone who submits a talk proposal even if isn't accepted.
 
-The deadline for submitting talks is **July 31st**. After than we won't be accepting any more Pull Requests.
+The deadline for submitting talks is **August 31st**. After than we won't be accepting any more Pull Requests.
 
 Speakers must also be participants, so don't forget to **apply** for Pixels Camp here: https://pixels.camp
 
