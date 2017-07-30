@@ -1,10 +1,10 @@
 Model Based Testing FTW. (or Testing, the right way!)
 ========================
 
-* Speaker   : [Daniel Araújo]
-* Available : [Available all times] 
-* Length    : [30-40 mins]
-* Language  : [English]
+* Speaker   : Daniel Araújo
+* Available : Available all times
+* Length    : 30-40 mins
+* Language  : English
 
 Description
 -----------
