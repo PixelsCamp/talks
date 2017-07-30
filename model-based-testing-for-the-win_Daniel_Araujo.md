@@ -16,7 +16,7 @@ spotted with the traditional approaches. Lack of coverage, small subset of the p
 
 In this 30 minutes talk, I am going to present an approach to black box testing, in terms of a generic methodology (model based, platform-agnostic) that can be adopted in (almost) any project. I will show you how this methodology can beat the rest of the commonly used approaches, by presenting a set of real world scenarios and addressing the common pitfalls.
 
-Further from a conceptual overview this 30 minute talk will include real examples (including UI testing examples and model-based security of non-functional requirements).
+Further from a conceptual overview this 30 minute talk will include real examples (including UI testing examples and model-based testing of non-functional requirements).
 
 
 Speaker Bio
