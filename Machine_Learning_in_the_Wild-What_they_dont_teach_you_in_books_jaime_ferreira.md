@@ -1,7 +1,7 @@
 Machine Learning in the Wild - What they don't teach you in books
 ========================
 
-* Speaker   : [*TBD*]
+* Speaker   : [*Pedro Bizarro*]
 * Available : [*Any Date*]
 * Length    : [*30-45 minutes*]
 * Language  : [*English*]
@@ -16,7 +16,7 @@ In this talk you will learn why Machine Learning and Data Science are much more 
 Speaker Bio
 -----------
 
-TBD
+Pedro Bizarro is co-founder and Chief Science Officer at Feedzai. Pedro is a researcher turned entrepreneur: after a 10-year Academia research career (Computer Science PhD at the U. of Madison - Wisconsin, Fulbright Fellow, Marie Curie Fellow) Pedro is now CSO at Feedzai where he leads R&D efforts to develop the best fraud prevention algorithms and tools. Pedro is a high performance data processing expert that loves data, algorithms and visualization.
 
 Links
 -----
