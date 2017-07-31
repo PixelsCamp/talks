@@ -1,7 +1,7 @@
 Machine Learning in the Wild - What they don't teach you in books
 ========================
 
-* Speaker   : [*Pedro Bizarro*]
+* Speaker   : [*Jaime Ferreira*]
 * Available : [*Any Date*]
 * Length    : [*30-45 minutes*]
 * Language  : [*English*]
@@ -16,7 +16,9 @@ In this talk you will learn why Machine Learning and Data Science are much more 
 Speaker Bio
 -----------
 
-Pedro Bizarro is co-founder and Chief Science Officer at Feedzai. Pedro is a researcher turned entrepreneur: after a 10-year Academia research career (Computer Science PhD at the U. of Madison - Wisconsin, Fulbright Fellow, Marie Curie Fellow) Pedro is now CSO at Feedzai where he leads R&D efforts to develop the best fraud prevention algorithms and tools. Pedro is a high performance data processing expert that loves data, algorithms and visualization.
+Jaime Ferreira graduated in Information Systems and Computer Engineering in 2012 from Instituto Superior Técnico (IST), Lisbon. He finished his Masters Degree in Information Systems and Computer Engineering (IST) in 2015, with a thesis named "Incremental Learning of Probabilistic Models in High-Dimensional Space". During his education he has been associated with INESC-ID's Spoken Language Systems Lab (L²F), first as a trainee, and later as scholarship holder. From this association, he participated in some internal, national and European projects.
+
+Currently, he is part of Feedzai's Research team, where he aims to develop new algorithms and adapt existing ones to the domain of fraud detection, keeping Feedzai the state-of-the-art leader in fraud detection. 
 
 Links
 -----
