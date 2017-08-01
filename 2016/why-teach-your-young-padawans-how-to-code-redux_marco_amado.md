@@ -2,7 +2,6 @@ Why teach your young padawans how to code - redux
 =================================================
 
 * Speaker   : Marco Amado
-* Available : Anytime of the 3 days
 * Length    : 25-40 minutes
 * Language  : Portuguese, unless there's at least one non-portuguese-speaking attendee, in which case, English
 
@@ -20,9 +19,17 @@ It'll have two parts:
     * Projects that are currently teaching code to children or training educators to teach code for free or close;
     * How to teach code to children (highly IMHO-ridden matter, although an informed opinion, to say the least)
 
+Video
+-----
+
+[![Video](https://img.youtube.com/vi/tdRc050mT7E/maxresdefault.jpg)](https://www.youtube.com/watch?v=tdRc050mT7E)
+
+_Click the thumbnail above to watch the video from this talk on Youtube_
 
 Speaker Bio
 -----------
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1004528?v=3&s=400)
 
 I've been a professional developer for ten years now, ranging from web (both frontend and backend) to desktop and mobile applications.
 
@@ -37,3 +44,7 @@ Links
 * Company: https://www.moloni.com
 * Github: https://github.com/mjamado
 * Twitter: https://twitter.com/mjamado
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
