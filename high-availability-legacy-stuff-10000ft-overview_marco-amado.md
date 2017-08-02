@@ -1,4 +1,4 @@
-[High Availability Architecture for Legacy Stuff - a 10.000 feet overview]
+High Availability Architecture for Legacy Stuff - a 10.000 feet overview
 ========================
 
 * Speaker   : Marco Amado
