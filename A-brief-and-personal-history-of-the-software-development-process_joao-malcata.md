@@ -1,4 +1,4 @@
-A brief history of the software development process according to my experience
+A brief and personal history of the software development process
 ========================
 
 * Speaker: Joao Malcata
