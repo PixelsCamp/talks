@@ -23,14 +23,14 @@ The subject itself is old and has been discussed a lot.
 The insight I expect to bring is that, it is not about what you do, the sequence of steps you take to do something. But a lot more about how you do it, the attitude you put into it. Organizations must change to become more customer responsive, just adopting agile processes is makeup. The process you use to deliver something is a consequence of who you are and not the opposite.
 My professional experience will be driving the talk on how circumstances, business nature and context influences the development process and not the other way around.
 
-[further details] (https://medium.com/@malcata/a-brief-history-of-the-software-development-process-according-to-my-experience-15a6349bb77a)
+[further details](https://medium.com/@malcata/a-brief-history-of-the-software-development-process-according-to-my-experience-15a6349bb77a)
 ---------------
 
 Speaker Bio
 -----------
 
 Dad, software engineer, telco, cybersecurity, web, and OSS.
-19+ using tech to build products, teams, and processes.
+15+ using tech to build products, teams, and processes.
 Divided by the knowledge that any simple thing can be made complex by adding people and that the secret ingredient for virtuosity and fun is people.
 
 Links
