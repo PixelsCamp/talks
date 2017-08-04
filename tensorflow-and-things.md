@@ -1,4 +1,4 @@
-Tensorflow and things
+TensorFlow and things
 ========================
 
 * Speaker   : Bernardo Vieira
