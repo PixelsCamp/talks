@@ -9,7 +9,7 @@ Breaking FrontEnd Paradigms with Vue.js
 Description
 -----------
 
-Vue.js is more consolidated than ever. According to Third Party Benchmark it is one of the JavaScript frameworks with better performance. Vue.js is the future of the client-side MV* world, and is one of the most promising alternatives, competing with industry giants frameworks, such as React and Angular 2. We will review the core concepts of the framework, and demonstrate how you can scale progressively, even when you have complex requirements.
+Vue.js is more consolidated than ever. According to [JS Frameworks Benchmark](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html) it is one of the JavaScript frameworks with better performance. Vue.js is the future of the client-side MV* world, and is one of the most promising alternatives, competing with industry giants frameworks, such as React and Angular 2. We will review the core concepts of the framework, and demonstrate how you can scale progressively, even when you have complex requirements.
 
 ---------------
 
