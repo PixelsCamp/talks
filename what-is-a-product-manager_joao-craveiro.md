@@ -2,7 +2,7 @@ What is a Product Manager?
 ==========================
 
 * Speaker   : *João Craveiro*
-* Available : *September 28th, 5pm–7pm. September 29th, 9am–10am or 5pm–7pm.*
+* Available : *September 28th, 5pm–7pm. September 29th, 9am–10am or 6pm–8pm. September 30th, 10am–12pm*
 * Length    : *30–45 mins*
 * Language  : *English*
 
