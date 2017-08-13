@@ -1,5 +1,5 @@
-What is a Product Manager?
-==========================
+What the heck is a Product Manager?
+===================================
 
 * Speaker   : *João Craveiro*
 * Available : *September 28th, 5pm–7pm. September 29th, 9am–10am or 6pm–8pm. September 30th, 10am–12pm*
