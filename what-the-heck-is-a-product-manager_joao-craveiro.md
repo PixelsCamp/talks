@@ -2,7 +2,7 @@ What the heck is a Product Manager?
 ===================================
 
 * Speaker   : *João Craveiro*
-* Available : *September 28th, 5pm–7pm. September 29th, 9am–10am or 6pm–8pm. September 30th, 10am–12pm*
+* Available : *September 28th, 1pm–6pm. September 29th, 9am–12pm or 2pm–4pm. September 30th, 10am–12pm*
 * Length    : *30–45 mins*
 * Language  : *English*
 
@@ -11,9 +11,9 @@ Description
 
 Product Manager: one of the least defined roles in the computer industry. No two companies have the same description for this job title, and it can even vary widely within one company. Is this the CEO of the product (bleargh!)? Is this a project manager wearing sneakers and hipster glasses? Do we really need them? Is this a business, marketing or technology role? Is this someone with a degree in engineering, or an MBA? What can make a software engineer want to become a product manager?
 
-This talk is for anyone who works with a product manager (if you are here, you most likely will at some point). It is also for anyone with some other type of curiosity about the role. Do you (think you) want to be a product manager? Are you a product manager confused about your own role (don't worry, we've all been there)?
+This talk is for anyone who works with a product manager (if you're here, you most likely will at some point). It is also for anyone with some other type of curiosity about the role. Do you (think you) want to be a product manager? Are you a product manager confused about your own role (don't worry, we've all been there)?
 
-Don't expect leaving with one answer, because there isn't one. But you will take home enough new insights to be able to better understand the role — either to work better with the product managers in your organisation, or to decide whether this as a career path you want to pursue.
+Don't expect leaving with one answer, because there isn't one. But you'll take home enough new insights to be able to better understand the role — either to work better with the product managers in your organisation, or to decide whether this as a career path you want to pursue.
 
 Speaker Bio
 -----------
