@@ -9,7 +9,7 @@ What the heck is a Product Manager?
 Description
 -----------
 
-Product Manager: one of the least defined roles in the computer industry. No two companies have the same description for this job title, and it can even vary widely within one company. Is this the CEO of the product (bleargh!)? Is this a project manager wearing sneakers and hipster glasses? Do we really need them? Is this a business, marketing or technology role? Is this someone with a degree in engineering, or an MBA? What can make a software engineer want to become a product manager?
+Product Manager: one of the least well-defined roles in the computer industry, although quite popular nowadays. No two companies have the same description for this job title, and it can even vary widely within one company. Are they the CEO of the product (bleargh!)? Are they project managers wearing sneakers and hipster glasses? What do they do all day? Do we really need them? Are they friends or foes? Is this a business, marketing or technology role? Is this someone with a degree in engineering, or an MBA? What can make a software engineer want to become a product manager?
 
 This talk is for anyone who works with a product manager (if you're here, you most likely will at some point). It is also for anyone with some other type of curiosity about the role. Do you (think you) want to be a product manager? Are you a product manager confused about your own role (don't worry, we've all been there)?
 
