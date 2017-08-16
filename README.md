@@ -48,7 +48,7 @@ Make sure we have a way to contact you! Either set up your e-mail address in you
 
 ## Make makes a good proposal?
 
-Before you submit your talk, ask yourself these questions and use the answers you come up with to enrich your pitch. If you get a lot of NOs, don't give up, but reconsider your idea to fit what we're looking for.
+Before you submit your talk, ask yourself these questions and use the answers you come up with to either enrich your pitch or rethink your initial idea into a better, more fitting one.
 
 #### Relevance
 
