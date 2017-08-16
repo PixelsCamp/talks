@@ -9,9 +9,23 @@ Going BIG with Pandas
 Description
 -----------
 
-Workshop to explore BIG Data using python pandas and other tools, 
-or how to efficiently deal with lots of data in a laptop...
+This is a Workshop to explore BIG Data using python pandas and other tools (or how to efficiently deal with lots of data in a laptop)
 The keyword of the workshop will be: efficiency
+
+pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+It's being widely used by scientists across multiple fields.
+
+If you want a hands-on experience on how to use pandas, and how it can befit you, this is the workshop to go!
+I've used it to cleanup data, transform it, and create each user anonymized profile. 
+Later it was also easy to process profile based recommendations, where I would score 10k items on a laptop in under 60ms.
+
+We're going to explore the basic API's of pandas to do in memory transformation, filter, groups, joins, etc...
+In the process we will learn about jupyter notebooks which are also being used in science not only to do trial and errors, but also to share the results and how they were achieved, enabling repeatability.
+
+For the workshop we will process generated data for a possible EPG and Activity Log (each attendant will generate their own data, so no repeatability here :D ).
+We will then extract data from the log, and process it. 
+In the end of the workshop we should be able to give item to item recommendations based on what people watched...
+
 
 Main tools that will be used:
 - python 3 (3.6 if you can...)
@@ -19,7 +33,9 @@ Main tools that will be used:
 - numpy
 - pandas
 
+
 Please take some time to setup your environment prior to this workshop,... take a look at ajscarvalho/pandas_workshop on github
+Also, please ensure that you have hard disk space, because we could end up generating some big files.
 
 ---------------
 
