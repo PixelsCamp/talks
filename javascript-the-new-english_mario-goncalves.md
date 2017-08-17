@@ -3,15 +3,15 @@ Javascript: The new English
 
 * Speaker   : Mário Gonçalves
 * Available : Any date
-* Length    : 30~45 minutes
+* Length    : 30 minutes
 * Language  : English
 
 Description
 -----------
 
-Some say Javascript is eating the World; others say *~~Video~~ Javascript Killed The ~~Radio~~ Java Star*. Even though that is `== true`, it is not `===` so.
+Even though it seems like **Javascript** *"is eating the World"*, it is **not** exactly so. In fact, this exact same pattern of growth, use and expansion was found in the history of today's *lingua franca*: **English**
 
-In this talk, we'll put the Web's *de facto* language in a *mano-a-mano* with the world's *lingua franca* and unveil the *je ne sais quoi* behind Javascript's *Zeitgeist* of popularity.
+This talk will draw a parallel between a natural language and a programming language, comparing their syntax and evolution, unveiling oddities and similarities as well as touch the advantages - and common pitfalls - of having a cross-boundary language in this increasingly small and diverse world.
 
 Speaker Bio
 -----------
