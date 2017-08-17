@@ -1,4 +1,4 @@
-Factorio in the cloud: Play it cheap!
+Automating infrastructure: playing factorio on AWS
 ========================
 
 * Speaker   : *Ricardo Marques*
@@ -10,7 +10,7 @@ Description
 -----------
 > An engineer starts playing a new game... and then... birds chirping!
 
- That's what happens with [Factorio](http://factorio.com). It is **the game** for all those code makers. Automate all you can!
+That's what happens with [Factorio](http://factorio.com). It is **the game** for all those code makers. Automate all you can!
 
 Quoting [Wikipedia](https://en.wikipedia.org/wiki/Factorio#Plot):
 > The game follows the story of a spaceman who crash landed on an alien planet. As the only survivor, he has to harvest his resources by hand in order to build up an industrial infrastructure to eventually build a rocket and send a satellite to space, while facing inhabitants of the planet who defend their native environment from the pollution and destruction by the player.
