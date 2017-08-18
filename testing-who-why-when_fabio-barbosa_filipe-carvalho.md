@@ -20,6 +20,8 @@ We would like to share our thoughts and background in this matter and also hear 
 Speakers Bio
 -----------
 
+Porto Testers Meetup organizers - portotestersmeetup.eventbrite.com
+
 Fábio Barbosa - Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.
 
 Filipe Carvalho - Working as a Mobile Test Automation Engineer. Also knows his way in Delivery Automation, usually surrounded by shell, gradle, fastlane and several types of scripts. Always looking to new ways to grow and drill his path in tech. Really enjoys developing tests for Mobile and exploring all the new technologies and opportunities to automate processes, infrastructure and all the development cycle.
