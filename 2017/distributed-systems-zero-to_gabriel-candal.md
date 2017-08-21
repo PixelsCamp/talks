@@ -2,7 +2,6 @@ Distributed Systems: zero to ?
 ========================
 
 * Speaker   : Gabriel Candal
-* Available : Any time 
 * Length    : 30m
 * Language  : English
 
@@ -18,11 +17,13 @@ In case you don't share the same vision or are in the stage where you're still w
 Speaker Bio
 -----------
 
-Unfortunately I'm not one of those premature wonder kids who started hacking on their ZX Spectrum (have never seen one, to be honest) before they even knew how to read. However, during college I decided to make up for the lost time and started grinding through all technologies, paradigms and MOOCs (completed 24 of them in 3 years) that sounded like a challenge.
+![Speaker Image](https://avatars0.githubusercontent.com/u/3048875?v=4&s=400)
 
-While doing all this I still had time to write a thesis on visual programming for probabilistic programming (not that anyone's using it, random forests and boosting algorithms train faster anyway), take a summer internship at Critical Manufacturing writing C/C++ on Solaris and donate some Python and Javascript to help PLATFORME International go from being a prototype to a well-established scale-up.
+Gabriel is one of those premature wonder kids who started hacking on their ZX Spectrum before he even knew how to read. However, during college he decided to make up for the lost time and started grinding through all technologies, paradigms and MOOCs (completed 24 of them in 3 years) that sounded like a challenge.
 
-Bottom line: I'm 24, a Software Engineer, and at the moment I'm contributing to Feedzai's efforts on making machine learning at scale (do we still call it big data?) easier, more available and performant.
+While doing all this he still had time to write a thesis on visual programming for probabilistic programming (not that anyone's using it, random forests and boosting algorithms train faster anyway), take a summer internship at Critical Manufacturing writing C/C++ on Solaris and donate some Python and Javascript to help PLATFORME International go from being a prototype to a well-established scale-up.
+
+He's 24, a Software Engineer, and at the moment he's contributing to Feedzai's efforts on making machine learning at scale (do we still call it big data?) easier, more available and performant.
 
 Links
 -----
@@ -30,3 +31,7 @@ Links
 * Blog: http://nextcommit.github.io
 * Company: http://feedzai.com
 * Github: http://github.com/gcandal
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
