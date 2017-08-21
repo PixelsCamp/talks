@@ -1,8 +1,7 @@
-Developing embedded software/firmware for chinese electric ebike motor controllers 
+Developing embedded software/firmware for chinese electric ebike motor controllers
 ========================
 
 * Speaker   : *Jorge Pinto*
-* Available : Dates/Times Available, eg: *October 20 - 30th, 9am-18pm* 
 * Length    : *30 mins*
 * Language  : *English*
 
@@ -20,12 +19,17 @@ I would like to present my experience, from developing the firmware and up to tr
 Speaker Bio
 -----------
 
+![Speaker Image](https://www.linkedin.com/start/view-full-profile?_ed=0_NWzwbZSg89RMlSjogUsPnK5mRM_tJpE3DRZBNbE5wZdEcRqGDTFUZBRVbL4HnJy_&trk=public_profile_tc-view)
+
 I am awesome because I put my energies to develop tecnhologies that will help "to accelerate the advent of sustainable transport by bringing compelling mass market _small electric vehicules_ to market as soon as possible." -- almost like Tesla :-)
 
 Since some years, I am being developing OpenSource knowledge and technology for electric vehicules: motors, motor controllers and battery controllers. I believe this is my contribuiton for a better world.
-
 
 Links
 -----
 
 * Github: https://github.com/casainho
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
