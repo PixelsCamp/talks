@@ -2,7 +2,6 @@ Operations as a Product
 ========================
 
 * Speaker   : *Pedro Coelho*
-* Available : *September 28th, 29th and 30th*
 * Length    : *45-60 minutes*
 * Language  : *English*
 
@@ -16,6 +15,8 @@ This talk will explore a product approach to operations, where Ops proactively p
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars0.githubusercontent.com/u/224565?v=4&s=400)
+
 Site Reliability Engineer with 10 years of experience in both Software Engineering and System Operations roles, owning a strong Software Engineering technical background and good business acumen. I've worked for companies such as the Fraunhofer Research Institute, Gruvi and Talkdesk, besides having done contract work for several international companies.
 
 Links
@@ -24,3 +25,7 @@ Links
 * Blog: https://medium.com/@punnie
 * Github: https://github.com/punnie
 * Website: https://ethereal.io
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
