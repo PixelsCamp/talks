@@ -19,7 +19,7 @@ I would like to present my experience, from developing the firmware and up to tr
 Speaker Bio
 -----------
 
-![Speaker Image](https://www.linkedin.com/start/view-full-profile?_ed=0_NWzwbZSg89RMlSjogUsPnK5mRM_tJpE3DRZBNbE5wZdEcRqGDTFUZBRVbL4HnJy_&trk=public_profile_tc-view)
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAdaAAAAJDczZTBiZGQ4LWZjMWItNDE3OS04MDYyLTEzYTg5NjcyOGEyNg.jpg)
 
 I am awesome because I put my energies to develop tecnhologies that will help "to accelerate the advent of sustainable transport by bringing compelling mass market _small electric vehicules_ to market as soon as possible." -- almost like Tesla :-)
 
