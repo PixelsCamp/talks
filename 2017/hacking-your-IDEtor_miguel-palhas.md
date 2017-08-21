@@ -1,7 +1,6 @@
 # Hacking your IDEtor
 
 * Speaker   : *Miguel Palhas*
-* Available : *All the time*
 * Length    : *30-45 mins*
 * Language  : *English*
 
@@ -28,6 +27,10 @@ In this talk I'll go through various methodologies, tips, plugins, and shortcuts
 
 ## Speaker Bio
 
+**Miguel Palhas**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/283819?v=4&s=460)
+
 I've been working on the web For the past four years, mostly writing Ruby, but also some awesome web animation on the side.
 I have a passion for Open-source, and for giving back to the community. I've taught programming to hundreds of people (between meetups, university courses, 1-1 mentoring, and even our own coding school), and have helped organize several meetups and development conferences (most notably RubyConf Portugal).
 When I'm not busy building high-quality web code, or bothering others with my teachings, I might still be busy trying to become a real game developer. Being an astronaut is no longer an option, so that's the one childhood dream I still have going on.
@@ -38,3 +41,7 @@ When I'm not busy building high-quality web code, or bothering others with my te
 * Twitter: http://twitter.com/naps62
 * Blog: https://subvisual.co/blog
 * Company: https://subvisual.co
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
