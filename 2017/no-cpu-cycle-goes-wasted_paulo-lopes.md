@@ -31,6 +31,10 @@ The talk will be around several code examples, demonstrating in a informal way w
 Speaker Bio
 -----------
 
+**Paulo Lopes**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/849467?v=4&s=460)
+
 I'm Paulo and I've used my 10+ years of software development experience writing, rewriting, banging my head against the wall, editing and re-editing high-performance web application to make Vert.x an even more awesome framework. I am also the author of "yoke" and other small open source projects. I jump out of bed with a big smile on my face each morning because I know reactive microservices are real and will finally put monoliths and big balls of mud to an end. This is more than a job; I'm on a mission to build fast and faster applications!
 
 Links
@@ -40,3 +44,7 @@ Links
 * Blog: http://www.jetdrone.xyz
 * Company: http://redhat.com
 * Github: http://github.com/pmlopes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
