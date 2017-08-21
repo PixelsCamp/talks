@@ -9,14 +9,15 @@ Hey ho, let's GO!
 Description
 -----------
 
-Uma introdução sobre GO a linguagem criada pelo google, as fantásticas características, benchmark com algumas linguagens e um caso de uso interessante onde até a infraestrutura foi reduzida. Deixem-me mostrar-vos porque vocês deveriam conhecê-la. Saber onde e quando podem tirar vantagem aplicando-a em seus projectos.
+An introduction to GO, a language created by google. We’ll start by looking at the basic structure of code in GO, its packages. After that we’ll go through conditional structures and repetitions, collections, structs, functions, methods and interfaces. Finally we’ll check concurrency, tests and the gometalinter package, which helps producing high quality code.  
+This talk is mainly intended for programmers who have only basic or even no knowledge of the language at all. The goal is to get people know the language and to help figure out where and when they can use GO.
 
 -----------
 
 Speaker Bio
 -----------
 
-Desenvolvedor há mais de uma década, que já passou por projetos em desktop,servidor,web,jogos e mobile. Apaixonado por tecnologia e séries.
+The speaker has been a developer for over a decade, and has gone through projects on desktop, server, web, games and mobile. He’s very passionate about technology loves to watch tv shows.
 
 Links
 -----
