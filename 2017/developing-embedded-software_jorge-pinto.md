@@ -19,6 +19,8 @@ I would like to present my experience, from developing the firmware and up to tr
 Speaker Bio
 -----------
 
+**Jorge Pinto**
+
 ![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAdaAAAAJDczZTBiZGQ4LWZjMWItNDE3OS04MDYyLTEzYTg5NjcyOGEyNg.jpg)
 
 I am awesome because I put my energies to develop tecnhologies that will help "to accelerate the advent of sustainable transport by bringing compelling mass market _small electric vehicules_ to market as soon as possible." -- almost like Tesla :-)

@@ -17,6 +17,8 @@ In case you don't share the same vision or are in the stage where you're still w
 Speaker Bio
 -----------
 
+**Gabrial Candal**
+
 ![Speaker Image](https://avatars0.githubusercontent.com/u/3048875?v=4&s=400)
 
 Gabriel is one of those premature wonder kids who started hacking on their ZX Spectrum before he even knew how to read. However, during college he decided to make up for the lost time and started grinding through all technologies, paradigms and MOOCs (completed 24 of them in 3 years) that sounded like a challenge.
