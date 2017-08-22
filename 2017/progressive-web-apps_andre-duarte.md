@@ -2,7 +2,6 @@ Progressive Web Apps
 ========================
 
 * Speaker   : André Duarte
-* Available : Anytime
 * Length    : 30 mins. (+30min practical exercise)
 * Language  : English
 
@@ -18,6 +17,10 @@ Since 30 minutes is not enough to offer live coding, I want this presentation to
 Speaker Bio
 -----------
 
+**André Duarte**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/3946510?v=4&s=460)
+
 André is a software engineer. He loves the web. He prefers the browser. Currently working at Betfair, for the past years he has been part of a team of amazing engineers, also known as blippers (blip.pt), who are trying to build some amazing web apps.
 
 Links
@@ -26,3 +29,7 @@ Links
 * Blog: https://andreduarte.info
 * Company: https://blip.pt
 * Github: https://github.com/onemanclapping
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
