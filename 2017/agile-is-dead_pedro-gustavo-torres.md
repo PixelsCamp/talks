@@ -19,9 +19,6 @@ Is Agile working for the software development?
 You will be exposed to the naked truth about the current status of Agile & Scrum, their ecosystems and last but not least to philosophical reflections about human nature. 
 For the brave ones, see you on the other side! 
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
 

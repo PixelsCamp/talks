@@ -2,7 +2,6 @@ Automating infrastructure: playing factorio on AWS
 ========================
 
 * Speaker   : *Ricardo Marques*
-* Available : *September 28th, 29th and 30th* 
 * Length    : *30-45 mins*
 * Language  : *English*
 
@@ -25,10 +24,13 @@ Most importantly, it'll show how all of them fit together.
 
 Bonus: code will be open source for you to play with!
 
----------------
-
 Speaker Bio
 -----------
+
+**Ricardo Marques**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/2096467?v=4&s=460)
+
 Full-time beardman. Trance music addict. Remote work advocate. Factorio player. After two years as a Site Reliability Engineer at Talkdesk, helping the company infrastructure grow along with our services needs at a fast pace, I'd say I must love learning.
 
 Keep in touch!
@@ -40,3 +42,7 @@ Links
 * Company: https://www.talkdesk.com
 * Github: https://github.com/RCM7
 * Twitter: https://twitter.com/RCM7
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
