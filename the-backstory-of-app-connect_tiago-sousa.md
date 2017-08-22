@@ -9,7 +9,7 @@ The backstory on AppConnect
 Description
 -----------
 
-Last April, during Talkdesk's user conference - OpenTalk17, we unveiled a new Marketplace for applications built on top of Talkdesk's data and core platform: https://developers.talkdesk.com
+Last April, Talkdesk unveiled a new marketplace for applications built on top of Talkdesk's data and core platform: https://developers.talkdesk.com
 
 The goal of this talk is to go through the untold story of engineering challenges and the evolution of an idea for a platform; through a series of challenges, trade-offs and binding decisions, an engineering team worked towards a common goal: build a stable foundation where others can be productive and create value.
 
@@ -23,7 +23,7 @@ It will focus on the following:
 Speaker Bio
 -----------
 
-I am passionate technologist that transforms ideas into working code. Currently Platform Tech Lead at Talkdesk, where I have been for the last 5 years improving my craft and empowering others. Previously worked in electronic toll management systems at Brisa Inovação and a startup's founding team.
+I am passionate technologist who transforms ideas into working code. Currently Platform Tech Lead at Talkdesk, where I have been for the last 5 years improving my craft and empowering others. Previously worked in electronic toll management systems at Brisa Inovação and a startup's founding team.
 
 Links
 -----
