@@ -2,7 +2,6 @@ Boost your confidence with Consumer-Driven Contracts
 ========================
 
 * Speaker   : Pedro Tavares
-* Available : Any date
 * Length    : 30~45 minutes
 * Language  : English
 
@@ -17,10 +16,12 @@ We need to ensure that when we deploy a new service into production, our changes
 
 In this talk, I will show you how to implement consumer-driven contracts and we'll move TDD to the level of software architecture.
 
----------------
-
 Speaker Bio
 -----------
+
+**Pedro Tavares**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1714825?v=4&s=460)
 
 I'm a passionate Software Engineer with interests around automated workflows, microservices, test-driven development, design patterns, and databases. Currently, I work at Jumia Services, the leading e-commerce fulfillment and delivery in Africa. If you can't find me building software, I bet you'll find me playing videogames or surfing waves in Portugal's Northern Coast.
 
@@ -31,3 +32,7 @@ Links
 * Company: https://group.jumia.com/
 * Github: http://github.com/ordepdev
 * Twitter: https://twitter.com/ordepdev
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
