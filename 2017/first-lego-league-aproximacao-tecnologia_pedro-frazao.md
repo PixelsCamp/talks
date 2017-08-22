@@ -2,14 +2,14 @@ FIRST LEGO Leage - uma boa oproximação à tecnologia?
 ========================
 
 * Speaker   : Pedro Frazão
-* Available : October 6th, 7th and 8th
-* Length    : 10 or 30 mins
+* Length    : ~30 mins
 * Language  : Portuguese
 
 Description
 -----------
 
-Na minha opinião, a tecnologia pode ser útil na escola/aprendisagem, mas não com mais uma disciplina/área, antes como uma ferramenta de aprendisagem.
+Na minha opinião, a tecnologia pode ser útil na escola/aprendizagem, mas não como mais uma disciplina/área, antes como uma ferramenta de aprendisagem.
+
 E do que tenho visto, e lido, a solução tem sido, um pouco por todo lado, o de mais uma disciplina/conteúdo. E os resultado não são animadores.
 
 A tegnologia, e a programação em particular, deve ser vista (ao nível escolar) como uma ferramenta no processo de aprendeisagem, e não como um fim.
@@ -18,11 +18,14 @@ A FLL é um evento onde a tecnologia, e a programação, estão presente, mas qu
 
 Mas porquê falar da FLL num evento como o Pixel's Camp? Embora a FLL já tenha uns anos em Portugal, o número de equipas teima em não aumentar signitivamente. As causas são multiplas: desconhecimento, desinteresse, poucas competências na área, etc. E é neste ponto que pessoas como as que estão no Pixel's Camp podem ajudar. Dando a conhecer o evento, criando equipas (mesmo que exteriores ao meio escolar) ou como voluntários no evento.
 
-Não tedo eu qualquer relação com a organização da FLL Portugal, gostaria, mesmo assim, de ver mais equipa nacionais no evento, mais preparadas e empenhadas.
-
+Não tendo eu qualquer relação com a organização da FLL Portugal, gostaria, mesmo assim, de ver mais equipas nacionais no evento, mais preparadas e empenhadas.
 
 Speaker Bio
 -----------
+
+**Pedro Frazão**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/603718?v=4&s=460)
 
 I've been working in telecommunication since 1997 (at EUnet). In this
 path I worked as: system administrator (mainly Linux); services
@@ -43,3 +46,7 @@ Links
 * Blog: https://fuzzyrecall.wordpress.com/
 * Company: http://www.nos.pt/
 * Github: http://github.com/pedrofrazao/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
