@@ -2,7 +2,6 @@ Agile Kamasutra
 ========================
 
 * Speaker   : David Silva Cordeiro and Nuno Silva Pereira
-* Available : Anytime 
 * Length    : 30 mins
 * Language  : English
 
@@ -19,11 +18,19 @@ Using Kamasutra metaphors, Nuno and David will make a parallelism between how yo
 
 The goal of this talk is for everyone to get back to their teams and help them excel in delivering more value for the clients, the team members and yourself!
 
----------------
-
 Speaker Bio
 -----------
 
- David Silva Cordeiro is a Delivery Lead @ Equal Experts helping teams and clients achieve awesomeness. With 11 years experience, he has worked in IT for Banking, Oil&Gas and Telco's in both Portugal and Norway. 
- Nuno Silva Pereira is a Delivery Lead @ Equal Experts working in projects in different geographies and sectors. He has worked for more that 10 years within IT and Telco's (Sapo, Portugal Telecom, Nos). 
- Both are members of Agile Connect and co-organizers of the Agile Connect Lisbon Meetup.
+**David Silva Cordeiro**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/19530208?v=4&s=460)
+
+David Silva Cordeiro is a Delivery Lead @ Equal Experts helping teams and clients achieve awesomeness. With 11 years experience, he has worked in IT for Banking, Oil&Gas and Telco's in both Portugal and Norway.
+
+**Nuno Silva Pereira**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/19184971?v=4&s=460)
+
+Nuno Silva Pereira is a Delivery Lead @ Equal Experts working in projects in different geographies and sectors. He has worked for more that 10 years within IT and Telco's (Sapo, Portugal Telecom, Nos).
+
+Both are members of Agile Connect and co-organizers of the Agile Connect Lisbon Meetup.
