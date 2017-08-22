@@ -22,7 +22,7 @@ In this talk, I will show you how to implement consumer-driven contracts and we'
 Speaker Bio
 -----------
 
-I'm a Software Engineer at Jumia Services and we build amazing web applications.
+I'm a passionate Software Engineer with interests around automated workflows, microservices, test-driven development, design patterns, and databases. Currently, I work at Jumia Services, the leading e-commerce fulfillment and delivery in Africa. If you can't find me building software, I bet you'll find me playing videogames or surfing waves in Portugal's Northern Coast.
 
 Links
 -----
@@ -30,3 +30,4 @@ Links
 * Blog: http://ordepdev.me
 * Company: https://group.jumia.com/
 * Github: http://github.com/ordepdev
+* Twitter: https://twitter.com/ordepdev
