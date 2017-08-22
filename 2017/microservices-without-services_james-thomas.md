@@ -2,7 +2,6 @@ Microservices Without Servers
 ========================
 
 * Speaker   : James Thomas
-* Available : Available all times.
 * Length    : 30 - 40 minutes.
 * Language  : English
 
@@ -15,15 +14,20 @@ In this session, developers will learn how to build microservices without server
 
 This session is aimed at software developers experienced in building traditional backend web applications, who want to learn how to build microservices managing infrastructure.
 
----------------
 I'm an [experienced conference speaker](http://lanyrd.com/profile/thomasj/past/speaking/), have spoken at over twenty conferences since 2011.
+
 Since 2016, I've been regularly [speaking](regularly), [blogging](http://jamesthom.as/blog/categories/serverless/) and [creating open-source](https://github.com/jthomas) about building applications using serverless cloud platforms.
+
 I'm involved in an open-source serverless platform, [Apache OpenWhisk](http://openwhisk.incubator.apache.org/), as the maintainer for the [JavaScript client library](https://github.com/openwhisk/openwhisk-client-js) and [Serverless Framework provider plugin](https://github.com/serverless/serverless-openwhisk).
 
 Serverless platforms will become the default environment for cloud applications [in the next few years](https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0).
 
 Speaker Bio
 -----------
+
+**James Thomas**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/2322?v=4&s=460)
 
 James Thomas is a “Developer Advocate” for IBM ☁️, helping developers build scalable cloud applications.
 Having accepted a summer-long internship with IBM as “something to do” before starting his post-graduate degree, James is still here eight years later.
@@ -38,3 +42,7 @@ Links
 * Twitter: https://twitter.com/thomasj
 * Slides: https://speakerdeck.com/jthomas
 * Talks: https://www.youtube.com/playlist?list=PL0UyhC0D6KAC05qdWzQC1vTSlVXzm9o9s
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
