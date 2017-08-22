@@ -9,7 +9,7 @@ The backstory on AppConnect
 Description
 -----------
 
-Last April, during Talkdesk's user conference - OpenTalk17, we unveiled a new Marketplace for applications built on top of Talkdesk's data and core platform.
+Last April, during Talkdesk's user conference - OpenTalk17, we unveiled a new Marketplace for applications built on top of Talkdesk's data and core platform: https://developers.talkdesk.com
 
 The goal of this talk is to go through the untold story of engineering challenges and the evolution of an idea for a platform; through a series of challenges, trade-offs and binding decisions, an engineering team worked towards a common goal: build a stable foundation where others can be productive and create value.
 
