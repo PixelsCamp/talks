@@ -2,7 +2,6 @@ Will my neural interface give me VCR dreams
 ========================================
 
 * Speaker   : Andrew Hill
-* Available : Sept 29 - Oct 30
 * Length    : 30 min
 * Language  : English
 
@@ -18,6 +17,10 @@ Here, we'll explore how data and machine learning can be used to understand what
 Speaker Bio
 -----------
 
+**Andrew Hill**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/370259?v=4&s=460)
+
 I am the co-founder of Set, where we are trying to help technology better understand humans. We believe that the future of user-experience can be improved by building technology that uses data to understand what we want and need before interaction. [Set](http://set.gl) bridges that gap by creating on-device algorithms for analyzing streaming personal data to help instruct apps and services to provide greater value throughout our day.
 
 I wear a lot of hats, sometimes a coder and sometimes a data scientist.
@@ -32,3 +35,7 @@ Links
 * Blog: http://andrewxhill.com
 * Company: http://set.gl
 * Github: http://github.com/andrewxhill
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
