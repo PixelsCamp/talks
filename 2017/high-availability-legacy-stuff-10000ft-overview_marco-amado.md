@@ -2,7 +2,6 @@ High Availability Architecture for Legacy Stuff - a 10.000 feet overview
 ========================
 
 * Speaker   : Marco Amado
-* Available : Anytime
 * Length    : 30 to 45 minutes
 * Language  : (foreigners === 0) ? Portuguese : English
 
@@ -41,10 +40,12 @@ could make the exact opposite point - this shouldn't be done, at all.
 Sometimes, the need arises unexpectedly, and it's not whether it *should* be
 done, but whether if there's any other solution.
 
----------------
-
 Speaker Bio
 -----------
+
+**Marco Amado**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/marcoamado.jpg?raw=true)
 
 Started programming at age 6, when I inherited a ZX Spectrum from my older
 brother, along the gigantic polycopied ZX BASIC manual that came along back in
@@ -64,3 +65,7 @@ Links
 * Blog: [DreamsInCode](http://www.dreamsincode.com/)
 * Company: [Moloni - Cloud Business Tools](https://www.moloni.com/)
 * Github: [:octocat:/mjamado](http://github.com/mjamado)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
