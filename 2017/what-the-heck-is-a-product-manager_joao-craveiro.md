@@ -2,7 +2,6 @@ What the heck is a Product Manager?
 ===================================
 
 * Speaker   : *João Craveiro*
-* Available : *September 28th, 1pm–6pm. September 29th, 9am–12pm or 2pm–4pm. September 30th, 10am–12pm*
 * Length    : *30–45 mins*
 * Language  : *English*
 
@@ -18,6 +17,10 @@ Don't expect leaving with the truth, because 1) there isn't one, and 2) if there
 Speaker Bio
 -----------
 
+**João Craveiro**
+
+![Speaker Image](https://pbs.twimg.com/profile_images/873870033038049280/K3UtIPKg_400x400.jpg)
+
 I love solving real problems of real people using computer technology as a means to it — be it by coding, researching, gathering requirements, managing a project, helping other people be more efficient, or simply spreading knowledge.
 
 I'm currently a Product Manager at Onfido, a London-based startup delivering next-generation identity verification and background checks, helping businesses across the world verify anyone, anywhere.
@@ -32,3 +35,7 @@ Links
 * Github: https://github.com/jpgcc
 * LinkedIn: https://www.linkedin.com/in/jpgcc
 * Twitter: [@jpgcc](https://twitter.com/jpgcc_)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
