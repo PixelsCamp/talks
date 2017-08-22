@@ -2,7 +2,6 @@ JS WTF
 ========================
 
 * Speaker   : Tiago Ferreira
-* Available : Anytime
 * Length    : ~ 30-45 mins
 * Language  : English
 
@@ -30,6 +29,10 @@ The only requirement for this talk is to listen to [`Never Gonna Give You Up`](h
 Speaker Bio
 -----------
 
+**Tiago Ferreira**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/3806676?v=4&s=460)
+
 I'm just a guy who does some `Front-End` stuff for [Betfair](https://twitter.com/@betfair).
 
 If I can add some hashtags then #WebPassionate, #FoodEnthusiast, #SportsBoy, #CompulsiveReader, #Traveler, and [#BackstreetsBackPlease](https://youtu.be/h4QLZTW8W-I?t=45s)
@@ -40,4 +43,8 @@ Links
 * Blog: https://medium.com/@ferreiratiago
 * Company: https://www.betfair.com
 * Github: https://github.com/ferreiratiago
-* Twitter: [@ferreiratiago_](https://twitter.com/ferreiratiago_)
+* Twitter: [@ferreiratiago](https://twitter.com/ferreiratiago)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
