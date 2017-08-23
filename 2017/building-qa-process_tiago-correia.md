@@ -2,7 +2,6 @@ Building a QA process
 ========================
 
 * Speaker   : *Tiago Correia*
-* Available : *September 28th, 29th and 30th*
 * Length    : *30 mins*
 * Language  : *English*
 
@@ -28,9 +27,12 @@ On the other side, I will also go through the challenges coming ahead and the wa
 
 With this presentation I want to emphasise the importance for a company to have a QA process and  also receive feedback and inputs on the challenging path we have ahead.
 
-
 Speaker Bio
 -----------
+
+**Tiago Correia**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/22681798?v=4&s=460)
 
 QA Team lead with 9 years experience plus 2 as a deveoper. Having a strong knowledge about QA processes and methodologies including mobile and web platforms, in my career I've in company's such as Blip (Betfair), Farfetch and nowadays Talkdesk. I've also worked for a year abroad, in Ireland. 
 
@@ -39,3 +41,7 @@ Links
 
 * Company: https://www.talkdesk.com
 * Github: http://github.com/my-github-tiagojcorreia
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
