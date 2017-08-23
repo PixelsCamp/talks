@@ -1,7 +1,7 @@
 Developing embedded software/firmware for chinese electric ebike motor controllers
 ========================
 
-* Speaker   : *Jorge Pinto*
+* Speaker   : [Jorge Pinto](https://pixels.camp/casainho)
 * Length    : *30 mins*
 * Language  : *English*
 

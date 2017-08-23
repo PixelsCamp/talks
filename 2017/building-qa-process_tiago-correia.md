@@ -1,7 +1,7 @@
 Building a QA process
 ========================
 
-* Speaker   : *Tiago Correia*
+* Speaker   : [Tiago Correia](https://pixels.camp/tiagojcorreia)
 * Length    : *30 mins*
 * Language  : *English*
 

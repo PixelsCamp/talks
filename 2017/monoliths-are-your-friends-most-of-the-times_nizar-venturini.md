@@ -1,7 +1,7 @@
 Monoliths are your friends (most of the times)
 ========================
 
-* Speaker   : Nizar Venturini
+* Speaker   : [Nizar Venturini](https://pixels.camp/trenpixster)
 * Length    : 30-45 mins
 * Language  : English
 

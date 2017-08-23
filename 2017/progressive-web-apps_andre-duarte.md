@@ -1,7 +1,7 @@
 Progressive Web Apps
 ========================
 
-* Speaker   : André Duarte
+* Speaker   : [André Duarte](https://pixels.camp/onemanclapping)
 * Length    : 30 mins. (+30min practical exercise)
 * Language  : English
 

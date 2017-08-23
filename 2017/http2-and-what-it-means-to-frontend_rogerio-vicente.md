@@ -1,7 +1,7 @@
 HTTP/2 and what it means to Front-end
 ========================
 
-* Speaker   : *Rogério Vicente*
+* Speaker   : [Rogério Vicente](https://pixels.camp/rogeriopvl)
 * Length    : *30 mins*
 * Language  : *English*
 

@@ -1,7 +1,7 @@
 Automating infrastructure: playing factorio on AWS
 ========================
 
-* Speaker   : *Ricardo Marques*
+* Speaker   : [Ricardo Marques](https://pixels.camp/RCM7)
 * Length    : *30-45 mins*
 * Language  : *English*
 

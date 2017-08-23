@@ -1,7 +1,7 @@
 Distributed Systems: zero to ?
 ========================
 
-* Speaker   : Gabriel Candal
+* Speaker   : [Gabriel Candal](https://pixels.camp/gcandal)
 * Length    : 30m
 * Language  : English
 

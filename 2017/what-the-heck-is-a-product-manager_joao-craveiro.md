@@ -1,7 +1,7 @@
 What the heck is a Product Manager?
 ===================================
 
-* Speaker   : *João Craveiro*
+* Speaker   : [João Craveiro](https://pixels.camp/jpgcc)
 * Length    : *30–45 mins*
 * Language  : *English*
 

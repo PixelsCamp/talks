@@ -1,7 +1,7 @@
 Will my neural interface give me VCR dreams
 ========================================
 
-* Speaker   : Andrew Hill
+* Speaker   : [Andrew Hill](https://pixels.camp/andrewxhill)
 * Length    : 30 min
 * Language  : English
 

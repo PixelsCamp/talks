@@ -1,7 +1,7 @@
 Operations as a Product
 ========================
 
-* Speaker   : *Pedro Coelho*
+* Speaker   : [Pedro Coelho](https://pixels.camp/punnie)
 * Length    : *45-60 minutes*
 * Language  : *English*
 

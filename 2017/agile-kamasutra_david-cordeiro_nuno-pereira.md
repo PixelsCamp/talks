@@ -1,7 +1,7 @@
 Agile Kamasutra
 ========================
 
-* Speaker   : David Silva Cordeiro and Nuno Silva Pereira
+* Speakers  : [David Silva Cordeiro](https://pixels.camp/davidscordeiro) and [Nuno Silva Pereira](https://pixels.camp/nunoaspereira)
 * Length    : 30 mins
 * Language  : English
 

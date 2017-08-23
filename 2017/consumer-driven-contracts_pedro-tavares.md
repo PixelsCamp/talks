@@ -1,7 +1,7 @@
 Boost your confidence with Consumer-Driven Contracts
 ========================
 
-* Speaker   : Pedro Tavares
+* Speaker   : [Pedro Tavares](https://pixels.camp/ordepdev)
 * Length    : 30~45 minutes
 * Language  : English
 

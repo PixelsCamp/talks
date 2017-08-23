@@ -1,7 +1,7 @@
 How can Javascript improve your CSS Mixins
 ========================
 
-* Speaker   : *Sandrina Pereira*
+* Speaker   : [Sandrina Pereira](https://pixels.camp/sandrina-p)
 * Length    : *25-30 min*
 * Language  : *English*
 

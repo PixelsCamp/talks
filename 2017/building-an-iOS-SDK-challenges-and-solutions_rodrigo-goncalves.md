@@ -1,7 +1,7 @@
 Building an iOS SDK: Challenges & Solutions
 ===========================================
 
-* Speaker   : Rodrigo Gonçalves
+* Speaker   : [Rodrigo Gonçalves](https://pixels.camp/pragmapilot)
 * Length    : 30 mins
 * Language  : English
 

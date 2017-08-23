@@ -1,7 +1,7 @@
 Frida All the Things
 ====================
 
-* Speaker   : *Herman Duarte*
+* Speaker   : [Herman Duarte](https://pixels.camp/hduarte)
 * Length    : *45 mins*
 * Language  : *English*
 

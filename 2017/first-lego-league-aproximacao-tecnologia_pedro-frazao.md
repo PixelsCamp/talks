@@ -1,7 +1,7 @@
 FIRST LEGO Leage - uma boa oproximação à tecnologia?
 ========================
 
-* Speaker   : Pedro Frazão
+* Speaker   : [Pedro Frazão](https://pixels.camp/pedrofrazao)
 * Length    : ~30 mins
 * Language  : Portuguese
 

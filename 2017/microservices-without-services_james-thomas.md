@@ -1,7 +1,7 @@
 Microservices Without Servers
 ========================
 
-* Speaker   : James Thomas
+* Speaker   : [James Thomas](https://pixels.camp/jthomas)
 * Length    : 30 - 40 minutes.
 * Language  : English
 

@@ -1,7 +1,7 @@
 High Availability Architecture for Legacy Stuff - a 10.000 feet overview
 ========================
 
-* Speaker   : Marco Amado
+* Speaker   : [Marco Amado](https://pixels.camp/mjamado)
 * Length    : 30 to 45 minutes
 * Language  : (foreigners === 0) ? Portuguese : English
 

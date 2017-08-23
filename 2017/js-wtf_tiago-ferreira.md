@@ -1,7 +1,7 @@
 JS WTF
 ========================
 
-* Speaker   : Tiago Ferreira
+* Speaker   : [Tiago Ferreira](https://pixels.camp/ferreiratiago)
 * Length    : ~ 30-45 mins
 * Language  : English
 

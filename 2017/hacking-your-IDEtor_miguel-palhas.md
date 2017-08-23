@@ -1,6 +1,6 @@
 # Hacking your IDEtor
 
-* Speaker   : *Miguel Palhas*
+* Speaker   : [Miguel Palhas](https://pixels.camp/naps62)
 * Length    : *30-45 mins*
 * Language  : *English*
 

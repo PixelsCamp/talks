@@ -1,7 +1,7 @@
 Agile is Dead
 ========================
 
-* Speaker   : Pedro Gustavo Torres
+* Speaker   : [Pedro Gustavo Torres](https://pixels.camp/pedrogustavotorres)
 * Length    : 30 mins
 * Language  : English
 

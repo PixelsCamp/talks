@@ -1,7 +1,7 @@
 The Lord of the Async
 ========================
 
-* Speaker   : Anže Pečar
+* Speaker   : [Anže Pečar](https://pixels.camp/smotko)
 * Length    : 30 mins
 * Language  : English
 
