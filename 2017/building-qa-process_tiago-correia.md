@@ -40,7 +40,7 @@ Links
 -----------
 
 * Company: https://www.talkdesk.com
-* Github: http://github.com/my-github-tiagojcorreia
+* Github: http://github.com/tiagojcorreia
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
