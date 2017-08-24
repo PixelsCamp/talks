@@ -1,10 +1,10 @@
-[Introduction to Rust]
+Introduction to Rust
 ========================
 
-* Speaker   : [*Tiago Farto*]
-* Available : [*always, but preferably during the afternoon*] 
-* Length    : [*1800 seconds*]
-* Language  : [*Rust, dependant on the audience*]
+* Speaker   : *Tiago Farto*
+* Available : *always, but preferably during the afternoon*
+* Length    : *1800 seconds*
+* Language  : *Rust, dependant on the audience*
 
 Description
 -----------
