@@ -1,8 +1,7 @@
 Testing - who, why, when?
 ========================
 
-* Speakers  : Fábio Barbosa & Filipe Carvalho
-* Available : September 30th, 11am-5pm 
+* Speakers  : [Fábio Barbosa](https://pixels.camp/FabioCB) & [Filipe Carvalho](https://pixels.camp/filipemcarvalho)
 * Length    : ~40mins
 * Language  : English or Portuguese
 
@@ -20,9 +19,15 @@ We would like to share our thoughts and background in this matter and also hear 
 Speakers Bio
 -----------
 
-Porto Testers Meetup organizers - https://portotestersmeetup.eventbrite.com
+**Fábio Barbosa**
 
-Fábio Barbosa - Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.
+![Speaker Image](https://avatars1.githubusercontent.com/u/3018595?v=4&s=460)
+
+Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.
+
+**Filipe Carvalho**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/13350255?v=4&s=460)
 
 Filipe Carvalho - Working as a Mobile Test Automation Engineer. Also knows his way in Delivery Automation, usually surrounded by shell, gradle, fastlane and several types of scripts. Always looking to new ways to grow and drill his path in tech. Really enjoys developing tests for Mobile and exploring all the new technologies and opportunities to automate processes, infrastructure and all the development cycle.
 
@@ -31,3 +36,8 @@ Links
 
 * Company: https://www.farfetch.com
 * Github: https://github.com/FabioCB & https://github.com/filipemcarvalho
+* Porto Testers Meetup organizers: https://portotestersmeetup.eventbrite.com
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
