@@ -1,9 +1,9 @@
 The backstory on AppConnect
 ===========================
 
-*Speaker* : Tiago Sousa
-*Length* : 45 mins
-*Language* : English
+* Speaker : [Tiago Sousa](https://pixels.camp/tjsousa)
+* Length : 45 mins
+* Language : English
 
 Description
 -----------
