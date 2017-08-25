@@ -2,7 +2,6 @@ The backstory on AppConnect
 ===========================
 
 *Speaker* : Tiago Sousa
-*Available* : September 29th,9-11am
 *Length* : 45 mins
 *Language* : English
 
@@ -23,12 +22,18 @@ It will focus on the following:
 Speaker Bio
 -----------
 
+**Tiago Sousa**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/389917?v=4&s=460)
+
 I am passionate technologist who transforms ideas into working code. Currently Platform Tech Lead at Talkdesk, where I have been for the last 5 years improving my craft and empowering others. Previously worked in electronic toll management systems at Brisa Inovação and a startup's founding team.
 
 Links
 -----
 
-Company: https://talkdesk.com
-Github: https://github.com/tjsousa
+* Company: https://talkdesk.com
+* Github: https://github.com/tjsousa
 
-*Important note:* I may become a father by the time Pixels Camp occurs and may not be able to deliver this talk "on time" ;) If we can live with the unplaned, I would love to be a speaker at Pixels Camp.
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
