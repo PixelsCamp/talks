@@ -2,7 +2,6 @@ Breaking FrontEnd Paradigms with Vue.js
 =======================================
 
 * Speaker   : [Ignacio Anaya](https://pixels.camp/ianaya89)
-* Available : Any date and time
 * Length    : 30 mins
 * Language  : English
 
