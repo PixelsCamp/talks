@@ -1,7 +1,7 @@
 Automated Evil Driven Development
 =================================
 
-* Speaker   : Sérgio Serrano and Valmiky Arquissandas
+* Speakers  : Sérgio Serrano and Valmiky Arquissandas
 * Available : September 28th, 29th, preferably on the afternoon
 * Length    : 30-45 minutes
 * Language  : English
