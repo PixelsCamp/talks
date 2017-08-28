@@ -17,6 +17,8 @@ In this talk I'm going over building a simple static website and a set of tools 
 Speaker Bio
 -----------
 
+**Daniel da Silva**
+
 ![Speaker Image](https://avatars1.githubusercontent.com/u/1090606?v=4&s=460)
 
 I am Daniel da Silva, a web developer based in Lisbon and currently working at Development Seed.
