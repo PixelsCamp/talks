@@ -1,9 +1,8 @@
 [Futurology]
 ========================
 
-* Speaker   : João Carreiro
-* Available : Any 
-* Length    : 30
+* Speaker   : [João Carreiro](https://pixels.camp/jhacarreiro)
+* Length    : 30 mins
 * Language  : English
 
 Description
@@ -19,11 +18,12 @@ So if innovation is important to you, you have a tech startup or you just want t
 
 P.s.: I would love to close with an example of the main lines you should follow to make Innovation a process with stable results but probably won't have time. If this is important to you let me know and I'll try to adapt :)
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+**João Carreiro**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/19389037?v=4&s=460)
 
 At 16 I created the 1st online radio in Portugal. It mainly streamed live online games and quickly went from uncapping coaxial modems to a sponsorship from the national telecom operator.
 
@@ -40,3 +40,7 @@ Links
 * Facebook: https://www.facebook.com/jhacarreiro
 * Linkedin: https://www.linkedin.com/in/jhacarreiro
 * Github: https://github.com/jhacarreiro
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
