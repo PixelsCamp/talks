@@ -1,8 +1,7 @@
 Harness the power of Static sites
 ========================
 
-* Speaker   : Daniel da Silva
-* Available : Anytime
+* Speaker   : [Daniel da Silva](https://pixels.camp/danielfdsilva)
 * Length    : ~45 min
 * Language  : English
 
@@ -18,7 +17,10 @@ In this talk I'm going over building a simple static website and a set of tools 
 Speaker Bio
 -----------
 
+![Speaker Image](https://avatars1.githubusercontent.com/u/1090606?v=4&s=460)
+
 I am Daniel da Silva, a web developer based in Lisbon and currently working at Development Seed.
+
 I really like the web and all the bits and pieces - from systems' administration to user interaction - that make it tick.
 
 I'm a very technical guy and when not measuring the world with arduinos and sensors, you can find me running around, geocaching, snapping pictures, or watching movies.
@@ -30,3 +32,7 @@ Links
 
 * Company: https://developmentseed.org/
 * Github: https://github.com/danielfdsilva
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
