@@ -1,10 +1,9 @@
-[Stranger things -  the internet version]
+Stranger things -  the internet version
 ========================
 
-* Speaker   : [Tiago "Balgan" Henriques]
-* Available : [Available everyday but please not in the morning.] 
-* Length    : [50 minutes]
-* Language  : [English]
+* Speaker   : [Tiago "Balgan" Henriques](https://pixels.camp/Balgan)
+* Length    : 50 minutes
+* Language  : English
 
 Description
 -----------
@@ -19,12 +18,14 @@ And in this talk, we are going to explore the top "things" we've found exposed, 
 
 On this talk we will also release our 2017 report, where we show how we detected some of the NSA tools such as Double pulsar. We will also make an interesting reveal on this topic. :)
 
- 
----------------
 Speaker Bio
 -----------
-Tiago is the CEO and Data necromancer at BinaryEdge however he gets to meddle in the intersection of data science and cybersecurity. I like hunting weird things (read shit) on the internet.
 
+**Tiago Henriques**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/tiago_henriques.jpg?raw=true)
+
+Tiago is the CEO and Data necromancer at BinaryEdge however he gets to meddle in the intersection of data science and cybersecurity. I like hunting weird things (read shit) on the internet.
 
 Links
 -----
@@ -32,3 +33,7 @@ Links
 * Blog: https://blog.binaryedge.io
 * Company: https://binaryedge.io
 * Github: http://github.com/Balgan
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
