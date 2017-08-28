@@ -1,4 +1,4 @@
-[Futurology]
+Futurology
 ========================
 
 * Speaker   : [João Carreiro](https://pixels.camp/jhacarreiro)
