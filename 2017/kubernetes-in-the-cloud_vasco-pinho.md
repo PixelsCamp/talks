@@ -1,8 +1,7 @@
 Kubernetes in the cloud
 ========================
 
-* Speaker   : Vasco Pinho
-* Available : September 28, 29, 30
+* Speaker   : [Vasco Pinho](https://pixels.camp/vascop)
 * Length    : 30mins
 * Language  : English
 
@@ -16,6 +15,10 @@ Still, you look up the documentation, and there’s a million things going on. H
 Speaker Bio
 -----------
 
+**Vasco Pinho**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/537021?v=4&s=460)
+
 I'm a DevOps engineer at Hotjar. I deploy things, I watch them run, and I try to fix them if my phone rings.
 
 Links
@@ -24,3 +27,7 @@ Links
 * Blog: https://www.vascop.com
 * Company: https://www.hotjar.com
 * Github: http://github.com/vascop
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
