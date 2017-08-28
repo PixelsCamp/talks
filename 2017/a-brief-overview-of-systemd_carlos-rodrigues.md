@@ -1,8 +1,7 @@
 A Brief Overview of systemd
 ===========================
 
-* Speaker   : Carlos Rodrigues
-* Available : *
+* Speaker   : [Carlos Rodrigues](https://pixels.camp/carlosefr)
 * Length    : 45 minutes
 * Language  : Portuguese
 
@@ -36,3 +35,7 @@ Links
 * Blog: https://medium.com/@carlosefr
 * Company: https://brpx.com
 * Github: https://github.com/carlosefr
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
