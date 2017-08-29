@@ -1,8 +1,8 @@
-a skynet office framework or smth
+A skynet office framework or smth
 ===============================
 
+* Speaker   : [Fernando Mendes](https://pixels.camp/fribmendes)
 * Speaker   : Fernando Mendes
-* Available : September 29-30 - no time restrictions
 * Length    : 45 min
 * Language  : English
 
@@ -32,10 +32,12 @@ node, but we'll mostly end up by collectively shaming myself for tapping into my
 developer's heart and pulling out what's at its core: a bunch of
 not-so-brilliant, over-engineered ideas.
 
----------------
-
 Speaker Bio
 -----------
+
+**Fernando Mendes**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/4325027?v=4&s=460)
 
 I'm a nice lad from Braga, fresh out of university and eagerly awaiting for the world to slap me in the face with constant disappointment.
 
@@ -55,3 +57,7 @@ Links
 * Company: [https://subvisual.co](https://subvisual.co)
 * Github: [https://github.com/fribmendes](https://github.com/fribmendes)
 * Twitter: [https://twitter.com/fribmendes](https://twitter.com/fribmendes)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
