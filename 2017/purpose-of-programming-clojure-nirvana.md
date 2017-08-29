@@ -1,8 +1,7 @@
 Purpose of programming and the Clojure Nirvana
 ========================
 
-* Speaker   : João Vasques
-* Available : September 28th or 29th - no time restrictions
+* Speaker   : [João Vasques](https://pixels.camp/JoaoVasques)
 * Length    : 45 minutes
 * Language  : English
 
@@ -27,12 +26,12 @@ As a data engineer, part of my job is to find the best ways to transform and wor
 
 I dare you to show up.
 
-
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+**João Vasques**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1440120?v=4&s=460)
 
 + Data Engineer at Talkdesk
 + Interested in al things data and artificial inteligence
@@ -50,3 +49,7 @@ Links
 * Blog: https://medium.com/@joaovasques
 * Company: http://talkdesk.com
 * Github: https://github.com/JoaoVasques
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
