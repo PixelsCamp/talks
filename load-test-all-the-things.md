@@ -9,11 +9,11 @@ Load Test all the things
 Description
 -----------
 
-Not all applications are born the same: some are subject to high load, others will be hit with a couple of requests every once in a while; some will be fed with loads and loads of data, others will deal with a couple of MBytes from time to time; some are built with performance as a non-functional requirement, other are "just made to work".
+Not all applications are born the same: some are subject to high load, others will be hit by a couple of requests every once in a while; some will be fed with loads and loads of data, others will deal with a couple of MBytes from time to time; some are built with performance as a non-functional requirement, other are "just made to work".
 
-Either way, it's important to be able to assess how the application will behave under heavy load in terms of high number of requests and/or high data load.
+Either way, as a developer, it's important to know how to find performance issues on an application under heavy load while also getting to know the factors that are a constraint to the performance like a database or some library in use.
 
-This will be a hands-on session where we will explore some load testing tools, learn how to build a simple yet effective Load Test Plan and analyse a bit through the results.
+In this session, we'll be submitting a web application to a load test and learn a few tricks on how to improve it's performance.
 
 ---------------
 [*All things below are optional*]
