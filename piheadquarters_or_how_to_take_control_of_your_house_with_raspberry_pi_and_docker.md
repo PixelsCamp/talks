@@ -13,8 +13,6 @@ We're living on the verge of ubiquitous computing, where _computing is made to a
 
 A very common approach that has been applied is the use of gateways for control the data flow between _things_ and the Internet as is. As worth mentioning and novel example of such is the [Things Gateway](https://iot.mozilla.org/gateway/) by Mozilla. In this talk, I will share how I build my _smart home_ headquarters (gateway and server) on top of a Raspberry Pi 2, using Docker and all the _buzzwords_ such as [MQTT](http://mqtt.org/), [Mosquitto](https://mosquitto.org/), [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/), [Grafana](https://grafana.com/) and [Node-RED](https://nodered.org/). With this approach anyone is capable of continuosly monitor the current state of the home by its metrics, configure alarms (such as a moving sensor for intruder alert), turn on the AC system before leaving work or even make dinner by turning on the microwave, all empowered by easily-configured flow-control diagrams.
 
-Some additional perks will be unveiled such as an easy set up of an OpenVPN for your home network with [PiVPN](http://www.pivpn.io) and a network-wide traffic watcher, logging and ad blocking system with [Pi-Hole](https://pi-hole.net).
-
 ---------------
 
 Speaker Bio
