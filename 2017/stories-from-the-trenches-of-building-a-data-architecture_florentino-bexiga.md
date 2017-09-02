@@ -1,8 +1,7 @@
 Stories from the trenches of building a data architecture
 =======================================
 
-* Speaker   : Florentino Bexiga
-* Available : Anytime
+* Speaker   : [Florentino Bexiga](https://pixels.camp/fbexiga)
 * Length    : 30-50 mins
 * Language  : English
 
@@ -13,10 +12,12 @@ We live in a Data-centric era. Nowadays we have at our disposal an enormous vari
 
 In this talk we are going to review the parts that compose a data architecture, and discuss which tools can be used at each step to arrive at a functional architecture. Note that the insights given will not be based of theoretical documents or truckloads of years of experience, but on our own experience of building and maintaining a large scale data infrastructure and architecture.
 
----------------
-
 Speaker Bio
 -----------
+
+**Florentino Bexiga**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAf-AAAAJDVhNzdiMGQyLTA4YzYtNDllNi1hOGQ5LTY2MDkxZGZlZDdhNg.jpg)
 
 I work at BinaryEdge.io as a Data Engineer/Platform Developer. I was hired to chew bubblegum and wreck havoc... and I'm all out of bubblegum. I like coding, I enjoy Artificial Intelligence and Data Science topics, but mostly I love to learn new things.
 
@@ -26,3 +27,7 @@ Links
 * Profile: https://pixels.camp?ref=fbexiga
 * Company: http://www.binaryedge.io
 * Github: http://github.com/fbexiga
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
