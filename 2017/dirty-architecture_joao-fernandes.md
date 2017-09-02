@@ -1,8 +1,7 @@
 Dirty Architecture
 ========================
 
-* Speaker   : João Fernandes
-* Available : 29th September, 10am - 7pm
+* Speaker   : [João Fernandes](https://pixels.camp/jcmfernandes)
 * Length    : ~30 mins
 * Language  : English
 
@@ -34,6 +33,10 @@ Disclaimer: beware that a deep misunderstanding of this talk might lead you to d
 Speaker Bio
 -----------
 
+**João Fernandes**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/1144866?v=4&s=460)
+
 I'm a software engineer, experienced in the embedded and web worlds, passionate about technology and entrepreneurship. IST alumni.
 
 Currently working at onfido, Portugal, as Software Engineer. Yes, I'm really having a blast.
@@ -50,3 +53,7 @@ Links
 
 * Company: http://onfido.com
 * Github: http://github.com/jcmfernandes
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
