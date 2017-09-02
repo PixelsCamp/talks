@@ -82,11 +82,11 @@ If and when your talk gets accepted, you'll immediately receive an email from th
 
 ## I got rejected
 
-If your proposal gets rejected, then don't be disappointed and above all, don't give up. We have Pixels Camp every year. Your talk might not have made it for any number of reasons and most of the time they've nothing to do with quality or your ability to deliver.
+If your proposal gets rejected, don't be disappointed. And above all, don't give up, we have the Pixels Camp every year. Your talk might not have made it for any number of reasons and most of the time they've nothing to do with quality or your ability to deliver.
 
-Maybe a similar topic got covered in the previous year, and the curators decided not to run it this time. Maybe there were too many technical talks, and the curators opted for a more big-picture talk. Maybe your proposal just didn’t quite convince us this time.
+Maybe a similar topic got covered in the previous year, or this year, and the curators decided not to run it this time. Maybe there were too many similar technical talks, and the curators opted for other themes. Or maybe your proposal just didn’t quite convince us this time.
 
-What really matters is that you proposed the talk and you've shown motivation and initiative, which translates directly to kind of attributes we're looking for in candidates. Karma points for you!
+Either way what really matters is that you proposed the talk and you've shown motivation and initiative, which translates directly into the kind of attributes we're looking for in candidates. Karma points for you!
 
 <br>
 Thanks,
