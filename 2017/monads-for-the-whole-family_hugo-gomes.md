@@ -25,8 +25,7 @@ Speaker Bio
 
 ![Speaker Image](https://avatars3.githubusercontent.com/u/95355?v=4&s=460)
 
-I have been coding in Haskell for many years and since the day that i started that i absolutely hate it. In spite of that someone recently told me that i have a [pt git award for it](http://git-awards.com/users?country=portugal&language=haskell), which is a highly sophisticated way of saying that if i was a dog i would be a chihuahua
-![Tás a olhar ? Levas uma lambdidela](http://files.dogster.com/pix/dogs/81/281/281_1250532891.jpg).
+I have been coding in Haskell for many years and since the day that i started that i absolutely hate it. In spite of that someone recently told me that i have a [pt git award for it](http://git-awards.com/users?country=portugal&language=haskell), which is a highly sophisticated way of saying that if i was a dog i would be a [chihuahua](http://files.dogster.com/pix/dogs/81/281/281_1250532891.jpg).
 
 Links
 -----
