@@ -1,8 +1,7 @@
 1001 Reasons to use Python
 ==========================
 
-* Speaker: Gil Gonçalves
-* Available: September 28th or 29th - no time restrictions
+* Speaker   : [Gil Gonçalves](https://pixels.camp/lurst)
 * Length: 30min
 * Language: English
 
@@ -29,11 +28,12 @@ Questions that will be answered in this talk:
 
 I will bring stickers!
 
-
----------------
-
 Speaker Bio
 -----------
+
+**Gil Gonçalves**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAP9AAAAJDJhYjg3NWI4LTFhOTItNDEyYS04OWRhLTgzNjQxM2I5Zjc3Mw.jpg)
 
 Software developer writing services in London. Lives in the terminal, doesn't
 know anyone called GUI.
@@ -50,3 +50,7 @@ Links
 
 * Company: http://made.com
 * Github: http://github.com/lurst
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
