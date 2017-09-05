@@ -2,7 +2,6 @@ Swift, do you even Flux?
 ========================
 
 * Speaker: [Afonso Graça](https://pixels.camp/afonsograca)
-* Available: September 28th - 29th
 * Length: 30 mins
 * Language: English
 
@@ -32,3 +31,7 @@ Links
 -----
 
 * Github: http://github.com/afonsograca
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
