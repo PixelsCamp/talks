@@ -19,7 +19,7 @@ Speaker Bio
 
 **Daniel Gomes**
 
-[Speaker Image](https://avatars0.githubusercontent.com/u/744921?v=4&s=460)
+![Speaker Image](https://avatars0.githubusercontent.com/u/744921?v=4&s=460)
 
 Daniel is a passionate Software Engineer @ Talkdesk with over a decade of experience in building web-based solutions with a focus on design easy-to-use APIs, deliver high-quality software and implement best practices and standards. He is interested in distributed systems, scalability, agile methodologies and DevOps practices.
 
@@ -32,3 +32,7 @@ Links
 * Company: http://talkdesk.com
 * Github: http://github.com/dcsg
 * Twitter: [@dcsg](https://twitter.com/_dcsg)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
