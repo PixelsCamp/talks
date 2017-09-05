@@ -23,7 +23,7 @@ I will also talk about alternatives to what we ended up deciding upon when doing
 
 **Daniel Serrano**
 
-![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAP9AAAAJDJhYjg3NWI4LTFhOTItNDEyYS04OWRhLTgzNjQxM2I5Zjc3Mw.jpg)
+![Speaker Image](https://avatars3.githubusercontent.com/u/5096953?v=4&s=460)
 
 - Currently Back End Software Engineer at Onfido
 - (Ex-) Software Engineer at Talkdesk
