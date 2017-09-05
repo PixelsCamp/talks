@@ -1,11 +1,10 @@
 # Monolith: The Breaking
 
 - _Speaker_: [Daniel Serrano](https://pixels.camp/dnlserrano)
-- _Available_: September 28th, 29th and 30th
 - _Length_: 30-45 minutes
 - _Language_: English
 
-# Description
+## Description
 
 Startups often start out by developing MVPs that fit all needs of their product offering. Billing, user management, invoicing, etc. It's all crammed up in the same place. The so called _monolith_. This can lead to various problems: running the deployment pipeline now takes ages, that flaky test you didn't write is breaking and it is now your responsibility to fix it, you're dependent on deploy times of other teams to release your feature, etc.
 
@@ -20,7 +19,11 @@ In this talk, I'm going to try and convince you on why you should embrace a micr
 
 I will also talk about alternatives to what we ended up deciding upon when doing the split. We will talk about what still is to be done and the next steps to achieve it.
 
-# Speaker Bio
+## Speaker Bio
+
+**Daniel Serrano**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAP9AAAAJDJhYjg3NWI4LTFhOTItNDEyYS04OWRhLTgzNjQxM2I5Zjc3Mw.jpg)
 
 - Currently Back End Software Engineer at Onfido
 - (Ex-) Software Engineer at Talkdesk
@@ -30,9 +33,13 @@ I will also talk about alternatives to what we ended up deciding upon when doing
 - 26 years old
 - Hip-hop
 
-# Links
+## Links
 
 - Twitter: https://twitter.com/dnlserrano
 - Website: https://dnlserrano.github.io
 - GitHub: https://github.com/dnlserrano
 - Bitbucket: https://bitbucket.org/dnlserrano
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
