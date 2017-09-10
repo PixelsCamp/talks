@@ -1,8 +1,7 @@
 A Pinch of Functional on the Client's Plate
 ========================
 
-* Speaker   : Sasha Fonseca
-* Available : Any schedule 
+* Speaker   : [Sasha Fonseca](https://pixels.camp/sashaafm)
 * Length    : 25-30 min.
 * Language  : English
 
@@ -42,3 +41,7 @@ Links
 * Blog: https://medium.com/@sashaafm
 * Company: https://www.talkdesk.com/
 * Github: http://github.com/sashaafm
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
