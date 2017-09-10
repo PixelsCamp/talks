@@ -28,7 +28,7 @@ Speaker Bio
 
 **Sasha Fonseca**
 
-![Speaker Image](https://https://avatars1.githubusercontent.com/u/3422400?v=4&u=477c9662d52f9afcb99fe5cd506e6be513062d36&s=400)
+![Speaker Image](https://avatars1.githubusercontent.com/u/3422400?v=4&u=477c9662d52f9afcb99fe5cd506e6be513062d36&s=400)
 
 Sasha Fonseca is a Software Engineer @ Talkdesk, but a curious learner at heart. He is always 
 exploring his main interests (Programming Languages, and Software Development methodologies and
