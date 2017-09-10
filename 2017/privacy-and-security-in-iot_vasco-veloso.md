@@ -1,8 +1,7 @@
 Privacy and Security in IoT
 ===========================
 
-* Speaker   : Vasco Veloso
-* Available : Always but preferably on Saturday and mornings.
+* Speaker   : [Vasco Veloso](https://pixels.camp/vveloso)
 * Length    : 30 mins
 * Language  : English
 
@@ -18,6 +17,10 @@ privacy legislation that affects providers of IoT-based solutions.
 Speaker Bio
 -----------
 
+**Vasco Veloso**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/06c/2a9/0639c3c.jpg)
+
 After 20+ years writing software, I'm currently working at Coriant Portugal as a Software Architect who still 
 keeps his hands dirty designing and writing Java code for a distributed optical network management system. 
 
@@ -31,3 +34,7 @@ Links
 
 * Bio: http://linkedin.com/in/vascoveloso
 * Github: http://github.com/vveloso
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
