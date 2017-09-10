@@ -23,7 +23,7 @@ Isn't this written elsewhere? I'm an experienced programmer, used to do the wors
 Links
 -----
 
-* Twitter: twitter.com/xernobyl (that's where I usually yell to the world)
+* Twitter: https://twitter.com/xernobyl (that's where I usually yell to the world)
 * Site: https://xrl.pt (yeah doesn't work, but that's my domain)
 * Github: http://github.com/xernobyl (nothing in there builds)
 
