@@ -1,8 +1,7 @@
 Automated Evil Driven Development
 =================================
 
-* Speakers  : Sérgio Serrano and Valmiky Arquissandas
-* Available : September 28th, 29th, preferably on the afternoon
+* Speakers   : [Sérgio Serrano](https://pixels.camp/serranos) and [Valmiky Arquissandas](https://pixels.camp/kayvlim)
 * Length    : 30-45 minutes
 * Language  : English
 
@@ -15,12 +14,18 @@ We will be speaking about behavior driven development, the creation of evil user
 
 The goal of the talk is to enable developers to create products with security in mind, using an organic and low friction approach between traditionally orthogonal incentives. To achieve this, the developer and the security guy should work as a true team. We will go through common methodologies/tools that bring together developers and security people, to allow them to work as a healthy team that shares the same goal: **Create a successful product**.
 
----------------
-
 Speaker Bio
 -----------
 
+**Sérgio Serrano**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/0cb/249/074e4e8.jpg)
+
 Sérgio Serrano is a security engineer with over 15 years of experience, from software development, to network engineering, crossing through mine fields of security endeavors and jumping over platforms of cartoons. Currently works as Security Tech Lead at Talkdesk.
+
+**Valmiky Arquissandas**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAU4AAAAJGM5MTQwNDYxLTViYmItNDBiYy04Njc5LWY0MzlhMDhiMGI5NQ.jpg)
 
 Valmiky Arquissandas has way too many interests to list here, but likes security the most. He used to be a GNU/Linux system administrator, a security auditor/penetration tester, and is now a security engineer at Talkdesk. He also dislikes speaking about him in the third person.
 
@@ -32,3 +37,7 @@ Links
 * Github: https://github.com/kayvlim
 * Twitter: https://twitter.com/serranos
 * Twitter: https://twitter.com/kayvlim
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
