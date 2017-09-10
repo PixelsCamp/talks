@@ -1,8 +1,7 @@
 Model Based Testing FTW. (or Testing, the right way!)
 ========================
 
-* Speaker   : Daniel Araújo
-* Available : Available all times
+* Speaker   : [Daniel Araújo](https://pixels.camp/DanielAraujo1)
 * Length    : 30-40 mins
 * Language  : English
 
@@ -22,6 +21,10 @@ Further from a conceptual overview this 30 minute talk will include real example
 Speaker Bio
 -----------
 
+**Daniel Araújo**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAs_AAAAJDU3MTg3NGRmLWIzNmEtNDhhNy1hZWEyLTI1YjFjM2UxNjE3ZQ.jpg)
+
 I am very curious programmer. After studying software engineering , data warehousing solutions, artificial intelligence, among other topics, I started my journey on the tech industry. Since then I had the opportunity to work with lots of inspiring people and deal with challenges that made me able to learn a bit from other computer sci fields. Mobile, search engines, betting sites are some of the domains on which I have been doing a bunch of things (front-end, back-end, operations, …). 
 
 Currently my focus is on large scale systems that deal with enormous quantities of data. 
@@ -31,3 +34,7 @@ Links
 
 * Company: https://feedzai.com/
 * Github: http://github.com/DanielAraujo1
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
