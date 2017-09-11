@@ -30,5 +30,6 @@ I have four repositories for teach new QAs for automated tests on service layer 
 Links
 -----
 
-* Github: http://github.com/thiagomarquessp
-* Lean and Automation: https://github.com/thiagomarquessp/lean-em-projetos-automacao
+* [Github:](http://github.com/thiagomarquessp)
+* [Lean and Automation:](https://github.com/thiagomarquessp/lean-em-projetos-automacao)
+* [Linkedin:](https://www.linkedin.com/in/thiago-m-pereira-3a315133/)
