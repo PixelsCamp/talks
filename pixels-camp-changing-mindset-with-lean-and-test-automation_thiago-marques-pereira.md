@@ -1,4 +1,4 @@
-[Changing Mindset with Leand and Test Automation]
+#Changing Mindset with Leand and Test Automation
 ========================
 
 * Speaker   : [*Thiago Marques Pereira*]
