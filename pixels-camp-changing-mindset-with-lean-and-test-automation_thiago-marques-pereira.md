@@ -9,7 +9,9 @@ Changing Mindset with Leand and Test Automation
 Description
 -----------
 
-**Today the companies are more attentive with costs of a technology team and the lean process and test automation are ways of reduce the costs because the product can reach the zero bug with techiniques of problems antecipation and avoid waste on the new features.**
+**Today the companies are more attentive with costs of a technology team and the lean process and test automation are ways of reduce the costs because the product can reach the zero bug with techiniques of problems antecipation and avoid waste on the new features.
+The objective of talk is presented techiniques about Lean Process and how to achieve excellence with problems antecipates and delivery value and how to use automation with cucumber for to have this with the purpose of achieving zero bug in new features.
+I will realize live code for demonstration and how to conect in a CI tool for achieve the feedback for quickly every deploy.**
 
 Speaker Bio
 -----------
