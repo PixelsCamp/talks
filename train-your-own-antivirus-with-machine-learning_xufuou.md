@@ -8,7 +8,7 @@ Train your own antivirus with Machine Learning
 Description
 -----------
 
-Hopefully, you have been hearing about Machine Learning lately, it's the new hype and companies are going crazy about it. Sadly, this talk is not about mainstream, not about deep learning or state of art research. Although I will definitely talk about ML, it will be through my personal experience, I will showcase a classification problem (virus detection) where ML can be applied with supervised learning. Join me and learn how to create your own antivirus.  
+Hopefully, you have been hearing about Machine Learning lately, it's the new hype and companies are going crazy about it. Sadly, this talk is not about mainstream, not about deep learning or state of art research. Although I will definitely talk about ML, it will be through my personal experience and I will showcase a classification problem (virus detection) where ML can be applied with supervised learning. Join me and learn how to create your own antivirus.  
 
 
 
