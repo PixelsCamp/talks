@@ -18,7 +18,7 @@ Speaker Bio
 
 **Xu Fu Ou**
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/9981653?v=4&u=d1692fb7e3336d3c34dc58cb19e0260a95cc63de&s=400|width=50)
+![Speaker Image](https://avatars2.githubusercontent.com/u/9981653?v=4&u=d1692fb7e3336d3c34dc58cb19e0260a95cc63de&s=200)
 
 I'm a master student at University of Coimbra and currently working at Checkmarx as security analyst. I believe in a future where "smarter" machines will take over and be responsible for all the boring activities.
 
