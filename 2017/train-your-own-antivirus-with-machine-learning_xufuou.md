@@ -4,7 +4,6 @@ Train your own antivirus with Machine Learning
 * Speaker   : [Xu Fu Ou](https://pixels.camp/xufuou)
 * Length    : ~30 mins
 * Language  : English
-* Available : any
 
 Description
 -----------
