@@ -1,4 +1,4 @@
-[Clean for four months]
+Clean for four months
 ========================
 
 * Speaker   : [Eduardo Taborda](https://pixels.camp/etaborda)
