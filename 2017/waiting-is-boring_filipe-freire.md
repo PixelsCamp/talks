@@ -1,9 +1,7 @@
 Waiting is boring
 ========================
 
-* Speaker   : Filipe Freire
-* Available : Anytime
-* Length    : 30-35 mins
+* Speaker   : [Filipe Freire](https://pixels.camp/filfreire)
 * Language  : English
 
 Description
@@ -17,10 +15,12 @@ Somewhere along the way you've gone to the dark side. You have to make the compu
 
 Forget about standard "waiting". There are new techniques that are not known by many, but that make waiting in tests smarter. Some of these techniques will be live demonstrated for a typical frontend application test and micro-service with an API and messaging.
 
----------------
-
 Speaker Bio
 -----------
+
+**Filipe Freire**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/11976836?v=4&s=460)
 
 I'm Filipe and I'm a Test Engineer and a Developer.
 
@@ -34,3 +34,7 @@ Links
 * Blog: https://filfreire.github.io
 * Company: http://www.blip.pt/
 * Github: http://github.com/filfreire
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
