@@ -1,8 +1,8 @@
 [Clean for four months]
 ========================
 
+* Speaker   : [Eduardo Taborda](https://pixels.camp/etaborda)
 * Speaker   : Eduardo Taborda
-* Length    : 30 mins
 * Language  : English
 
 Description
@@ -22,6 +22,10 @@ It ```Starks``` from a interpretation of what is ```Clean``` and ends with the o
 Speaker Bio
 -----------
 
+**Eduardo Taborda**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1068563?v=4&s=460)
+
 People started giving me money to build software since 1999, and that is what a really like to do.
 
 Even during college, my preferred classes were the ones that put us in front of the computer to build stuff.
@@ -37,3 +41,7 @@ Links
 * Company: https://www.olx.com/
 * Github: https://github.com/etaborda
 * Github: https://github.com/etaborda-fixeads
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
