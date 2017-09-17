@@ -2,8 +2,6 @@ Static Analysis o Plomo?
 ===================================
 
 * Speaker   : [José Pereira](https://pixels.camp/jmcPereira)
-* Available : 28-30 September
-* Length    : 20-30 mins
 * Language  : English
 
 Description
@@ -20,7 +18,7 @@ Speaker Bio
 
 **José Pereira**
 
-![Speaker Image](http://www.adweek.com/lostremote/wp-content/uploads/sites/5/2016/09/pablo-tiene-vision-para-el-negocio-de-la.jpg)
+![Speaker Image](https://avatars2.githubusercontent.com/u/7936710?v=4&s=460)
 
 My name is José Pereira, I'm a 24 years old software developer currently working for a software security company called Checkmarx. I took my college degree in Computer Science and a Master degree on formal methods of software engineering along with languages and compilers theory at University of Minho.  
 
