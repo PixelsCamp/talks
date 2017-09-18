@@ -14,7 +14,7 @@ Speaker Bio
 
 **Javier Martínez**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/javier-martinez.png?raw=true)
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/javier-martinez.jpg?raw=true)
 
 Javier Martinez is the System Engineering Manager for Google Cloud in Spain and Portugal. Javier has been 18 years in the IT industry, working for HP, NetApp, and recently Google. During most of his career Javier has been focused on designing and helping enterprises build data management systems.
 
