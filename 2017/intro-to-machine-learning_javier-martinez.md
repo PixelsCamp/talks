@@ -1,8 +1,9 @@
 Introduction to Machine Learning: build your own or just consume
 ===================================
 
-* Speaker   : [Javier Martínez](https://twitter.com/jamarmu_es)
-* Language  : *English*
+* Speaker : [Javier Martínez](https://twitter.com/jamarmu_es)
+* Language : *English*
+* Company : Google
 
 Description
 -----------
