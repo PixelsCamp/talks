@@ -23,12 +23,15 @@ Speaker Bio
 
 ![Speaker Image](https://avatars2.githubusercontent.com/u/3199956?v=4&s=460)
 
-Jose runs Metavurt, an IoT design consultancy in Newcastle upon Tyne, UK which he founded in 2013. Coming from a software background his hardware ‘spark' came from experimenting with inexpensive micro controllers connected to smartphones using Bluetooth LE in the early days of this technology. Since then he has worked with several BLE projects - for example the LightBlue Bean kickstarter - and now is developing LoRa and Sigfox devices for clients across the UK. When not working on new designs he loves helping others use these technologies either in the Things Network forum, in the Pycom forums where he’s a moderator or as a Sigfox Ambassador. 
+Jose runs Metavurt, an IoT design consultancy in Newcastle upon Tyne, UK which he founded in 2013. Coming from a software background his hardware ‘spark' came from experimenting with inexpensive micro controllers connected to smartphones using Bluetooth LE in the early days of this technology. Since then he has worked with several BLE projects - for example the LightBlue Bean kickstarter - and now is developing LoRa and Sigfox devices for clients across the UK.
+
+When not working on new designs he loves helping others use these technologies either in the Things Network forum, in the Pycom forums where he’s a moderator or as a Sigfox Ambassador. 
 
 Links
 -----
 
 * Github: https://github.com/jmarcelino
+* Company: http://metavurt.net/
 * Website: https://www.sigfox.com/en
 * Website: https://www.lora-alliance.org/
 
