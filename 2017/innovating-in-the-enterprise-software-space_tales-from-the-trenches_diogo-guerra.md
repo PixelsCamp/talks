@@ -1,8 +1,7 @@
 Innovating in the Enterprise Software: Tales from the Trenches
 ========================
 
-* Speaker   : *Diogo Guerra*
-* Available : *September 28th, 29th, 30th*
+* Speaker   : [Diogo Guerra](https://pixels.camp/diogoeag)
 * Length    : *30 mins*
 * Language  : *English*
 
@@ -19,10 +18,12 @@ A brief walk-through on building a real time distributed system that can't fail 
 
 I will also share how fun and rewarding this journey has been, the rush and the fun of building and operating top level, mission critical systems.
 
----------------
-
 Speaker Bio
 -----------
+
+**Diogo Guerra**
+
+![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAPZAAAAJDU5YzRlNjUzLTQzOGYtNDc3OS04MTZhLTEwN2I5Njg5ODVlZQ.jpg)
 
 Engineer at heart, my technical passions are software architecture and performance. I've been working on real-time systems in the digital payments area for 8 years. My ecosystem is Linux and Java platforms and extracting the last millisecond of performance of any system is what keeps me up at night. 
 
@@ -35,3 +36,7 @@ Links
 
 * Company: http://www.feedzai.com
 * Github: http://github.com/diogoeag
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
