@@ -8,6 +8,8 @@ Monads for the whole family
 Description
 -----------
 
+(in JavaScript)
+
 Monads are an advanced programming concept that can be used in any computer language by beginners.
 
 They are also known to be very hard to explain and to lead those who venture into confusion and frustration.
