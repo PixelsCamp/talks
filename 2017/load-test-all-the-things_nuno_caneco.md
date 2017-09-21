@@ -1,8 +1,7 @@
 Load Test all the things
 ========================
 
-* Speaker   : Nuno Caneco
-* Available : September 28th or 29th - no time restrictions
+* Speaker   : [Nuno Caneco](https://pixels.camp/nmcc)
 * Length    : 60 mins
 * Language  : English
 
@@ -15,11 +14,12 @@ Either way, as a developer, it's important to know how to find performance issue
 
 In this session, we'll be submitting a web application to a load test and learn a few tricks on how to improve it's performance.
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
+
+**Nuno Caneco**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/1761156?v=4&s=460)
 
 Nuno Caneco is an Engineering Manager and Cluster Lead at Farfetch.
 
@@ -31,3 +31,7 @@ Links
 * Blog: https://medium.com/@nuno.caneco
 * Company: https://www.farfetch.com/
 * Github: https://github.com/nmcc/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
