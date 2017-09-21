@@ -1,8 +1,7 @@
 Hardening your Infrastructure with a Vault
 ========================
 
-* Speaker   : Luís Duarte
-* Available : Anytime
+* Speaker   : [Luís Duarte](https://pixels.camp/driverpt)
 * Length    : 30-45 minutes
 * Language  : English
 
@@ -17,6 +16,10 @@ This talk will introduce you to Vault by HashiCorp. I'll show you some use-cases
 Speaker Bio
 -----------
 
+**Luís Duarte**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/1164534?v=4&s=460)
+
 A Software Engineer with 2 years of experience as Sys Admin and 6 years of experience as a Developer. I consider myself a "techie" that loves to keep up to date with latest trends in Software.
 
 Currently working for BitSight, the Standard in Security Ratings.
@@ -29,3 +32,7 @@ Links
 * Blog: http://luisduarte.net
 * Company: http://www.bitsighttech.com
 * Github: http://github.com/driverpt
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
