@@ -16,7 +16,9 @@ Speaker Bio
 -----------
 
 **Tyler Gibson**
+
 ![Speaker Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkaAAAAJDkzMWEzYTM5LTYzM2UtNGYwNC05ZmE2LWNhNmE5ZGFjMTYwYQ.jpg)
+
 Tyler Gibson is a Senior Software Engineer with Microsoft, creating open source solutions that unblock industries and push industry innovation to new heights.Tyler's background is in industrial design, UX design and software engineering. He has been at Microsoft for 9 years, working as the original designer for Visual Studio Team Services and Microsoft Application Insights. He has worked across consumer and enterprise product spaces, in a number of different industries.
 
 Links
