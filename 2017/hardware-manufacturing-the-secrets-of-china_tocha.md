@@ -27,8 +27,8 @@ I'm currently working at China Facture, a company focused on helping start-ups t
 Links
 -----
 
-Company: http://www.chinafacture.com
-Website/profile: http://www.tocha.me
+* Company: http://www.chinafacture.com
+* Website/profile: http://www.tocha.me
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
