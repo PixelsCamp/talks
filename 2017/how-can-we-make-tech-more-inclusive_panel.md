@@ -28,7 +28,7 @@ Ana is an engineer / designer / marketer hybrid with a special interest in medic
 
 ![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/karolina.jpg?raw=true)
 
-Community Manager at Pixels Camp. Social Media Strategist at Bright Pixel.
+Community Manager at Pixels Camp. Social Media Strategist at Bright Pixel. Communication geek passionate about foresight methodology in startup management. Entrepreneur in 3D printing and sustainable design.
 
 Panel
 -----
