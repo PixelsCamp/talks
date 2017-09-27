@@ -32,7 +32,7 @@ Susana Fernandes is a junior Geophysicist at Galp Energia. Susana’s background
 Links
 -----
 
-* Company: http://www.galpenergia.com/P
+* Company: http://www.galpenergia.com/
 * Linkedin: https://www.linkedin.com/in/susana-fernandes-39658a87/
 
 Click [here][1] to see the full calendar and pick your favorite talks
