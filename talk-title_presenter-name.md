@@ -1,6 +1,5 @@
-Copy this template and then replace all text within `{{ ... }}` with the proper information (remove the `{{` and `}}` as well).
-
-This file will be automatically parsed by our backoffice.
+* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
+* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
 
 `--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
 
@@ -25,8 +24,9 @@ Speaker Bio
 Links
 -----
 
-* Company: {{ http://whereiwork.com }}
-* GitHub: {{ http://github.com/my-github-username }}
+* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
+* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
+* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
 
 Extra Information
 -----------------
