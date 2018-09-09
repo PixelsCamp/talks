@@ -1,25 +1,26 @@
 Copy this template and then replace all text within `{{ ... }}` with the proper information (remove the `{{` and `}}` as well).
 
-This file will be automatically parsed by our backoffice, so try to follow its format closely. Also remember to name it properly.
+This file will be automatically parsed by our backoffice.
 
---8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--
-{{ _Insert Talk Title Here_ }}
-==============================
+`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
 
-* Speaker   : {{ _Your Name Here_ (eg. John Doe) }}
-* Available : {{ _Your Availability Here_ (eg. October 6th, 9am-12pm) }}
-* Length    : {{ _Talk Length Here_ (30 minutes, 60 minutes, or workshop) }}
-* Language  : {{ _Talk Language_ (English or Portuguese) }}
+{{ _Your Talk's Title_ }}
+=========================
+
+* Speaker   : {{ **Your Name** (eg. John Doe) }}
+* Available : {{ **Your Availability** (eg. October 6th, 9am-12pm) }}
+* Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
+* Language  : {{ **Talk Language** (English or Portuguese) }}
 
 Description
 -----------
 
-{{ _Describe Your Talk Here_ and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
 
 Speaker Bio
 -----------
 
-{{ _Briefly Describe Yourself Here_ }}
+{{ **Briefly Describe Yourself Here** }}
 
 Links
 -----
