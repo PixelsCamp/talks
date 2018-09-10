@@ -7,7 +7,7 @@
 =========================
 
 * Speaker   : {{ **Your Name** (eg. John Doe) }}
-* Available : {{ **Your Availability** (eg. October 6th, 9am-12pm) }}
+* Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
 * Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
 * Language  : {{ **Talk Language** (English or Portuguese) }}
 
