@@ -29,7 +29,7 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
 * Talk slots may be 30 or 60 minutes long (minus setup time). Only workshops may have longer slots;
-* Talks may be delivered in English or Portuguese. However, talk proposals **must always** be in English.
+* Talks may be delivered in English or Portuguese, but talk proposals **must always** be written in English.
 
 ## Contact Information
 
