@@ -43,6 +43,10 @@ There aren't any hard rules besides making it honest and as captivating as you c
 * Make it **RELEVANT** — The audience at Pixels Camp has very diverse interests so, if you think about it, almost any topic will be interesting to some subset of the attendees. Don't limit yourself to popular topics or the new shiny, think more about knowledge sharing. If you're interested in some subject and are willing to talk about it on stage, chances are other attendees will be willing to hear you.
 * Make it **CLEAR** — People are more likely to be interested in attending your talk if they get a clear idea of what you'll be talking about. Polish your talk description with clear wording and proper english, and try to come up with an interesting title. Don't overdo it, though... Like code, excess cleverness may actually work against you.
 
+## I Got Accepted!
+
+Congratulations! You're an MVP (_Most Valuable Pixel... Camper_). The Pixels Camp organizers will be contacting you about some logistics details soon. Meanwhile, you can contact us over [Slack](https://slack.pixels.camp) (privately or on `#speakers` channel).
+
 ## I Got Rejected, Now What?
 
 If your talk proposal gets rejected, don't be disappointed. Don't give up, you may get your chance next time.
