@@ -18,6 +18,7 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 ### What Happens Next?
 
 * Your proposal will be reviewed by the Pixels Camp organizers.
+* You'll be asked for more information, or to touch up existing information.
 * If your talk is accepted, we'll merge the PR.
 * You'll get feedback even if the talk isn't accepted.
 
@@ -28,11 +29,11 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
 * Talk slots may be 30 or 60 minutes long (minus setup time). Only workshops may have longer slots;
-* Talks may be delivered in English or Portuguese. However, talk proposals *must always* be in English.
+* Talks may be delivered in English or Portuguese. However, talk proposals **must always** be in English.
 
 ## Contact Information
 
-Make sure we have a way to contact you privately if needed. Set up an e-mail address in your GitHub profile or include it with your proposal.
+Make sure we have a way to contact you privately if needed. Set up an e-mail address in your GitHub profile or include it with your proposal. Also make sure you join us at [Slack](https://slack.pixels.camp).
 
 ## What Makes a Good Proposal?
 
