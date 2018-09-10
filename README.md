@@ -15,7 +15,7 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 
 **NOTE:** If you're proposing more than one talk, please open **separate** Pull Requests.
 
-### What Happens Next?
+## What Happens Next?
 
 * Your proposal will be reviewed by the Pixels Camp organizers.
 * You'll be asked for more information, or to touch up existing information.
