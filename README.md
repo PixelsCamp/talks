@@ -27,7 +27,8 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 * Speakers must also be participants, you **must** also apply for Pixels Camp here: https://pixels.camp;
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
-* Talk slots may be 30 or 60 minutes long (minus setup time). Only workshops may have longer slots.
+* Talk slots may be 30 or 60 minutes long (minus setup time). Only workshops may have longer slots;
+* Talks may be delivered in English or Portuguese. However, talk proposals *must always* be in English.
 
 ## Contact Information
 
@@ -40,6 +41,7 @@ There aren't any hard rules besides making it honest and as captivating as you c
 * Make it **HARD-CORE** — This doesn't mean the topic needs to be advanced, far from it, it means you'll be speaking to a technical audience made out of intelligent people and shouldn't avoid going all technical. People **love** the gory details.
 * Make it **PERSONAL** — Especially if you'll be talking about some introductory topic, make sure you add something of yourself to the subject. Anyone can google for information these days, so remember the audience will be mostly looking for your personal experience on the matter.
 * Make it **RELEVANT** — The audience at Pixels Camp has very diverse interests so, if you think about it, almost any topic will be interesting to some subset of the attendees. Don't limit yourself to popular topics or the new shiny, think more about knowledge sharing. If you're interested in some subject and are willing to talk about it on stage, chances are other attendees will be willing to hear you.
+* Make it **CLEAR** — People are more likely to be interested in attending your talk if they get a clear idea of what you'll be talking about. Polish your talk description with clear wording and proper english, and try to come up with an interesting title. Don't overdo it, though... Like code, excess cleverness may actually work against you.
 
 ## I Got Rejected, Now What?
 
