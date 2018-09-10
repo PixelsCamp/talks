@@ -11,9 +11,9 @@ Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHu
 5. Edit the **new file** and fill in each section (**do not delete the template file**);
 6. When you're done, submit a **Pull Request**.
 
-Use your talk's title as the PRs title and use the contents of your proposal as its description. This will help with the revision process as well as allow the public to comment/vote on proposals.
+Use your talk's title as the PRs title and use the **contents** of your proposal as its description. This will help with the revision process as well as allow the public to comment/vote on proposals.
 
-**NOTE:** If you're proposing more than one talk, please open **separate** Pull Requests.
+**NOTE:** If you're proposing more than one talk, please open **separate** Pull Requests for each one.
 
 ## What Happens Next?
 
@@ -39,10 +39,10 @@ Make sure we have a way to contact you privately if needed. Set up an e-mail add
 
 There aren't any hard rules besides making it honest and as captivating as you can. We do have a few suggestions though:
 
-* Make it **HARD-CORE** — This doesn't mean the topic needs to be advanced, far from it, it means you'll be speaking to a technical audience made out of intelligent people and shouldn't avoid going all technical. People **love** the gory details.
-* Make it **PERSONAL** — Especially if you'll be talking about some introductory topic, make sure you add something of yourself to the subject. Anyone can google for information these days, so remember the audience will be mostly looking for your personal experience on the matter.
-* Make it **RELEVANT** — The audience at Pixels Camp has very diverse interests so, if you think about it, almost any topic will be interesting to some subset of the attendees. Don't limit yourself to popular topics or the new shiny, think more about knowledge sharing. If you're interested in some subject and are willing to talk about it on stage, chances are other attendees will be willing to hear you.
-* Make it **CLEAR** — People are more likely to be interested in attending your talk if they get a clear idea of what you'll be talking about. Polish your talk description with clear wording and proper english, and try to come up with an interesting title. Don't overdo it, though... Like code, excess cleverness may actually work against you.
+* Make it **HARD-CORE** — This doesn't mean the topic needs to be advanced, or that you need to be a god in the subject matter, it means you'll be speaking to a technical audience made out of intelligent people and shouldn't avoid going all technical. People **love** the gory details.
+* Make it **PERSONAL** — Especially if you'll be givin an introduction to some topic, make sure you add something of yourself to the subject. Anyone can google for information these days, so remember the audience will be mostly looking for your personal experience/opinion on the matter.
+* Make it **DIFFERENT** — The audience at Pixels Camp has very diverse interests so, if you think about it, almost any topic can be made interesting to some subset of the attendees. Don't limit yourself to popular topics or the new shiny, choose a topic you **like** and make it about knowledge sharing and not evangelism (sales pitches don't go well with this audience). If you're interested in something and are willing to talk about it on stage, chances are other attendees will be willing to hear you.
+* Make it **CLEAR** — People are more likely to be interested in attending your talk if they get a clear idea of what you'll be talking about. Polish your talk description with clear wording and proper english, and try to come up with an interesting title. Don't overdo it, though... Like in code, excess cleverness may actually work against you.
 
 ## I Got Accepted!
 
@@ -58,5 +58,5 @@ Either way, what really matters is that you submitted a talk proposal and you've
 
 <br>
 Thanks,
-
+<br>
 The Pixels Camp crew
