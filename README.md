@@ -1,11 +1,8 @@
-# [Pixels Camp 2019](https://pixels.camp) Call for Talks
-
 ![Call For Talks](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/call_for_talks.jpg)
 
+# How To Propose a Talk for Pixels Camp 2019
 
-## How To Propose a Talk
-
-Talk proposals for Pixels Camp must be submitted as GitHub pull requests. Please follow these steps:
+Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHub pull requests. Please follow these steps:
 
 1. Make sure you're logged in to **GitHub**;
 2. **Fork** this repository into your account;
@@ -20,6 +17,7 @@ Use your talk's title as the PRs title and use the contents of your proposal as 
 
 ### What Happens Next?
 
+* Your proposal will be reviewed by the Pixels Camp organizers.
 * If your talk is accepted, we'll merge the PR.
 * You'll get feedback even if the talk isn't accepted.
 
