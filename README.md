@@ -1,92 +1,55 @@
-# [Pixels Camp 2017](https://pixels.camp) Call for Talks
+# [Pixels Camp 2019](https://pixels.camp) Call for Talks
 
 ![Call For Talks](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/call_for_talks.jpg)
 
 
-## How to submit a talk
+## How To Propose a Talk
 
-Talk proposals are handled through GitHub Pull Requests. Follow the instructions below:
+Talk proposals for Pixels Camp must be submitted as GitHub pull requests. Please follow these steps:
 
 1. Make sure you're logged in to **GitHub**;
 2. **Fork** this repository into your account;
-3. **Duplicate** the `my-awesome-talk_my-name.md` template into a **new file**;
-4. Rename the **new file** using your talk's title and your name
-(eg: `pixels-camp-is-going-to-be-legen-dary_celso-martinho.md`);
+3. **Copy** the `talk-title_presenter-name.md` template into a **new file**;
+4. Rename the **new file** using your talk's title and your name (eg. `introduction-to-foo_john-doe.md`);
 5. Edit the **new file** and fill in each section (**do not delete the template file**);
-6. When you're ready, submit a **Pull Request** and paste your markdown file contents into the **first comment**.
+6. When you're done, submit a **Pull Request**.
 
-**Note:** If you're proposing more than one talk, please open **separate** Pull Requests.
+Use your talk's title as the PRs title and use the contents of your proposal as its description. This will help with the revision process as well as allow the public to comment/vote on proposals.
 
-### What happens next?
+**NOTE:** If you're proposing more than one talk, please open **separate** Pull Requests.
 
-* Anyone can comment (and vote) on your Pull Request.
-* If your talk is accepted we will merge the Pull Request.
-* We'll give feedback to anyone who submits a talk proposal even if isn't accepted.
+### What Happens Next?
 
-The deadline for submitting talks is **August 31st**. After than we won't be accepting any more Pull Requests.
+* If your talk is accepted, we'll merge the PR.
+* You'll get feedback even if the talk isn't accepted.
 
-Speakers must also be participants, so don't forget to **apply** for Pixels Camp here: https://pixels.camp
+## Rules
 
-## What should be in the proposal?
+* The deadline for submitting talks is **January 20th, 2019**. After that we won't accept any more proposals;
+* Speakers must also be participants, you **must** also apply for Pixels Camp here: https://pixels.camp;
+* Having your talk accepted also means you're accepted as an attendee (of course);
+* Proposals must have a minimum set of information (see the template) to be considered for revision;
+* Talk slots may be 30 or 60 minutes long (minus setup time). Only workshops may have longer slots.
 
-Every proposal should have, at minimum, the following information:
+## Contact Information
 
-* Your Name
-* Your Availability (what days/times you are able to do this presentation)
-* Presentation Title
-* Presentation Description
-* Presentation Duration (typically 30 mins, but we're open minded)
-* Presentation Language
+Make sure we have a way to contact you privately if needed. Set up an e-mail address in your GitHub profile or include it with your proposal.
 
-#### Related Files
+## What Makes a Good Proposal?
 
-If you want to include any other files related to your presentation, like keynotes, code samples, videos, etc, make a directory with the same name as your presentation and put the files in there.
+There aren't any hard rules besides making it honest and as captivating as you can. We do have a few suggestions though:
 
-#### Contact Info
+* Make it **HARD-CORE** — This doesn't mean the topic needs to be advanced, far from it, it means you'll be speaking to a technical audience made out of intelligent people and shouldn't avoid going all technical. People **love** the gory details.
+* Make it **PERSONAL** — Especially if you'll be talking about some introductory topic, make sure you add something of yourself to the subject. Anyone can google for information these days, so remember the audience will be mostly looking for your personal experience on the matter.
+* Make it **RELEVANT** — The audience at Pixels Camp has very diverse interests so, if you think about it, almost any topic will be interesting to some subset of the attendees. Don't limit yourself to popular topics or the new shiny, think more about knowledge sharing. If you're interested in some subject and are willing to talk about it on stage, chances are other attendees will be willing to hear you.
 
-Make sure we have a way to contact you! Either set up your e-mail address in your GitHub profile, or include it on your proposal.
+## I Got Rejected, Now What?
 
-## Make makes a good proposal?
+If your talk proposal gets rejected, don't be disappointed. Don't give up, you may get your chance next time.
 
-Before you submit your talk, ask yourself these questions and use the answers you come up with to either enrich your pitch or rethink your initial idea into a better, more fitting one.
+Your talk might not have made it for any number of reasons and, most of the time, they have nothing to do with quality or your ability to deliver. Maybe a similar topic got covered in the previous year, or this year, and the reviewers decided not to run it this time. Maybe there were too many similar talks and the reviewers opted for other subjects. Or maybe your proposal just didn’t quite convince us this time around.
 
-#### Relevance
-
-* Is the talk relevant for the Pixels Camp attendance?
-* Does it make sense for a bunch of hard code technical audience to sit through your talk in the context of Pixels Camp?
-
-Relevance is tricky as it doesn’t necessarily translate to geeky or codable. Sometimes interesting talks show up and aren’t even related to technology.
-
-#### Novelty
-
-* Is it old news?
-* Has it been heavily discussed in the past?
-
-Sometimes good talks get rejected because they get old. Try to awe the attendees with fresh insights!
-
-#### Specificity
-
-* Is your proposal specific about the topic it approaches?
-
-Specificity demands a lot more thought and planning, which in our experience are the two biggest keys to a successful session. The Pixels Camp audience tends to prefer minutia (ex: "HTTP/2 and what it means to Front-end") over inspirational, broader topics (ex: "The future of programming").
-
-#### Context
-
-* Do you provide context to what you'll be talking about?
-
-A speaker may lose its potential audience by failing to provide any context for the topic he or she is discussing. Please remember that a chunk of your attendees will be there to learn from you, and they may not take full advantage of that if you go straight into deep tech without proper basic explanations first. Make sure that you provide the necessary (small) intros to the technologies or topics you'll be discussing in your talk.
-
-## I got accepted
-
-If and when your talk gets accepted, you'll immediately receive an email from the organization with all the info and steps necessary before it gets included in the official calendar. Hurray!
-
-## I got rejected
-
-If your proposal gets rejected, don't be disappointed. And above all, don't give up, we have the Pixels Camp every year. Your talk might not have made it for any number of reasons and most of the time they've nothing to do with quality or your ability to deliver.
-
-Maybe a similar topic got covered in the previous year, or this year, and the curators decided not to run it this time. Maybe there were too many similar technical talks, and the curators opted for other themes. Or maybe your proposal just didn’t quite convince us this time.
-
-Either way what really matters is that you proposed the talk and you've shown motivation and initiative, which translates directly into the kind of attributes we're looking for in candidates. Karma points for you!
+Either way, what really matters is that you submitted a talk proposal and you've shown motivation and initiative, which are just the kind of attributes we're looking for in attendees. Karma points for you!
 
 <br>
 Thanks,
