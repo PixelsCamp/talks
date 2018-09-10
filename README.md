@@ -5,7 +5,7 @@
 Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHub pull requests. Please follow these steps:
 
 1. Make sure you're logged in to **GitHub**;
-2. **Fork** this repository into your account;
+2. **Fork** [this repository](https://github.com/pixelscamp/talks) into your account;
 3. **Copy** the `talk-title_presenter-name.md` template into a **new file**;
 4. Rename the **new file** using your talk's title and your name (eg. `introduction-to-foo_john-doe.md`);
 5. Edit the **new file** and fill in each section (**do not delete the template file**);
@@ -58,5 +58,4 @@ Either way, what really matters is that you submitted a talk proposal and you've
 
 <br>
 Thanks,
-<br>
-The Pixels Camp crew
+_The Pixels Camp crew_
