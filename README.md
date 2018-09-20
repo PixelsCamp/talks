@@ -1,6 +1,6 @@
 ![Call For Talks](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/call_for_talks.jpg)
 
-# How To Propose a Talk for Pixels Camp 2019
+# How To Propose a Talk for Pixels Camp v3.0
 
 Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHub pull requests. Please follow these steps:
 
