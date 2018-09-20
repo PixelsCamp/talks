@@ -56,6 +56,7 @@ Your talk might not have made it for any number of reasons and, most of the time
 
 Either way, what really matters is that you submitted a talk proposal and you've shown motivation and initiative, which are just the kind of attributes we're looking for in attendees. Karma points for you!
 
-<br>
+---
 Thanks,
+
 _The Pixels Camp crew_
