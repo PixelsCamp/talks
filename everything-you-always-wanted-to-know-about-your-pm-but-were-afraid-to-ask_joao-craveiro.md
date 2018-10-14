@@ -33,7 +33,7 @@ Links
 * Company: https://www.onfido.com
 * Github: https://github.com/jpgcc
 * LinkedIn: https://www.linkedin.com/in/jpgcc
-* Twitter: [@jpgcc](https://twitter.com/jpgcc_)
+* Twitter: [@jpgcc_](https://twitter.com/jpgcc_)
 
 Extra Information
 -----------------
