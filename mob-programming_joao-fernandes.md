@@ -16,7 +16,7 @@ My team has done Mob Programming at Xing, in groups of 4 and 5. We sucked at it,
 Speaker Bio
 -----------
 
-I am a Software Engineer working a Xing, where I have been doing full stack development with Ruby on Rails and React for 1 year. Before Xing, I worked at Seedrs and Movingworlds.
+I am a Software Engineer working at Xing, where I have been doing full stack development with Ruby on Rails and React for 1 year. Before Xing, I worked at Seedrs and Movingworlds.
 
 My team has been doing mob programming since March of this year while implementing GDPR compliance, and we now do it from time to time, usually when laying groundwork for future feature development.
 
