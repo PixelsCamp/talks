@@ -1,15 +1,10 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-
-`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
-{{ _Your Talk's Title_ }}
+{{ Augmented Reality, ARKit and Geolocation }}
 =========================
 
-* Speaker   : {{ **Your Name** (eg. John Doe) }}
+* Speaker   : António Lima
 * Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
 * Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
-* Language  : {{ **Talk Language** (English or Portuguese) }}
+* Language  : English
 
 Description
 -----------
@@ -24,9 +19,9 @@ Speaker Bio
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* Blog: https://medium.com/@aclima93
+* Company: http://deemaze.com/
+* GitHub: https://github.com/aclima93
 
 Extra Information
 -----------------
