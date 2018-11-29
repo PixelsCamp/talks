@@ -1,9 +1,9 @@
-{{ Augmented Reality, ARKit and Geolocation }}
+Augmented Reality, ARKit and Geolocation
 =========================
 
 * Speaker   : António Lima
-* Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
-* Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
+* Available : Whenever, wherever
+* Length    : 60 minutes
 * Language  : English
 
 Description
@@ -25,5 +25,9 @@ Links
 
 Extra Information
 -----------------
+
+I have written two blogposts on the topic of AR (with a third on the way):
+https://medium.com/deemaze-software/augmented-reality-a-simple-technical-introduction-83d5e77206b9
+https://medium.com/deemaze-software/arkit-a-simple-hands-on-experience-7d8d36ed7f6e
 
 {{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
