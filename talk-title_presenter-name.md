@@ -9,7 +9,11 @@ Augmented Reality, ARKit and Geolocation
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+AR could be the future.
+
+Apple showcased many projects they are working on during their WWDC 2018 event, and among their many keynotes, one of them touched on their latest AR endeavor: ARKit 2.
+
+This talk will not teach you the basics of ARKit, it will take you on a journey through the process of discovering a very promising piece of technology and creating a "useful" AR experience, and not just some technological showcase of gimmicks.
 
 Speaker Bio
 -----------
@@ -32,7 +36,7 @@ Links
 Extra Information
 -----------------
 
-I have written two blogposts on the topic of AR (with a third on the way):
+I have written two blogposts on the topic of AR (with a third one on the way):
 - https://medium.com/deemaze-software/augmented-reality-a-simple-technical-introduction-83d5e77206b9
 - https://medium.com/deemaze-software/arkit-a-simple-hands-on-experience-7d8d36ed7f6e
 
