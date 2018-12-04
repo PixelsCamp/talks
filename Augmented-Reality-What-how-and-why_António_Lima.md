@@ -11,9 +11,9 @@ Description
 
 AR could be the future. Do you know how it works and what you can build with it?
 
-Apple has showcased many projects they are working on during their WWDC 2018 event, and among them, they touched on their latest AR endeavor: ARKit 2.
+There are many AR techonolgies being showcased every year by top tier companies e.g. Google, Microsoft, and Apple. Apple showcased during their WWDC 2018 event their latest AR endeavor: ARKit 2.
 
-This talk will not teach you the basics of ARKit, it will take you on a journey through the process of discovering a very promising piece of technology and creating a "useful" AR experience, and not just some technological showcase of gimmicks.
+This talk will not teach you the basics of ARKit, it will take you on a journey through the process of discovering a very promising piece of technology and creating a "useful" AR experience.
 
 Speaker Bio
 -----------
@@ -43,6 +43,8 @@ I have written two blog posts on the topic of AR (with a third one on the way):
 **Longer description of the talk:**
 
 For most people AR is magic: they don't know how it works or what can be done with it. This talk aims to demystify some concepts, teach a bit of the basics, and inspire people to create more AR content.
+
+There are many AR techonolgies being showcased every year by top tier companies e.g. Google, Microsoft, and Apple.
 
 Apple showcased many projects they are working on during their [WWDC 2018 event](https://www.apple.com/apple-events/june-2018/), how far they’ve come, and how there is still so much to improve upon. Among their many keynotes, one of them touched on their latest AR endeavor: ARKit 2. This piqued my interest in the subject and, since I had some free time on my hands and wanted a new pet project, well… here we are 😅
 
