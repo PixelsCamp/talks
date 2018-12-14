@@ -10,7 +10,7 @@ Description
 -----------
 
 In this talk I'm going to talk about strategies to render thousands of linked data points in a HTML canvas smoothly. 
-This talk will be based on a graph data use case, but most of the strategies apply to other scenarios. 
+This talk will be based on a graph data use case, but most of the strategies could be applied to other scenarios. 
 I will talk using efficient data structures, avoiding computations, avoiding creating garbage and efficient canvas rendering.
 
 
