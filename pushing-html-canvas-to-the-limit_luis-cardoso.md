@@ -32,7 +32,6 @@ Links
 Extra Information
 -----------------
 
-Besides 3 internal presentations at Feedzai, I've made a presentation in RequireLX 
-about React best practices https://www.youtube.com/watch?v=I3qRD1v2xq4, I've made a presentation in Semana da Informática at FEUP 
-https://www.linkedin.com/feed/update/urn:li:activity:6469204893960847360 and I gave an workshop about unit tests 
-at University of Aveiro https://www.linkedin.com/feed/update/urn:li:activity:6475734652232491008.
+Besides 3 internal presentations at Feedzai, I've made a [presentation](https://www.youtube.com/watch?v=I3qRD1v2xq4) in RequireLX 
+about React best practices, I've made a presentation [presentation](https://www.linkedin.com/feed/update/urn:li:activity:6469204893960847360) in Semana da Informática at FEUP and I gave an workshop about unit tests 
+at University of Aveiro [presentation](https://www.linkedin.com/feed/update/urn:li:activity:6475734652232491008).
