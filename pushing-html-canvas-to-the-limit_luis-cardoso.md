@@ -2,7 +2,7 @@ _Pushing HTML Canvas to the Limit_
 =========================
 
 * Speaker   : **Luís Cardoso**
-* Available : **first and second day, 9am-7pm**
+* Available : **second day (friday), 9am-7pm**
 * Length    : **30 minutes**
 * Language  : **English**
 
