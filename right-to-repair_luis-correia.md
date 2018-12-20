@@ -3,13 +3,13 @@
 
 `--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
 
-{{ _Your Talk's Title_ }}
+Right to Repair (or how you can do more with your broken device)
 =========================
 
-* Speaker   : {{ **Your Name** (eg. John Doe) }}
-* Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
-* Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
-* Language  : {{ **Talk Language** (English or Portuguese) }}
+* Speaker   : Luis Correia
+* Available : whenever you need it to be
+* Length    : 45(ish) minutes
+* Language  : English (probably)
 
 Description
 -----------
