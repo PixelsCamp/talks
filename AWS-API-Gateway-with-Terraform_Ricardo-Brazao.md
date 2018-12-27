@@ -1,4 +1,4 @@
-{{ AWS API Gateway with Terraform, or how a backend developer coded some infrastructure with zero DevOps knowledge }}
+AWS API Gateway with Terraform, or how a backend developer coded some infrastructure with zero DevOps knowledge
 =========================
 
 * Speaker   : **Ricardo Brazão**
@@ -16,7 +16,7 @@ Speaker Bio
 
 **Ricardo Brazão**
 
-![image](https://www.dropbox.com/s/bpj5ktw4bw7thi2/me_onfido.jpg)
+![image](https://s.gravatar.com/avatar/8e4eccf7185fc3dd26d6f8adf6dcb36c?s=300)
 
 I work as a software developer @Onfido, working mainly in Ruby (being it with Rails, Sinatra or Grape) but currently also looking a bit into the realm of Elixir. Although I'm mostly a backend developer, from time to time I like the frustration of stepping out of my confort zone and dwelve in the front end world or a bit of DevOps stuff as I think a software developer should know a bit of the surrounding universes.
 
