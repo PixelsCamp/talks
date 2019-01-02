@@ -19,14 +19,18 @@ Description
 Speaker Bio
 -----------
 
-{{ **Briefly Describe Yourself Here** }}
+![Speaker Image](https://avatars3.githubusercontent.com/u/191885?v=3&s=400)
+
+Legendary bicopter/tricopter builder, member of the fine One Over Zero community, mostly known as the "lobster crew"
+Co-creator of OOZLabs, a closed maker group that essentially makes things and stuff.
 
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* Blog: http://blog.loide.net
+* Company: http://labs.oneoverzero.org
+* Github: https://github.com/oozlabs / https://github.com/luisfcorreia
+* Contact: buga@loide.net
 
 Extra Information
 -----------------
