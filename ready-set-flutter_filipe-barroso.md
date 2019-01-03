@@ -33,6 +33,7 @@ Links
 Extra Information
 -----------------
 
-I gave the first version of this talk at the event BarcampLx #1, (April 28, 2018) for 10 minutes long. However this talk was acceptted for TugaIt 2018 Summer Edition (July 19, 2018), and it was 45 minutes long. I have now adapted it for version 1.0 of Flutter and can give it in 30 minutes.
+I gave the first version of this talk at the event BarcampLx #1, (April 28, 2018) for 10 minutes long. However this talk was acceptted for TugaIt 2018 Summer Edition (July 19, 2018), and it was 45 minutes long. I have now adapted it for version 1.0 of Flutter and can give it in 30 minutes. 
+[update 3Jan] I will give this talk and workshop at DevFest Porto 2018, (Jan 26, 2018)
 
 Workshop - I also can give a Workshop about Flutter, if that is of your interest.
