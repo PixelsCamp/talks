@@ -1,9 +1,3 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-
-`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
-
 Build Fast & Make Things
 =========================
 
