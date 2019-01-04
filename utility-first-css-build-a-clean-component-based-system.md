@@ -9,13 +9,13 @@ Utility-First CSS: Build a clean Component based system
 Description
 -----------
 
-You should have been there in the past: that point when the CSS of you app outgrows and you start that crazy classes into your system:
+You might be familiar to the time when the CSS of your application reach to the point that you start adding some weird classes like:
 
 `.title--24px`, `.section__big--diff-2`, `button-primary--important`, etc, …
 
-Does any on this selectors reminds you that crazy late-request to have a copy of a panel but with a different properties, or even the that request from the Stakeholders so the an individual primary button to have more space on the top?
+This often happens when you receive that request from the Stakeholders to have the same panel element, but with some slightly differences? Or maybe that express request for an individual primary button to have more space on the top?
 
-So, instead of creating the tipical `later.css` or add `!important` here and there come hear how and why an utility-first approach could save you a lot of time, but most specially some big headaches.
+So, instead of creating some `later.css`, or just add `!important` here and there, join us and hear how and why an utility-first approach could save you a lot of time… but most of all some big headaches.
 
 Speaker Bio
 -----------
@@ -39,6 +39,6 @@ Links
 Extra Information
 -----------------
 
-The value prop of this talk is to help any Front-end developer that can relate to the same struggles. So, I will show some real-case example from my own experience, and some 🔥 tips that either help or give you a brand-new know how.
+The value prop of this talk is to help any Front-end developer that can relate to the same struggles. And with my own experience, and some 🔥 tips, I will show some real-case examples that either give you the _"Aha! moment"_, or just learn something new.
 
-To wrap it up… the key point can be presented in under 30 minutes but I prefer to extend it up to 45 minutes so some example cases can be presented.
+To wrap it up… the key point can be presented in under 30 minutes. But I prefer to extend to 45 minutes, so I can show some examples.
