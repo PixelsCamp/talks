@@ -9,9 +9,9 @@ An intro to Mutation Testing - or why coverage sucks
 Description
 -----------
 
-Everyone hates to be waken up at the middle of the night due to some crazy production bug. The most common prevention strategy is to battle test your code. Automated tests are unquestionably perceived as fundamental for a sane and low-bug codebase. As a consequence, we want to know how good are our tests. For a long time coverage has been seen as the de facto metric for assessing the quality of the tests.
+Mutation testing has been evolving into a real candidate to become the de facto metric for assessing the quality of a test suite, defying the throne that has been occupied by code coverage until now.
 
-Additionally, mutation testing has been evolving and it has become a reality nowadays. The concept of mutation testing is quite simple: mutations are introduced on the codebase and the test suite is run against the mutated code. If your test suite is strong, then it should catch the mutation, by having at least one test failing.
+The concept of mutation testing is quite simple: mutations are introduced on the codebase and the test suite is run against the mutated code. If your test suite is strong, then it should catch the mutation, by having at least one test failing.
 
 In this talk I plan to show how coverage by itself doesn't guarantee quality on the test suite, and how mutation testing can effectively find bugs on your code and tests.
 
