@@ -9,11 +9,11 @@ Utility-First CSS: Build a clean Component based system
 Description
 -----------
 
-You might be familiar to the time when the CSS of your application reach to the point that you start adding some weird classes like:
+You may be familiar with the time when the CSS of your application reaches the point when you start adding some weird classes like:
 
 `.title--24px`, `.section__big--diff-2`, `button-primary--important`, etc, …
 
-This often happens when you receive that request from the Stakeholders to have the same panel element, but with some slightly differences? Or maybe that express request for an individual primary button to have more space on the top?
+This often happens when you receive that request from the Stakeholders to have the same panel element, but with some slight differences? Or maybe that express request for an individual primary button to have more space on the top?
 
 So, instead of creating some `later.css`, or just add `!important` here and there, join us and hear how and why an utility-first approach could save you a lot of time… but most of all some big headaches.
 
