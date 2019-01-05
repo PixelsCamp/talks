@@ -15,7 +15,7 @@ You may be familiar with the time when the CSS of your application reaches the p
 
 This often happens when you receive that request from the Stakeholders to have the same panel element, but with some slight differences? Or maybe that express request for an individual primary button to have more space on the top?
 
-So, instead of creating some `later.css`, or just add `!important` here and there, join us and hear how and why an utility-first approach could save you a lot of time… but most of all some big headaches.
+So, instead of creating some `later.css`, or just add `!important` here and there, join us and hear how and why an utility-first approach could save you a lot of time… but most of all, some big headaches.
 
 Speaker Bio
 -----------
