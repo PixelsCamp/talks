@@ -1,5 +1,7 @@
-_Everything You Always Wanted to Know About Your Product Manager*_ (*But Were Afraid To Ask)
-=========================
+Everything You Always Wanted to Know About Your Product Manager*
+================================================================
+
+(*But Were Afraid To Ask)
 
 * Speaker   : **João Craveiro**
 * Available : **21 and 22 March, 10am--6pm**
@@ -20,11 +22,9 @@ Speaker Bio
 
 ![Speaker Image](https://raw.githubusercontent.com/jpgcc/jpgcc.github.io/master/img/me.jpg)
 
-I love solving real problems of real people using computer technology as a means to it. My professional mission is leading software development teams to deliver customer value effectively and efficiently, and continuous improvement is my central principle.
+I'm a Product Manager with 4 years of experience in that function, plus previous experience as a software engineer and as a scientific researcher. My professional mission is leading software development teams to deliver customer value effectively and efficiently, and continuous improvement is my central principle.
 
-I'm currently a Product Manager at Onfido, a London-based startup using machine learning to help over 1,500 companies verify the identity of their users online.
-
-Before that, I was a Product Manager at Premium Minds, a Lisbon-based software development agency (where I've also been through the duties of Software Engineer and Agile Coach / Scrum Master) and professor at Universidade Lusófona. Even before that? Well, a lot. From old to new: I've worked at a computer store; done freelance web development; written tech pieces for a newspaper supplement; researched on embedded and real-time systems through two theses; and taught embedded systems, operating systems, computer architecture, and object-oriented programming at U. Lisbon.
+I'm currently a Product Manager at Onfido, a London-based startup using machine learning to help businesses worldwide verify the identities of their customers online using just a picture of an ID card and a selfie.
 
 Links
 -----
