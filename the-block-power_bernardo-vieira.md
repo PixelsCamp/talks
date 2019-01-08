@@ -18,7 +18,7 @@ Please join, brought questions, laptop or at least attention.
 Speaker Bio
 -----------
 
-I, my name is Bernardo, I'm currently in Lisbon working for a blockchain company. I work mostly with ethereum blockchain and the tools around it, but I've also worked with hyperledger fabric and stellar.
+Hi, my name is Bernardo, I'm currently in Lisbon working for a blockchain company. I work mostly with ethereum blockchain and the tools around it, but I've also worked with hyperledger fabric and stellar.
 I burn some of my work and free time contributing to some open source projects related to blockchain development :grin:.
 I'm very passionated about this field and what it can brought to us.
 Reach me during the event, it will be a pleasure to met you.
