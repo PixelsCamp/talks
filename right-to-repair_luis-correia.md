@@ -1,7 +1,3 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-
-`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
 
 Right to Repair (or how you can do more with your broken device)
 =========================
@@ -15,9 +11,14 @@ Description
 -----------
 
 Ever had a device fail on you? Like, a tablet, smartphone, dishwasher, hair dryer, you name it!
+
 The thing is, it is most likely you just threw it away, thinking it was beyond repair.
+
 Phear not, is most cases, it *is* repairable (with notable exceptions) and you can give it an extra life.
-Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it. Come hear me talk about it to know more
+
+Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it. 
+
+Come hear me talk about it to know more
 
 Speaker Bio
 -----------
