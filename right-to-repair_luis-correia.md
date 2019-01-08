@@ -14,7 +14,10 @@ Right to Repair (or how you can do more with your broken device)
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+Ever had a device fail on you? Like, a tablet, smartphone, dishwasher, hair dryer, you name it!
+The thing is, it is most likely you just threw it away, thinking it was beyond repair.
+Phear not, is most cases, it *is* repairable (with notable exceptions) and you can give it an extra life.
+Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it. Come hear me talk about it to know more
 
 Speaker Bio
 -----------
