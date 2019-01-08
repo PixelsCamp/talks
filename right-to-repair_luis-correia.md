@@ -14,7 +14,7 @@ Ever had a device fail on you? Like, a tablet, smartphone, dishwasher, hair drye
 
 The thing is, it is most likely you just threw it away, thinking it was beyond repair.
 
-Phear not, is most cases, it *is* repairable (with notable exceptions) and you can give it an extra life.
+Phear not, in most cases, it *is* repairable (with notable exceptions) and you can give it an extra life.
 
 Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it. 
 
