@@ -39,4 +39,7 @@ Links
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+I usually prepare talks about things I've make (or tried to make it work), this time this is about fixing stuff.
+
+Past talks @ PixelsCamp https://github.com/PixelsCamp/talks/blob/master/2016/ooz2mars-rover_luis-correia.md
+
