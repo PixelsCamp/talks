@@ -1,0 +1,35 @@
+More Tests, Less Work
+=====================
+
+* Speaker   : Miguel Duarte, Luís Rodrigues
+* Available : any day
+* Length    : 30 minutes
+* Language  : English
+
+Description
+-----------
+
+Writing tests can be tricky. How do you ensure appropriate coverage yet keep things straightforward
+and maintainable? Generative testing exists to reinforce your tests with hundreds of randomised checks,
+but it requires changing your test design mentality. This talk introduces fast-check and its underpinnings,
+and will help you think less about expected results and more about general behaviour that you can test.
+
+Speaker Bio
+-----------
+
+Miguel Duarte and Luís Rodrigues are software engineers at Equal Experts Portugal.
+
+Links
+-----
+
+* Company: https://equalexperts.com
+* GitHub: https://github.com/malduarte
+* Twitter: https://twitter.com/malduarte
+* Blog: https://goblindegook.com
+* GitHub: https://github.com/goblindegook
+* Twitter: https://twitter.com/goblindegook
+
+Extra Information
+-----------------
+
+Talk slides: https://github.com/goblindegook/talks/blob/master/property-based-testing.md
