@@ -11,7 +11,7 @@ Description
 
 Wouldn't it be great to be able to develop a fully functional API without the hassle of learning a third party library or framework? What if I told you that Go lets you do all this, with an awesome concurrency system out of the box?
 
-In this talk, I will show you how you can quickly build a fully functional, and tested (using TDD) API, that goes beyond a mere "Hello World" message, using just the Go standard library for this purpose. As a bonus, I will go through some tips, techniques and good practices of the language!
+In this talk, I will show you how you can quickly build a fully functional, and tested API, that goes beyond a mere "Hello World" message, using just the Go standard library for this purpose. As a bonus, I will go through some tips, techniques and good practices of the language!
 
 
 Speaker Bio
