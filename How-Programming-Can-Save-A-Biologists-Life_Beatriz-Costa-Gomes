@@ -1,0 +1,35 @@
+How Programming can save a Biologist's life
+
+=========================
+
+* Speaker   : Beatriz Costa Gomes
+* Available : Anytime
+* Length    : 30 mins
+* Language  : English
+
+Description
+-----------
+For a programmer, biology often looks like magic. There are many uncertainties and questions for which answers often appear to depend on bizarre hypotheses, exotic guesses or strange "whatifs": from a mixture of culture media and cells, disease cures are discovered seemingly out of nowhere. For a biologist, on the other hand, programming is also nothing short of wizardry: by typing up a few words onto a blackbox, an immense amount of data can be analysed within minutes or even seconds and results are usually a click away. In a world where globalization helps spread knowledge and technology across borders and scientific areas, it is mind-blowing how these two fields still barely touch. If we were to build a Venn Diagram, the intersection would be non-empty however, composed of one subject: Bioinformatics, which develops methods and software tools for understanding biological data.
+
+But there is so much more to Bioinformatics than what can be transcribed into words. This is what I want to show you, how a programmer can change a biologist's life and vice-versa. It's about how two completely different fields can cooperate and help each other grow, whilst making original contributions to knowledge. Sometimes, programming can even help fight and cure diseases which were previously untreated. The main issue remains the lack of understanding between both fields, and this is where I hope this talk will help bridging the gap: I will showcase ALFRED, the result of a simple collaboration that significantly improved the quality of the biological work in my lab by simply automating steps that cut down the image analysis time by hours. Yes, hours. It not only improves the processing needed to understand the images but also performs a user-independent analysis of parameters, some of which not even present in available softwares.
+
+I will also showcase another degree of collaboration: between programming, biology and maths, where modelling is an imperative approach to the understanding of the normal and abnormal behaviours of life. It works in a feedback circle: biology discovers a mechanism, mathematics uncover equations that describe that mechanism and programming will run simulations and analyse behaviours of those equations. After, the most interesting parameters analysed can be fed back into biology to test and understand their biological meaning.
+Join me in this journey to expand the intersection between these fields and, who knows, maybe one day a programmer might be able to add “cure cancer” to their CV.
+
+
+
+Speaker Bio
+-----------
+
+After a Biomedical Engineering degree, with a specialisation in Bioinformatics and Clinical Informatics, I've continued my journey on the line between biology and computer science by pursuing a PhD in Computational Biology, hosted in a fully biological group. This allowed me to have an insight on the matter and on how life in Biology could be made much easier if each group collaborated with computer scientists and programmers.
+
+Links
+-----
+
+* Blog: https://https://beainw0nderland.wordpress.com 
+* GitHub: https://github.com/mooniean
+
+Extra Information
+-----------------
+
+I've given several talks where I present my software to different types of audiences, from biologists to physicists and microscopists. I've found that everywhere I go, I'm asked whether there's more people like me, willing to go to a group and work with them. This is where I got the idea for this talk: talk to an audience that can actually help create the programmers army to tackle problems in other fields.
