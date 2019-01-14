@@ -20,6 +20,15 @@ Unfortunately, most gadget makers don't want you to repair but rather buy a new 
 
 Come hear me talk about it to know more
 
+Main topics will be (in no particular order)
+
+* Planned obsolescence
+* Choosing a vendor
+* You don't own it unless you can repair it
+* Legislation
+* Learning how to try and fix things
+
+
 Speaker Bio
 -----------
 
