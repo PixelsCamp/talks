@@ -33,6 +33,6 @@ Links
 * Blog: https://pfandrade.me
 * Company: https://outercorner.com
 * GitHub: https://github.com/pfandrade
-* Twitter: https://twitter.com/pfandrade_
+* Twitter: [https://twitter.com/pfandrade_](https://twitter.com/pfandrade_)
 
 
