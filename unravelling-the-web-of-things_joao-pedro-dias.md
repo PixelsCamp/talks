@@ -3,7 +3,7 @@ Unravelling the Web of Things: Exploring Mozilla Things Framework
 
 * Speaker : [João Pedro Dias](https://pixels.camp/jpdias)
 * Available : Any
-* Length : Workshop
+* Length : 60min (Workshop)
 * Language : English
 
 Description
