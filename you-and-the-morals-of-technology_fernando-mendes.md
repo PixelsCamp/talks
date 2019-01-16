@@ -2,8 +2,8 @@ you. and the morals of technology
 =================================
 
 * Speaker   : Fernando Mendes
-* Available : Second day (preferrably afternoon)
-* Length    : 30 minutes
+* Available : Second and third day
+* Length    : 60 minutes
 * Language  : English
 
 Description
