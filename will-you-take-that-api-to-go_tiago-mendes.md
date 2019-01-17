@@ -3,7 +3,7 @@ Will you take that API to GO?
 
 * Speaker   : Tiago Mendes
 * Available : All days, All hours
-* Length    : 30 Minutes
+* Length    : 60 mins
 * Language  : English
 
 Description
