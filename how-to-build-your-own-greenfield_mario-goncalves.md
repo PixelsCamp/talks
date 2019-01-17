@@ -1,9 +1,9 @@
-_How to build your own greenfield?_
+How to build your own greenfield?
 =========================
 
 * Speaker   : **Mário Gonçalves**
 * Available : **any day, any time**
-* Length    : **30 minutes**
+* Length    : **~45 minutes + QA**
 * Language  : **English**
 
 Description
