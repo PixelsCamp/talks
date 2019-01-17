@@ -9,28 +9,35 @@ Everyone is naked: attacking the DHT
 Description
 -----------
 
-Distributed Hash Tables (DHT) are an important primitive which allow multiple
-nodes to collaboratively store and retrieve data in a completely decentralised
+Distributed Hash Table (DHT) is an important primitive which allows network
+peers to collaboratively store and retrieve data in a decentralized
 network. Nowadays, millions of users are using services which rely on DHTs:
-Bittorrent, IPFS, Freenet, Ethereum are just examples of projects leveraging
-DHTs to store and retrieve data in a decentralised way. With the upcoming Web
-3.0, it is expected that DHTs will become an even more important building block.
+Bittorrent, IPFS, Freenet, Ethereum are some examples of networks which use
+DHTs. As the Web 3.0 ecosystem becomes mainstream, the number of systems relying 
+on DHTs are expected to increase.
 
-Naive implementations of DHTs leak critical information about user behaviour
-e.g. who is storing and retrieving specific files in the network. It is often
-trivial for adversaries to collect data that can be correlated to understand
-what network users are up to. The data leaked can used for mass surveillance,
-censorship and privacy attacks on DHT users.
+However, naive implementations of DHTs leak critical information about user behavior 
+and user metadata (e.g. who is storing and retrieving specific files in the network). 
+In a DHT network, it is trivial for adversaries to collect network information 
+that can be correlated to understand what the users are up to. The data leaked 
+can used for mass surveillance, censorship and privacy attacks on DHT users and
+services.
 
-In this talk, we first dive into what are DHTs, how they work and its privacy
-vulnerabilities. After motivating the reasons of why anonymous and private
-systems are important for the future the internet and society, we'll perform a
+As P2P networks and decentralized systems (re)gain popularity among researchers
+and industry alike, it is important to design and implement decentralized 
+systems that preserve users’ privacy. Failing to deliver on this will render 
+decentralized systems unusable and unattractive for mass adoption or as a viable
+alternative to centralized systems.
+
+In this talk, our goals are to learn what DHTs, how they are used and how to
+improve privacy of existent designs. We first dive into what are DHTs, how they 
+work and its privacy
+vulnerabilities. After motivating the reasons of why privacy preserving networks
+are important for the future the internet and society, we'll perform a
 live privacy attack on a public DHT. We will see how easy it is to collect and
-correlate public activity in DHTs and generate usage profiles that can be used
-against DHT users.
-
-We will also go through some techniques and protocols used to harden privacy in
-DHTs based on current research and applications such as onion routing,
+correlate public activity in DHTs and try to understand its consequences from an
+user perspective. We wrap up by going through some mechanisms and protocols used
+to harden privacy in DHTs based on the latest research, such as onion routing,
 friend-to-friend routing, and others.
 
 Speaker Bio
