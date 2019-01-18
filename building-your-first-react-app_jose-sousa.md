@@ -1,4 +1,4 @@
-_Building Your First React App_
+Building Your First React App
 =========================
 
 * Speaker   : **José Sousa**
