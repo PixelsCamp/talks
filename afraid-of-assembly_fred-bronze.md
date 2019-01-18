@@ -1,10 +1,10 @@
 
-Afraid of assembly: reverse-engineering a Mega Drive game 25 years after the fact
+Afraid of assembly: reverse-engineering a 25 year-old Mega Drive game
 =========================
 
 * Speaker   : Fred Bronze
 * Available : Every day, all day
-* Length    : 30 minutes
+* Length    : 45 minutes + Q&A
 * Language  : English
 
 Description
