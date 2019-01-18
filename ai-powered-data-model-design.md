@@ -1,4 +1,4 @@
-_AI-powered Data Model Design_
+AI-powered Data Model Design
 =========================
 
 * Speaker   : **João Nadkarni**
