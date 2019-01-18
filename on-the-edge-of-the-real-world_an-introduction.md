@@ -1,31 +1,22 @@
 
-The Android device farm that fits in a (cloudy) pocket
+On the edge of the real world. An introduction
 =========================
 
 * Speaker   : Bruno Verachten
 * Available : Any time
-* Length    : 60 minutes
+* Length    : 30 minutes
 * Language  : English
 
 Description
 -----------
 
-`Android` developers are facing a common problem: how to test our applications on many devices without sacrificing too much time or money?
+`Raspberry Pis have been there like forever, and have sold like hot cakes for 16 years now. Lots of people have done very ambitious projects ([self driving robot](https://github.com/bdjukic/selfdriving-robot-car), anyone?), and new ideas and projects surface *everyday*. Be it building a supercomputer by stacking lots of SBCs, a [bitcoin miner](https://hub.packtpub.com/how-mine-bitcoin-your-raspberry-pi/), a [brewery system](https://www.brewpi.com/), home [automation](https://www.home-assistant.io/), a [weather station](http://airpi.es/whatisthis.php) or any [crazy idea](https://www.bestvpn.com/guides/raspberry-pi-projects/), the only limit seems to be your imagination.
 
-* How to build and test automatically our applications for each commit?
-* How can we find those devices inside the company, whatever its size may be?
-* Could there be a directory somewhere that lists those available devices?
-* Could we use a device remotely and share it with other developers as if it were in the cloud?
+Of course, these little beasts can also be used as `servers`. For years, Docker has been used only on big `servers`, but after  [resin.io](https://resin.io/blog/why-port-docker-to-the-raspberry-pi/) ![alt text](https://resin.io/blog/content/images/2015/Jan/logo_resin_blog.png)ported Docker to the Arm processor, everything changed.
 
-What if you could answer all these questions with the help of a low cost device farm that fits into a pocket? A pocket full of clouds…
+Pretty cool to be able to run Docker on that kind of mini machines,  but what kind of service could you run on Docker with so little memory? Lots of things in fact…
 
-Poddingue, our proposal, aims to tackle this problem thanks to [Docker], [HypriotOS], [Armbian], [Gitlab CI] and [OpenSTF]. It’s an internal solution made of OSS readily available, but it has not yet been publicly announced as a whole.
-
-This is a feedback about an idea on its way to production, a long journey full of different feelings.
-
-At the end of the talk, you should know how to build your own cloudy pocket farm of Android devices and how to use it to test your applications within your ci pipeline.
-
-And as I am cheap, you will also be surprised at how little money you need to build it.
+And what if you could get the best of both worlds? What could you do  with a machine able to interact with hardware (🌡️, 📹 , 🚦) thanks to  Docker? Could you transform your Raspberry Pi into an edge computing node, an  IoT on steroids 💪 or anything in between?
 
 Speaker Bio
 -----------
@@ -57,14 +48,11 @@ Links
 Extra Information
 -----------------
 
-I had a blast when I gave this [talk] at the 2018 [Techforum eXplore] conference. I got the best teaser award for day #2 and got very good comments at the end.
-
-The subject I address is not new (I'm not the only one using [OpenSTF]), but the way I use it with the hardware I chose is innovative. 
+The subject I address is not new but  not mainstream either (yet). I’ve been working on this subject for quite  a while now, and have lead a few workshops on this very subject in the [company](https://worldline.com/)  I work for. I have also written a few articles on ARM/Linux/Docker/Gitlab in my  company, and I am in the process of rewriting them to publish on [medium](https://medium.com/@poddingue) and on [Worldline Tech](https://blog.worldline.tech/).
 
 > This is a feedback on experience, but there are quite a few technical takeaways.
-
-I have also given this talk at [LinuxLab] and at [DevFestGR18].
-You will find previous [slides] of my talks and twitter references [there].
+>
+> You will find previous [slides] of my talks and twitter references [there].
 
 [there]:https://twitter.com/i/moments/1050320228901707776
 [DevFestGR18]:https://heraklion.googledevelopers.gr/devfest-greece-2018/#rockstars
