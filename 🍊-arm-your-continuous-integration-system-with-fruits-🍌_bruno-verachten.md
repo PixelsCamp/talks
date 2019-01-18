@@ -19,9 +19,13 @@ Being able to build on a remote machine each time we commit has been a major pro
 By using `Docker`, things have been easier as well! No more dependency hell when you have to build two incompatible products.
 This solution looks almost perfect… until you reach a threshold.
 As your [gitlab-ci] will become more and more popular within your organization, you may experience longer waiting queues until the next batch of [Runners] is released.
+
 You maybe have a Raspberry Pi taking dust on your desk or in your drawer.
+
 What if I told you you could transform this momentarily useless piece of hardware into a brand new Gitlab-ci Runner? This way, you could shorten the time your jobs spend in the queue.
+
 But wait, there is more. What if there was a cheaper solution that could allow you to create a Gitlab-ci Runner for a 15€ investment? You may have heard about Banana Pi, Orange Pi, and other variations of fruit Pi(e). The competition is harsh between these manufacturers, and you can find pretty nifty machines for darn cheap. These machine can run `Docker`, and even Gitlab-Runner on top of it.
+
 You shall leave this talk by knowing the basics to start your own Gitlab Runner for 15€.
 
 Speaker Bio
