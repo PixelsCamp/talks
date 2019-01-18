@@ -1,5 +1,5 @@
 
-Right to Repair (or how you can do more with your broken device)
+Right to Repair (fix your broken device!)
 =========================
 
 * Speaker   : Luis Correia
@@ -27,6 +27,7 @@ Main topics will be (in no particular order)
 * You don't own it unless you can repair it
 * Legislation
 * Learning how to try and fix things
+* The tractor problem
 
 
 Speaker Bio
