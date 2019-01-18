@@ -20,7 +20,7 @@ Speaker Bio
 
 Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS.
 20 years building tech products, teams, and processes.
-Nowadays, you can find him chasing some new product on a new industry, combining the wisdom of the crowd with machine learning.
+Nowadays, you can find him chasing some new product in a new industry, combining the wisdom of the crowd with machine learning.
 
 Links
 -----
