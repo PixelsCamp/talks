@@ -1,4 +1,4 @@
-_Graph Neural Networks &mdash; when magic meets structure_
+Graph Neural Networks &mdash; when magic meets structure
 =========================
 
 * Speaker   : **Miguel Ventura**
