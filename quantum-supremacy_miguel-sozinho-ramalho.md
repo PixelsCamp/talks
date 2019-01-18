@@ -3,7 +3,7 @@ Quantum Supremacy
 
 * Speaker   : Miguel Sozinho Ramalho
 * Available : first and second days
-* Length    : workshop
+* Length    : workshop, 90min
 * Language  : English
 
 Description
