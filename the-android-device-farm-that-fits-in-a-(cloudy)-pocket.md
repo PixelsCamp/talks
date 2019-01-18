@@ -16,10 +16,10 @@ Description
 
 `Android` developers are facing a common problem: how to test our applications on many devices without sacrificing too much time or money?
 
-    * How to build and test automatically our applications for each commit?
-    * How can we find those devices inside the company, whatever its size may be?
-    * Could there be a directory somewhere that lists those available devices?
-    * Could we use a device remotely and share it with other developers as if it were in the cloud?
+* How to build and test automatically our applications for each commit?
+* How can we find those devices inside the company, whatever its size may be?
+* Could there be a directory somewhere that lists those available devices?
+* Could we use a device remotely and share it with other developers as if it were in the cloud?
 
 What if you could answer all these questions with the help of a low cost device farm that fits into a pocket? A pocket full of clouds…
 
