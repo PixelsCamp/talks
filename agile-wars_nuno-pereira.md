@@ -1,14 +1,12 @@
 
-      AGILE WARS
-=========================
+# AGILE WARS
 
 * Speaker   : **Nuno Silva Pereira and Ricardo Fernandes**
 * Available : **21st and 22nd of March from 9am-6pm**
 * Length    : **30m**
 * Language  : **English**
 
-Description
------------
+## Description
 
 Episode I-VIII, AGILE WARS is the period of the war on Agility. 
 
@@ -31,15 +29,13 @@ _With you, Agility may be! (Yoda)_
 * Agile isn’t new, it’s just common sense rebranded.
 
 
-Speakers Bio
------------
+## Speakers Bio
 
 * **Nuno Silva Pereira** [https://www.linkedin.com/in/nunosilvapereira/] is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
 * **Ricardo Fernandes** [https://www.linkedin.com/in/ricardo-fernandes-agile/] is a Line Manager R&D on Nokia. He was worked for the last 15 year within Telco’s and Education. He is a trainer of several courses, like Management 3.0 and Agile. His passion is to share and helping people, that why he is a member of Agile Connect and co-organizer of Agile Connect in Aveiro, co-organizer on the play 14, co-organizer on the ALE2019-Porto.
 
 
-Links
------
+## Links
 
 * Blog: Agile Connect Meetup Organizers - https://www.meetup.com/Agile-Connect-Lisbon/
 * Company: www.equalexperts.com
@@ -47,8 +43,7 @@ Links
 * Linkedin: https://www.linkedin.com/in/nunosilvapereira/
 * Twitter: https://twitter.com/nunoaspereira
 
-Extra Information
------------------
+## Extra Information
 
 Speaker in 2 previous Pixels Camp (eager to be with you guys for the 3rd time):
 
