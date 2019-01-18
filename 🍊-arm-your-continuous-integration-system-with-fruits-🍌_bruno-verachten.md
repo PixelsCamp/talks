@@ -3,7 +3,7 @@
 
 `--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
 
-{{ _🍊 ARM your continuous integration system with fruits! 🍌_ }}
+🍊 ARM your continuous integration system with fruits! 🍌
 =========================
 
 * Speaker   : Bruno Verachten
@@ -79,3 +79,4 @@ This talk exists in two versions:
 [talk]: https://twitter.com/i/moments/1014591620841340929
 [Techforum eXplore]: https://twitter.com/hashtag/TexWL18?src=hash
 [OpenSTF]: https://github.com/openstf/stf
+[gitlab-ci]:https://gitlab.com/ulm0/gitlab-runner
