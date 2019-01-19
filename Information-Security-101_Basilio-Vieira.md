@@ -1,7 +1,4 @@
-﻿* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-
-`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`Information Security 101
+`Information Security 101
 =========================
 
 * Speaker   : Basilio Vieira
@@ -12,7 +9,7 @@
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+Learn how to fuel your organisation safety culture from Day 1. Let’s take a holistic approach to the challenges on Information Security looking into industry best practices, management systems, Governance, risks and certifications. In the end, there will be cake. #TheCakeIsNotALie
 
 Speaker Bio
 -----------
@@ -27,5 +24,4 @@ Links
 
 Extra Information
 -----------------
-
-
+Although largely centred on my current work, this is not a sales pitch.
