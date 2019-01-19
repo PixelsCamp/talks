@@ -1,4 +1,4 @@
-`Information Security 101
+Information Security 101
 =========================
 
 * Speaker   : Basilio Vieira
