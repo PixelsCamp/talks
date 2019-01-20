@@ -11,7 +11,7 @@ Description
 -----------
 
 
-Behind every tiny search box lays a piece of complex engineering routines powered by a hidden field of science, Information Retrieval. Ingenious algorithms define the way we find what we are looking for upon search, in the vast pool of documents stored. 
+Behind every tiny search box lays a piece of complex engineering routines powered by a hidden field of science, Information Retrieval. Ingenious algorithms define the way we find what we are searching for, from a vast pool of stored documents.
 
 **What happens when I type in the search box?**
 
