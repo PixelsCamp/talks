@@ -14,7 +14,7 @@ With the rise of NewSpace and private space flight companies we've seen a steep 
 Speaker Bio
 -----------
 
-Louise has a degree in Engineering Physics from the Royal Institute of Technology in Stockholm. She has worked as a satellite systems engineer for several years before starting her own company, Valispace, where she is developing a browser-based modelling and collaboration software which makes engineers’ work more efficient and streamlined.
+Louise has a degree in Engineering Physics from the Royal Institute of Technology in Stockholm and has also attended the International Space University. She has worked as a satellite systems engineer for several years before starting her own company, Valispace, where she is developing a browser-based modelling and collaboration software which helps engineers build better rockets and satellites.
 
 Links
 -----
