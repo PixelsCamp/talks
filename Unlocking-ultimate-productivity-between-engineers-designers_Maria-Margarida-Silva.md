@@ -3,7 +3,7 @@ Unlocking ultimate productivity between engineers and designers
 
 * Speaker   : Maria Margarida Silva
 * Available : All days
-* Length    : 30 minutes
+* Length    : 40min + QA
 * Language  : English
 
 Description
