@@ -3,7 +3,7 @@ Grab your helmets for some Extreme Programming
 
 * Speaker   : Ana Machado and Bruno Areal
 * Available : Anytime
-* Length    : 30 mins
+* Length    : 60 mins
 * Language  : English
 
 Description
