@@ -3,25 +3,21 @@ The Block Power
 
 * Speaker   : Bernardo Vieira
 * Available : Any day, All day
-* Length    : workshop
+* Length    : workshop - 50 min
 * Language  : English (Portuguese if there's no foreigners)
 
 Description
 -----------
 
-Yeah yeah, you heard about it, blockchain, I know. But it's 2019 and blockchain is 'still' around (some thought it will disappear).
-Because there was already enough talks about what the hell blockchain is, this is a workshop to actually give you a hands on.
-We will be using **ethereum** and *truffle*, but I might talk about *hyperledger fabric* in the end.
-The objective is to show how easy it is. It does not require any knowledge, but beware that we will be working with *solidity* and *nodejs* (javascript). I will give the code.
-Please join, brought questions, laptop or at least attention.
+Yeah yeah, you heard about it, blockchain. But we are in 2019 and blockchain is 'still' around (some thought it would disappear). 
+With [ethereum blockchain](https://www.ethereum.org/) and the help of the [truffle framework](https://truffleframework.com/) we will build a decentralized application.
+We will use [solidity language](solidity.readthedocs.io) and [nodejs](nodejs.org) (javascript) although it does not require any previous knowledge. Please join, bring questions, a laptop or at least attention.
 
 Speaker Bio
 -----------
 
 Hi, my name is Bernardo, I'm currently in Lisbon working for a blockchain company. I work mostly with ethereum blockchain and the tools around it, but I've also worked with hyperledger fabric and stellar.
-I burn some of my work and free time contributing to some open source projects related to blockchain development :grin:.
-I'm very passionated about this field and what it can brought to us.
-Reach me during the event, it will be a pleasure to met you.
+I'm very passionate about this field and what it can bring to us. Reach me during the event, it will be a pleasure to meet you.
 
 Links
 -----
