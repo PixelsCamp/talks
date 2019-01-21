@@ -1,10 +1,10 @@
 
-_Survival Guide to Information Retrieval - The quest to find the golden goose with golden shoes_
+Survival Guide to Information Retrieval
 =========================
 
 * Speaker   :  José Marcelino
 * Available :  Anytime
-* Length    :  30min
+* Length    :  60min
 * Language  :  English
 
 Description
