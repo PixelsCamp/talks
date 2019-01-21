@@ -3,7 +3,7 @@ AI-powered Data Model Design
 
 * Speaker   : **João Nadkarni**
 * Available : **Yes**
-* Length    : **30 minutes**
+* Length    : **45/50 minutes + QA**
 * Language  : **English**
 
 Description
