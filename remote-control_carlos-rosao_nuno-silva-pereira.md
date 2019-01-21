@@ -1,4 +1,6 @@
-# REMOTE CONTROL - the art of doing everything from the middle of nowhere
+# Remote Control
+
+## The art of doing everything from the middle of nowhere
 
 * Speaker   : **Carlos Rosão and Nuno Silva Pereira**
 * Available : **21st and 22nd of March from 9am-6pm**
