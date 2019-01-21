@@ -1,5 +1,5 @@
 
-Afraid of assembly: reverse-engineering a 25 year-old Mega Drive game
+Reverse-engineering Mega Drive games 25 years after the fact
 =========================
 
 * Speaker   : Fred Bronze
