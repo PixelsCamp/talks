@@ -3,7 +3,7 @@ Graph Neural Networks &mdash; when magic meets structure
 
 * Speaker   : **Miguel Ventura**
 * Available : **Yes**
-* Length    : **30 minutes**
+* Length    : **50 minutes**
 * Language  : **English**
 
 Description
