@@ -23,8 +23,6 @@ Active in the security and computing science field since age 8. Experience in se
 
 Specialties: Security (computers and other), UNIX, computer science in general (operating systems, computer languages, hardware), teaching, explaining, social engineering, organising, giving lectures. Multiple winner of Dutch lockpicking championships.
 
-After 15 years, I have ended my career at the foremost Dutch pentesting corporation and am open to new offers.
-
 Links
 -----
 
