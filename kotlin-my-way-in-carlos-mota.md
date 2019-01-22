@@ -3,7 +3,7 @@ Kotlin My Way In
 
 * Speaker   : Carlos Mota
 * Available : All times (although hopefully after 10h00 and with a cup of coffee ☕️)
-* Length    : 30 minutes
+* Length    : 45m + QA
 * Language  : English
 
 Description
