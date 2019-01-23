@@ -3,7 +3,7 @@ AWS API Gateway with Terraform, or how a backend developer coded some infrastruc
 
 * Speaker   : **Ricardo Brazão**
 * Available : **21 and 22 March, 10am--6pm**
-* Length    : **30 minutes**
+* Length    : **45 minutes + 15 of QA**
 * Language  : **English**
 
 Description
