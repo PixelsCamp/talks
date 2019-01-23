@@ -4,7 +4,7 @@ On the edge of the real world. An introduction
 
 * Speaker   : Bruno Verachten
 * Available : Any time
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
