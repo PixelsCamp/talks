@@ -4,7 +4,7 @@ Content v.s. Pub - Live Video Processing Solution
 
 * Speaker   : Alexandre Carvalho
 * Available : anytime
-* Length    : 30 minutes
+* Length    : 60 minutes
 * Language  : English
 
 Description
@@ -24,7 +24,7 @@ Currently, back in telecom as a systems architect, defining systems, and produci
 Links
 -----
 
-* Company: http://http://nosinovacao.pt/
+* Company: http://nosinovacao.pt/
 * GitHub: https://github.com/ajscarvalho
 
 Extra Information
