@@ -3,7 +3,7 @@ It's Rocket Science - The Physics Behind Going to Space
 
 * Speaker   : **Louise Lindblad**
 * Available : **Any time**
-* Length    : **30 minutes**
+* Length    : **45 minutes + QA**
 * Language  : **English**
 
 Description
