@@ -24,7 +24,7 @@ Use your talk's title as the PRs title and use the **contents** of your proposal
 
 ## Rules
 
-* The deadline for submitting talks is **January 20th, 2019**. After that we won't accept any more proposals;
+* The deadline for submitting talks is **January 31st, 2019**. After that we won't accept any more proposals;
 * Speakers must also be participants, you **must** also apply for Pixels Camp here: https://pixels.camp;
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
