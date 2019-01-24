@@ -29,11 +29,11 @@ systems that preserve users’ privacy. Failing to deliver on this will render
 decentralized systems unusable and unattractive for mass adoption or as a viable
 alternative to centralized systems.
 
-In this talk, our goals are to learn what DHTs, how they are used and how to
+In this talk, our goals are to learn what DHTs are, how they are used and how to
 improve privacy of existent designs. We first dive into what are DHTs, how they 
 work and its privacy
-vulnerabilities. After motivating the reasons of why privacy preserving networks
-are important for the future the internet and society, we'll perform a
+vulnerabilities. After motivating the reasons for why privacy preserving networks
+are important for the future of the internet and society, we'll perform a
 live privacy attack on a public DHT. We will see how easy it is to collect and
 correlate public activity in DHTs and try to understand its consequences from an
 user perspective. We wrap up by going through some mechanisms and protocols used
