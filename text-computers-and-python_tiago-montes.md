@@ -4,7 +4,7 @@ Text, Computers and Python
 * Speaker   : Tiago Montes
 * Available : Mar 21st anytime; Mar 22nd <17h; Mar 23rd anytime.
 * Length    : 45 minutes + Q&A.
-* Language  : English or Portuguese, your choice, with materials in English.
+* Language  : English.
 
 Description
 -----------
