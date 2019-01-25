@@ -3,7 +3,7 @@
 
 * Speaker   : {{ Paulo A Pereira }}
 * Available : {{ First and second days, 9am to 7pm }}
-* Length    : {{ 30 minutes + QA }}
+* Length    : {{ 45 minutes + QA }}
 * Language  : {{ English }}
 
 Description
