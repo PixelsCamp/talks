@@ -1,8 +1,7 @@
 Data Structures That Power Your Database
 ========================================
 
-* Speaker   : Pedro Tavares 
-* Available : Anytime
+* Speaker   : [Pedro Tavares](https://pixels.camp/ordepdev)
 * Length    : 45 minutes
 * Language  : English
 
@@ -22,3 +21,7 @@ Links
 * Blog: https://ordepdev.me
 * GitHub: https://github.com/ordepdev
 * Twitter: https://twitter.com/ordepdev
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
