@@ -3,7 +3,7 @@ Progressive Web App: From Full Online to Full Offline
 
 * Speaker   : Domingos Martins and Ricardo Soares
 * Available : 21 or 22 from 10am-7pm
-* Length    : workshop
+* Length    : workshop (120 minutes)
 * Language  : English
 
 Description
