@@ -1,6 +1,6 @@
 
 
-{{ From product design to product design }}
+From product design to product design
 =========================
 
 * Speaker   : Nuno Loureiro
