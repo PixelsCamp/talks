@@ -2,7 +2,6 @@ Deploying on Kubernetes - An intro
 =========================
 
 * Speaker   : [André Cruz](https://pixels.camp/edevil)
-* Available : first day
 * Length    : 45m talk + 15m QA
 * Language  : English
 
