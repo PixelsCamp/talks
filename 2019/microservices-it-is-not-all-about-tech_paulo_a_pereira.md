@@ -13,6 +13,10 @@ When deciding on if to adopt a microservice architecture every organisation tend
 Speaker Bio
 -----------
 
+**Paulo Pereira**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/68001?v=4)
+
 Paulo A. Pereira is currently leading a team involved in reshaping a monolith into microservices, while dealing with the constraints of evolving a system where security and accuracy are of the utmost importance.
 
 Enthusiastic about choosing the right tool for the job and combining different languages and paradigms, he is currently exploring functional programming, mainly via Elixir.

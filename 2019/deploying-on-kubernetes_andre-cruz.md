@@ -26,6 +26,10 @@ Tentative ToC:
 Speaker Bio
 -----------
 
+**André Cruz**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/12426?v=4)
+
 I am a software engineer at heart, who is always trying to learn new things and work on challenging tasks. I follow TDD guidelines on my projects and try to automate the whole process, from testing to deployment, in true CI/CD fashion. I'm also passionate about functional programming and information security.
 
 Links
