@@ -1,7 +1,7 @@
-Everything You Always Wanted to Know About Your Product Manager*
-================================================================
+Everything You Always Wanted to Know About Product Managers*
+============================================================
 
-(*But Were Afraid To Ask)
+(*But Were Afraid To Ask Yours)
 
 * Speaker   : **João Craveiro**
 * Available : **21 and 22 March, 10am--6pm**
