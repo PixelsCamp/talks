@@ -2,7 +2,6 @@ Kotlin My Way In
 =========================
 
 * Speaker   : Carlos Mota
-* Available : All times (although hopefully after 10h00 and with a cup of coffee ☕️)
 * Length    : 45m + QA
 * Language  : English
 
@@ -26,12 +25,13 @@ I’m going to share all the steps made (the good and… not so good ones) since
 Speaker Bio
 -----------
 
-Hello human,
+**Carlos Mota**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/478962?v=4)
 
 At night I'm fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare - it was fun! I'm currently working at WIT Software on the company RCSe applications - first for iOS and now on Android.
 
 From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them "talks". I've been giving a few for University of Coimbra, WIT Software, DevFest, Pixels Camp, mdevcon, etc.
-
 
 Links
 -----
@@ -45,3 +45,7 @@ Extra Information
 
 I've had the chance to present before at Pixels Camp with my talk - Perception of Speed:
 > https://www.youtube.com/watch?v=Rc_rXl4C_A0&list=PLTlIsr2wnuwWTG27Ifw9XW7ql41mayA7i
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
