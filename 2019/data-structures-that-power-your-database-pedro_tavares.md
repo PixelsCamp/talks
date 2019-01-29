@@ -13,6 +13,10 @@ On the most fundamental level, a database needs to do two things: when you give 
 Speaker Bio
 -----------
 
+**Pedro Tavares**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/1714825?v=4)
+
 Pedro is a passionate Software Engineer currently working at Talkdesk. Distributed Systems and Software Engineering best practices bring a big smile on his face. He likes to read books and scientific papers on Computer Science and he's currently running the Porto's chapter of Papers We Love.
 
 Links
