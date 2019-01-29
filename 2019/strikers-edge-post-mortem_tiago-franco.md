@@ -1,8 +1,7 @@
 Strikers Edge Post Mortem
 =========================
 
-* Speaker   : Tiago Franco
-* Available : First and second days, 9am-7pm
+* Speaker   : [Tiago Franco](https://pixels.camp/tiagofranco)
 * Length    : 60 minutes
 * Language  : English
 
@@ -26,3 +25,7 @@ Extra Information
 -----------------
 
 I was a previously a speaker at Lisbon Games Conference in 2016 and at Universidade Lusófona in 2018 (I can't provide links as the events websites don't retain that data publicly).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
