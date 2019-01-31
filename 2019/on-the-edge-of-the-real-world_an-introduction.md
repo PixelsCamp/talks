@@ -1,9 +1,7 @@
-
 On the edge of the real world. An introduction
 =========================
 
-* Speaker   : Bruno Verachten
-* Available : Any time
+* Speaker   : [Bruno Verachten](https://pixels.camp/gounthar)
 * Length    : 45 minutes
 * Language  : English
 
@@ -20,6 +18,10 @@ And what if you could get the best of both worlds? What could you do  with a mac
 
 Speaker Bio
 -----------
+
+**Bruno Verachten**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/116569?v=4)
 
 Father of *two*, husband of *one*, geek in denial, fond of handheld devices since 1989, beekeepeer and [permie].
 `#Linux #Android #Docker #ARMV8 #IOT`
@@ -64,3 +66,7 @@ You will find previous [slides] of my talks and twitter references [there].
 [slides]:https://speakerdeck.com/gounthar
 [talk]: https://twitter.com/i/moments/1014591620841340929
 [Docker]: https://www.docker.com/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
