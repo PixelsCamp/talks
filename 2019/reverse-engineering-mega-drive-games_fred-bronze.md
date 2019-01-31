@@ -1,9 +1,7 @@
-
 Reverse-engineering Mega Drive games 25 years after the fact
 =========================
 
-* Speaker   : Fred Bronze
-* Available : Every day, all day
+* Speaker   : [Fred Bronze](https://pixels.camp/fredbronze)
 * Length    : 45 minutes + Q&A
 * Language  : English
 
@@ -27,4 +25,12 @@ Links
 Extra Information
 -----------------
 
+**Fred Bronze**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/fred_bronze.jpg?raw=true)
+
 This talk would be an extension of the content on my blog, with an added focus on the history of the Sonic hacking scene for context, and structured into a personal narrative that would hopefully be equal parts captivating and entertaining. James Mickens is my spirit animal.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
