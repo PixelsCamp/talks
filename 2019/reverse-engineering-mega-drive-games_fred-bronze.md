@@ -13,6 +13,10 @@ Visualshock! Speedshock! Soundshock! A look at the world of ROM hacking, one of 
 Speaker Bio
 -----------
 
+**Fred Bronze**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/fred_bronze.jpg?raw=true)
+
 Fred is a .NET developer at agap2IT Portugal. In his free time, he writes 68k assembly code for the Sega Mega Drive. He is also author of the Sonic 3 Unlocked blog, which has barely been updated in the past year.
 
 Links
@@ -24,10 +28,6 @@ Links
 
 Extra Information
 -----------------
-
-**Fred Bronze**
-
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/fred_bronze.jpg?raw=true)
 
 This talk would be an extension of the content on my blog, with an added focus on the history of the Sonic hacking scene for context, and structured into a personal narrative that would hopefully be equal parts captivating and entertaining. James Mickens is my spirit animal.
 
