@@ -15,7 +15,7 @@ developers?
 
 I'll show you!
 
-This talk will cover the JAMstack philosophy, static website generators and the
+This talk will cover the [JAMstack](https://jamstack.org/) philosophy, static website generators and the
 services currently available to get your project up and running at zero cost.
 
 Speaker Bio
