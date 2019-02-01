@@ -25,11 +25,11 @@ Speakers Bio
 
 ![Speaker Image](https://avatars1.githubusercontent.com/u/461632?v=4)
 
-* **Carlos Rosão** - [Linkedin](https://www.linkedin.com/in/carlos-ros%C3%A3o-72a22116/) - is a Senior Software Engineer @ Equal Experts with more than 10 years experience in the field. He has been working in different areas and geographies, from telco to music startups, from the travel industry to e-commerce businesses. His big passion is open source so he has collaborated in some well known projects.
+**Carlos Rosão** - [Linkedin](https://www.linkedin.com/in/carlos-ros%C3%A3o-72a22116/) - is a Senior Software Engineer @ Equal Experts with more than 10 years experience in the field. He has been working in different areas and geographies, from telco to music startups, from the travel industry to e-commerce businesses. His big passion is open source so he has collaborated in some well known projects.
 
 ![Speaker Image](https://avatars1.githubusercontent.com/u/19184971?v=4)
 
-* **Nuno Silva Pereira** - [Linkedin](https://www.linkedin.com/in/nunosilvapereira/) is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
+**Nuno Silva Pereira** - [Linkedin](https://www.linkedin.com/in/nunosilvapereira/) is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
 
 Links
 -----------

@@ -1,12 +1,12 @@
+Agile Wars
+========================================
 
-# AGILE WARS
+* Speaker   : [Ricardo Fernandes](https://www.linkedin.com/in/ricardo-fernandes-agile/) and [Nuno Silva Pereira](https://pixels.camp/nunoaspereira)
+* Length    : 30m
+* Language  : English
 
-* Speaker   : **Nuno Silva Pereira and Ricardo Fernandes**
-* Available : **21st and 22nd of March from 9am-6pm**
-* Length    : **30m**
-* Language  : **English**
-
-## Description
+Description
+-----------
 
 Episode I-VIII, AGILE WARS is the period of the war on Agility. 
 
@@ -29,13 +29,19 @@ _With you, Agility may be! (Yoda)_
 * Agile isn’t new, it’s just common sense rebranded.
 
 
-## Speakers Bio
+Speakers Bio
+-----------
 
-* **Nuno Silva Pereira** [https://www.linkedin.com/in/nunosilvapereira/] is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
-* **Ricardo Fernandes** [https://www.linkedin.com/in/ricardo-fernandes-agile/] is a Line Manager R&D on Nokia. He was worked for the last 15 year within Telco’s and Education. He is a trainer of several courses, like Management 3.0 and Agile. His passion is to share and helping people, that why he is a member of Agile Connect and co-organizer of Agile Connect in Aveiro, co-organizer on the play 14, co-organizer on the ALE2019-Porto.
+![Speaker Image](https://avatars1.githubusercontent.com/u/19184971?v=4)
 
+**Nuno Silva Pereira** [https://www.linkedin.com/in/nunosilvapereira/] is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
 
-## Links
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ricardo_fernandes.jpg?raw=true)
+
+**Ricardo Fernandes** [https://www.linkedin.com/in/ricardo-fernandes-agile/] is a Line Manager R&D on Nokia. He was worked for the last 15 year within Telco’s and Education. He is a trainer of several courses, like Management 3.0 and Agile. His passion is to share and helping people, that why he is a member of Agile Connect and co-organizer of Agile Connect in Aveiro, co-organizer on the play 14, co-organizer on the ALE2019-Porto.
+
+Links
+-----------
 
 * Blog: Agile Connect Meetup Organizers - https://www.meetup.com/Agile-Connect-Lisbon/
 * Company: www.equalexperts.com
@@ -43,15 +49,20 @@ _With you, Agility may be! (Yoda)_
 * Linkedin: https://www.linkedin.com/in/nunosilvapereira/
 * Twitter: https://twitter.com/nunoaspereira
 
-## Extra Information
+Extra Information
+-----------
 
 Speaker in 2 previous Pixels Camp (eager to be with you guys for the 3rd time):
 
-2016
+### 2016
 Talk "Rocking Agile - How to do Agile in a Rock Band"
 Agile is common sense redefined, so want to know more about how a group of individuals that never have heard about Agile Methodologies adapt to them in a Rock Band, if they are able to adapt, Agile can be adapted to a lot of different realities and situations.
 
-2017
+### 2017
 Talk "Agile Roadtrip" with David Cordeiro
 Want to know how your backlog can define the "why" and the "what", but leave the "how" for the development team?
 Join us in this roadtrip where you'll also learn how to incorporate feedback and effectively drive your team using the backlog through a very simple analogy.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
