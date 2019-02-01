@@ -1,8 +1,7 @@
 Journey to Mars
 =========================
 
-* Speaker   : Kartik Kumar
-* Available : The whole event
+* Speaker   : [Kartik Kumar](https://pixels.camp/kartikkumar)
 * Length    : 60 minutes
 * Language  : English
 
@@ -13,6 +12,10 @@ Mars analog simulation missions offer an opportunity to test technologies, workf
 
 Speaker Bio
 -----------
+
+**Kartik Kumar**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/3645858?v=4)
 
 Kartik is an Aerospace Engineer, Planetary Scientist, startup founder, and Analog Astronaut. He is currently finalizing his PhD at Delft University of Technology, investigating the dynamics of Uranus' outer ring system. Kartik is also co-founder of satsearch, an ESA startup building the first global B2B marketplace for the space industry. As an Analog Astronaut for the Austrian Space Forum, Kartik has been involved in two Mars analog simulation missions: AMADEE-15 on Kaurental glacier in Austria and AMADEE-18 in the Dhofar desert in Oman.
 
@@ -28,3 +31,7 @@ Extra Information
 
 Example talk:
 - TEDx talk I gave in 2015: https://www.youtube.com/watch?v=wMRt42QfcO0
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
