@@ -1,8 +1,7 @@
 From zero to Continuous Delivery in 6 months
 =========================
 
-* Speaker   : Joao Malcata
-* Available : first day, 9am-7pm, second day, 9am to 7pm
+* Speaker   : João Malcata
 * Length    : 30 or 45 minutes
 * Language  : English
 
@@ -17,6 +16,10 @@ Keywords: Lean Startup, DevOps, Tests, Cloud Computing, Data-Driven, Trunk Based
 
 Speaker Bio
 -----------
+
+**João Malcata**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/malcata.jpg?raw=true)
 
 Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS.
 20 years building tech products, teams, and processes.
@@ -33,3 +36,6 @@ Extra Information
 -----------------
 [Talk given on last Pixel's Camp](https://github.com/PixelsCamp/talks/blob/master/2017/a-brief-and-personal-history-of-the-software-development-process_joao-malcata.md)
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
