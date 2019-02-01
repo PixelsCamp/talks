@@ -29,6 +29,8 @@ Main topics will be (in no particular order)
 * Learning how to try and fix things
 * The tractor problem
 
+![iFixit.com's Repair Manifesto](http://i.loide.net/talks/RepairManifesto.png)
+
 
 Speaker Bio
 -----------
