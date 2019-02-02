@@ -8,7 +8,7 @@ On the edge of the real world. An introduction
 Description
 -----------
 
-`Raspberry Pis` have been there like forever, and have sold like hot cakes for 16 years now. Lots of people have done very ambitious projects ([self driving robot](https://github.com/bdjukic/selfdriving-robot-car), anyone?), and new ideas and projects surface *everyday*. Be it building a supercomputer by stacking lots of SBCs, a [bitcoin miner](https://hub.packtpub.com/how-mine-bitcoin-your-raspberry-pi/), a [brewery system](https://www.brewpi.com/), home [automation](https://www.home-assistant.io/), a [weather station](http://airpi.es/whatisthis.php) or any [crazy idea](https://www.bestvpn.com/guides/raspberry-pi-projects/), the only limit seems to be your imagination.
+`Raspberry Pis` have been there like forever, and have sold like hot cakes for 7 years now. Lots of people have done very ambitious projects ([self driving robot](https://github.com/bdjukic/selfdriving-robot-car), anyone?), and new ideas and projects surface *everyday*. Be it building a supercomputer by stacking lots of SBCs, a [bitcoin miner](https://hub.packtpub.com/how-mine-bitcoin-your-raspberry-pi/), a [brewery system](https://www.brewpi.com/), home [automation](https://www.home-assistant.io/), a [weather station](http://airpi.es/whatisthis.php) or any [crazy idea](https://www.bestvpn.com/guides/raspberry-pi-projects/), the only limit seems to be your imagination.
 
 Of course, these little beasts can also be used as `servers`. For years, Docker has been used only on big `servers`, but after  [resin.io](https://resin.io/blog/why-port-docker-to-the-raspberry-pi/) ported Docker to the Arm processor, everything changed.
 
