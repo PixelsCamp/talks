@@ -3,7 +3,7 @@ a11y, who?
 
 * Speaker   : [Cristiano Correia](https://avatars0.githubusercontent.com/u/4750068?s=460&v=4)
 * Available : Both days, any time
-* Length    : 30 minutes
+* Length    : 45 minutes + QA
 * Language  : English
 
 Description
