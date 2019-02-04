@@ -1,10 +1,9 @@
 Struggling with AWS
 =========================
 
-* Speaker   : **Gabriel Poca**
-* Available : **second day, 9am-7pm**
-* Length    : **60 minutes**
-* Language  : **English**
+* Speaker   : [Gabriel Poca](https://pixels.camp/gabrielpoca)
+* Length    : 60 minutes
+* Language  : English
 
 Description
 -----------
@@ -16,6 +15,10 @@ The information in this talk will be based on real life experience deploying Eli
 Speaker Bio
 -----------
 
+**Gabriel Poca**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/934580?s=460&v=4)
+
 I don't have a fancy title to show of. I'm a developer and my work goes from hiring to cloud infrastructure. For the past year I've been focused on building the infrastructure for UTRUST (https://utrust.com/), which is a payment gateway for blockchains. I also write a lot of Elixir and JavaScript. In the past I wrote a lot of Ruby as well.
 
 Links
@@ -24,3 +27,7 @@ Links
 * Blog: https://gabrielpoca.com/
 * Company: https://subvisual.co/
 * GitHub: https://github.com/gabrielpoca
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
