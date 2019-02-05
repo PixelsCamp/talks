@@ -1,7 +1,7 @@
 VR Design : Designing Aplications for motion
 Speaker : Ricardo Francisco Vilelas de Almeida
 Available : First day, 9am - 7 pm, Second Day 9am-6pm, third day 9am-7pm
-Length : 30 minutes
+Length : 45 minutes
 Language : English
 Description
 In this presentation we will be discussing what changes when we need to consider user body and space rather than computer periferals during VR development.
