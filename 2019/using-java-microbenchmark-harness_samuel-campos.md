@@ -1,4 +1,4 @@
-Using JMH to benchmark and test your Java applications
+Using Java Microbenchmark Harness
 =========================
 
 * Speaker   : Samuel Campos
