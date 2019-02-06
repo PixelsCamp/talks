@@ -1,9 +1,14 @@
-VR Design : Designing Aplications for motion
-Speaker : Ricardo Francisco Vilelas de Almeida
-Available : First day, 9am - 7 pm, Second Day 9am-6pm, third day 9am-7pm
-Length : 45 minutes
-Language : English
+_VR Design : Designing Aplications for motion_
+=========================
+
+* Speaker   : **Ricardo Francisco Vilelas de Almeida**
+* Available : **First day, 9am - 7 pm, Second Day 9am-6pm, third day 9am-7pm**
+* Length    : **45 minutes**
+* Language  : **English**
+
 Description
+-----------
+
 In this presentation we will be discussing what changes when we need to consider user body and space rather than computer periferals during VR development.
 
 How do you plan for motion, how do you start thinking about motion? What problems can there be? 
@@ -11,6 +16,8 @@ How do you plan for motion, how do you start thinking about motion? What problem
 Developing VR can be tricky but after this talk hopefully you will learn from my mistakes so you avoid yours.
 
 Speaker Bio
+-----------
+
 Hello there! So for a brief introduction, I work at Collide as a Game Designer and Software Engineer!
 
 VR is our main area and we are proud to have worked on several challenging projects some of which you may have heard!
@@ -26,9 +33,15 @@ I've still got a ways to go but I'm working on getting there!
 If you've read this far, well thank you and have an awesome day!
 
 Links
-Company: www.collide.rocks
-GitHub: https://github.com/Sckir/
+-----
+
+* Company: www.collide.rocks
+* GitHub: https://github.com/Sckir/
+* Linkedin: www.linkedin.com/in/ricardo-almeida-3b7326a7
+
 Extra Information
-Publication about Gestual Life - http://epcg2014.estg.ipleiria.pt/downloads/Atas_EPCG2014.pdf
-Master Thesis regarding serious game design - https://repositorio.iscte-iul.pt/handle/10071/10951
-Video Game Event I created and presented on stage - https://lisbongameconf.iscte-iul.pt/
+-----------------
+
+* Publication about Gestual Life - http://epcg2014.estg.ipleiria.pt/downloads/Atas_EPCG2014.pdf
+* Master Thesis regarding serious game design - https://repositorio.iscte-iul.pt/handle/10071/10951
+* Video Game Event I created and presented on stage - https://lisbongameconf.iscte-iul.pt/
