@@ -1,5 +1,5 @@
-My Path to Indieness
-=========================
+Bootstrapping your indie business
+=================================
 
 * Speaker   : Paulo Andrade
 * Available : any time
