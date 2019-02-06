@@ -17,7 +17,7 @@ Speaker Bio
 
 **Mário Gonçalves**
 
-![Speaker Image](https://avatars3.githubusercontent.com/u/887163?s=88&v=4)
+![Speaker Image](https://avatars1.githubusercontent.com/u/887163?s=460&v=4)
 
 Hello! I'm Mário: A geek since 1985, a developer since 2007, a Software Engineer at Sky, an Open Source student, a Frontend teacher, an MTG player, a language nerd and an human being who likes to learn, think, help and create.
 
