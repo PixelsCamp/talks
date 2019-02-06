@@ -1,8 +1,7 @@
 Emoji Board - A Quick Elixir Showcase
 =========================
 
-* Speaker   : Filipe Cabaço
-* Available : Anytime
+* Speaker   : [Filipe Cabaço](https://pixels.camp/filipecabaco)
 * Length    : 60 minutes
 * Language  : English
 
@@ -18,6 +17,10 @@ After this, I hope you'll have a clearer view about whether if Elixir is a good 
 Speaker Bio
 -----------
 
+**Filipe Cabaço**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1697301?s=460&v=4)
+
 Software developer currently working at the Volkswagen Digital Lab in Lisbon; experienced in several languages in production environments (Java, Scala, Elixir, Kotlin) and with a big enthusiasm for functional programming.
 
 Links
@@ -29,3 +32,7 @@ Extra Information
 -----------------
 
 An abridged version of this [Equal Experts Talk](https://youtu.be/eN48KyzBGkM) where I'm removing the live code part to make it more structured and simpler.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
