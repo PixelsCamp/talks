@@ -1,4 +1,4 @@
-_VR Design : Designing Aplications for motion_
+VR Design : Designing Aplications for motion
 =========================
 
 * Speaker   : **Ricardo Francisco Vilelas de Almeida**
