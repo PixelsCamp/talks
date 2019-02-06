@@ -34,6 +34,7 @@ Links
 
 Extra Information
 -----------------
+
 The demonstration comprises various use cases that are in production on diverse SMEs, but readily applicable to Corporate:
 
 * Payment processing
