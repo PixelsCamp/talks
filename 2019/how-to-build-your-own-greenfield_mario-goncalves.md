@@ -1,10 +1,9 @@
 How to build your own greenfield?
 =========================
 
-* Speaker   : **Mário Gonçalves**
-* Available : **any day, any time**
-* Length    : **~45 minutes + QA**
-* Language  : **English**
+* Speaker   : [Mário Gonçalves](https://pixels.camp/mariomc)
+* Length    : ~45 minutes + QA
+* Language  : English
 
 Description
 -----------
@@ -15,6 +14,10 @@ This talk will, through a real case-study analysis, draw upon the teachings of C
 
 Speaker Bio
 -----------
+
+**Mário Gonçalves**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/887163?s=88&v=4)
 
 Hello! I'm Mário: A geek since 1985, a developer since 2007, a Software Engineer at Sky, an Open Source student, a Frontend teacher, an MTG player, a language nerd and an human being who likes to learn, think, help and create.
 
@@ -32,6 +35,11 @@ Extra Information
 This is not a technical talk but will pose a few poignant questions I've had to find out ways to answer throughout my technical career. Hopefully by sheding some light on those subjects, they'll be easier to tackle once anyone has to face them.
 
 Previous talks given:
+
 * https://twitter.com/requirelx/status/864162863081979905
 * https://github.com/PixelsCamp/talks/blob/master/2017/javascript-the-new-english_mario-goncalves.md
 * https://lisbon.landingfestival.com/talks/79
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
