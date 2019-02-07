@@ -1,8 +1,7 @@
 Embracing Elixir: An Adoption Story
 =========================
 
-* Speaker   : Daniel Caixinha
-* Available : First and second days, 9am to 7pm
+* Speaker   : [Daniel Caixinha](https://pixels.camp/dcaixinha)
 * Length    : 45min + QA
 * Language  : English
 
@@ -15,6 +14,10 @@ In this talk, Daniel Caixinha will explore some ways of changing this reality. M
 
 Speaker Bio
 -----------
+
+**Daniel Caixinha**
+
+![Speaker Image](https://miro.medium.com/fit/c/240/240/1*fP9Rilu6sKIOD0E1kp7gCg.jpeg)
 
 Daniel Caixinha, co-author of the book "Mastering Elixir", is a software engineer at Onfido, where he is using Elixir to build resilient systems that can also handle the high growth of the business. After graduating from Instituto Superior Técnico, he joined the startup world, mainly using Ruby, but he also got the chance to play around with Elixir. Upon joining Onfido, he got the chance to take Elixir more seriously, which made him fall in love with functional programming in general, and Elixir in particular. Besides building Elixir applications, he is fostering the use of Elixir, being a co-organiser of the Lisbon Elixir meetup.
 
@@ -29,3 +32,7 @@ Extra Information
 -----------------
 
 [Previous Talk on the Lisbon Elixir meetup](https://www.youtube.com/watch?v=J9KG_XqaVKQ)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
