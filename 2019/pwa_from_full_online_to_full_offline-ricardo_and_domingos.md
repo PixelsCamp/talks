@@ -1,7 +1,7 @@
 Progressive Web App: From Full Online to Full Offline
 =========================
 
-* Speaker   : [Domingos Martins](https://pixels.camp/DomingosMartins) and [Ricardo Soares](https://www.linkedin.com/in/ricardo-soares-silva/)
+* Speaker   : [Domingos Martins](https://pixels.camp/DomingosMartins) and [Ricardo Soares](https://pixels.camp/ricardani)
 * Length    : Workshop (120 minutes)
 * Language  : English
 
@@ -29,7 +29,7 @@ Links
 -----
 
 * Company: https://www.blip.pt
-* GitHub: https://github.com/DomingosMartins https://github.com/ricardani
+* GitHub: https://github.com/DomingosMartins and https://github.com/ricardani
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
