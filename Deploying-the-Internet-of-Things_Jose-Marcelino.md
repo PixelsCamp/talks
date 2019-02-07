@@ -8,12 +8,12 @@ Deploying the Internet of Things
 
 Description
 -----------
-For a long time sitting in the "Peak of Inflated Expectations", and "death by a thousand prototypes" the Internet of Things (IoT) is finally coming out strong with real, mass-market, solutions. 
+After a long time sitting in the "Peak of Inflated Expectations" and "death by a thousand prototypes" the Internet of Things (IoT) is finally delivering strong, mass-market, solutions. 
 This year is already proving to be game changing with key players like Alibaba setting targets of 1 Billion connected devices.
 
-In this talk we explore the motivations driving the IoT, the current directions and take a twist into what can we learn from biology to inform its path.
+In this talk we explore the motivations driving the IoT, the current directions and take a twist into what can we learn from biology to inform its future path.
  
-We'll then look at practical use cases highlighting how the combination of accessible widespread connectivity, low power and the concept of Systems Flexibility - where the IoT stack is flexible - presents new opportunities and insights from everyday things.
+We'll then look at practical use cases where the IoT - through a combination of accessible connectivity, low power devices and System Flexibility - presents new opportunities and insights from everyday things.
 
 
 Speaker Bio
@@ -38,3 +38,4 @@ Links
 Extra Information
 -----------------
 
+Previous workshop at Pixels Camp 2017: [Low Power Radio WAN: LoRa and Sigfox](https://github.com/PixelsCamp/talks/blob/master/2017/low-power-radio-wlan-lora-sigfox_jose-marcelino.md#low-power-radio-wan-lora-and-sigfox)
