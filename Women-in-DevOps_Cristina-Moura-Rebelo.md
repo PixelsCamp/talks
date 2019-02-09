@@ -1,18 +1,34 @@
+* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
+* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
 
-Women in DevOps
-Speaker : Cristina Moura Rebelo
-Available : 23 Mar, DevOps Lx slot
-Length : 30 minutes
-Language : English
+`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
+
+{{ _Your Talk's Title_ }}
+=========================
+
+* Speaker   : {{ **Your Name** (eg. John Doe) }}
+* Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
+* Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
+* Language  : {{ **Talk Language** (English or Portuguese) }}
+
 Description
-DevOps is all about collaboration and collaboration is all about diversity. Empathy, attention to detail, and other tipically feminine characteristics are essential to accelerate progress and remove roadblocks, getting more innovative, productive teams.
-DevOps has always embraced a diversity of thought and contribution. How to help bring alignment to teams, expanding into other functional teams across the organization.
+-----------
 
+{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
 
 Speaker Bio
-With more than 10 years of experience in complex project management, Cristina is passionate for project management, especially using agile approaches as a means to optimize time and resources.Currently she manages a team of 20+ developing Meo TV. With a degree in Management, a graduation at Universidade Católica Portuguesa and two project management certifications, blogger and writer (including a book of poems and several professional articles), married and mother of two, she often participates as speaker/host in public interest events.
+-----------
+
+{{ **Briefly Describe Yourself Here** }}
 
 Links
-GitHub: https://github.com/Crismr71
+-----
+
+* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
+* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
+* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+
 Extra Information
-Talk proposed by DevOps Lisbon. Delivered in DevOps Lisbon meetup (https://www.youtube.com/watch?v=0IJdJ5j3wHw) and AgilePT 2018.
+-----------------
+
+{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
