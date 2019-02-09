@@ -23,9 +23,9 @@ Links
 -----
 
 
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* GitHub: https://github.com/Crismr71
 
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+Talk proposed by DevOps Lisbon. Delivered in DevOps Lisbon meetup (https://www.youtube.com/watch?v=0IJdJ5j3wHw) and AgilePT 2018.
