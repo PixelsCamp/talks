@@ -11,7 +11,7 @@ Women in DevOps
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+DevOps is all about collaboration and collaboration is all about diversity. Empathy, attention to detail, and other tipically feminine characteristics are essential to accelerate progress and remove roadblocks, getting more innovative, productive teams. DevOps has always embraced a diversity of thought and contribution. How to help bring alignment to teams, expanding into other functional teams across the organization.
 
 Speaker Bio
 -----------
