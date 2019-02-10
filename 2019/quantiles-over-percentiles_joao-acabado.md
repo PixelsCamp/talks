@@ -27,4 +27,4 @@ Links
 Extra Information
 -----------------
 
-This will be an extension to the talk on the Lx DevOps lighting talks at BrightPixel: https://www.youtube.com/watch?v=zBQtgtCOD3Q&t=57s 
+This will be an extension to the talk on the Lx DevOps lighting talks at BrightPixel: [LxDevops: Quantiles over Percentiles](https://www.youtube.com/watch?v=zBQtgtCOD3Q)
