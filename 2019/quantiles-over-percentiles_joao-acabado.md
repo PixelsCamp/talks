@@ -10,7 +10,8 @@ Description
 -----------
 
 When performance matters there should be a clear and easy way of setting service level expectations. The way you measure latency determines how can we define our objectives.
-Let's brush up your statistics, Quantiles and Percentiles helps us define performance objectives and indicators and have everyone on the same page whenever our services get too slow. 
+Let's brush up your statistics, Quantiles and Percentiles helps us define performance objectives and indicators and have everyone on the same page whenever our services get too slow.
+
 Speaker Bio
 -----------
 
