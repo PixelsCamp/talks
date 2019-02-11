@@ -1,8 +1,7 @@
 An intro to Mutation Testing - or why coverage sucks
 =========================
 
-* Speaker   : Pedro Rijo
-* Available : Anytime
+* Speaker   : [Pedro Rijo](https://pixels.camp/pedrorijo91)
 * Length    : ~ 30min-45min
 * Language  : English
 
@@ -18,6 +17,10 @@ In this talk I plan to show how coverage by itself doesn't guarantee quality on 
 Speaker Bio
 -----------
 
+**Pedro Rijo**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/1999050?v=4)
+
 Another JVM guy battling between Scala, Java, and whatever gets in the way. Code quality freak. The first functional programming moderated advocate you've met 😀.
 
 Currently working as a backend product engineer at Feedzai, making digital payments safer. Former software engineer at Codacy and FenixEdu.
@@ -30,7 +33,6 @@ Links
 * GitHub: https://github.com/pedrorijo91
 * Twitter: https://twitter.com/pedrorijo91
 
-
 Extra Information
 -----------------
 
@@ -41,3 +43,7 @@ I quickly got in contact with the concept of mutation testing, which at a high l
 This talk aims to show the problems of relying on coverage as the ground truth for test suit strength, and how mutation testing can be a viable alternative to coverage. Furthermore I plan to cover the basic concepts of mutation testing, as well as the main difficulties and limitations.
 
 Finally, I will cover a java mutation testing tool called [PIT](http://pitest.org/), and how we introduced mutation testing on Feedzai codebase to help catching bugs before getting into production.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
