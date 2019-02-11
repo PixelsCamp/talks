@@ -1,8 +1,7 @@
 Everyone is naked: attacking the DHT
 =========================
 
-* Speaker   : Goncalo Pestana
-* Available : Any time
+* Speaker   : [Gonçalo Pestana](https://pixels.camp/gpestana)
 * Length    : 45m + QA
 * Language  : English
 
@@ -43,9 +42,11 @@ friend-to-friend routing, and others.
 Speaker Bio
 -----------
 
-engineer and researcher at hashmatter, focusing primarily on metadata resistance
-systems, networking and decentralization
+**Gonçalo Pestana**
 
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/gpestana.jpg?raw=true)
+
+Engineer and researcher at hashmatter, focusing primarily on metadata resistance systems, networking and decentralization
 
 Links
 -----
@@ -54,3 +55,6 @@ Links
 * Company: https://hashmatter.com
 * GitHub: https://github.com/gpestana
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
