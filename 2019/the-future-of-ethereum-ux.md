@@ -1,8 +1,7 @@
 The Future of Ethereum UX
 =========================
 
-* Speaker   : Joao Santos
-* Available : 1st day 11am-7pm, 2nd day 11am-7pm
+* Speaker   : [João Santos](https://pixels.camp/joaosantos15)
 * Length    : 45 min
 * Language  : English
 
@@ -19,6 +18,10 @@ It is targeted at dapp developers, with a stronger focus on backend architecture
 Speaker Bio
 -----------
 
+**João Santos**
+
+![Speaker Image](https://avatars1.githubusercontent.com/u/10178757?v=4)
+
 My name is João Santos and I am a full stack developer at [Shipl](https://shipl.co), a ConsenSys spoke. I got my MSc in Computer Science at Instituto Superior Técnico, my thesis was DClaims, a decentralized censorship resistant framework for web annotations, built on top of Ethereum and IPFS. I joined Consensys in mid-2018 working on advisory research spoke called [Helena](https://helena.network) where I mostly worked on writing Solidity smart-contracts. Recently I joined Shipl, where I focus mostly on the backend. I have also collaborated with the IPFS team developing the [Identity Manager RFC](https://github.com/ipfs-shipyard/peer-star/blob/16d50bf50e7bd1ce89f0fe0195e2b522a703766f/docs/rfc-identity.md) and with the [Rebooting the Web of Trust community](https://github.com/WebOfTrustInfo).
 
 
@@ -28,3 +31,6 @@ Links
 * Company: [Shipl](https://shipl.co)
 * GitHub: https://github.com/joaosantos15
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
