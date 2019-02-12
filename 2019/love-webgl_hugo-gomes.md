@@ -1,8 +1,7 @@
-<3 WebGL
+❤️  WebGL
 =========================
 
-* Speaker   : Hugo Gomes
-* Available : First day
+* Speaker   : [Hugo Gomes](https://pixels.camp/HugoDaniel)
 * Length    : 60 minutes
 * Language  : English
 
@@ -25,6 +24,10 @@ We are going to delve into the world of computer graphics for the web with a str
 Speaker Bio
 -----------
 
+**Hugo Gomes**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/95355?v=4)
+
 JavaScript has been a part of my daily life for a few years now. It shares a well respected place along with many other daily activities such as, taking out the trash, morning diarrhea and overall existential dread.
 
 Links
@@ -33,9 +36,6 @@ Links
 * Blog: https://hugodaniel.pt
 * Github: https://github.com/HugoDaniel
 
-Extra Information
+Click [here][1] to see the full calendar and pick your favorite talks
 
------------------
-
-I like pixels camp. I try to do a talk whenever such an event happens. I kind of dislike technology but it is still how I put money in my bank account to pay for alcohol and justify my lavish lifestyle together with some financial debts.
-
+[1]: https://pixels.camp/schedule/
