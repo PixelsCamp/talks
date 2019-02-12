@@ -1,4 +1,4 @@
-❤️  WebGL
+Love WebGL
 =========================
 
 * Speaker   : [Hugo Gomes](https://pixels.camp/HugoDaniel)
