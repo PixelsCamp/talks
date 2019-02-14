@@ -1,8 +1,7 @@
 Mob programming to deliver better software
 =========================
 
-* Speaker   : João Fernandes
-* Available : Any day, anytime
+* Speaker   : [João Fernandes](https://pixels.camp./JSFernandes)
 * Length    : 40 minutes + Q&A
 * Language  : English
 
@@ -15,6 +14,10 @@ My team has done Mob Programming at Xing, in groups of 4 and 5. We sucked at it,
 
 Speaker Bio
 -----------
+
+**João Fernandes**
+
+![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/joao_fernandes.jpg?raw=true)
 
 I am a Software Engineer working at Xing, where I have been doing full stack development with Ruby on Rails and React for 1 year. Before Xing, I worked at Seedrs and Movingworlds.
 
@@ -30,3 +33,7 @@ Extra Information
 -----------------
 
 In my general experience, I have observed that reasons for tech debt and solutions of poor quality are 33% technical skill, 33% process, and 33% company culture. The remaining 1% is a bit of bad luck. As developers, we are quick to criticize and improve the technical skill while neglecting the other components. While it isn't a silver bullet, mob programming allows for interconnected improvements in skill, process and culture.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
