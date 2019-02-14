@@ -1,10 +1,9 @@
-Graph Neural Networks &mdash; when magic meets structure
+Graph Neural Networks - when magic meets structure
 =========================
 
-* Speaker   : **Miguel Ventura**
-* Available : **Yes**
-* Length    : **50 minutes**
-* Language  : **English**
+* Speaker   : [Miguel Ventura](https://pixels.camp/mmv)
+* Length    : 50 minutes
+* Language  : English
 
 Description
 -----------
@@ -32,6 +31,10 @@ through some new achievements in AI-assisted development that GNNs have enabled.
 Speaker Bio
 -----------
 
+**Miguel Ventura**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/47368?v=4)
+
 I'm a Principal Software Engineer at OutSystems currently dedicated to the AI
 team, where we focus on research and development of AI-assisted software development.
 
@@ -55,3 +58,7 @@ The intended audience should have at least a basic understanding of programming
 but no previous experience with machine-learning is required.
 
 My last talk in PixelsCamp was about a completely different topic &mdash; TypeScript.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
