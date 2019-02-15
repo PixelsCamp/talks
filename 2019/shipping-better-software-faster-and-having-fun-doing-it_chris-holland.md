@@ -1,9 +1,7 @@
-
 Shipping Better Software Faster & Having Fun Doing It
 =========================================================
 
-* Speaker   : Chris Holland
-* Available : Any
+* Speaker   : [Chris Holland](https://pixels.camp/elchris)
 * Length    : 60 minutes
 * Language  : English
 
@@ -35,6 +33,10 @@ While PHP, Symfony and Doctrine are used for code examples, concepts in this tal
 Speaker Bio
 -----------
 
+**Chris Holland**
+
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/chris_holland.jpg)
+
 Chris Holland leads a small Software Engineering Team at an HR company. Throughout a career spanning more than 20 years, Chris has held Sr. Engineering and Leadership roles for small and large successful publicly-traded companies such as EarthLink and Internet Brands, serving business models across Content, Commerce, Travel &amp; Finance on a wide variety of technology stacks including PHP/LAMP, Java/J2EE and C#/.Net, catering to audiences over 100 million monthly visitors.
 
 Links
@@ -55,4 +57,6 @@ Extra Information
 * https://northeastphp2018.sched.com/event/Fh5r/shipping-better-software-faster-and-having-fun-doing-it-php
 * https://world.phparch.com/speakers/chris-holland/
 
+Click [here][1] to see the full calendar and pick your favorite talks
 
+[1]: https://pixels.camp/schedule/
