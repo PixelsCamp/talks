@@ -36,7 +36,7 @@ Speakers Bio
 
 **Nuno Silva Pereira** [https://www.linkedin.com/in/nunosilvapereira/] is a Delivery Lead @ Equal Experts working on projects in different geographies and industries. He has worked for more than 14 years within IT and Telco's (Sapo, Portugal Telecom, Nos). He is a member of Agile Connect and co-organizer of the Agile Connect Lisbon Meetup. Speaker at Pixels Camp on the last 2 editions.
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ricardo_fernandes.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_fernandes.jpg)
 
 **Ricardo Fernandes** [https://www.linkedin.com/in/ricardo-fernandes-agile/] is a Line Manager R&D on Nokia. He was worked for the last 15 year within Telco’s and Education. He is a trainer of several courses, like Management 3.0 and Agile. His passion is to share and helping people, that why he is a member of Agile Connect and co-organizer of Agile Connect in Aveiro, co-organizer on the play 14, co-organizer on the ALE2019-Porto.
 

@@ -19,7 +19,7 @@ Speaker Bio
 
 **Natanael Gama**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ndiscover.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/natanael_gama.jpg)
 
 Natanael Gama graduated from Graphic and Multimedia Design in 2009 at ESAD.CR where he first started to play with type design just for fun.
 

@@ -14,7 +14,7 @@ Speaker Bio
 
 **Luis Rodrigues**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/luis_rodrigues.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/luis_rodrigues.jpg)
 
 I'm a software engineer at Equal Experts.
 

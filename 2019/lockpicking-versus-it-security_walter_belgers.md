@@ -15,7 +15,7 @@ Speaker Bio
 
 **Walter Belgers**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/walter.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/walter_belgers.jpg)
 
 Active in the security and computing science field since age 8. Experience in setting up security systems, international roll-out, education, auditing and pentesting. As one of the owners of the Dutch penetration testing firm Madison Gurkha, I have worked as head of HRM, COO, team manager, sales support, incident manager and more. As no other I can combine 25+ years of deep technical knowledge with soft skills. A passion of mine is to make technical concepts understandable, which is why I have spoken at many international conferences and have helped organise many of them as well.
 

@@ -44,7 +44,7 @@ Speaker Bio
 
 **Gonçalo Pestana**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/gpestana.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/goncalo_pestana.jpg)
 
 Engineer and researcher at hashmatter, focusing primarily on metadata resistance systems, networking and decentralization
 

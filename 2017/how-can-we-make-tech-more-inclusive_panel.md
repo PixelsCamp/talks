@@ -26,7 +26,7 @@ Ana is an engineer / designer / marketer hybrid with a special interest in medic
 
 **Karolina Piechocinska**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/karolina.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/karolina.jpg)
 
 Community Manager at Pixels Camp. Social Media Strategist at Bright Pixel. Communication geek passionate about foresight methodology in startup management. Entrepreneur in 3D printing and sustainable design.
 

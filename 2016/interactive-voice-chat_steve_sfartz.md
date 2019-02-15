@@ -16,7 +16,7 @@ Here are a few possibilities offered by the Cisco REST APIs which can be freely 
 Speaker Bio
 -----------
 
-![Speaker Image](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/img/sfartz.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/steve_sfartz.jpg)
 
 Stève Sfartz helps Developers and ITPros differentiate and accelerate their business by leveraging CISCO APIs. You're a startup, an enterprise or an ISV ? Feel free to ping him to discuss innovation and how to integrate CISCO APIs into your software. As a strong supporter of Web APIs, he has committed himself to teach dev communities WW how to consume and build APIs with various languages. REST APIs, Collaboration (Tropo, Cisco Spark), Cloud Services, golang France mostly and all around Europe.
 

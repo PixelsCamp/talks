@@ -43,7 +43,7 @@ _Click the thumbnail above to watch the video from this talk on Youtube_
 Speaker Bio
 -----------
 
-![Speaker Image](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/img/federico_bento.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/federico_bento.jpg)
 
 My name is Federico Bento, 20 years old, and a college student from Faculty of Science University of Porto.
 

@@ -17,7 +17,7 @@ Speaker Bio
 
 **João Fernandes**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/joao_fernandes.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/joao_fernandes.jpg)
 
 I am a Software Engineer working at Xing, where I have been doing full stack development with Ruby on Rails and React for 1 year. Before Xing, I worked at Seedrs and Movingworlds.
 

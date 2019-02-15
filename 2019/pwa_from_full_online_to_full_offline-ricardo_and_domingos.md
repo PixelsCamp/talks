@@ -15,13 +15,13 @@ Speaker's Bio
 
 **Domingos Martins**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/domingos_martins.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/domingos_martins.jpg)
 
 Domingos is a software engineer currently working at Paddypower Betfair (BLIP). He is enthusiastic about the future of the web, that's why his main focus is building faster JS applications and experimenting with new languages and frameworks.
 
 **Ricardo Soares**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ricardo_soares.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_soares.jpg)
 
 Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
 

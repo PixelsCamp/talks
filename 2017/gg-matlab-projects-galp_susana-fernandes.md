@@ -25,7 +25,7 @@ Speaker Bio
 
 **Susana Fernandes**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/susana.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/susana_fernandes.jpg)
 
 Susana Fernandes is a junior Geophysicist at Galp Energia. Susana’s background is Geophysics with a post-graduation in Oil Geosciences. During her Geophysics degree, she developed some skills in some programming languages namely C ,R and Matlab. Susana works at Galp for 3 years now and during that time she used Matlab to develop some tools and for the first time start working with Matlab interface tool, GUIDE, to generate standalones to E&P requirements.
 

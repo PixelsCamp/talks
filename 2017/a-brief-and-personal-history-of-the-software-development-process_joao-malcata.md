@@ -32,7 +32,7 @@ Speaker Bio
 
 **João Malcata**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/joao_malcata.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/joao_malcata.jpg)
 
 Dad, software engineer, telco, cybersecurity, web, and OSS.
 15+ using tech to build products, teams, and processes.

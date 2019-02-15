@@ -15,7 +15,7 @@ Speaker Bio
 
 **Val Scholz**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/val.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/val_scholz.jpg)
 
 Val Scholz is leading growth at Revolut, Europe's fastest growing fin-tech with over 850,000 customers that transacted over $4.5 billion in two years. 
 

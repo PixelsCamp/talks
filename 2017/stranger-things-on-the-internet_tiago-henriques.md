@@ -23,7 +23,7 @@ Speaker Bio
 
 **Tiago Henriques**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/tiago_henriques.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/tiago_henriques.jpg)
 
 Tiago is the CEO and Data necromancer at BinaryEdge however he gets to meddle in the intersection of data science and cybersecurity. I like hunting weird things (read shit) on the internet.
 

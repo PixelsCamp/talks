@@ -34,7 +34,7 @@ Speaker Bio
 
 **Ricardo Paiágua**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/ricardo_paiagua.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_paiagua.jpg)
 
 Ricardo lançou-se no mundo da programação aos 16 anos e iniciou o seu percurso profissional aos 20, com passagens em várias empresas de renome, dentro e fora do país. Depois de trabalhar em entidades como o Grupo Vedior, Vedior Luxembourg, Grupo Randstad e Worten, o Ricardo saiu da zona de conforto e deixou a estabilidade de lado para montar uma agência criativa. Assim nasceu a uppOut, uma empresa que já deu que falar com campanhas virais, como o “Dá a Cara Por Portugal” durante o Euro 2016, ou mesmo a famosa sanita da WebSummit.
 

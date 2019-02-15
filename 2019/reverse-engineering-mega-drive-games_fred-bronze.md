@@ -15,7 +15,7 @@ Speaker Bio
 
 **Fred Bronze**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/fred_bronze.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/fred_bronze.jpg)
 
 Fred is a .NET developer at agap2IT Portugal. In his free time, he writes 68k assembly code for the Sega Mega Drive. He is also author of the Sonic 3 Unlocked blog, which has barely been updated in the past year.
 

@@ -12,7 +12,7 @@ Server-less architectures allow you to build and run applications and services w
 Speaker Bio
 -----------
 
-![Speaker Image](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/img/sanchiz.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/carlos_sanchiz.jpg)
 
 Carlos is a Sr. Solutions Architect for Amazon Web Services helping companies in Portugal and  Spain transform their IT and make the most out of the AWS platform.
 

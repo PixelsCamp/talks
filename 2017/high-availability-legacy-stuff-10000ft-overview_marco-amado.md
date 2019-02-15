@@ -45,7 +45,7 @@ Speaker Bio
 
 **Marco Amado**
 
-![Speaker Image](https://github.com/PixelsCamp/talks/blob/master/img/marcoamado.jpg?raw=true)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/marco_amado.jpg)
 
 Started programming at age 6, when I inherited a ZX Spectrum from my older
 brother, along the gigantic polycopied ZX BASIC manual that came along back in
