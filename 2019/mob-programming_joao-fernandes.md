@@ -1,7 +1,7 @@
 Mob programming to deliver better software
 =========================
 
-* Speaker   : [João Fernandes](https://pixels.camp./JSFernandes)
+* Speaker   : [João Fernandes](https://pixels.camp/JSFernandes)
 * Length    : 40 minutes + Q&A
 * Language  : English
 
