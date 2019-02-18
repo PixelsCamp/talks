@@ -1,9 +1,8 @@
 The Universal Serial Web
 =========================
 
-* Speaker   : Sebastian Golasch
-* Available : All days
-* Length    : 40 Minutes (if it needs to be either 30 or 60, I´d go for 60 with more demos)
+* Speaker   : [Sebastian Golasch](https://pixels.camp/asciidisco)
+* Length    : 40 Minutes
 * Language  : English
 
 Description
@@ -20,6 +19,10 @@ The only limit is your imagination.
 
 Speaker Bio
 -----------
+
+**Sebastian Golasch**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/805339?v=4)
 
 Sebastian works as a “Specialist Senior Manager Software Developer” at Deutsche Telekom,
 after some time developing backend applications with Java and PHP he became a citizen of the JavaScript world. 
@@ -59,3 +62,7 @@ Web developers who…
 …feel intimidated by the world of hardware hacking
 …like to understand the basics of USB
 …just wanna have some fun
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
