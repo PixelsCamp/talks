@@ -1,10 +1,7 @@
-
-
 From product design to product design
 =========================
 
-* Speaker   : Nuno Loureiro
-* Available : Friday
+* Speaker   : [Nuno Loureiro](https://pixels.camp/nloureiro)
 * Length    : 60min
 * Language  : English
 
@@ -17,6 +14,10 @@ I will talk about the differences,  similarities, and tools for both worlds.
 Speaker Bio
 -----------
 
+**Nuno Loureiro**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/1120748?v=4)
+
 A designer since 1998 and working in many different types of projects, from industrial design to digital product design to graphic design. Loves a good challenge and always tries to surprise with new ideas and concepts.The first startup the that he worked on was back in 2008 and since then it has been collaborating on different levels with a series of startups, from mentoring to branding to user experience and product design. Currently leading the Design at Bright Pixel and still figuring out what I´m doing every day.
 
 Links
@@ -26,7 +27,6 @@ Links
 * Company: https://brpx.com
 * GitHub: https://github.com/nloureiro - must have applied for Pixels Camp attendance
 
-Extra Information
------------------
+Click [here][1] to see the full calendar and pick your favorite talks
 
-no 
+[1]: https://pixels.camp/schedule/
