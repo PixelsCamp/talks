@@ -8,9 +8,9 @@ From product design to product design
 Description
 -----------
 
-I've been a designer for 20 years. I started as a Product designer for everyday objects but had roles throughout my career: web designer, digital designer, UX designer... you name it...
+I've been a designer for 20 years. I started as a Product designer for everyday objects but had many roles throughout my career: web designer, digital designer, UX designer... you name it...
 
-Now the new normal is Product Design again, but this time digital. I will talk about both worlds, their differences,  similarities, and tools.
+Now the new normal is Product Design again, but this time digital. I will talk about both worlds, their differences, similarities, and tools.
 
 Speaker Bio
 -----------
