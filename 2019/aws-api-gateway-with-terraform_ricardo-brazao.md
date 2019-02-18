@@ -1,4 +1,4 @@
-AWS API Gateway with Terraform, or how a backend developer coded some infrastructure with zero DevOps knowledge
+AWS API Gateway with Terraform
 =========================
 
 * Speaker   : [Ricardo Brazão](https://pixels.camp/RicardoBrazao)
@@ -7,6 +7,8 @@ AWS API Gateway with Terraform, or how a backend developer coded some infrastruc
 
 Description
 -----------
+
+AWS API Gateway with Terraform, or how a backend developer coded some infrastructure with zero DevOps knowledge.
 
 Ever wanted to create something in AWS? Feel over amazed with the AWS interface? Do you cry a little bit inside every time you look at the AWS dashboard? Then stay tuned for something that can ease your life, more than sliced bread did 🍞. In this talk we'll create a API Gateway in AWS without ever needing to go their dashboard, we'll just do what software developers love the most...code!!
 
