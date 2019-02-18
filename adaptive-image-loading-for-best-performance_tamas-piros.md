@@ -3,7 +3,7 @@ Adaptive Image Loading for Best Performance
 
 * Speaker   : Tamas Piros
 * Available : anytime
-* Length    : 30 minutes
+* Length    : 1 hour
 * Language  : English
 
 Description
