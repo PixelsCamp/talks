@@ -1,10 +1,9 @@
 AWS API Gateway with Terraform, or how a backend developer coded some infrastructure with zero DevOps knowledge
 =========================
 
-* Speaker   : **Ricardo Brazão**
-* Available : **21 and 22 March, 10am--6pm**
-* Length    : **45 minutes + 15 of QA**
-* Language  : **English**
+* Speaker   : [Ricardo Brazão](https://pixels.camp/RicardoBrazao)
+* Length    : 45 minutes + 15 of QA
+* Language  : English
 
 Description
 -----------
@@ -32,3 +31,7 @@ Extra Information
 -----------------
 
 This talk will be a presentation version of a blog post that [I wrote a while back](https://medium.com/onfido-tech/aws-api-gateway-with-terraform-7a2bebe8b68f). As this blog post was well received by the community and teached me the basics of Terraform and AWS API Gateway, I wanted to share my learning with the community as well.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
