@@ -28,7 +28,7 @@ Links
 
 * Blog: https://twitter.com/nloureiro
 * Company: https://brpx.com
-* GitHub: https://github.com/nloureiro - must have applied for Pixels Camp attendance
+* GitHub: https://github.com/nloureiro
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
