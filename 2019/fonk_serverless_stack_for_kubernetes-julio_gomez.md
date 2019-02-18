@@ -1,11 +1,10 @@
-
 FONK - A Serverless Stack for Kubernetes
 =========================
 
-* Speaker   : Julio Gomez
+* Speaker   : [Julio Gomez](https://pixels.camp/juliogomez)
 * Available : Thu since 12pm to Friday 2pm
 * Length    : 45/50 minutes + QA
-* Language  : English (or Spanish)
+* Language  : English
 
 Description
 -----------
@@ -18,6 +17,10 @@ Demos will be held. Also awkward silences.
 
 Speaker Bio
 -----------
+
+**Julio Gomez**
+
+![Speaker Image](https://avatars0.githubusercontent.com/u/12740107?v=4)
 
 Julio Gomez is a Cisco veteran spending most of his life working on the technical side of Service Provider, Data Center and Cloud spaces. He is specially interested in Cloud native technologies and how they are shaping the future of our industry. 
 
@@ -37,3 +40,7 @@ Extra Information
 
 Link to the FONK project website: http://fonk-apps.io/
 GitHub for the FONK project: https://github.com/fonk-apps
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
