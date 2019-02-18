@@ -1,10 +1,9 @@
 Building Your First React App
 =========================
 
-* Speaker   : **José Sousa**
-* Available : **first and second day, 9am-7pm**
-* Length    : **60 minutes**
-* Language  : **English**
+* Speaker   : [José Sousa](https://pixels.camp/jcdesousa)
+* Length    : 60 minutes
+* Language  : English
 
 Description
 -----------
@@ -22,6 +21,10 @@ By the end of this workshop we will be able to do the following:
 
 Speaker Bio
 -----------
+
+**José Sousa**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/8426644?v=4)
 
 Organised and dedicated Frontend Engineer with more than six years of experience in software engineering. Extensive skills in web development with a track record of improving the performance and the teams overall code quality in many projects.
 
@@ -49,3 +52,7 @@ Hackerschool 2018:
 University of Aveiro 2018:
 
 * Workshop: Frontend Unit Tests - https://www.linkedin.com/feed/update/urn:li:activity:6475734652232491008
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
