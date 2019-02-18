@@ -1,9 +1,7 @@
-
 Right to Repair (fix your broken device!)
 =========================
 
-* Speaker   : Luis Correia
-* Available : whenever you need it to be
+* Speaker   : [Luis Correia](https://pixels.camp/luisfcorreia)
 * Length    : 45(ish) minutes
 * Language  : English (probably)
 
@@ -16,7 +14,7 @@ The thing is, it is most likely you just threw it away, thinking it was beyond r
 
 Phear not, in most cases, it *is* repairable (with notable exceptions) and you can give it an extra life.
 
-Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it. 
+Unfortunately, most gadget makers don't want you to repair but rather buy a new one. And they even lock the device down so hard you basicly can't do much with it.
 
 Come hear me talk about it to know more
 
@@ -35,7 +33,7 @@ Main topics will be (in no particular order)
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars3.githubusercontent.com/u/191885?v=3&s=400)
+![Speaker Image](https://avatars3.githubusercontent.com/u/191885?v=4)
 
 Legendary bicopter/tricopter builder, member of the fine One Over Zero community, mostly known as the "lobster crew"
 Co-creator of OOZLabs, a closed maker group that essentially makes things and stuff.
@@ -55,3 +53,6 @@ I usually prepare talks about things I've make (or tried to make it work), this 
 
 Past talks @ PixelsCamp https://github.com/PixelsCamp/talks/blob/master/2016/ooz2mars-rover_luis-correia.md
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
