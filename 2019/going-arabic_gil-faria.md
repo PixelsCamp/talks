@@ -1,8 +1,7 @@
 Going Arabic
 =========================
 
-* Speaker   : Gil Faria
-* Available : Anyday, 9am-7pm
+* Speaker   : [Gil Faria](https://pixels.camp/gilfaria)
 * Length    : 60 minutes
 * Language  : English
 
@@ -21,6 +20,10 @@ In this session, we will see some of the problems that arise, a few details that
 Speaker Bio
 -----------
 
+**Gil Faria**
+
+![Speaker Image](https://avatars3.githubusercontent.com/u/41204659?v=4)
+
 Gil Faria has a degree in Computer Engineering from the Faculty of Science and Technology, New University of Lisbon. He started programming at age 9, shortly after receiving his first computer, a Commodore 64. Since then, he hasn’t been able to stop feeding his interest in technology and programming. At the moment, his primary areas of focus are web applications developed in Microsoft technologies namely ASP.NET MVC and SQL Server.
 
 Links
@@ -28,3 +31,8 @@ Links
 
 * Company: https://farfetch.com
 * GitHub: https://github.com/gilfaria
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
+
