@@ -36,3 +36,5 @@ During the talk we'll discuss:
 - Service Workers
 - Network Information API
 - The Save-Data header
+
+If required this talk can be "converted" into a workshop proposal, should there be a need for more workshops.
