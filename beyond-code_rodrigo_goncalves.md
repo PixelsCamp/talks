@@ -1,4 +1,4 @@
-Beyond Code: how the right side of the brain can guide your journey to be a better Engineer
+Beyond Code: thinking "right" to become a better Engineer
 ==================================================================================
 
 * Speaker   : Rodrigo Gonçalves
