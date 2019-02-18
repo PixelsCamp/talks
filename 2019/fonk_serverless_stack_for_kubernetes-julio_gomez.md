@@ -2,7 +2,6 @@ FONK - A Serverless Stack for Kubernetes
 =========================
 
 * Speaker   : [Julio Gomez](https://pixels.camp/juliogomez)
-* Available : Thu since 12pm to Friday 2pm
 * Length    : 45/50 minutes + QA
 * Language  : English
 
