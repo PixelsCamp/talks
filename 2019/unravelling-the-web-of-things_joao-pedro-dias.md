@@ -19,6 +19,10 @@ Following the Web of Things road, we are gonna go from understanding the Mozilla
 Speaker Bio
 -----------
 
+**João Pedro Dias**
+
+![João Pedro Dias](https://avatars3.githubusercontent.com/u/3944845?v=4)
+
 I'm João Pedro Dias, a researcher at INESC TEC and I'm an Invited Assistant Lecturer at Faculty of Engineering, University of Porto. Finished my MSc degree in Informatics and Computing Engineering in 2016 and I'm now enrolled in a PhD on Informatics Engineering, researching on the thin line between hardware and software but always from a software engineering perspective. Passionate about technology in general, with a special focus on security and privacy, web development, data mining & Internet-of-Things. 
 
 Links
@@ -36,3 +40,7 @@ Extra Information
 * Invited Seminar for the students of the 5th Year of the Integrated Master Degree on Informatics and Computing Engineering @ Faculty of Engineering, University of Porto, "How to Kill Your Privacy and IoT your home along the way": [https://speakerdeck.com/jpdias/how-to-kill-your-privacy-and-iot-your-home-along-the-way](https://speakerdeck.com/jpdias/how-to-kill-your-privacy-and-iot-your-home-along-the-way) 2017
 * Blog Post "Indoor Sensing Hub powered by Mozilla Things Framework": [https://jpdias.me/hardware/iot/2018/12/19/indoorsensing.html](https://jpdias.me/hardware/iot/2018/12/19/indoorsensing.html) 2018
 * Mozilla IoT: [https://iot.mozilla.org/](https://iot.mozilla.org/)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

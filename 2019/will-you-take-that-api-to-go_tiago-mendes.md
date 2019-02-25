@@ -1,8 +1,7 @@
 Will you take that API to GO?
 =========================
 
-* Speaker   : Tiago Mendes
-* Available : All days, All hours
+* Speaker   : [Tiago Mendes](https://pixels.camp/tgmendes)
 * Length    : 60 mins
 * Language  : English
 
@@ -17,6 +16,10 @@ In this talk, I will show you how you can quickly build a fully functional, and 
 Speaker Bio
 -----------
 
+**Tiago Mendes**
+
+![Tiago Mendes](https://avatars2.githubusercontent.com/u/10812871?v=4)
+
 Tiago started working in Software Development in 2014, after working 4 years in the Civil Engineering field.
 
 He worked in the Aerospace & Defense industry, developing data processing and analysis tools, and building REST APIs. He also implemented front-ends for exploration and distributed processing of satellite-based data and imagery.
@@ -30,3 +33,6 @@ Links
 
 * GitHub: https://github.com/tgmendes
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

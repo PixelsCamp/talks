@@ -1,8 +1,7 @@
 Information Security 101
 =========================
 
-* Speaker   : Basilio Vieira
-* Available : Full availability
+* Speaker   : [Basilio Vieira](https://pixels.camp/BaiaVieira)
 * Length    : 45-60 minutes
 * Language  : English
 
@@ -50,6 +49,11 @@ This will gravitate around the themes of Portal, Koolaid, Lost, Super Mario Bros
 
 Speaker Bio
 -----------
+
+**Basílio Vieira**
+
+![Basílio Vieira](https://avatars0.githubusercontent.com/u/7461131?v=4)
+
 Developer, Maker, Geek now Auditor.
 
 Links
@@ -61,4 +65,9 @@ Links
 
 Extra Information
 -----------------
+
 Although largely centred on my current work, this is not a sales pitch.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

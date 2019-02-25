@@ -1,10 +1,9 @@
 Utility-First CSS: Build a clean Component based system
 =========================
 
-* Speaker   : **Vitor Caneco**
-* Available : **21 and 22 March, 10am--6pm**
-* Length    : **30~45 minutes**
-* Language  : **English**
+* Speaker   : [Vitor Caneco](https://pixels.camp/caneco)
+* Length    : 30~45 minutes
+* Language  : English
 
 Description
 -----------
@@ -20,9 +19,9 @@ So, instead of creating some `later.css`, or just add `!important` here and ther
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars0.githubusercontent.com/u/502041?s=80&v=4)
-
 **Vitor Caneco**
+
+![Vitor Caneco](https://avatars0.githubusercontent.com/u/502041?v=4)
 
 > _Web Contortionist. Short for Developer being Designer and vice-versa @ Kwanko_
 
@@ -42,3 +41,7 @@ Extra Information
 The value prop of this talk is to help any Front-end developer that can relate to the same struggles. And with my own experience, and some 🔥 tips, I will show some real-case examples that either give you the _"Aha! moment"_, or just learn something new.
 
 To wrap it up… the key point can be presented in under 30 minutes. But I prefer to extend to 45 minutes, so I can show some examples.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

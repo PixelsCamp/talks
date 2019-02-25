@@ -1,10 +1,9 @@
 Penalty-free multiplatform programming with Kotlin
 ===
 
-* Speaker   : **Gonçalo Silva**
-* Available : **Any day, preferably afternoon**
-* Length    : **60 minutes**
-* Language  : **English**
+* Speaker   : [Gonçalo Silva](https://pixels.camp/goncalossilva)
+* Length    : 60 minutes
+* Language  : English
 
 Description
 ---
@@ -17,6 +16,10 @@ In this talk, we'll go over the core ideas behind Kotlin Multiplatform, how it w
 
 Speaker Bio
 ---
+
+**Gonçalo Silva**
+
+![Gonçalo Silva](https://avatars1.githubusercontent.com/u/102931?v=4)
 
 Gonçalo is CTO at Doist, makers of Todoist and Twist. Obsessed with code, product design and strategy, he's built and contributed to multiple open source projects.
 
@@ -37,3 +40,7 @@ Rust, Swift and other LLVM-based languages can arguably provide this, but not wi
 Ultimately, Kotlin Multiplatform is the most interesting and ambitious thing about Kotlin. It raises the bar on penalty-free, multi-platform development. It allows small teams to compete with large enterprises (that will undoubtedly take a long time to adopt this) on all fronts that matter.
 
 Lastly, it is backed by JetBrains, and consequently surrounded by incredible tooling.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

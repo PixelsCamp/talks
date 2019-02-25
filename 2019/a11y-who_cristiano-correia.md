@@ -20,6 +20,8 @@ Web Accessibility is essentially a way of making your product reachable by all o
 Speaker Bio
 -----------
 
+**Cristiano Correia**
+
 ![Cristiano Correia](http://cristianocorreia.com/photo.jpg)
 
 With a background in engineering and design, my focus has always been building great products and great experiences.
@@ -38,6 +40,7 @@ Extra Information
 -----------------
 
 Published articles:
+
 * [A Day in the Life of a Frontend Engineer at Zalando](https://jobs.zalando.com/tech/blog/frontend-engineer-zalando/) (Jan 2019 - [Zalando Tech Blog](https://jobs.zalando.com/tech/blog/))
 * [How to Style Accessibility: a Web Components Approach](https://medium.freecodecamp.org/styling-accessibility-a-web-components-approach-dc2aa8123eb2) (Dec 2018 - [freeCodeCamp]())
 
@@ -53,3 +56,7 @@ Previous speaking and training appearances:
 * Trainer: [AngularJS Fundamentals](http://academy.findmore.pt/learning-areas/development/angularjs-fundamentals-new-session) (Apr 2015 - Findmore Academy)
 * Trainer: [AngularJS Fundamentals](http://academy.findmore.pt/learning-areas/development/angularjs-fundamentals
 ) (Mar 2015 - Findmore Academy)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

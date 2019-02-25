@@ -1,13 +1,13 @@
-Deploying the Internet of Things 
+Deploying the Internet of Things
 =========================
 
 * Speaker   : [Jose Marcelino](https://pixels.camp/jmarcelino)
-* Available : Any
 * Length    : 45 minutes
 * Language  : English
 
 Description
 -----------
+
 After a long time sitting in the "Peak of Inflated Expectations" and "death by a thousand prototypes" the Internet of Things (IoT) is finally delivering strong, mass-market, solutions. 
 This year is already proving to be game changing with key players like Alibaba setting targets of 1 Billion connected devices.
 
@@ -18,6 +18,10 @@ We'll then look at practical use cases where the IoT - through a combination of 
 
 Speaker Bio
 -----------
+
+**José Marcelino**
+
+![Cristiano Correia](https://avatars0.githubusercontent.com/u/3199956?v=4)
 
 Originally from Setubal (Portugal) Jose is the IoT Solutions Architect at Reece Innovation, a large Engineering group in the North East of UK - the epicentre of the indutrial revulution of the 1800s.
 
@@ -39,3 +43,7 @@ Extra Information
 -----------------
 
 Previous workshop at Pixels Camp 2017: [Low Power Radio WAN: LoRa and Sigfox](https://github.com/PixelsCamp/talks/blob/master/2017/low-power-radio-wlan-lora-sigfox_jose-marcelino.md#low-power-radio-wan-lora-and-sigfox)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

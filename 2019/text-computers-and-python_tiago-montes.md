@@ -1,8 +1,7 @@
 Text, Computers and Python
 ==========================
 
-* Speaker   : Tiago Montes
-* Available : Mar 21st anytime; Mar 22nd <17h; Mar 23rd anytime.
+* Speaker   : [Tiago Montes](https://pixels.camp/tmontes)
 * Length    : 45 minutes + Q&A.
 * Language  : English.
 
@@ -23,12 +22,15 @@ After this talk attendees will have a very clear picture of how computers repres
 Speaker Bio
 -----------
 
+**Tiago Montes**
+
+![Tiago Montes](https://avatars2.githubusercontent.com/u/1912206?v=4)
+
 Python Expert, Trainer and Consultant. Product Manager and Lead Developer for Promptar.
 
 With a bazillion years of professional experience within the IT and Software Development landscape, I've done lots of different things: mission critical customer support on high-end UNIX systems (yes including being "on duty" 24/7 for many many weeks!), huge datacenter consolidation and move projects, developed tailor made large-scale IP-based VoIP solutions, architected scalable data processing and visualization pipelines, created Promptar a CTI software product, lead IT services and project teams, trained development teams, customers, and partners around the world.
 
 Nowadays I'm focusing a lot of my professional activity on software development and Python, and I'm pretty happy about it!
-
 
 Links
 -----
@@ -46,3 +48,6 @@ I'm applying precisely because one of them, Daniel Serrano from Onfido, wholehar
 
 The slides I used are currently [published here](https://slides.com/tmontes/text-computers-and-python-v1#/) and will probably suffer from minor revision before the Pixels Camp talk.
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

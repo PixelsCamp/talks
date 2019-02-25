@@ -1,8 +1,7 @@
 Ready, Set, Flutter
 =========================
 
-* Speaker   : Filipe Barroso
-* Available : Anytime
+* Speaker   : [Filipe Barroso](https://pixels.camp/OldMetalmind)
 * Length    : 30 minutes
 * Language  : English
 
@@ -17,6 +16,10 @@ It will be a talk from the heart, about the personal experience, and honest abou
 
 Speaker Bio
 -----------
+
+**Filipe Barroso**
+
+![Filipe Barroso](https://avatars0.githubusercontent.com/u/404874?v=4)
 
 Not an usual software developer, he loves getting out of the zone of comfort, if you don't see him at a tech event, his probably organizing the next tech event for Google Developer Group Lisbon, reading about psychology or supporting a community grow or start. Has a strong opinion about social impact, inclusivity and the importance of communities.
 
@@ -37,3 +40,7 @@ I gave the first version of this talk at the event BarcampLx #1, (April 28, 2018
 [update 3Jan] I will give this talk and workshop at DevFest Porto 2018, (Jan 26, 2018)
 
 Workshop - I also can give a Workshop about Flutter, if that is of your interest.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/

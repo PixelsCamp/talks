@@ -1,10 +1,9 @@
 VR Design : Designing Aplications for motion
 =========================
 
-* Speaker   : **Ricardo Francisco Vilelas de Almeida**
-* Available : **First day, 9am - 7 pm, Second Day 9am-6pm, third day 9am-7pm**
-* Length    : **45 minutes**
-* Language  : **English**
+* Speaker   : [Ricardo Francisco Vilelas de Almeida](https://pixels.camp/Sckir)
+* Length    : 45 minutes
+* Language  : English
 
 Description
 -----------
@@ -17,6 +16,10 @@ Developing VR can be tricky but after this talk hopefully you will learn from my
 
 Speaker Bio
 -----------
+
+**Ricardo Almeida**
+
+![Ricardo Almeida](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_almeida.jpg)
 
 Hello there! So for a brief introduction, I work at Collide as a Game Designer and Software Engineer!
 
@@ -45,3 +48,7 @@ Extra Information
 * Publication about Gestual Life - http://epcg2014.estg.ipleiria.pt/downloads/Atas_EPCG2014.pdf
 * Master Thesis regarding serious game design - https://repositorio.iscte-iul.pt/handle/10071/10951
 * Video Game Event I created and presented on stage - https://lisbongameconf.iscte-iul.pt/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
