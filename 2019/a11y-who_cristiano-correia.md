@@ -1,7 +1,7 @@
 a11y, who?
 =========================
 
-* Speaker   : [Cristiano Correia](https://avatars0.githubusercontent.com/u/4750068?s=460&v=4)
+* Speaker   : [Cristiano Correia](https://pixels.camp/cristianocorreia)
 * Available : Both days, any time
 * Length    : 45 minutes + QA
 * Language  : English
@@ -22,7 +22,7 @@ Speaker Bio
 
 **Cristiano Correia**
 
-![Cristiano Correia](http://cristianocorreia.com/photo.jpg)
+![Cristiano Correia](https://avatars3.githubusercontent.com/u/4750068?v=4)
 
 With a background in engineering and design, my focus has always been building great products and great experiences.
 
