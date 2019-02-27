@@ -1,8 +1,7 @@
 Using Java Microbenchmark Harness
 =========================
 
-* Speaker   : Samuel Campos
-* Available : 21 or 22 from 9am-7pm
+* Speaker   : [Samuel Campos](https://pixels.camp/samuelcampos)
 * Length    : 60 minutes
 * Language  : English
 
