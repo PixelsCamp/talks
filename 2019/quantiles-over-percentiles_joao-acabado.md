@@ -24,6 +24,7 @@ Links
 
 * Company: Sky Technology Centre - Portugal
 * GitHub: https://github.com/jracabado
+* LinkedIn: https://www.linkedin.com/in/jracabado
 
 Extra Information
 -----------------
