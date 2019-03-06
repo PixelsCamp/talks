@@ -1,11 +1,9 @@
-
 Reactive React - The Observable Way
 =========================
 
-* Speaker   : **João Pinho**
-* Available : **All days, 10:30am-5:30pm**
-* Length    : **30 minutes**
-* Language  : **English**
+* Speaker   : [João Pinho](https://pixels.camp/jpinho)
+* Length    : 30 minutes
+* Language  : English
 
 Description
 -----------
@@ -23,6 +21,10 @@ This talk is about explaining this approach, it's architecture, how we tackled t
 Speaker Bio
 -----------
 
+**João Pinho**
+
+![João Pinho](https://avatars3.githubusercontent.com/u/4655079?v=4)
+
 João is a Software Engineer with 10+ years of experience working on the field. He has always worked very closely with clients, doing analysis and requirements elicitation, and over time he has gained an inept skill to solve business needs using software.
 
 Since the beginning of his career João has specialised mainly on server side solutions, but his curiosity and eagerness to learn, quickly pushed him to explore all the angles of an application. This has enabled him to be as proficient on the frontend, as he is on the backend. He is also experienced on DevOps work using technologies such as Kubernetes, Docker, Shell Script and Jenkins Pipelines.
@@ -31,10 +33,13 @@ He holds a MSc in Computer Science Engineering with a Major in Embedded Systems 
 
 More informally, by _he_ I mean _me_, and I'm also a husband, dad of a 2yr old babygirl, a pet owner of 2 dogs & a cat, and a Blue Belt Athlete/Competitor for Gracie Barra, a Brazilian Jiu Jitsu team.
 
-
 Links
 -----
 
 * Blog: http://pinho.icodebox.net
 * Company: https://www.equalexperts.com
 * GitHub: https://github.com/jpinho
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
