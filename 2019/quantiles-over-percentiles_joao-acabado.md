@@ -15,7 +15,9 @@ Let's brush up your statistics, Quantiles and Percentiles helps us define perfor
 Speaker Bio
 -----------
 
-Resilience Engineering Manager @ Sky Portugal
+![](https://avatars2.githubusercontent.com/u/502185?s=400&u=982d5ef7e7535cbc5aac231d0c030cebbdc3c26d&v=4)
+
+Reliability Manager @ Sky Portugal
 
 Always looking for the easiest hard problem that can be solved. Have been looking to bridge the delivery of software solutions with their operation in the past couple years.  
 
