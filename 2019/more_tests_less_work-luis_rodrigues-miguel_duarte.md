@@ -1,8 +1,7 @@
 More Tests, Less Work
 =====================
 
-* Speaker   : Miguel Duarte, Luís Rodrigues
-* Available : any day
+* Speaker   : [Miguel Duarte](https://pixels.camp/), [Luís Rodrigues](https://pixels.camp/goblindegook)
 * Length    : 45 minutes
 * Language  : English
 
@@ -16,6 +15,15 @@ and will help you think less about expected results and more about general behav
 
 Speaker Bio
 -----------
+
+**Miguel Duarte**
+
+![Miguel Duarte](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/miguel_duarte.jpg)
+
+**Luís Rodrigues**
+
+![Luís Rodrigues](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/luis_rodrigues_2.jpg)
+
 
 Miguel Duarte and Luís Rodrigues are software engineers at Equal Experts Portugal.
 
@@ -33,3 +41,7 @@ Extra Information
 -----------------
 
 Talk slides: https://github.com/goblindegook/talks/blob/master/property-based-testing.md
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
