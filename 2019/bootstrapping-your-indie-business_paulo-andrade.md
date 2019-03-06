@@ -1,8 +1,7 @@
 Bootstrapping your indie business
 =================================
 
-* Speaker   : Paulo Andrade
-* Available : any time
+* Speaker   : [Paulo Andrade](https://pixels.camp/pfandrade)
 * Length    : 60 minutes
 * Language  : English
 
@@ -23,6 +22,10 @@ Disclaimer: This is not a tech talk. It's about not making some of the mistakes 
 Speaker Bio
 -----------
 
+**Paulo Andrade**
+
+![Paulo Andrade](https://avatars0.githubusercontent.com/u/867472?v=4)
+
 I'm Paulo. A software developer based in Lisbon, Portugal and I'm currently building [Secrets](https://outercorner.com/secrets/), a password manager for Mac and iOS.
 
 Previously, I've worked for [Apple](https://www.apple.com), [SAPO](https://www.sapo.pt), [IST](https://tecnico.ulisboa.pt/en/) and founded [Enough Pepper](https://enoughpepper.com) --- the company behind [Survs](https://survs.com).
@@ -33,6 +36,8 @@ Links
 * Blog: https://pfandrade.me
 * Company: https://outercorner.com
 * GitHub: https://github.com/pfandrade
-* Twitter: [https://twitter.com/pfandrade_](https://twitter.com/pfandrade_)
+* Twitter: [https://twitter.com/pfandrade\_](https://twitter.com/pfandrade_)
 
+Click [here][1] to see the full calendar and pick your favorite talks
 
+[1]: https://pixels.camp/schedule/
