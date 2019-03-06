@@ -1,8 +1,7 @@
 you. and the morals of technology
 =================================
 
-* Speaker   : Fernando Mendes
-* Available : Second and third day
+* Speaker   : [Fernando Mendes](https://pixels.camp/justmendes)
 * Length    : 60 minutes
 * Language  : English
 
@@ -16,24 +15,6 @@ world. We have the ability to influence the lives of hundreds, thousands or
 millions of people. For the first time in history, there is a community capable
 of building something with little to no resources. How can we, as a community,
 use this super-power to create a greater good?
-
-Speaker Bio
------------
-
-Mendes compiles coffee into code at thoughtbot. He has a background in
-Distributed Systems and Cryptography, having won multiple national awards for
-academic excellence. He also does a lot of volunteering, being the founder of
-\#include \<braga\> and the author of Beware of the Software screencast.
-
-Links
------
-
-* Blog: [blog.mendes.codes](http://blog.mendes.codes)
-* Company: [thoughtbot](https://thoughtbot.com)
-* GitHub: [justmendes](https://github.com/justmendes)
-
-Extra Information
------------------
 
 This talk is more of a philosophical talk rather than a technical one. I want to
 bring this discussion to the development community since it is strongly built on
@@ -57,3 +38,26 @@ explain how I felt disconnected with the lack of impact of the so called global
 non-profits and turned my focus into the local community through open source. I
 really believe this is a healthy discussion for the developers to have and by
 itself we can bring a different take on the usual conference talk points.
+
+Speaker Bio
+-----------
+
+**Fernando Mendes**
+
+![Fernando Mendes](https://avatars0.githubusercontent.com/u/4325027?v=4)
+
+Mendes compiles coffee into code at thoughtbot. He has a background in
+Distributed Systems and Cryptography, having won multiple national awards for
+academic excellence. He also does a lot of volunteering, being the founder of
+\#include \<braga\> and the author of Beware of the Software screencast.
+
+Links
+-----
+
+* Blog: [blog.mendes.codes](http://blog.mendes.codes)
+* Company: [thoughtbot](https://thoughtbot.com)
+* GitHub: [justmendes](https://github.com/justmendes)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
