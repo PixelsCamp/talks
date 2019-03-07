@@ -10,7 +10,7 @@ Description
 
 Writing code that runs inside the Internet on [Cloudflare Workers](https://www.cloudflare.com/products/cloudflare-workers/).
 
-I'll first show what Cloudflare Workers as all about and then I'll write and deploy live a working application written in JavaScript. This application will be deployed in seconds to 166 locations worldwide and available for everyone to try.
+I'll first show what Cloudflare Workers are all about and then I'll write and deploy live a working application written in JavaScript. This application will be deployed in seconds to 166 locations worldwide and available for everyone to try.
 
 Speaker Bio
 -----------
