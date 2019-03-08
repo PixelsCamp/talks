@@ -2,6 +2,7 @@ OWASP Juice Shop - First you 😂😂 then you 😢
 =============================================
 
 * Speaker : [Bjoern Kimminich](https://pixels.camp/bkimminich)
+* Available: Thursday 3pm or later, Friday all day
 * Length : 60 min (incl. demo and Q&A)
 * Language : English
 
