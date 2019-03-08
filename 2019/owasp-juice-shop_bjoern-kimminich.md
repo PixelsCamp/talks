@@ -1,5 +1,5 @@
-OWASP Juice Shop - First you 😂😂 then you 😢
-=============================================
+OWASP Juice Shop - First you :-D:-D then you :,-(
+=================================================
 
 * Speaker : [Bjoern Kimminich](https://pixels.camp/bkimminich)
 * Available: Thursday 3pm or later, Friday all day
