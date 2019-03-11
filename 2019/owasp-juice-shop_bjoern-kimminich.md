@@ -2,7 +2,6 @@ OWASP Juice Shop - First you :-D:-D then you :,-(
 =================================================
 
 * Speaker : [Bjoern Kimminich](https://pixels.camp/bkimminich)
-* Available: Thursday 3pm or later, Friday all day
 * Length : 60 min (incl. demo and Q&A)
 * Language : English
 
@@ -29,13 +28,7 @@ Speaker Bio
 
 ![Speaker Image](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/introduction/img/avatar.png)
 
-Björn Kimminich is responsible for global IT architecture and
-application security at [Kuehne + Nagel](https://kuehne-nagel.com). On
-the side, he gives IT security lectures at the non-profit private
-university [Nordakademie](https://www.nordakademie.de/). Björn also is
-the project leader of the [OWASP Juice Shop](http://owasp-juice.shop)
-and a board member for the
-[German OWASP chapter](https://www.owasp.org/index.php/Germany).
+Björn Kimminich is responsible for global IT architecture and application security at [Kuehne + Nagel](https://kuehne-nagel.com). On the side, he gives IT security lectures at the non-profit private university [Nordakademie](https://www.nordakademie.de/). Björn also is the project leader of the [OWASP Juice Shop](http://owasp-juice.shop) and a board member for the [German OWASP chapter](https://www.owasp.org/index.php/Germany).
 
 Links
 -----
