@@ -1,7 +1,7 @@
 Raising a Unicorn
 =========================
 
-* Speaker   : Raoul Felix
+* Speaker   : [Raoul Felix](https://www.linkedin.com/in/raoulfelix/)
 * Length    : 60 minutes
 * Language  : English
 
@@ -33,7 +33,8 @@ Links
 Extra Information
 -----------------
 
-* Email: raoul talkdesk.com
+* Email: raoul at talkdesk.com
+* Linkedin: https://www.linkedin.com/in/raoulfelix/
 * Twitter: [@rfelix\_com](https://twitter.com/rfelix_com) (open DMs)
 
 Click [here][1] to see the full calendar and pick your favorite talks
