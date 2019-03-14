@@ -1,8 +1,7 @@
-Raising a 🦄
+Raising a Unicorn
 =========================
 
 * Speaker   : Raoul Felix
-* Available : 
 * Length    : 60 minutes
 * Language  : English
 
@@ -17,15 +16,13 @@ Portugal’s unicorns.
 Speaker Bio
 -----------
 
-![Speaker Image](https://avatars0.githubusercontent.com/u/9947?v=3&s=466)
+![Speaker Image](https://avatars0.githubusercontent.com/u/9947?s=466)
 
 Raoul was Talkdesk's first hire and currently serves as the Talkdesk’s CTO.
-He's really passionate about software as a craft, on how to solve real problems with
-elegant code, using the right technologies that enable us be more productive
-while delivering more value.
-Raoul holds a M.S. in
-Distributed Systems and Software Engineering from the Instituto Superior
-Técnico of the University of Lisbon.'
+
+He's really passionate about software as a craft, on how to solve real problems with elegant code, using the right technologies that enable us be more productive while delivering more value.
+
+Raoul holds a M.S. in Distributed Systems and Software Engineering from the Instituto Superior Técnico of the University of Lisbon.
 
 Links
 -----
@@ -37,7 +34,7 @@ Extra Information
 -----------------
 
 * Email: raoul talkdesk.com
-* Twitter: [@rfelix_com](https://twitter.com/rfelix_com) (open DMs)
+* Twitter: [@rfelix\_com](https://twitter.com/rfelix_com) (open DMs)
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
