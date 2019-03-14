@@ -12,6 +12,14 @@ Showcase of interactive experiments in Mixed Reality using Unity 3D.
 
 Assisted Performer, Rubber Arm Experiment, Vertigo Lava Abism, Caderneta Panda, Código Panda, amongst others.
 
+This workshop will be presentation by [Artica](http://artica.cc).
+
+"At Artica we see computing as a tool at the service of creativity, aesthetics and the search for the unique. We fuse art with computer science to explore un
+discovered possibilities in a range of industries.
+
+Regardless of the sector we are working in, Artica believes that the visitor experience is enhanced through the clever use of technology, strong aesthetics a
+nd visual balance."
+
 Speaker Bio
 -----------
 
