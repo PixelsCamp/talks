@@ -23,14 +23,14 @@ Speaker Bio
 
 ![Vitor Caneco](https://avatars0.githubusercontent.com/u/502041?v=4)
 
-> _Web Contortionist. Short for Developer being Designer and vice-versa @ Kwanko_
+> _Web Contortionist. Short for Developer being Designer and vice-versa @ MEDICARE_
 
-I'm currently the IT Project Manager / Web Developer at Kwanko – where I build tailored platforms for some of the top Portuguese brands and advertising agencies so they can reach the best performance in the market.
+I'm currently the Full-Stack Developer at MEDICARE, where I build web applications and tailored lead generation platforms.
 
 Links
 -----
 
-* Company : [https://www.kwanko.com](https://www.kwanko.com)
+* Company : [https://www.medicare.pt](https://www.medicare.pt)
 * Github : [https://github.com/caneco](https://github.com/caneco)
 * LinkedIn : [https://www.linkedin.com/in/caneco](https://www.linkedin.com/in/caneco)
 * Twitter : [@caneco](https://twitter.com/caneco)
