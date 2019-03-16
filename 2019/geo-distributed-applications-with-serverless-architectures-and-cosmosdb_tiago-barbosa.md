@@ -35,3 +35,7 @@ Extra Information
 -----------------
 
 Founder of [Azure Wednesdays Portugal Meetup](https://www.meetup.com/Azure-Wednesdays-Portugal) where I am regularly a Speaker. I am also a regular speaker in Microsoft worldwide events such as Microsoft Ignite ([Real World architecture considerations for Azure: how to succeed and what to avoid](https://myignite.techcommunity.microsoft.com/sessions/65928)).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
