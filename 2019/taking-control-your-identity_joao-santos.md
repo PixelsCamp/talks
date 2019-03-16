@@ -1,4 +1,4 @@
-The Future of Ethereum UX
+Taking control of your Identity
 =========================
 
 * Speaker   : [João Santos](https://pixels.camp/joaosantos15)
@@ -8,12 +8,9 @@ The Future of Ethereum UX
 Description
 -----------
 
-The Ethereum user experience is still far from the one user's have gotten used to with the web 2.0. Browser wallets in the form of browser extensions have become the de facto way users interact with dapps. This mechanism demands too much from the user, as users are forced to 1) have Ether in their accounts and 2) have to manually sign and approve transactions. 
+One has very little control over the information about one’s Identity. The state owns your passport, id, driver’s licence. Hospitals and doctors own your medical records. Universities own your academic credentials and have are contacted every time a credential needs verification. The common thread on these examples is that they all rely on a centralized, trusted 3rd party. If said party ceases to exist, so does a portion of your identity.
 
-In this talk, we will be presenting two tools that when combined, provide users with the same user experience they have interacting with traditional web apps. The first is Ethereum meta-transactions, which enables dapp developers to pay for the gas costs of their users, thus, removing the need for users to hold any Ether in their wallets. The second is the Identity Manager, an in-browser application (not extension) which provides a secure decentralized way to manage decentralized identities (DIDs) and keys inside the browser.
-
-This will be a somewhat technical talk, with a live demo, where we will explore the mechanisms behind Ethereum meta-transactions and decentralized identity.
-It is targeted at dapp developers, with a stronger focus on backend architecture.
+This talk will focus on the community driven push for Self-Sovereign Identity systems. We will discover how communities such as Rebooting the Web of Trust, Blockcerts and W3C are working on the standards that will shape the future of identity. Standards such as  Decentralized Identifiers and Verifiable Credentials coupled with decentralized technologies, such as blockchain and IPFS, will empower individuals to take control of their identity and reduce dependency on centralized parties.
 
 Speaker Bio
 -----------
