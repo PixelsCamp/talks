@@ -2,7 +2,6 @@ Geo-distributed applications with Serverless Architectures and CosmosDB
 =========================
 
 * Speaker   : [Tiago Barbosa](https://pixels.camp/t1agob)
-* Available : Second day, 9am-7pm
 * Length    : 60 minutes
 * Language  : English or Portuguese
 
