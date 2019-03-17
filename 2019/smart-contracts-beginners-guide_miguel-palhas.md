@@ -19,7 +19,13 @@ Speaker Bio
 
 ![Miguel Palhas](https://avatars2.githubusercontent.com/u/283819?v=4)
 
-With years of Web Development experience and a background in High-Performance Computing, he is constantly working towards making the web better and faster for the user. He is passionate about the blockchain and other cutting-edge technologies, and the possibilities they open for mankind's future. He kept his record IQ a secret. Not a secret anymore.
+Blockchain Connoisseur @ [UTRUST](https://utrust.com).
+Professional over-engineer @ [Subvisual](https://subvisual.co).
+
+I Spend my days coding, drinking beer & coffee, and playing competitive chess.
+Sometimes all at once.
+
+Currently working, researching, writing and speaking about blockchain technologies.
 
 Links
 -----
