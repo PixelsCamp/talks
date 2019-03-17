@@ -8,7 +8,9 @@ Smart Contracts: A Beginner’s Guide
 Description
 -----------
 
-TBD
+Let's talk blockchain! But not the whole money thing. Smart Contracts are the real juice.
+
+I will walk you through what a Smart Contract is and why you should care. We will discuss how they differ from traditional computing paradigms, how to approach coding one, and how dangerous they can be.
 
 Speaker Bio
 -----------
