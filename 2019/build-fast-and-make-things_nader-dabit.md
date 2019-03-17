@@ -21,7 +21,7 @@ Speaker Bio
 
 **Nader Dabit**
 
-![Speaker Image](https://avatars2.githubusercontent.com/u/1857282?v=4)
+![Speaker Image](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/nader_dabit.jpg)
 
 I'm a Developer Advocate at AWS Mobile specializing in cross-platform application development & mobile cloud computing.
 
