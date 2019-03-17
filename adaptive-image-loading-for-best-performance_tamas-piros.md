@@ -24,17 +24,15 @@ Tamas is a Developer Evangelist and experienced Technical Trainer. He has delive
 Links
 -----
 
-* Blog: https://fullstack-developer.academy
+* Blog: https://blog.fullstacktraining.com
 * Company: [Full Stack Training Ltd](https://www.fullstacktraining.com/)
 * GitHub: https://github.com/tpiros
 
 Extra Information
 -----------------
 
-During the talk we'll discuss:
+During the workshop we'll discuss:
 - Web Performance in general as well as its relation to media used on websites
 - Service Workers
 - Network Information API
 - The Save-Data header
-
-If required this talk can be "converted" into a workshop proposal, should there be a need for more workshops.
