@@ -8,7 +8,7 @@ Blockchain and cryptocurrency applied to ecommerce
 Description
 -----------
 
-TBD
+The World Economic Forum predicts that more than 10% of the Global GDP will be stored on the blockchain within the next 10 years. Digital currencies such as Bitcoin and Ethereum are driving this social and economic transition forward, but what exactly are cryptocurrencies, how will they impact the future of Global trade and how does UTRUST propose to solve the issues preventing the mass adoption of blockchain based payments?
 
 Speaker Bio
 -----------
