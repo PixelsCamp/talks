@@ -19,7 +19,7 @@ Speaker Bio
 
 **Eduardo Brandão**
 
-![Eduardo Brandão](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/eduardo_camara.jpg)
+![Eduardo Brandão](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/eduardo_brandao.jpg)
 
 Infrastructure & IoT Architect at Sonae.
 
