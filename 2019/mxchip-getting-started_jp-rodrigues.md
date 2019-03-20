@@ -40,7 +40,7 @@ Focus on IoT SDKs, IoT Edge, Azure Sphere and authentication and security issues
 Links
 -----
 
-* Company: https://www.miniclip.com/
+* Company: https://www.microsoft.com/
 * MXChip: https://microsoft.github.io/azure-iot-developer-kit/
 * Linkedin: https://www.linkedin.com/in/joaopaulorodrigues/
 * Linkedin: https://www.linkedin.com/in/linkandre/
