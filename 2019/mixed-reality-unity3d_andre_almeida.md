@@ -23,25 +23,15 @@ nd visual balance."
 Speaker Bio
 -----------
 
-**André Almeida**
+**Artica**
 
-![André Almeida](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/andre_almeida.jpg)
+![Artica](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/team_artica.jpg)
 
-André Almeida has an extensive background in Interaction Design, preferably with physical computing involved. Any unexplored realm, André is the guy that hun
-ts it. Tarquinio Mota beyond being a badass Software and Electronics Developer is a maker that loves everything related to digital fabrication, robotics, dom
-otics, and geeky gadgets. Ricardo Imperial is our Junior Developer, the one who takes care of most of Artica's solution based in Unity3D and Bonsai.
+**André Almeida** has an extensive background in Interaction Design, preferably with physical computing involved. Any unexplored realm, André is the guy that hunts it.
 
-**Tarquinio Mota**
+**Tarquinio Mota** beyond being a badass Software and Electronics Developer is a maker that loves everything related to digital fabrication, robotics, domotics, and geeky gadgets. 
 
-![Tarquinio Mota](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/tarquinio_mota.jpg)
-
-Developing hardware and software solutions for interactive instalations. Development of Visualino, a visual programming tool for Arduino.
-
-**Ricardo Imperial**
-
-![Tarquino Mota](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_imperial.jpg)
-
-Seeking to learn more about computers and new technology. I want to deepen my knowledge and extends them to the fullest. C#, .Net, Unity3D and Bonsai are the technology that i'm more comfortable with.
+**Ricardo Imperial** is our Junior Developer, the one who takes care of most of Artica's solution based in Unity3D and Bonsai.
 
 Links
 -----
