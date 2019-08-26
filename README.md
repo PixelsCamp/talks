@@ -1,6 +1,6 @@
 ![Call For Talks](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/call_for_talks.jpg)
 
-# How To Propose a Talk for Pixels Camp v3.0
+# How To Propose a Talk for Pixels Camp v4.0 (2020)
 
 Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHub pull requests. Please follow these steps:
 
@@ -24,8 +24,8 @@ Use your talk's title as the PRs title and use the **contents** of your proposal
 
 ## Rules
 
-* The deadline for submitting talks is **January 27st, 2019**. After that we won't accept any more proposals;
-* Speakers must also be participants, you **must** also apply for Pixels Camp here: https://pixels.camp;
+* The deadline for submitting self-proposed talks is **January 12st, 2020**. After that we won't accept any more self-proposals;
+* Speakers must also be general attendees, you **must** also apply for Pixels Camp here, **before** submitting your proposal: https://pixels.camp;
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
 * Talks should be around 45-50 minutes (plus setup time), with a minimum of 30 minutes. Only workshops may be longer;
