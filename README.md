@@ -33,7 +33,7 @@ Use your talk's title as the PRs title and use the **contents** of your proposal
 
 ## Contact Information
 
-Make sure we have a way to contact you privately if needed. Set up an e-mail address in your GitHub profile or include it with your proposal. Also make sure you join us at [Slack](https://slack.pixels.camp).
+Make sure we have a way to contact you privately if needed. Set up an e-mail address in your GitHub profile or include it with your proposal. Also make sure you join us at [Slack](https://pixelscamp.slack.com). Just ask for an invite if you're not there yet.
 
 ## What Makes a Good Proposal?
 
@@ -46,7 +46,7 @@ There aren't any hard rules besides making it honest and as captivating as you c
 
 ## I Got Accepted!
 
-Congratulations! You're an MVP (_Most Valuable Pixel... Camper_). The Pixels Camp organizers will be contacting you about some logistics details soon. Meanwhile, you can contact us over [Slack](https://slack.pixels.camp) (privately or on `#speakers` channel).
+Congratulations! You're an MVP (_Most Valuable Pixel... Camper_). The Pixels Camp organizers will be contacting you about some logistics details soon. Meanwhile, you can contact us over [Slack](https://pixelscamp.slack.com) (privately or on `#speakers` channel).
 
 ## I Got Rejected, Now What?
 
