@@ -12,6 +12,8 @@ Description
 
 Quality is always important, but sometimes we don't know how to start or how to move to the next level. In an agnostic approach, I will share some practices we developed at Talkdesk's Mobile Team in order to effectively ensure the quality of the products we make, enabling us to improve the delivery speed.
 
+The talk will cover what we as a team consider important steps in the software development, since the backlog refinement, passing by technical discussions, the development itself and verification phases. We will discuss how to split work in small units convering all the scenarios needed to deliver a feature. Also, some important guidelines to follow when writing tests in a team and how to better cover the test pyramid with different types of automated tests.
+
 Speaker Bio
 -----------
 
