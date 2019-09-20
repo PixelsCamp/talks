@@ -1,5 +1,5 @@
 
-_Testing Practices for Mobile_ 
+Testing Practices for Mobile 
 =================================================
 
 * Speaker   : **Douglas Ritter** 
@@ -29,5 +29,14 @@ Links
 
 Extra Information
 -----------------
+
+The talk will cover topics like:
+- How define scenarios with BDD
+- Naming tests
+- Reduce uncertainty with tech approaches
+- Dependency injection in tests
+- How to use test doubles
+- Tests structure with "Arrange, Act, Assert" approach
+- Different kinds of tests to better cover the test pyramid
 
 I've already published an article on this topic: https://engineering.talkdesk.com/mobile-testing-practices-811e46a4b893
