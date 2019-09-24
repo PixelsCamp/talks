@@ -1,6 +1,6 @@
 
 
-Confessions of a developer: how to defeat imposter syndrome?
+How to defeat imposter syndrome: confessions of a developer
 =================================================
 
 * Speaker   : **Matteo Bruno**
