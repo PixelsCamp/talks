@@ -9,9 +9,9 @@ Talk proposals for [Pixels Camp](https://pixels.camp) must be submitted as GitHu
 3. **Copy** the `talk-title_presenter-name.md` template into a **new file**;
 4. Rename the **new file** using your talk's title and your name (eg. `introduction-to-foo_john-doe.md`);
 5. Edit the **new file** and fill in each section (**do not delete the template file**);
-6. When you're done, submit a **Pull Request**.
+6. When you're done, submit a **Pull Request**, using your **talk's title** as the PRs title and the **contents** of your `.md` file as its description.
 
-Use your talk's title as the PRs title and use the **contents** of your proposal as its description. This will help with the revision process as well as allow the public to comment/vote on proposals.
+Our backoffice uses the PR title and description during the review process (the `.md` file is used later on to build the schedule). This also allows the public to comment/vote on proposals.
 
 **NOTE:** If you're proposing more than one talk, please open **separate** Pull Requests for each one.
 
