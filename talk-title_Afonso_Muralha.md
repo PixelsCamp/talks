@@ -9,7 +9,7 @@ Introduction to Hardware Development
 Description
 -----------
 
-Take a break from hacking and coding and come discover the secrets of electronics hardware development. In this talk we will be covering some aspects of hardware design and development like circuit design and prototyping, PCB design and manufacture, soldering, embedded programming and *punchline*.
+Take a break from hacking and coding and come discover the wonders of electronics hardware development. In this talk we will be covering some aspects of hardware design and development like circuit design and prototyping, PCB design and manufacture, soldering, embedded programming. We will dive into the technical details for all that juicy information.
 
 We will also showcase some real life projects and examples and by the end you will be ready to dive the word of hardware development and design!
 
