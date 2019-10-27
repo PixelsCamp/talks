@@ -39,7 +39,8 @@ Links
 Extra Information
 -----------------
 
-I already presented this talk to many meetups in Italy and Spain, such as https://www.meetup.com/it-IT/GDG-Milano/events/261594679/
+I already presented this talk to many meetups in Italy and Spain, such as https://www.meetup.com/it-IT/GDG-Milano/events/261594679/ and https://www.meetup.com/it-IT/Meetup-de-InnoIT-Consulting-en-Barcelona/events/265191557/
+Also, my talk was chosen for the opening keynote of GDG DevFest Tyumen 2019 - https://devfest.gdgtmn.ru/schedule/
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
