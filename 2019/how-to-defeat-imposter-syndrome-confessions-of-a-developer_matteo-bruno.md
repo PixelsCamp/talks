@@ -26,7 +26,7 @@ I’ve started programming @ 12yo, and since then I aimed to develop software, f
 
 After 4 years in Milan, working for Viacom as Senior Software Engineer, taking care of their international sites and APIs, on January 2019 I decided to move to Barcelona and face a new challenge, working for Europcar Mobility Group on the Connected Cars Platform. 
 
-Currently working as Senior Software Engineer & Golang co-captain @ Europcar Mobility Group (BCN)
+Currently working as Senior Software Engineer & Golang chapter co-captain @ Europcar Mobility Group (BCN)
 
 Links
 -----
