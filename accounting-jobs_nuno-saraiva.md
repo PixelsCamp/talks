@@ -1,4 +1,4 @@
-Accountant jobs will disappear except for me
+Company accounts stored in peer-to-peer/blockchain networks.
 =================================================
 
 * Speaker   : Nuno Saraiva
@@ -9,9 +9,10 @@ Accountant jobs will disappear except for me
 Description
 -----------
 
-The presentation will consist of showing the thinking about the future of accounting as it has been widely referred to as a profession that will disappear with the development of AI.
-The presentation will clearly have two sets: a first part explaining why integrated report is the key; who are the users of the business reports and what should be the characteristics of the financial report preparers.;
-A second part deals with the main theme triple-entry accounting and its analogy to blockchain technology and the existence of cryptocurrencies.
+Artificial intelligence will kill accounting. Blockchain will make it reborn.
+
+In this talk I will show how AI and machine learning will replace 90% of the current work of accountants, very soon.
+In addition I will talk about my vision of the future of corporate financial reporting and accounting records that will be stored in peer-to-peer networks using blockchain and ensuring error-free accounting.
 
 Speaker Bio
 -----------
