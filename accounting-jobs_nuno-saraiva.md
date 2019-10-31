@@ -10,7 +10,7 @@ Description
 -----------
 
 The presentation will consist of showing the thinking about the future of accounting as it has been widely referred to as a profession that will disappear with the development of AI.
-The presentation will clearly have two sets: a first part explaining who are the users of the business reports and what should be the characteristics of the financial report preparers;
+The presentation will clearly have two sets: a first part explaining why integrated report is the key; who are the users of the business reports and what should be the characteristics of the financial report preparers.;
 A second part deals with the main theme triple-entry accounting and its analogy to blockchain technology and the existence of cryptocurrencies.
 
 Speaker Bio
