@@ -3,7 +3,7 @@ Accounting data in P2P-blockchain
 
 * Speaker   : Nuno Saraiva
 * Available : All days
-* Length    : 30 minutes
+* Length    : 30 to 45 minutes
 * Language  : Portuguese (slides will be in english)
 
 Description
