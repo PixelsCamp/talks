@@ -1,4 +1,4 @@
-Company accounts stored in peer-to-peer/blockchain networks.
+Accounting data in P2P-blockchain
 =================================================
 
 * Speaker   : Nuno Saraiva
