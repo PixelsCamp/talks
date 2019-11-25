@@ -1,6 +1,6 @@
 
-A Tour of ActivityPub - getting to know the Modern Fediverse
-=================================================
+A Tour of ActivityPub
+=====================
 
 * Speaker   : Diogo Cordeiro
 * Available : Any
