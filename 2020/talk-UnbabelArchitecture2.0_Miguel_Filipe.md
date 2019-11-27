@@ -4,7 +4,7 @@ Unbabel's Architeture v2.0
 
 * Speaker   : Miguel Mascarenhas Filipe
 * Available : any of the days
-* Length    : 60
+* Length    : 50
 * Language  : English
 
 Description
@@ -17,7 +17,7 @@ In this talk I'll tell a story on how we leapfrogged our old v1.0 architecture a
 Speaker Bio
 -----------
 
-I’m a Software Engineer with 15 years of experience including start-ups and leading software corporations in three countries. I dive deep and take an end-to-end perspective. I'm always looking for hard problems to crack and high quality solutions. I currently work on the new architecture of Unbabel's translation services. Previously I worked on diverse problems such as backends for Citymapper's mobile apps, large scale distributed systems for Microsoft and Amazon Web Services where I launched DynamoDB, the world leading NoSQL Cloud Database, which led to co-authoring 13 US patents. I’m both a Maker and Manager. Problems are waiting to be solved.
+I’m a Software Engineer with 15 years of experience including start-ups and leading software corporations in three countries. I dive deep and take an end-to-end perspective. I'm always looking for hard problems to crack and high quality solutions. I currently work on the new architecture of Unbabel's translation services. Previously I worked on diverse problems such as backends for Citymapper's mobile apps, large scale distributed systems for Microsoft and Amazon Web Services where I launched DynamoDB, the world leading NoSQL Cloud Database, which led to co-authoring 13 US patents. Problems are waiting to be solved. =)
 
 Links
 -----
@@ -25,9 +25,10 @@ Links
 * Blog: https://twitter.com/m3thos
 * Company: https://unbabel.com
 * GitHub: https://github.com/msf
-* Photo: MISSING
+* Photo: https://s3.amazonaws.com/keybase_processed_uploads/b3b92f1a8ef25629ad5f18163278c605_360_360_square_360.png
 
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+I wonce maintained a linux kernel rootit...
+
