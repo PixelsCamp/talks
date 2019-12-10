@@ -9,7 +9,7 @@ Javascript Will Kill You
 Description
 -----------
 
-A simple syntax, a large ecosystem, and a great community make Javascript one of the top programming languages of 2020. But don't be fulled by its ease of use! This is a tricky language and it has some nuances that if you are not careful, it can put you in serious trouble. In this talk, I will identify and explain some of the pitfalls of this amazing language and give you some precious knowledge that one day might probably save your life.
+A simple syntax, a large ecosystem, and a great community make Javascript one of the top programming languages of 2020. But don't be fooled by its ease of use! This is a tricky language and it has some nuances that if you are not careful, it can put you in serious trouble. In this talk, I will identify and explain some of the pitfalls of this amazing language and give you some precious knowledge that one day might probably save your life.
 
 Speaker Bio
 -----------
