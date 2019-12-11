@@ -2,15 +2,15 @@ Create a logo design for your project that doesn't suck
 =======================================================
 
 * Speaker   : [Caneco](https://pixels.camp/caneco)
-* Available : Second day (right after lunch?)
+* Available : Second day
 * Length    : 30 minutes
 * Language  : English
 
 Description
 -----------
 
-> What if I told you that you don't need to have a graduation on design to actually make yourself a pretty logo for you project?
-> Just the right combination of a font, an icon, colours, and a drop of classy gradients and your  project will stand-out between the others.
+What if I told you that you don't need to have a graduation on design to actually make yourself a pretty logo for you project?
+Just the right combination of a font, an icon, colours, and a drop of classy gradients and your  project will stand-out between the others.
 
 Creating a logo for you project can be hard, specially for someone that it's that good in design. So the goal of this talk is to show that's not exactly rocket science.
 
