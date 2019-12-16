@@ -11,7 +11,7 @@ From euros to zero: using Probabilistic Data Structures to reduce costs
 
 * Speaker   : João Neves and Paulo Serrão
 * Available : first day, second day, third day
-* Length    : {{ **Talk Length** (in 30 minute increments — only workshops can be longer than 60 minutes) }}
+* Length    : 30 minutes
 * Language  : English
 
 Description
@@ -33,7 +33,7 @@ Links
 -----
 
 * Company: https://new.siemens.com/global/en/company/stories/home/cybersecurity.html
-* GitHub: https://github.com/jonsnowseven
+* GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
 * Photo: {{ https://example.com/me.jpg }} — a picture of yourself for the speakers page }}
 
 Extra Information
