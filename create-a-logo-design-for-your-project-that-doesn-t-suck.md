@@ -1,7 +1,7 @@
 Create a logo design for your project that doesn't suck
 =======================================================
 
-* Speaker   : [Caneco](https://pixels.camp/caneco)
+* Speaker   : Caneco
 * Available : Second day
 * Length    : 30 minutes
 * Language  : English
