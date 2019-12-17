@@ -17,7 +17,7 @@ From euros to zero: using Probabilistic Data Structures to reduce costs
 Description
 -----------
 
-At Siemens CyberSecurity Center, we provide services to deal with threat hunting. One of these services include searching IOCs in the network traffic logs which compose our data lake.
+At Siemens CyberSecurity Center, we provide services to deal with Threat Hunting. One of these services include searching IOCs in the network traffic logs which compose our data lake.
 
 To implement this service, we leveraged AWS Athena, to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design proved to be
 quite expensive. In this talk, we will show how we leveraged the nature of the queries to design a cost effective specialized solution for IOC searching using Probabilistic Data Structures. 
@@ -34,14 +34,16 @@ Links
 
 * Company: https://new.siemens.com/global/en/company/stories/home/cybersecurity.html
 * GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
-* Photo: {{ https://example.com/me.jpg }} — a picture of yourself for the speakers page }}
+* Photo:
+  * ![Joao Neves](img/Joao%20Neves_short_wback.jpg "Joao Neves")
+  * !(Paulo Serrão)[]
 
 Extra Information
 -----------------
 
 Cloud business has been (and still is) growing up in the last few years. The Cloud model is very attractive with respect to price (pay as go), flexibility (e.g., spin up and destroy resources as you like) and versatile with a broad range of different services. Nevertheless, Cloud resources must be used wisely on the ground that its pricing model rewards you by good design and punishes you for a poor one.
 
-At Siemens Cybersecurity Center, we leverage Cloud to handle and analyze a huge volume of data to overcome the growth in cyber threats. The amount of ingested log data exceeds the 6 TB, and is, on average, scattered over 60k events per second. The data serves a myriad of security uses cases including automated threat detection.
+At Siemens Cybersecurity Center, we leverage Cloud to handle and analyze a huge volume of data to overcome the growth in cyber threats. The amount of ingested log data exceeds the 6 TB per day, and is, on average, scattered over 60k events per second. The data serves a myriad of security uses cases including automated threat detection.
 
 A common use case for automation is looking for Indicators of Compromise (IoC), which are pieces of data posted by Threat Intelligence feeds such as file hashes or registry keys. This information is actionable for security professionals since it may present signs of malicious activity in the systems and as a consequence, the professional can take the appropriate action.
 
