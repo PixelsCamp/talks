@@ -19,15 +19,14 @@ Description
 
 At Siemens CyberSecurity Center, we provide services to deal with Threat Hunting. One of these services include searching IOCs in the network traffic logs which compose our data lake.
 
-To implement this service, we leveraged AWS Athena, to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design proved to be
-quite expensive. In this talk, we will show how we leveraged the nature of the queries to design a cost effective specialized solution for IOC searching using Probabilistic Data Structures. 
+To implement this service, we leveraged AWS Athena, to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design proved to be quite expensive. In this talk, we will show how we leveraged the nature of the queries to design a cost effective specialized solution for IOC searching using Probabilistic Data Structures. 
 
 Speaker Bio
 -----------
 
 João works at Siemens Cyber Security Center as an ML Engineer since 2018, in Portugal. He has experience as Cloud Engineer and is certified as a Solutions Architect with AWS. Previously, he worked as a Data Engineer Consultant at Marionete and as a Software Engineer in railroad business at Siscog SA. João graduated from University of Lisbon with a Masters in Applied Mathematics. Outside of the Cloud, João enjoys everything related with football and with Benfica.
 
-{{ Paulo Serrão's description }}
+Paulo is Senior Security Engineer working at the Cyber Defence Center in Siemens since 2015. He combines his skills as a security analyst with his background as developer, aiming to come up with solutions to overcome the neverending growth in cyber threats. After graduating in Computer Science, he started working at the major portuguese telecom provider as a full stack software engineer for application monitoring and later on, learning new set of skills for cyber security. While taking a break from threat hunting, he enjoys FPV drone racing, photography, hiking/traveling or simply relaxing in front of a screen.
 
 Links
 -----
@@ -36,7 +35,7 @@ Links
 * GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
 * Photo:
   * ![Joao Neves](img/Joao%20Neves_short_wback.jpg "Joao Neves")
-  * ![Paulo Serrão](img/paulo_serrao.jpg)
+  * ![Paulo Serrão](img/paulo_serrao.jpg "Paulo Serrão")
 
 Extra Information
 -----------------
