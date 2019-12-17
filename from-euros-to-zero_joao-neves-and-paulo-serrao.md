@@ -36,7 +36,7 @@ Links
 * GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
 * Photo:
   * ![Joao Neves](img/Joao%20Neves_short_wback.jpg "Joao Neves")
-  * !(Paulo Serrão)[]
+  * ![Paulo Serrão](img/paulo_serrao.jpg)
 
 Extra Information
 -----------------
