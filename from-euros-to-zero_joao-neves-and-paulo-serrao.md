@@ -1,11 +1,3 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
-* When you submit your proposal, paste the contents of this file as the Pull Request's description.
-* Don't delete or rename this file, copy it.
-
-`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
 From euros to zero: using Probabilistic Data Structures to reduce costs
 =================================================
 
@@ -17,9 +9,9 @@ From euros to zero: using Probabilistic Data Structures to reduce costs
 Description
 -----------
 
-At Siemens CyberSecurity Center, we provide services to deal with Threat Hunting. One of these services include searching IOCs in the network traffic logs which compose our data lake.
+At Siemens CyberSecurity Center, we provide services to support Threat Hunting activities. One of these services searching our data lake for Indicators of Compromise.
 
-To implement this service, we leveraged AWS Athena, to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design proved to be quite expensive. In this talk, we will show how we leveraged the nature of the queries to design a cost effective specialized solution for IOC searching using Probabilistic Data Structures. 
+To implement this service in a quick and effortless way, we used AWS Athena to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design could be further optimized concerning costs. In this talk, we will show how we leveraged Probabilistic Data Structures to design a cost effective solution which is specialized in IOC searching. As an outcome, we reduced 24X our computation costs.
 
 Speaker Bio
 -----------
