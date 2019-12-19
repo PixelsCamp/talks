@@ -3,7 +3,7 @@ From euros to zero: using Probabilistic Data Structures to reduce costs
 
 * Speaker   : João Neves and Paulo Serrão
 * Available : first day, second day, third day
-* Length    : 30 minutes
+* Length    : (Talk Length, QA) = (45, 15) minutes
 * Language  : English
 
 Description
