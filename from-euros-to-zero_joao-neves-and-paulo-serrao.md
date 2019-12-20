@@ -9,9 +9,11 @@ From euros to zero: using Probabilistic Data Structures to reduce costs
 Description
 -----------
 
-At Siemens CyberSecurity Center, we provide services to support Threat Hunting activities. One of these services searching our data lake for Indicators of Compromise.
+At Siemens CyberSecurity Center, we provide services to support Threat Hunting activities. One of these services periodically searches our data lake for Indicators of Compromise.
 
-To implement this service in a quick and effortless way, we used AWS Athena to provide a queryable interface for our data lake. Although, due to the nature and pattern of the queries, this design could be further optimized concerning costs. In this talk, we will show how we leveraged Probabilistic Data Structures to design a cost effective solution which is specialized in IOC searching. As an outcome, we reduced 24X our computation costs.
+To implement this service in a quick and effortless way, we used AWS Athena to provide a queryable interface for our data lake.
+Although, due to the constant increase of the data stored, the nature, frequency and pattern of the queries, this design colided with the AWS pricing model leading to some concerning costs.
+In this talk, we will show how we leveraged Probabilistic Data Structures to optimize and design a cost effective solution which is specialized in IOC searching. As an outcome, we reduced 24X our computation costs.
 
 Speaker Bio
 -----------
