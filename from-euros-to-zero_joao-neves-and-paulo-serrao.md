@@ -20,7 +20,7 @@ Speaker Bio
 
 João works at Siemens Cyber Security Center as an ML Engineer since 2018, in Portugal. He has experience as Cloud Engineer and is certified as a Solutions Architect with AWS. Previously, he worked as a Data Engineer Consultant at Marionete and as a Software Engineer in railroad business at Siscog SA. João graduated from University of Lisbon with a Masters in Applied Mathematics. Outside of the Cloud, João enjoys everything related with football and with Benfica.
 
-Paulo is Senior Security Engineer working at the Cyber Defence Center in Siemens since 2015. He combines his skills as a security analyst with his background as developer, aiming to come up with solutions to overcome the neverending growth in cyber threats. After graduating in Computer Science, he started working at the major portuguese telecom provider as a full stack software engineer for application monitoring and later on, learning new set of skills for cyber security. While taking a break from threat hunting, he enjoys FPV drone racing, photography, hiking/traveling or simply relaxing in front of a screen.
+Paulo is Senior Security Engineer working at the Cyber Defence Center in Siemens since 2015. He combines his skills as a security analyst with his background as developer, aiming to come up with solutions to overcome the neverending growth in cyber threats. After graduating in Computer Science, he started working at the major portuguese telecom provider as a full stack software engineer for application monitoring and later on, learning new sets of skills for cyber security. While taking a break from bug/threat hunting, he enjoys FPV drone racing, photography, hiking/traveling or simply relaxing in front of a screen.
 
 Links
 -----
