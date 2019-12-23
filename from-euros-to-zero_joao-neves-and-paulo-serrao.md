@@ -28,8 +28,8 @@ Links
 * Company: https://new.siemens.com/global/en/company/stories/home/cybersecurity.html
 * GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
 * Photo:
-  * ![Joao Neves](img/Joao%20Neves_short_wback.jpg "Joao Neves")
-  * ![Paulo Serrão](img/paulo_serrao.jpg "Paulo Serrão")
+  * [João Neves](https://drive.google.com/open?id=1mo95okj1ynZBT7pM5K-ALgi8pzk_3ooy "Joao Neves")
+  * [Paulo Serrão](https://drive.google.com/open?id=1vcxOLpCTEKaR2wmTkmJYRuGmiFqS5ZaJ "Paulo Serrão")
 
 Extra Information
 -----------------
