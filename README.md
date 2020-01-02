@@ -24,7 +24,7 @@ Our backoffice uses the PR title and description during the review process (the 
 
 ## Rules
 
-* The deadline for submitting self-proposed talks is **January 12, 2020**;
+* The deadline for submitting self-proposed talks is **January 20, 2020**;
 * Speakers must also be general attendees, you **must** also apply for Pixels Camp here, **before** submitting your proposal: https://pixels.camp;
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
