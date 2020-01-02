@@ -29,7 +29,7 @@ Links
 
 * Blog: {{ https://prt.sc }}
 * GitHub: {{ https://github.com/sonntage }}
-* Photo: {{ https://prt.sc/wp-content/uploads/2020/01/vd-profile-picture.jpg }} — a picture of yourself for the speakers page }}
+* Photo: {{ https://prt.sc/wp-content/uploads/2020/01/vd-profile-picture.jpg }}
 
 Extra Information
 -----------------
