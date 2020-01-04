@@ -1,5 +1,5 @@
 
-{{ The State of NoSQL in 2020 }}
+The State of NoSQL in 2020
 =================================================
 
 * Speaker   : **Denis Rosa**
