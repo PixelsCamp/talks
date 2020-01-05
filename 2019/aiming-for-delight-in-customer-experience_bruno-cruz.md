@@ -1,7 +1,7 @@
 Aiming for delight in Customer Experience
 =========================================
 
-* Speaker   : [Bruno Cruz](https://pixels.camp/bscruzpt)
+* Speaker   : Bruno Cruz
 * Length    : 60 minutes
 * Language  : English
  
@@ -27,6 +27,7 @@ Links
 * Company: [Feedzai](https://feedzai.com/)
 * LinkedIn: [bscruzpt](https://www.linkedin.com/in/bscruzpt/)
 * GitHub: [bscruzpt](https://github.com/bscruzpt/)
+* Pixels Camp: [bscruzpt](https://pixels.camp/bscruzpt)
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
