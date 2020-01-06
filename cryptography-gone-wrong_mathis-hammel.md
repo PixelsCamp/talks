@@ -18,7 +18,7 @@ Through the source code or reverse engineering of the affected software, we stud
 Speaker Bio
 -----------
 
-Mathis Hammel is a Deputy CTO at Sogeti (part of Capgamini) and the founder of h25, a startup specialized in technical competitions.
+Mathis Hammel is a Deputy CTO at Sogeti (part of Capgemini) and the founder of h25, a startup specialized in technical competitions.
 
 He is a specialist and technical advisor in cybersecurity, machine learning, and algorithms.
 
