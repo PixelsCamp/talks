@@ -3,7 +3,7 @@ Javascript Will Kill You
 
 * Speaker   : João Henrique
 * Available : first day, second day and third day
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
@@ -14,7 +14,7 @@ A simple syntax, a large ecosystem, and a great community make Javascript one of
 Speaker Bio
 -----------
 
-Javascript Frontend Developer & Brand Ambassador @TrubineKreuzberg (a German software agency for e-commerce and IoT). I was previously a Senior Lab Technician on an Environmental Analysis Laboratory for 12 years and in 2017 I quit my job to pursue a career in tech. Oh yeah and I'm also the Coding Portugal organizer, freeCodeCamp evangelist, and Toastmasters regular attendee.
+Developer Ambassador @TurbineKreuzberg (a German software agency for e-commerce and IoT). I was previously a Senior Lab Technician on an Environmental Analysis Laboratory for 12 years and in 2017 I quit my job to pursue a career in tech. Oh yeah and I'm also the Coding Portugal organizer, freeCodeCamp evangelist, and Toastmasters regular attendee.
 
 Links
 -----
