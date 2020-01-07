@@ -3,7 +3,7 @@ Web Animations
 
 * Speaker   : Rafael Ramalho
 * Available : Any Day
-* Length    : 30 minutes
+* Length    : 45 minutes + 15 minutes QA
 * Language  : English
 
 Description
