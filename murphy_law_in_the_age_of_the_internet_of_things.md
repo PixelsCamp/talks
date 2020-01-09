@@ -17,7 +17,7 @@ In this talk I will delve into IoT systems from a Murphy perspective --- *whatev
 Speaker Bio
 -----------
 
-I'm João Pedro Dias, a researcher at INESC TEC, an Invited Assistant Lecturer and PhD student at Faculty of Engineering, University of Porto. I'm currently researching on the thin line between hardware and software from a software engineering perspective, delving into thematics such as fault-tolerance, system development, monitoring and maintenace. I'm passionate about technology in general, with a special focus on security and privacy, web development, embedded systems & Internet-of-Things.
+I'm João Pedro Dias, a researcher at INESC TEC, an Invited Assistant Lecturer and PhD student at Faculty of Engineering, University of Porto. I'm currently researching on the thin line between hardware and software from a software engineering perspective, delving into thematics such as fault-tolerance, IoT system development, monitoring and maintenace. I'm passionate about technology in general, with a special focus on security and privacy, web development, embedded systems & Internet-of-Things.
 
 Links
 -----
