@@ -1,11 +1,13 @@
-# PWAs and Fighting Against App Stores
+PWAs and Fighting Against App Stores
+====================================
 
-- Speaker : Gabriel Poça
-- Available : first day, second day
-- Length : 30 minutes
-- Language : English
+* Speaker : Gabriel Poça
+* Available : first day, second day
+* Length : 30 minutes
+* Language : English
 
-## Description
+Description
+-----------
 
 This talk is about what we can do with the open web. There are two parts to it.
 
@@ -29,7 +31,8 @@ web and native technology while you wait for support on the web.
 The information in this talk is based on real life experience building PWAs for
 many years now.
 
-## Speaker Bio
+Speaker Bio
+-----------
 
 I don't have a fancy title to show of. I'm a developer and my work goes from
 hiring to cloud infrastructure. For the past two years I've been focused on
@@ -38,8 +41,9 @@ payment gateway for blockchains. I write a lot of Elixir and JavaScript. I care
 about the social impact software has, and how the choices we make today impact
 other people and the next generation.
 
-## Links
+Links
+-----
 
-- Blog: https://gabrielpoca.com/
-- Company: https://subvisual.co/
-- GitHub: https://github.com/gabrielpoca
+* Blog: https://gabrielpoca.com/
+* Company: https://subvisual.co/
+* GitHub: https://github.com/gabrielpoca
