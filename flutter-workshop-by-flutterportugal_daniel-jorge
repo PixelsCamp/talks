@@ -1,0 +1,47 @@
+_Flutter Workshop by FlutterPortugal_
+=================================================
+
+* Speaker   : Daniel Jorge
+* Available : Any
+* Length    : 120 minutes
+* Language  : English
+
+Description
+-----------
+
+Flutter is Google’s portable UI kit for crafting high-quality native interfaces on iOS and Android in record time.
+Flutter works with existing code, is used by developers and organizations around the world, is free and also open source.
+In this workshop, you will learn about the fundamentals to build a mobile application.
+
+Speaker Bio
+-----------
+
+I'm Daniel, Flutter Developer @Dengun and Part of @FlutterPortugal organization team. 
+Joined Dengun in late 2011, developing applications specifically for Android, from native to mobile frameworks.
+Lately, I have been using, developing and advocating Flutter SDK by Google, 
+by helping and organizing events as a local organizer for Flutter Portugal Community @Faro.
+
+Links
+-----
+
+* Blog: https://www.meetup.com/FlutterPortugal
+* Company: https://dengun.com
+* GitHub: https://github.com/danidroid
+* Photo: https://avatars0.githubusercontent.com/u/3043406
+
+Extra Information
+-----------------
+
+Flutter Workshop by FlutterPortugal, will be also conducted by Miguel Ruivo @MiguelRuivo, 
+one of the Flutter Portugal community creators.
+
+Required materials
+
+Laptop with Flutter (https://flutter.dev/docs/get-started/install), 
+- Should be able to run flutter doctor without any errors.
+- A device to connect to the laptop (iOS or Android ) OR an Emulator (iOS or Android )
+- Android Studio (https://developer.android.com/studio) or VS Code (https://code.visualstudio.com/) installed with Dart and Flutter Plugins
+Also, don't forget your charger!
+
+join us in Discord: https://chat.flutter.pt
+https://github.com/FlutterPortugal
