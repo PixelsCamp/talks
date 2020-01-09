@@ -3,7 +3,7 @@ PWAs and Fighting Against App Stores
 
 * Speaker : Gabriel Poça
 * Available : first day, second day
-* Length : 30 minutes
+* Length : 60 minutes
 * Language : English
 
 Description
