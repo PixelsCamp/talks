@@ -8,9 +8,9 @@ Murphy Law in the Age of the Internet-of-Things
 
 Description
 -----------
-As ~smart~ devices permeate our daily lives on an unforeseen scale, their influence on our daily tasks increases with the promise of improving our well-being.  From Google Home assistant to Amazon Ring doorbells, most of these devices suffer some * wrong* design decision in terms of security, safety, interoperability, or intolerance to network failures. And, even if most of these systems are not *mission critical* and their malfunctions, most of the times, do not provoke severe damage nor are life-threatening, their push back IoT from an enhancement to a burdon on our daily lives.
+As ~smart~ devices permeate our daily lives on an unforeseen scale, their influence on our daily tasks increases with the promise of improving our well-being.  From Google Home assistant to Amazon Ring doorbells, most of these devices suffer some *wrong* design decision in terms of security, safety, interoperability, or intolerance to network failures. And, even if most of these systems are not *mission critical* and their malfunctions, most of the times, do not provoke severe damage nor are life-threatening, they push back IoT from an enhancement to a burdon on our daily lives.
 
-In this talk I will delve into IoT systems from a Murphy perspective --- *whatever can go wrong, will go wrong* --- and why these systems are mostly unreliable, insecure and privacy-threathning. From the *naive* Mirai botnet incident to laser-powered attacks on smart assistants, giving some Portuguese examples, I expect to raise awareness on the compromises that we are making when we bring these devices home, even if they are fun to play with.
+In this talk I will delve into IoT systems from a Murphy perspective --- *whatever can go wrong, will go wrong* --- and why these systems are mostly unreliable, insecure and privacy-threatening. From the *naive* Mirai botnet incident to laser-powered attacks on smart assistants, giving some Portuguese examples, I expect to raise awareness on the compromises that we are making when we bring these devices home, even if they are fun to play with.
 
 
 Speaker Bio
