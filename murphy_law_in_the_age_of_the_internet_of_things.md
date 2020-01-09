@@ -9,7 +9,7 @@ Murphy Law in the Age of the Internet-of-Things
 Description
 -----------
 
-With the promise of improving our well-being, ~smart~ devices permeated our lives on an unforeseen scale and became a significant influence on our daily tasks. From Google Home assistant to Amazon Ring doorbells, most of these devices suffer from some *bad* design decision in terms of security, safety, interoperability, or intolerance to network failures. And, even if most of these systems are not *mission critical*, and their malfunctions, most of the times, do not provoke severe damage or are life-threatening, they push back IoT from an enhancement to a burden on our daily lives.
+With the promise of improving our well-being, ~smart~ devices permeated our lives on an unforeseen scale and became a significant influence on our daily tasks. From Google Home assistant to Amazon Ring doorbells, most of these devices suffer from some *bad* design decisions in terms of security, safety, interoperability, or intolerance to network failures. And, even if most of these systems are not *mission critical*, and their malfunctions, most of the times, do not provoke severe damage or are life-threatening, they push back IoT from an enhancement to a burden on our daily lives.
 
 In this talk I will delve into IoT systems from a Murphy perspective --- *whatever can go wrong, will go wrong* --- and why these systems are mostly unreliable, insecure and privacy-threatening. From the *naive* Mirai botnet incident to laser-powered attacks on smart assistants, giving some Portuguese examples, I expect to raise awareness on the compromises that we are making when we bring these devices home, even if they are fun to play with.
 
@@ -17,7 +17,7 @@ In this talk I will delve into IoT systems from a Murphy perspective --- *whatev
 Speaker Bio
 -----------
 
-I'm João Pedro Dias, researcher at INESC TEC and Invited Assistant Lecturer at Faculty of Engineering, University of Porto. Phd student in Informatics Engineering, I'm currently researching on the thin line between hardware and software from a software engineering perspective, delving into thematics such as fault-tolerance, system development, monitoring and maintenace. Passionate about technology in general, with a special focus on security and privacy, web development, embedded systems & Internet-of-Things.
+I'm João Pedro Dias, a researcher at INESC TEC, an Invited Assistant Lecturer and PhD student at Faculty of Engineering, University of Porto. I'm currently researching on the thin line between hardware and software from a software engineering perspective, delving into thematics such as fault-tolerance, system development, monitoring and maintenace. I'm passionate about technology in general, with a special focus on security and privacy, web development, embedded systems & Internet-of-Things.
 
 Links
 -----
