@@ -2,7 +2,7 @@ Cryptography Gone Wrong
 =================================================
 
 * Speaker   : Mathis Hammel
-* Available : first day, second day
+* Available : first day
 * Length    : 60 minutes
 * Language  : English
 
