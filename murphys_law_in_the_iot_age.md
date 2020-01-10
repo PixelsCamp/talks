@@ -1,4 +1,4 @@
-Murphy Law in the Age of the Internet-of-Things
+Murphy's Law in the IoT Age
 =================================================
 
 * Speaker   : João Pedro Dias
@@ -9,10 +9,9 @@ Murphy Law in the Age of the Internet-of-Things
 Description
 -----------
 
-With the promise of improving our well-being, ~smart~ devices permeated our lives on an unforeseen scale and became a significant influence on our daily tasks. From Google Home assistant to Amazon Ring doorbells, most of these devices suffer from some *bad* design decisions in terms of security, safety, interoperability, or intolerance to network failures. And, even if most of these systems are not *mission critical*, and their malfunctions, most of the times, do not provoke severe damage or are life-threatening, they push back IoT from an enhancement to a burden on our daily lives.
+With the promise of improving our well-being, ~smart~ devices permeated our lives on an unforeseen scale and became a significant influence on our daily tasks. In this talk, I will discuss the IoT landscape from Murphy's law perspective --- *whatever can go wrong, will go wrong* --- and why these systems are mostly unreliable, insecure and privacy-threatening. From the *naive* Mirai botnet incident to laser-powered attacks on smart assistants, giving some Portuguese examples, I expect to show you why we are still in the *dark ages* of IoT and to raise awareness on the compromises that we are making when we bring these devices home, even if they are fun to play with.
 
-In this talk I will delve into IoT systems from a Murphy perspective --- *whatever can go wrong, will go wrong* --- and why these systems are mostly unreliable, insecure and privacy-threatening. From the *naive* Mirai botnet incident to laser-powered attacks on smart assistants, giving some Portuguese examples, I expect to raise awareness on the compromises that we are making when we bring these devices home, even if they are fun to play with.
-
+From Google Home assistant to Amazon Ring doorbells, most IoT devices suffer from some *bad* design decisions in terms of security, safety, interoperability, or intolerance to network failures. Even if most of these systems are not *mission critical*, and their malfunctions, most of the times, do not provoke severe damage or are life-threatening, they push back IoT from an enhancement to a burden on our daily lives.
 
 Speaker Bio
 -----------
