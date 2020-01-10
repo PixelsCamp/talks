@@ -4,7 +4,7 @@ Building a mobile decentralised game using JS
 
 * Speaker   : Pedro Teixeira
 * Available : any day
-* Length    : 30 minutes
+* Length    : 45 minutes + QA
 * Language  : English
 
 Description
