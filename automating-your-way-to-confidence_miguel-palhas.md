@@ -3,7 +3,7 @@ Automating your Way to Confidence
 
 * Speaker   : Miguel Palhas
 * Available : first day, second day
-* Length    : 30 minutes
+* Length    : 60 minutes
 * Language  : English
 
 Description
@@ -14,7 +14,7 @@ Around the same time, Github Actions went to public beta, and it ended up fittin
 
 This talk is about our journey to make better and faster releases, about how I'm trying to deprecate our project managers, and about how awesome Github Actions can be.
 
-Along the way, I'll show examples of how we, at (Utrust)[https://utrust.com] are handling this process nowadays, as well as some other automations we built for our product team, which ended up saving us tens of hours of headaches during 2019.
+Along the way, I'll show examples of how we, at [Utrust](https://utrust.com) are handling this process nowadays, as well as some other automations we built for our product team, which ended up saving us tens of hours of headaches during 2019.
 
 Speaker Bio
 -----------
