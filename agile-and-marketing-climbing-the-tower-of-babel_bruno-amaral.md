@@ -16,12 +16,13 @@ This talk is a description of the friction that can arise between these two stak
 Speaker Bio
 -----------
 
-I am a Digital Strategist, divided between tech and creativity. I work for the EDP Group as a Product Owner and I teach in the Masters Course of Communication and Digital Strategy at the Lisbon University.
+I am a Digital Strategist, divided between tech and creativity. Currently working for the EDP Group, as a Product Owner, and teaching in the Masters Course of Communication and Digital Strategy, at the Lisbon University.
 
 Over the past two years I have helped launch 10 corporate websites for EDP, across 3 countries. 
 
 My experience also includes work as a Content Strategist; Social Media Manager for brands like McDonald's, and Siemens; and UX Consultancy.
 
+My current project around creativity can be seen at https://cryptonovel.net/
 
 Links
 -----
