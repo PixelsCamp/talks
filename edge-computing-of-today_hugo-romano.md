@@ -28,4 +28,4 @@ Extra Information
 
 It is more a "State of Edge Computing" today and is being released soon. Presenting developers what path should they choose for their projects. Vendors Benchmarking: Feature analysis, lock-in risk, Geo-agnostic scope and Global coverage and rough Economics.
 
-Finishing with an opportunity for to fight Climate Change.
+Finishing with an opportunity to fight Climate Change.
