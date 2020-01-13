@@ -4,7 +4,7 @@ Testing Practices for Mobile
 
 * Speaker   : **Douglas Ritter** 
 * Available : **second day**
-* Length    : **30 minutes**
+* Length    : **45 minutes**
 * Language  : **English**
 
 Description
