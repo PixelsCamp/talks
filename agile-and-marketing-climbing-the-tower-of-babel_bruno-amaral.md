@@ -1,8 +1,8 @@
-{{ Agile and  Marketing, climbing the Tower of Babel }}
+Agile and  Marketing, climbing the Tower of Babel
 =================================================
 
 * Speaker   : Bruno Amaral
-* Available : {{ first day, second day, third day }}
+* Available : every day
 * Length    : 20 minutes + 10 minutes for questions
 * Language  : English
 
@@ -30,7 +30,7 @@ Links
 * Blog: https://brunoamaral.eu/
 * Company: 
 * GitHub: https://github.com/brunoamaral
-* Photo: {{ https://brunoamaral.eu/page/the-author/images/brunoamaral.jpg }}
+* Photo: https://brunoamaral.eu/page/the-author/images/brunoamaral.jpg
 
 Extra Information
 -----------------
