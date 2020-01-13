@@ -1,4 +1,4 @@
-Why your project doesn't need a blockchain (unless you don't have a choice)
+Why your project doesn't need a blockchain
 =================================================
 
 * Speaker   : Kirill Pimenov
