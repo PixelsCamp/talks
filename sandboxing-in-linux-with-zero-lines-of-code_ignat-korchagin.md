@@ -3,7 +3,7 @@ Sandboxing in Linux with zero lines of code
 
 * Speaker   : **Ignat Korchagin**
 * Available : **any day**
-* Length    : **30 minutes**
+* Length    : **60 minutes**
 * Language  : **English**
 
 Description
