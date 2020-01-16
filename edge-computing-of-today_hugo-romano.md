@@ -1,9 +1,9 @@
 Edge Computing of Today
 =================================================
 
-* Speaker   : [Hugo Romano](https://pixels.camp/adaptive)
+* Speaker   : Hugo Romano
 * Available : All days, Anytime
-* Length    : 30 minutes
+* Length    : 45 minutes + QA
 * Language  : English
 
 Description
@@ -26,6 +26,6 @@ Links
 Extra Information
 -----------------
 
-It is more a "State of Edge Computing" today and is being released soon. Presenting developers what path should they choose for their projects. Vendors Benchmarking: Feature analysis, lock-in risk, Geo-agnostic scope and Global coverage and rough Economics.
+It is more a "State of Edge Computing" today and is being released soon. Presenting developers what path should they choose for their projects. Vendors Benchmarking: Feature analysis, lock-in risk, Geo-agnostic scope, Global coverage, and rough Economics.
 
 Finishing with an opportunity to fight Climate Change.
