@@ -28,7 +28,7 @@ Our backoffice uses the PR title and description during the review process (the 
 * Speakers must also be general attendees, you **must** also apply for Pixels Camp here, **before** submitting your proposal: https://pixels.camp;
 * Having your talk accepted also means you're accepted as an attendee (of course);
 * Proposals must have a minimum set of information (see the template) to be considered for revision;
-* Talks should be around 45-50 minutes (plus setup time), with a minimum of 30 minutes. Only workshops may be longer;
+* All stage slots are 1 hour long, so talks should be around 45-50 minutes (plus setup time), with a minimum of 30 minutes (not ideal, since it wastes stage time). Only workshops may be longer (up to 2 hours);
 * Talks may be delivered in English or Portuguese, but talk proposals **must always** be written in English.
 
 ## Contact Information
