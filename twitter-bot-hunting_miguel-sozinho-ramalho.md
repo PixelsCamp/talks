@@ -11,7 +11,7 @@ Description
 
 _Disclaimer: no guns will be used during the talk._
 
-What are Twitter bots and trolls? What are they used for? What techniques can be used to find them? Hopefully, you will be able to answer these and some other questions by the end of the talk.
+What are Twitter bots? What are they used for? What techniques can be used to find them? Hopefully, you will be able to answer these and some other questions by the end of the talk.
 
 I will cover techniques for bulk data collection from Twitter and go over the process of building a classifier for detecting bots, with a focus on the immensity of features that can be extracted for this purpose. 
 
