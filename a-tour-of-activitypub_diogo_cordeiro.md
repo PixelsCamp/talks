@@ -4,7 +4,7 @@ A Tour of ActivityPub
 
 * Speaker   : Diogo Cordeiro
 * Available : Any
-* Length    : 30 minutes
+* Length    : 1 hour
 * Language  : Portuguese
 
 Description
