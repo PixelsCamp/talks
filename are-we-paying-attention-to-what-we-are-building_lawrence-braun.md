@@ -3,7 +3,7 @@ Are we paying attention to what we building?
 
 * Speaker   : Lawrence Braun
 * Available : Any
-* Length    : 30 minutes
+* Length    : 60 minutes
 * Language  : English
 
 Description
