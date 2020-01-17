@@ -1,42 +1,38 @@
+* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
+* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
+* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
+* When you submit your proposal, paste the contents of this file as the Pull Request's description.
+* Don't delete or rename this file, copy it.
 
-The State of NoSQL in 2020
+`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
+
+{{ _Your Talk's Title_ (which should be short) }}
 =================================================
 
-* Speaker   : **Denis Rosa**
-* Available : **first day, second day, third day** 
-* Length    : **45**
-* Language  : **English or Portuguese** (pt-BR)
+* Speaker   : {{ **Your Name** (eg. John Doe) }}
+* Available : {{ **Your Availability** (first day, second day, third day) }}
+* Length    : {{ **Talk Length** (in 30 minute increments — only workshops can be longer than 60 minutes) }}
+* Language  : {{ **Talk Language** (English or Portuguese, whatever you're more comfortable with) }}
 
 Description
 -----------
 
-NoSQL is a broad term applied to more than 200 non-relational databases out there according to DBEngine, which makes it impossible for most developers to keep up-to-date with the latest innovations in this area. In this session, you will get a quick review of NoSQL database architectures, which new features that really matters for your daily work, what are the current challenges and what you should expect next.
-
-Some of the topics we will discuss are:
-
-* The multiple flavors of distributed transactions
-*	DBaS and Kubernetes
-*	Relational and JSON
-*	SQL, SQL++ and other query languages
-*	Clustering and Sharding 
-*	Indexing
+{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice, more is probably too much. }}
 
 Speaker Bio
 -----------
 
-Speaker and Developer Advocate at Couchbase, he started programming even before the college and never stopped coding since then. He is a Java & NoSQL specialist, open-source contributor, and an enthusiast of Microservices & DevOps
+{{ **Briefly Describe Yourself Here** to your potential audience. Try to be concise. }}
 
 Links
 -----
 
-* Blog: http://denisrosa.com
-* Company: https://couchbase.com 
-* GitHub: https://github.com/deniswsrosa
-* Photo: https://pbs.twimg.com/profile_images/1141676086008451072/7Gmh1dzQ.jpg
+* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
+* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
+* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* Photo: {{ https://example.com/me.jpg }} — a picture of yourself for the speakers page }}
 
 Extra Information
 -----------------
 
-I'm a frequent speaker in tech conferences, here are some talks of mine https://www.youtube.com/watch?v=PLAwcExtLVw , https://www.youtube.com/watch?v=B9qRJhA1ONs&t=169s
-
-
+{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
