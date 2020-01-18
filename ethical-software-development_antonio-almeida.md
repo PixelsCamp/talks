@@ -32,5 +32,5 @@ Links
 Extra Information
 -----------------
 
-The talk follows the anti Big Tech, privacy first, no data-hauling stance fiercely defended by "Software Activists". One of faces of this movement is [@dhh](https://twitter.com/dhh), creator of Ruby on Rails (honorable mention to [@aral](https://twitter.com/aral)). 
-The talk will cover industry wide research on how to comply with the ethical requests on their own Software.
+The talk follows the anti Big Tech, privacy first, no data-hauling stance fiercely defended by "Software Activists". One of faces of this movement is [@dhh](https://twitter.com/dhh), creator of Ruby on Rails (honorable mention to [@aral](https://twitter.com/aral)).
+The talk will cover industry wide research on how to comply with the ethical requests and apply them on one's Software.
