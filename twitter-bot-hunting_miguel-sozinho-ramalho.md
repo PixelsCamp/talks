@@ -4,7 +4,7 @@ _Twitter Bot Hunting_
 * Speaker   : **Miguel Sozinho Ramalho**
 * Available : **first day, second day, third day**
 * Length    : **30min**
-* Language  : **English**
+* Language  : **English, Portuguese**
 
 Description
 -----------
