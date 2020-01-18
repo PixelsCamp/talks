@@ -3,7 +3,7 @@ Do I know you? Identity on the Internet and the Question of Trust
 
 * Speaker   : Kevin Goldsmith
 * Available : second day, third day
-* Length    : 30
+* Length    : 45
 * Language  : English
 
 Description
