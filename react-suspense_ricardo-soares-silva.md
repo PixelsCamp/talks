@@ -3,7 +3,7 @@ _Let’s get lazy with React_
 
 * Speaker   : **Ricardo Soares Silva**
 * Available : **first day, second day**
-* Length    : **90 minutes**
+* Length    : **90 minutes** (workshop)
 * Language  : **English**
 
 Description
