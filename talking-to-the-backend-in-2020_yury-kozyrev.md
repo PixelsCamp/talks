@@ -27,7 +27,7 @@ Speaker Bio
 -----------
 
 I'm leading a cross-functional engineering team at Travel Audience while being a Go and React developer myself.
-I worked at e-commerce, AdTech and FinTech industries where contributed to high-load business-critical solutions and has designed multi-layered service architecture.
+I worked at e-commerce, AdTech and FinTech companies including Russian tech giant Yandex where contributed to high-load business-critical solutions and has designed multi-layered service architecture.
 I'm passionate about developing well-crafted end-to-end software that makes work fun deliverers direct business value.
 
 Links
@@ -40,6 +40,6 @@ Links
 Extra Information
 -----------------
 
-I'm jumping in in a last date because I realised that Pixels Camp 2019 gave me a big boost and a lot of inspiration so I'd like to contribute to it this year.
+I hop on a train in a last day because I realised that Pixels Camp 2019 gave me a big boost and a lot of inspiration so I'd like to contribute to it this year.
 
 I'm passionate building beautiful and efficient architectures/services and would be happy to share my experience!
