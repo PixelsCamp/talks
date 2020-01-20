@@ -25,7 +25,7 @@ The workshop is a begginer-level workshop, and comprises a theoretical foundatio
 
 The practical part contains several components:
 
-* Create a Fabric network
+1. Create a Fabric network
 1. Developing smart contracts
 1. Install smart contracts
 1. Instantiate contract
