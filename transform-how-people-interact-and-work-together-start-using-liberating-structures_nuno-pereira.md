@@ -33,11 +33,10 @@ Links
 -----
 
 * Blog: https://medium.com/@nunosilvapereira
-* Company: https://https://www.equalexperts.com/
+* Company: https://www.equalexperts.com
 * GitHub: https://github.com/nunoaspereira
 * Photo: https://drive.google.com/file/d/0B6oNQPPVwhzEWHNLRDNia0JWZjQ/view?usp=sharing
 
 Extra Information
 -----------------
-
 I have been a speaker at all Pixels Camp, giving 5 talks and organising one Agile Connect Meetup. Would like to continue to share more with all of the campers. Thanks!
