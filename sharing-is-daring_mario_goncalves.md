@@ -41,6 +41,6 @@ Previous talks given:
 * [How to build your own greenfield @ Pipedrive Talks 2019](https://www.youtube.com/watch?v=rCKS7BScsYk)
 * [How to build your own greenfield @ PWIT](https://www.eventbrite.co.uk/e/how-to-build-your-own-greenfield-pwit-workshop-series-powered-by-sky-tickets-55972155223)
 * One Codebase to Rule them All @ Sky Tech Conference 2018
-* [Javascript, the new English @ Landing Festival](https://lisbon.landingfestival.com/talks/79)
+* Javascript, the new English @ Landing Festival 2018
 * [Javascript, the new English @ Pixels Camp 2017](https://github.com/PixelsCamp/talks/blob/master/2017/javascript-the-new-english_mario-goncalves.md)
 * [Javascript, the new English @ RequireLX](https://twitter.com/requirelx/status/864162863081979905)
