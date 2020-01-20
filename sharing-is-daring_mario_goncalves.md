@@ -1,10 +1,10 @@
-{{ Sharing is Daring }}
+_Sharing is Daring_
 =================================================
 
-* Speaker   : {{ **Mário Gonçalves** }}
-* Available : {{ **First and Second day** }}
-* Length    : {{ **~45 minutes + QA** }}
-* Language  : {{ **English** }}
+* Speaker   : **Mário Gonçalves**
+* Available : **First and Second day**
+* Length    : **~45 minutes + QA**
+* Language  : **English**
 
 Description
 -----------
@@ -17,7 +17,6 @@ This talk will identify and dissect those hidden costs, blockers and challenges 
 
 Speaker Bio
 -----------
-
 
 Hello, I'm Mário: a Software Engineer at [Sky](https://www.linkedin.com/company/skyportugal/), a teacher at [Wild Code School](https://wildcodeschool.pt/) and a geek at ❤️.
 
