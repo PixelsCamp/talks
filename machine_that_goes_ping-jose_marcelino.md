@@ -9,15 +9,15 @@
 Description
 -----------
 
-{{ "Hardware is Hard" is a common saying and often true as developing hardware traditionally requires a great number of skills, years of experience and - sometimes expensive - tools.
+{{ "Hardware is Hard" is a common saying and often true as developing hardware traditionally requires a great number of skills, years of experience and many physical tools.
 
-In this hands-on, practical workshop, we will challenge this notion through the recent developments around Python on low cost microcontrollers,  MicroPython - now spreading in a similarity to how BASIC was ported to almost every machine and drove the microcomputer revolution of the late 1970s.
+In this hands-on, practical workshop, we will challenge this notion through the recent development of Python on low cost microcontrollers,  MicroPython - now spreading in a similar trend to how BASIC drove the microcomputer revolution of the late 1970s.
 
 We will introduce low power wide area (LPWAN) wireless networks made for IoT such as Sigfox, LoRa and NB-IoT and demonstrate how to connect your MicroPython device to them in an efficient way.
 
 Finally we will take the next step - and make the "Ping" part of the title true - by introducing SCHC (pronounced Chic), the new IETF protocol which enables IPv6 over those LPWANs }}
 
-Note: Bring your computer for the hands-on part - you will get your a node to program and play with ( usually restricted to 20 places,  maybe possible to share devices between attendees )
+Note: Bring your computer for the hands-on part - you will get your a device to program and play with ( usually restricted to 20 devices, may be possible to share devices between attendees )
 
 Speaker Bio
 -----------
