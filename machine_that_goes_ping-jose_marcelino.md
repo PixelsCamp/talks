@@ -1,11 +1,3 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
-* When you submit your proposal, paste the contents of this file as the Pull Request's description.
-* Don't delete or rename this file, copy it.
-
-`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
 {{ Machines that go Ping: Low Power Sensor nodes with Python }}
 =================================================
 
