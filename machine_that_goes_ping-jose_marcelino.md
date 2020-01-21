@@ -22,13 +22,13 @@ Note: Bring your computer for the hands-on part - you will get your a device to 
 Speaker Bio
 -----------
 
-{{ Originally from Setubal, Portugal Jose is the IoT Solutions Architect at Omnium Sensing, part of a large Engineering group in the North East of UK - the epicentre of the indutrial revulution of the 1800s.
+Originally from Setubal, Portugal Jose is the IoT Solutions Architect at Omnium Sensing, part of a large Engineering group in the North East of UK - the epicentre of the indutrial revulution of the 1800s.
 
 Previous workplaces have included Pycom - makers of popular ESP32 based MicroPython boards with ample connectivity options - and his company Metavurt.
 
-He has experience in applying various sensor and connectivity options - Bluetooth, LoRa, Sigfox, and LTE/NB-IoT - to 'mine' new information and opportunities from existing systems. When not soldering something or trying some new chip he's a regular speaker at various IoT Meetups (Newcastle, Leeds, Amsterdam) and larger events such as Things Conference.
+He has experience in applying various sensor and connectivity options - Bluetooth, LoRa, Sigfox, and LTE/NB-IoT - to 'mine' new information from existing systems. When not soldering something or trying some new chip he's a regular speaker at meetups and larger events such as Things Conference.
 
-Other interests include studying generalised networks and their applications e.g. in brain connectivity. }}
+Other interests include studying generalised networks and their applications e.g. in brain connectivity.
 
 Links
 -----
