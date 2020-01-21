@@ -36,7 +36,7 @@ Links
 * Twitter: {{ https://twitter.com/jmarcelino }}
 * Company: {{ https://omniumsensing.com }}
 * GitHub: {{ https://github.com/jmarcelino }}
-* Photo: {{ https://avatars0.githubusercontent.com/u/3199956?v=4 }} — a picture of yourself for the speakers page }}
+* Photo: {{ https://avatars0.githubusercontent.com/u/3199956?v=4 }}
 
 Extra Information
 -----------------
