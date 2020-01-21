@@ -1,4 +1,4 @@
-_Sharing is Daring_
+Sharing is Daring
 =================================================
 
 * Speaker   : **Mário Gonçalves**
