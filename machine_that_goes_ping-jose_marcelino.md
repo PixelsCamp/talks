@@ -28,7 +28,6 @@ Previous workplaces have included Pycom - makers of popular ESP32 based MicroPyt
 
 He has experience in applying various sensor and connectivity options - Bluetooth, LoRa, Sigfox, and LTE/NB-IoT - to 'mine' new information from existing systems. When not wiring up something new he's a regular speaker at various Meetups and events such as Things Conference.
 
-
 Links
 -----
 
