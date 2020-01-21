@@ -1,4 +1,4 @@
-{{ Machines that go Ping: Low Power Sensor nodes with Python }}
+{{ Machine that goes Ping: Low Power Sensor nodes with Python }}
 =================================================
 
 * Speaker   : {{ Jose Marcelino }}
