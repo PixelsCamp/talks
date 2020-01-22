@@ -1,4 +1,4 @@
-_Let’s get lazy with React_
+Let’s get lazy with React
 =================================================
 
 * Speaker   : **Ricardo Soares Silva**
@@ -9,9 +9,17 @@ _Let’s get lazy with React_
 Description
 -----------
 
-Do you like how your application gets bundled into a single file? Do you like that the user has download the full code only to find out they never left the home page? And then you add features, new pages, experiments and the bundle gets bigger and bigger and bigger. Fortunately, React allows you to split your main code bundle into several chunks that can be lazy loaded by the users only when needed. How is it done? Using one of the future features of ECMAScript: dynamic imports.
+Do you like how your application gets bundled into a single file? 
 
-Do you hate it when you need to write code like in every component
+Do you like that the user has to download the full code only to find out they never left the home page? 
+And then you add features, new pages, experiments and the bundle gets bigger and bigger and bigger. 
+
+Fortunately, React allows you to split your main code bundle into several chunks that can be lazy loaded by the users only when needed. 
+
+And how is this done? 
+By using one of the future features of ECMAScript: dynamic imports.
+
+Do you hate it when you need to write code like this in every component
 
     if (isLoading) {
         return <LoadingSpinner />;
@@ -22,7 +30,7 @@ Do you hate it when you need to write code like in every component
         </>
     );
 
-just to handle the loading state? React is try to solve this in their experimental branch by using Suspense
+just to handle the loading state? React is trying to solve this in their experimental branch by using Suspense
 
     return (
         <Suspense fallback={<LoadingSpinner />}>
