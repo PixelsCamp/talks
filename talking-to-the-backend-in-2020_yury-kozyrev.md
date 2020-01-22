@@ -1,34 +1,35 @@
 
 
-_Talking to the Backend in 2020_
+Talking to the Backend in 2020
 =================================================
 
 * Speaker   : **Yury Kozyrev**
 * Available : **all days**
-* Length    : **30min** (could be extended to 45min + 15min QA)
+* Length    : **45min + 15min QA**
 * Language  : **English**
 
 Description
 -----------
 
-Over a decade REST was the main communication protocol between Frontend and Backend.
-But things are changing and in 2020 we have enough options that are mature to use them in production for the company or fun enough to try it in the startup.
-After the Pixels Camp 2019 I've got involved into multiple projects with different needs and different maturity state (and different amount of the legacy code) and had chance to gain experience in designing communication schemas between frontend and the backend apps and hands-on experience leading the implementation.
+Over a decade REST was the main communication protocol between Frontend and Backend. But things are changing and in 2020 we have enough options that are mature to use in production in a company or fun enough to try out in a startup.
 
-Im this talk I'd like to cover pros and cons in short and lond distance for:
+Over the past year, I've got involved in multiple projects with different needs and different development stages (and different amounts of the legacy code) and had a chance to gain experience in designing communication schemes between frontend and backend apps and gained the hands-on experience leading the implementation.
+
+In this talk, I'd like to cover the pros and cons in a short- and long-run of:
 - Old good REST JSON-based communication
 - Modern GraphQL
-- gRPC which is coming to WEB after if become nearly a gold standard for the communication berween backend microservices
-- Backendless options like fancy Firebase (offering auth, realtime data syncronization, and other perks) or self-hosted CouchDB
+- gRPC coming to WEB after it became nearly a gold standard of backend microservices communication
+- Backendless options like fancy Firebase (offering auth, realtime data synchronization, and other perks) or self-hosted CouchDB
 
-I will talk about hidden and known pitfalls of this technologies you might face and options to avoid it. 
+I will then discuss the hidden and known pitfalls of these technologies that you might encounter and ways to avoid them.
 
 Speaker Bio
 -----------
 
-I'm leading a cross-functional engineering team at Travel Audience while being a Go and React developer myself.
-I worked at e-commerce, AdTech and FinTech companies including Russian tech giant Yandex where contributed to high-load business-critical solutions and has designed multi-layered service architecture.
-I'm passionate about developing well-crafted end-to-end software that makes work fun deliverers direct business value.
+I'm leading a cross-functional engineering team at Travel Audience, working mainly with Go and React.
+I worked at e-commerce, AdTech and FinTech companies including Russian tech giant Yandex where contributed to high-load business-critical solutions and designed multi-layered service architecture.
+
+I'm passionate about developing well-crafted end-to-end software while trying to make work more fun for developers and delivering direct business value.
 
 Links
 -----
@@ -40,6 +41,6 @@ Links
 Extra Information
 -----------------
 
-I hop on a train in a last day because I realised that Pixels Camp 2019 gave me a big boost and a lot of inspiration so I'd like to contribute to it this year.
+The Pixels Camp 2019 gave me a big boost and a lot of inspiration, and this year I would like to contribute to better decisions in development by giving a talk, although I'm jumping on the last day.
 
-I'm passionate building beautiful and efficient architectures/services and would be happy to share my experience!
+I'm passionate about building beautiful and efficient architectures and services and would be happy to share my experience!
