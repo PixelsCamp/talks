@@ -18,10 +18,10 @@ Ricardo is an Android dev at Mindera. He has a crush on clean code and software 
 
 ## Links
 
-- Blog: https://ricardocosteira.com
-- Company: https://mindera.com
-- GitHub: https://github.com/rcosteira79
-- Photo: https://github.com/rcosteira79/rcosteira79.github.io/blob/master/assets/images/me.jpg
+* Blog: https://ricardocosteira.com
+* Company: https://mindera.com
+* GitHub: https://github.com/rcosteira79
+* Photo: https://github.com/rcosteira79/rcosteira79.github.io/blob/master/assets/images/me.jpg
 
 ## Extra Information
 
