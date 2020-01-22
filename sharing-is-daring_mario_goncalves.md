@@ -29,7 +29,7 @@ Links
 
 * LinkedIn: [mariomcgoncalves](https://linkedin.com/in/mariomcgoncalves)
 * Twitter: [mariomc](https://twitter.com/mariomc)
-* Github: [mariomc](https://github.com/mariomc)
+* GitHub: [mariomc](https://github.com/mariomc)
 * Companies: [Sky](https://www.linkedin.com/company/skyportugal/) and [Wild Code School](https://wildcodeschool.pt/)
 
 Extra Information
