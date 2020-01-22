@@ -9,15 +9,15 @@ Hyperledger Fabric 2.0 Workshop
 Description
 -----------
 
-"**Hyperledger Fabric (Fabric)** is an open-source enterprise-grade permissioned distributed ledger technology (DLT) platform, designed for use in enterprise contexts, that delivers some key differentiating capabilities over other popular distributed ledger or blockchain platforms".
+"**Hyperledger Fabric (Fabric)** is an open-source enterprise-grade permissioned distributed ledger technology (DLT) platform, designed for use in enterprise contexts, that delivers some key differentiating capabilities over other popular distributed ledger or blockchain platforms."
 
 Fabric is a maintained set of maintainers from multiple organizations, such as IBM and the Linux Foundation. Its community has grown to over 35 organizations and nearly 200 developers since its earliest commits.
 
 Fabric is arguably the most developed open-source permissioned blockchain.
 
-In this workshop we are going to work on a scenario that benefits blockchain technology, using **Hyperledger Fabric v2.0-beta**, which is the foundation of the first long-term support version of Fabric.
+In this workshop, we are going to work on a scenario that benefits blockchain technology, using **Hyperledger Fabric v2.0-beta**, which is the foundation of the first long-term support version of Fabric.
  
-The workshop is a begginer-level workshop, and comprises a theoretical foundation about different Fabric aspects (20 min), such as:
+The workshop is a beginner-level workshop and comprises a theoretical foundation about different Fabric aspects (20 min), such as:
 
 * How Fabric works, its architecture and its components
 * Private data (solution to GDPR?!)
@@ -36,15 +36,15 @@ The practical part contains several components:
 
 Speaker Bio
 -----------
-Trying to see the big picture, by applying technology to meaningfull problems.
+Trying to see the big picture by applying technology to significant problems.
 
-* PhD student @Técnico Lisboa
-* Teaching Assistant @Técnico Lisboa (It Infrastructure Management and Administration, Software Engineering, User Centered Design)
+* Ph.D. student @Técnico Lisboa
+* Teaching Assistant @Técnico Lisboa (It Infrastructure Management and Administration, Software Engineering, User-Centered Design)
 * Researcher @ INESC-ID. Interested in Blockchain and Data Science 
 * Blockchain Developer at the Portuguese Government
 
-I am fascinated with blockchain. Focusing on Hyperledger Fabric, Libra, and Ethereum.
-More interestingly, working on how can we interoperate blockchains in order to provide the foundations to the mass adoption of this technology.
+I am fascinated with blockchain. I am focusing on Hyperledger Fabric, Libra, and Ethereum.
+More interestingly, working on how we can interoperate blockchains to provide the foundations to the mass adoption of this technology.
 
 Links
 -----
