@@ -5,7 +5,7 @@ I have Failed is the new I have a start-up
 
 * Speaker   : Sonia Fernandes
 * Available : All days
-* Length    : 30 mins
+* Length    : 45 + Q&A
 * Language  : Organizers can choose based on attendees 
 
 Description
