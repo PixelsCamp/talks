@@ -1,9 +1,9 @@
 # Do you even (Kotlin) Flow? The new API for reactive programming
 
-- Speaker : Ricardo Costeira
-- Available : first day, second day, third day
-- Length : 30 minutes
-- Language : English
+- Speaker : **Ricardo Costeira**
+- Available : **every day**
+- Length : **45 minutes**
+- Language : **English**
 
 ## Description
 
