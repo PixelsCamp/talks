@@ -3,7 +3,7 @@ Developing Applications for Smart TVs
 
 * Speaker   : David Silva
 * Available : Any day
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
@@ -17,6 +17,7 @@ In this talk I am going to present the state of the art of Smart TV development 
 
 I will be mostly focused on using Angular as the starting framework for app development and I intend to showcase some of my homebrew applications made for these devices as a starting point for others to do the same.
 
+Some of the instructions given in this talk will be targeted at LG TVs but they should work with minor changes for other Smart TVs as well.
 
 Speaker Bio
 -----------
@@ -33,7 +34,7 @@ Links
 -----
 
 * Blog: https://www.davidsilva.pt/
-* Company: https://www.satcom-int.com/
+* Company: [Satcom International AG](https://www.satcom-int.com/)
 * GitHub: https://github.com/dmpasilva
 * Photo: https://avatars0.githubusercontent.com/u/11501709
 
