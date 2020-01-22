@@ -9,7 +9,7 @@ Sharing is Daring
 Description
 -----------
 
-We all love sharing the cool things we build and, through OSS achievements like Git(hub) and package managers, the quality standards it allowed the software industry to rise to. So much so that portability and modularity is now a development requirement.
+We all love sharing the cool things we build and, through OSS achievements like Git(Hub) and package managers, the quality standards it allowed the software industry to rise to. So much so that portability and modularity is now a development requirement.
 
 Everything comes at a cost. Sharing code, specially at scale, is no exception. 
 
