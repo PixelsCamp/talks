@@ -1,6 +1,6 @@
 
 
-Talking to the Backend in 2020
+Beyond REST: GraphQL vs gRPC Web
 =================================================
 
 * Speaker   : **Yury Kozyrev**
@@ -19,7 +19,7 @@ In this talk, I'd like to cover the pros and cons in a short- and long-run of:
 - Old good REST JSON-based communication
 - Modern GraphQL
 - gRPC coming to WEB after it became nearly a gold standard of backend microservices communication
-- Backendless options like fancy Firebase (offering auth, realtime data synchronization, and other perks) or self-hosted CouchDB
+- **Bonus**: Backendless options like self-hosted CouchBase or fancy cloud Firebase (offering auth, realtime data synchronization, and other perks)
 
 I will then discuss the hidden and known pitfalls of these technologies that you might encounter and ways to avoid them.
 
