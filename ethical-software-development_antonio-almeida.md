@@ -3,7 +3,7 @@ Ethical Software Development
 
 * Speaker   : António Almeida
 * Available : (first day, second day, third day)
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English, Portuguese
 
 Description
