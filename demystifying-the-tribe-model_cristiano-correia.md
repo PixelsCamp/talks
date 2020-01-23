@@ -1,7 +1,7 @@
 Demystifying the Tribe Model
 =========================
 
-* Speaker   : [Cristiano Correia](https://pixels.camp/cristianocorreia)
+* Speaker   : Cristiano Correia
 * Available : Both days, any time
 * Length    : 45 minutes + QA
 * Language  : English
