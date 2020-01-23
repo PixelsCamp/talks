@@ -3,15 +3,17 @@ Product Managers, to pair or not to pair?
 
 * Speaker   : **Mihaela Draghici**
 * Available : **first day, second day, third day**
-* Length    : **30 minutes**
+* Length    : **45 minutes**
 * Language  : **English**
 
 Description
 -----------
 
-What does pairing mean for PMs? Why is it great? Why does it suck? When is it good to pair? And more than that, how to make the most of it when you do pair?
+Just as, for engineers, pair programming means two engineers working together, PM pairing refers to two Product Managers working together as part of the same product team. 
 
-There are little resources available regarding pairing for Product Managers. That's because it's not too common.
+However, there are little resources available regarding pairing for Product Managers. That's because it's not too common.
+
+What does pairing really mean for PMs? How is it different from pair programming? Why is it great? Why does it suck? When is it good to pair? And more than that, how to make the most of it when you do pair?
  
 I aim to share my lessons learned and tips & tricks about pairing for PMs (from own experience), to give you more insights on this topic.
 
