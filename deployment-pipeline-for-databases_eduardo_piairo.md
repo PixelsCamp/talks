@@ -2,7 +2,7 @@ Deployment pipeline for databases
 =================================================
 
 * Speaker   : Eduardo Piairo
-* Available : first day, second day, third day
+* Available : second day, third day
 * Length    : 60 minutes
 * Language  : English
 
