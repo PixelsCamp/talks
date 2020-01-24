@@ -3,7 +3,7 @@ Agile and  Marketing, climbing the Tower of Babel
 
 * Speaker   : Bruno Amaral
 * Available : every day
-* Length    : 20 minutes + 10 minutes for questions
+* Length    : 30 minutes + 15 minutes for questions
 * Language  : English
 
 Description
