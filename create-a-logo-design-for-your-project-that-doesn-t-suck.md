@@ -3,7 +3,7 @@ Create a logo design for your project that doesn't suck
 
 * Speaker   : Caneco
 * Available : Second day
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
