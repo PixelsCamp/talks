@@ -2,7 +2,7 @@ Product Managers, to pair or not to pair?
 =================================================
 
 * Speaker   : **Mihaela Draghici**
-* Available : **first day, second day, third day**
+* Available : **first day
 * Length    : **45 minutes**
 * Language  : **English**
 
