@@ -21,7 +21,7 @@ Speaker Bio
 
 **Guilherme Ferreira**
 
-![Guilherme Ferreira](https://avatars3.githubusercontent.com/u/5797393?v=4)
+![Guilherme Ferreira](https://avatars0.githubusercontent.com/u/1719764?s=460&v=4)
 
 Guilherme Ferreira is a minimalist aspirant, passionate by product development and a continuous improvement enthusiast. He currently works as a Software Architect at OMNIA, building a Low-code Development Platform from the ground up.
 Guilherme is also co-organizer of the NetPonto Community and a member of NDC Porto Agenda Committee.
