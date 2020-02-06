@@ -1,8 +1,7 @@
 Developing Applications for Smart TVs
 =================================================
 
-* Speaker   : David Silva
-* Available : Any day
+* Speaker   : [David Silva](https://pixels.camp/dmpasilva)
 * Length    : 45 minutes
 * Language  : English
 
@@ -22,6 +21,10 @@ Some of the instructions given in this talk will be targeted at LG TVs but they 
 Speaker Bio
 -----------
 
+**David Silva**
+
+![David Silva](https://avatars0.githubusercontent.com/u/11501709?s=460&v=4)
+
 I am a full-stack developer at Satcom International AG and I am passionate for almost everything tech related as long as I find it challenging.
 
 I began playing with web technologies when I was 16, exploring the world of WordPress and creating custom plugins and Multisite installations, and I haven't stopped learning new things ever since.
@@ -38,3 +41,6 @@ Links
 * GitHub: https://github.com/dmpasilva
 * Photo: https://avatars0.githubusercontent.com/u/11501709
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
