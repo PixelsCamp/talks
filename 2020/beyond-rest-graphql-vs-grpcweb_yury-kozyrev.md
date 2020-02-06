@@ -1,12 +1,9 @@
-
-
 Beyond REST: GraphQL vs gRPC Web
 =================================================
 
-* Speaker   : **Yury Kozyrev**
-* Available : **all days**
-* Length    : **45min + 15min QA**
-* Language  : **English**
+* Speaker   : [Yury Kozyrev][https://pixels.camp/urakozz]
+* Length    : 45min + 15min QA
+* Language  : English
 
 Description
 -----------
@@ -26,6 +23,10 @@ I will then discuss the hidden and known pitfalls of these technologies that you
 Speaker Bio
 -----------
 
+**Yury Kozyrev**
+
+![Yury Kozyrev](https://avatars3.githubusercontent.com/u/5797393?v=4)
+
 I'm leading a cross-functional engineering team at Travel Audience, working mainly with Go and React.
 I worked at e-commerce, AdTech and FinTech companies including Russian tech giant Yandex where contributed to high-load business-critical solutions and designed multi-layered service architecture.
 
@@ -44,3 +45,7 @@ Extra Information
 The Pixels Camp 2019 gave me a big boost and a lot of inspiration, and this year I would like to contribute to better decisions in development by giving a talk, although I'm jumping on the last day.
 
 I'm passionate about building beautiful and efficient architectures and services and would be happy to share my experience!
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
