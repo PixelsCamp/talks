@@ -1,13 +1,16 @@
 What the Service Mesh?!
 =================================================
 
-* Speaker   : Ricardo Castro
-* Available : All days
-* Length    : 60min
+* Speaker   : [Ricardo Castro](https://pixels.camp/mccricardo)
+* Length    : 60 min
 * Language  : English
 
 Description
 -----------
+
+**Ricardo Castro**
+
+![Ricardo Castro](https://avatars0.githubusercontent.com/u/1016505?v=4)
 
 Cloud platforms provide a wealth of benefits for the organizations that use them. There’s no denying, however, that adopting the cloud can put strains on DevOps teams. Developers must use microservices to architect for portability, meanwhile operators are managing extremely large hybrid and multi-cloud deployments.
 
@@ -29,7 +32,6 @@ Links
 * GitHub: https://github.com/mccricardo
 * Photo: https://avatars0.githubusercontent.com/u/1016505?s=460&v=4
 
-Extra Information
------------------
+Click [here][1] to see the full calendar and pick your favorite talks
 
-None.
+[1]: https://pixels.camp/schedule/
