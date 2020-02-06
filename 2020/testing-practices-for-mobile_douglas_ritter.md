@@ -15,9 +15,9 @@ The talk will cover what we as a team consider important steps in the software d
 Speaker Bio
 -----------
 
-**Yury Kozyrev**
+**Douglas Ritter**
 
-![Yury Kozyrev](https://avatars3.githubusercontent.com/u/5797393?v=4)
+![Douglas Ritter](https://avatars3.githubusercontent.com/u/6066883?v=4)
 
 Software engineer.
 
