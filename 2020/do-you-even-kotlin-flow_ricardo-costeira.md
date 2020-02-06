@@ -1,10 +1,9 @@
 Do you even (Kotlin) Flow? The new API for reactive programming
 =========================
 
-* Speaker : **Ricardo Costeira**
-* Available : **every day**
-* Length : **45 minutes**
-* Language : **English**
+* Speaker : [Ricardo Costeira][https://pixels.camp/rcosteira79]
+* Length : 45 minutes
+* Language : English
 
 Description
 -----------
@@ -16,6 +15,10 @@ In this talk, I'll explore what Kotlin Flow is, how can it be used, and how can 
 
 Speaker Bio
 -----------
+
+**Ricardo Costeira**
+
+![Ricardo Costeira](https://avatars2.githubusercontent.com/u/5026617?s=460&v=4)
 
 Ricardo is an Android dev at Mindera. He has a crush on clean code and software architecture. He's an organizer at GDG Coimbra, and a co-founder of Kotlin Knights.
 
@@ -31,3 +34,7 @@ Extra Information
 -----------------
 
 You can check the slides of the talk's latest version at https://speakerdeck.com/rcosteira79/do-you-even-kotlin-flow-the-new-api-for-reactive-programming
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
