@@ -1,11 +1,9 @@
-
-Testing Practices for Mobile 
+Testing Practices for Mobile
 =================================================
 
-* Speaker   : **Douglas Ritter** 
-* Available : **second day**
-* Length    : **45 minutes**
-* Language  : **English**
+* Speaker   : [Douglas Ritter](https://pixels.camp/doug_ritter)
+* Length    : 45 minutes
+* Language  : English
 
 Description
 -----------
@@ -17,8 +15,14 @@ The talk will cover what we as a team consider important steps in the software d
 Speaker Bio
 -----------
 
+**Yury Kozyrev**
+
+![Yury Kozyrev](https://avatars3.githubusercontent.com/u/5797393?v=4)
+
 Software engineer.
-TDD practitioner working at Talkdesk. 
+
+TDD practitioner working at Talkdesk.
+
 Almost 9 years writing iOS and Android apps and SDKs.
 
 Links
@@ -33,6 +37,7 @@ Extra Information
 -----------------
 
 The talk will cover topics like:
+
 - How define scenarios with BDD
 - Naming tests
 - Reduce uncertainty with tech approaches
@@ -42,3 +47,7 @@ The talk will cover topics like:
 - Different kinds of tests to better cover the test pyramid
 
 I've already published an article on this topic: https://engineering.talkdesk.com/mobile-testing-practices-811e46a4b893
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
