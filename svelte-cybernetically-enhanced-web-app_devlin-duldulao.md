@@ -2,7 +2,7 @@ Svelte, cybernetically enhanced web app
 =================================================
 
 * Speaker   : Devlin Duldulao
-* Available : first day, second day, third day
+* Available : third day
 * Length    : 45 minutes + QA
 * Language  : English
 
