@@ -1,8 +1,7 @@
 Machine that goes Ping: Low Power Sensor nodes with Python
 =================================================
 
-* Speaker   : Jose Marcelino
-* Available : All days
+* Speaker   : [Jose Marcelino][https://pixels.camp/jmarcelino]
 * Length    : 90 minutes (ideally)
 * Language  : English
 
@@ -22,6 +21,10 @@ Note: Bring your computer for the hands-on part - you will get your a device to 
 Speaker Bio
 -----------
 
+**José Marcelino**
+
+![José Marcelino](https://avatars0.githubusercontent.com/u/3199956?v=4)
+
 Originally from Setubal, Portugal Jose is the IoT Solutions Architect at Omnium Sensing, part of a large Engineering group in the North East of UK.
 
 Previous workplaces have included Pycom - makers of popular ESP32 based MicroPython boards with ample connectivity options - and his company Metavurt.
@@ -40,3 +43,7 @@ Extra Information
 -----------------
 
 Previous workshop at Pixels Camp 2017: Low Power Radio WAN: LoRa and Sigfox
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
