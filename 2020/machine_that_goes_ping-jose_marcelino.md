@@ -1,7 +1,7 @@
 Machine that goes Ping: Low Power Sensor nodes with Python
 =================================================
 
-* Speaker   : [Jose Marcelino][https://pixels.camp/jmarcelino]
+* Speaker   : [Jose Marcelino](https://pixels.camp/jmarcelino)
 * Length    : 90 minutes (ideally)
 * Language  : English
 

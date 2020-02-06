@@ -1,7 +1,7 @@
 Do you even (Kotlin) Flow? The new API for reactive programming
 =========================
 
-* Speaker : [Ricardo Costeira][https://pixels.camp/rcosteira79]
+* Speaker : [Ricardo Costeira](https://pixels.camp/rcosteira79)
 * Length : 45 minutes
 * Language : English
 

@@ -1,7 +1,7 @@
 Beyond REST: GraphQL vs gRPC Web
 =================================================
 
-* Speaker   : [Yury Kozyrev][https://pixels.camp/urakozz]
+* Speaker   : [Yury Kozyrev](https://pixels.camp/urakozz)
 * Length    : 45min + 15min QA
 * Language  : English
 
