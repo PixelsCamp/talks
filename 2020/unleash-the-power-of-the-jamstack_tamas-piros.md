@@ -1,8 +1,7 @@
 Unleash the Power of the JAMstack
 =========================
 
-* Speaker   : Tamas Piros
-* Available : anytime
+* Speaker   : [Tamas Piros](https://pixels.camp/tpiros)
 * Length    : 45 minutes
 * Language  : English
 
@@ -13,6 +12,10 @@ Server Side Rendering, Static Site Generation, Headless CMS and a myriad of othe
 
 Speaker Bio
 -----------
+
+**Tamas Piros**
+
+![Tamas Piros](https://avatars3.githubusercontent.com/u/2042718?s=460&v=4)
 
 Tamas is a Google Developer Expert in Web Technologies and a Developer Evangelist. He has more than a decade of experience delivering technical training to large, prestigious organisations. Throughout his career, he has delivered presentations and training classes all over the world. His passionate about unlocking the latest & greatest features of web development.
 
@@ -27,3 +30,7 @@ Extra Information
 -----------------
 
 As part of the talk I wish to convey a message - I had personally gone through a great deal to discover all the aspect of the JAMstack - including the various services. During the talk I wish to highlight some interesting parts of this journey.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
