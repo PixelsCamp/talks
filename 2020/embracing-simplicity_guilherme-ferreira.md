@@ -1,8 +1,7 @@
 Embracing Simplicity
 =================================================
 
-* Speaker   : Guilherme Ferreira
-* Available : first day, second day and third day
+* Speaker   : [Guilherme Ferreira](https://pixels.camp/gsferreira)
 * Length    : 60 min
 * Language  : English
 
@@ -20,6 +19,10 @@ If you live in the software world, this session is for you and you can expect to
 Speaker Bio
 -----------
 
+**Guilherme Ferreira**
+
+![Guilherme Ferreira](https://avatars3.githubusercontent.com/u/5797393?v=4)
+
 Guilherme Ferreira is a minimalist aspirant, passionate by product development and a continuous improvement enthusiast. He currently works as a Software Architect at OMNIA, building a Low-code Development Platform from the ground up.
 Guilherme is also co-organizer of the NetPonto Community and a member of NDC Porto Agenda Committee.
 
@@ -35,3 +38,7 @@ Extra Information
 -----------------
 
 This talk has been presented at local meetups.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
