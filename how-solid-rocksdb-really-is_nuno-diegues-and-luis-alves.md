@@ -19,13 +19,13 @@ Speaker Bio
 
 **Nuno**
 
-Nuno has been through University of Lisbon for several years working on concurrent and distributed transactional systems. During those academic times, he interned twice at Google, where I had the opportunity to develop systems with real-time requirements in the YouTube and Ads products. These days, he am usually found delving into the dirty details of the JVM to squeeze the last drops of performance for large-scale concurrent systems written in Java/Scala, often under known ecosystems such as Spark, Flink, Cassandra, RocksDB, and others.
+Nuno has been through University of Lisbon for several years working on concurrent and distributed transactional systems. During those academic years, he interned twice at Google, where he had the opportunity to develop systems with real-time requirements in the YouTube and Ads products. These days, he is usually found delving into the dirty details of the JVM to squeeze the last drops of performance for large-scale concurrent systems written in Java/Scala, often under known ecosystems such as Spark, Flink, Cassandra, RocksDB, and others.
 
 **Luís**
 
-I’m a Software Engineer at Feedzai, where I’ve been working for the last 3 years. I have a MSc in Computer Science from Instituto Superior Técnico with a specialization in Data Processing and Analysis, a mix of machine learning, databases, distributed and concurrent systems.
+Luis is a Software Engineer at Feedzai, where he has been working for the last 3 years. He earned a MSc in Computer Science from Instituto Superior Técnico with a specialization in Data Processing and Analysis, a mix of machine learning, databases, distributed and concurrent systems.
 
-Currently I work on Feedzai’s stream processing engine, both designing and implementing new features, as well as making sure that we meet our performance targets. I’ve been working with Java, Scala, Elasticsearch, Spark, Flink and many others. More recently, I’ve been exploring RocksDB as a way to enable real-time metrics that can span years of data.
+Currently he works on Feedzai’s stream processing engine, both designing and implementing new features, as well as making sure that Feedzai meets its performance targets. He's been working with Java, Scala, Elasticsearch, Spark, Flink and many others. More recently, he's been exploring RocksDB as a way to enable real-time stateful calculations that can span years of data.
 
 
 Links
