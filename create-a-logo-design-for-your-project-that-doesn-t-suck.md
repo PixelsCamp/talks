@@ -1,5 +1,5 @@
-Create a logo design for your project that doesn't suck
-=======================================================
+Create a brand for your project that doesn't suck
+=================================================
 
 * Speaker   : Caneco
 * Available : Second day
@@ -9,14 +9,18 @@ Create a logo design for your project that doesn't suck
 Description
 -----------
 
-What if I told you that you don't need to have a graduation on design to actually make yourself a pretty logo for you project?
-Just the right combination of a font, an icon, colours, and a drop of classy gradients and your  project will stand-out between the others.
+Your project could have the best idea, and the most elegant code, but when you need to promote and share it on social networks where the 3-second rule speaks best, and you only have is a README file, it can be hard to grab your audience attention – it needs to "POP"!
 
-Creating a logo for you project can be hard, specially for someone that it's that good in design. So the goal of this talk is to show that's not exactly rocket science.
+So, instead of bothering again your cousin (that has a degree in design) for another logo and some artwork, what if you can make yourself?
 
-We start out with a name of a random project selected, and from there we gradually setup our design: select an icon, choose a good font, and colour with a jazzy palette.
+Join me and discover easy ways for you to:
 
-After listening to this talk, you will get the main idea of how to design and create logos for your projects.
+- [ ] find a great name
+- [ ] design a custom Logo
+- [ ] create a brand around the idea
+- [ ] design some marketing swag (everybody loves swag)
+- [ ] design appealing artworks to share on social networks
+- [ ] think a bit outside of the box
 
 Speaker Bio
 -----------
