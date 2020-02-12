@@ -26,7 +26,7 @@ Speaker Bio
 
 **Rafael Ramalho**
 
-![Rafael Ramalho](https://avatars2.githubusercontent.com/u/14289?v=4)
+![Rafael Ramalho](https://avatars2.githubusercontent.com/u/24696635?v=4)
 
 Rafael spent his early career days developing full-stack applications that focused on solving client problems. He’s a declared swiss army knife, which helped him quickly evolve to try and find fast and scalable solutions in every code he produces.
 Thanks to the opportunity to create optimised, as well as good-looking, animations in Pixelmatters, Rafael started to have a taste for finding smart and intuitive ways to animate the web. While working at Blip, Rafael had to carefully plan and deliver high-performing animations for millions of users.
