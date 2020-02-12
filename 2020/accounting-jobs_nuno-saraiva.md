@@ -8,10 +8,6 @@ Accounting data in P2P-blockchain
 Description
 -----------
 
-**Nuno Saraiva**
-
-![Nuno Saraiva](https://avatars1.githubusercontent.com/u/1025855?v=4)
-
 Artificial intelligence will kill accounting. Blockchain will make it reborn.
 
 In this talk I will show how AI and machine learning will replace 90% of the current work of accountants, very soon.
@@ -19,6 +15,10 @@ In addition I will talk about my vision of the future of corporate financial rep
 
 Speaker Bio
 -----------
+
+**Nuno Saraiva**
+
+![Nuno Saraiva](https://avatars1.githubusercontent.com/u/1025855?v=4)
 
 Nuno Saraiva is an accountant since 2005, passionate about technology, geekiness, cryptocurrency and others.
 
