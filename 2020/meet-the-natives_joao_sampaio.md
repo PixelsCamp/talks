@@ -1,10 +1,9 @@
 Meet the natives: from compilation to execution
 =================================================
 
-* Speaker   : **João Sampaio**
-* Available : **second day**
-* Length    :  **60**
-* Language  : **English**
+* Speaker   : [João Sampaio](https://pixels.camp/jsmp)
+* Length    : 60m
+* Language  : English
 
 Description
 -----------
@@ -15,6 +14,10 @@ A native program as seen by the author is one that is loaded to run on the local
 
 Speaker Bio
 -----------
+
+**João Sampaio**
+
+![João Sampaio](https://avatars0.githubusercontent.com/u/365809?v=4)
 
 Software engineer at Talkdesk on the Mobile Team shipping native code.
 
@@ -38,3 +41,7 @@ After this, two topics are left, first how the OS loads the executable (eg: ELF 
 If both FreeBSD and Linux uses ELF what makes a Linux binary different from a FreeBSD one? How do they interact with the operating system? In the case of FreeBSD there is a compatibily layer that enables one to run linux binaries.
 
 While Linking, Loading and Executing are the main topics, and the main arhictecture used here is x86_64, arm will also be addressed (eg: Bit code on the AppStore). The talk will focus on UNIX based operating systems mainly macOS and FreeBSD (with Linux as a special guest).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
