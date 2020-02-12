@@ -23,7 +23,7 @@ Speaker Bio
 
 **Paulo Lopes**
 
-![Paulo Lopes](https://avatars2.githubusercontent.com/u/849467?v=49
+![Paulo Lopes](https://avatars2.githubusercontent.com/u/849467?v=49)
 
 I'm Paulo and I've used my 10+ years of software development experience writing, rewriting, banging my head against the wall, editing and re-editing high-performance web application to make Vert.x an even more awesome framework. I am also the author of "ES4X" the fastest JavaScript server runtime and other small open source projects. This is more than a job; I'm on a mission to build fast and faster applications!
 
