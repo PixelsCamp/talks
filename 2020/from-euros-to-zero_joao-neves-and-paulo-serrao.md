@@ -1,8 +1,7 @@
 From euros to zero: using Probabilistic Data Structures to reduce costs
 =================================================
 
-* Speaker   : João Neves and Paulo Serrão
-* Available : first day, second day, third day
+* Speaker   : [João Neves](https://pixels.camp/jonsnowseven) and [Paulo Serrão](https://pixels.camp/paulo-serrao)
 * Length    : (Talk Length, QA) = (45, 15) minutes
 * Language  : English
 
@@ -18,7 +17,15 @@ In this talk, we will show how we leveraged Probabilistic Data Structures to opt
 Speaker Bio
 -----------
 
+**João Neves**
+
+![João Neves](https://avatars2.githubusercontent.com/u/25992803?v=4)
+
 João works at Siemens Cyber Security Center as an ML Engineer since 2018, in Portugal. He has experience as Cloud Engineer and is certified as a Solutions Architect with AWS. Previously, he worked as a Data Engineer Consultant at Marionete and as a Software Engineer in railroad business at Siscog SA. João graduated from University of Lisbon with a Masters in Applied Mathematics. Outside of the Cloud, João enjoys everything related with football and with Benfica.
+
+**Paulo Serrão**
+
+![Paulo Serrão](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/paulo_serrao.jpg)
 
 Paulo is Senior Security Engineer working at the Cyber Defence Center in Siemens since 2015. He combines his skills as a security analyst with his background as developer, aiming to come up with solutions to overcome the neverending growth in cyber threats. After graduating in Computer Science, he started working at the major portuguese telecom provider as a full stack software engineer for application monitoring and later on, learning new sets of skills for cyber security. While taking a break from bug/threat hunting, he enjoys FPV drone racing, photography, hiking/traveling or simply relaxing in front of a screen.
 
@@ -27,9 +34,6 @@ Links
 
 * Company: https://new.siemens.com/global/en/company/stories/home/cybersecurity.html
 * GitHub: https://github.com/jonsnowseven and https://github.com/paulo-serrao
-* Photo:
-  * [João Neves](https://drive.google.com/open?id=1mo95okj1ynZBT7pM5K-ALgi8pzk_3ooy "Joao Neves")
-  * [Paulo Serrão](https://drive.google.com/open?id=1vcxOLpCTEKaR2wmTkmJYRuGmiFqS5ZaJ "Paulo Serrão")
 
 Extra Information
 -----------------
@@ -49,3 +53,7 @@ This is where Probabilistic Data Structures come to the rescue. These data struc
 In this talk, we will describe how we have evolved the existing solution to an optimized solution leveraging Probabilistic Data Structures. For that, we first walk through the advantages and drawbacks of the former and then, we perform the same analysis for the latter solution. Then we explain what are probabilistic data structures, what are the common use cases for each and, we show the attendees how trivial it is to implement these structures with code samples. In the end, we will describe how these structures enabled us to balance the trade-off between accuracy and costs of the queries of our serving architecture by providing a fuzzy view of our data sources.
 
 Finally, we hope you leave the session with A) a good understanding of PDS and its practical application in real-world scenarios, and B) some bubbling ideas to apply to you big data affairs.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
