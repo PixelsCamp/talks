@@ -1,10 +1,9 @@
 2600 Hz
 =================================================
 
-* Speaker   : **Celso Martinho**
-* Available : **any day**
-* Length    : **1 hour**
-* Language  : **English**
+* Speaker   : [Celso Martinho](https://pixels.camp/celso)
+* Length    : 1 hour
+* Language  : English
 
 Description
 -----------
@@ -25,6 +24,10 @@ This talk will be a hands-on time-traveling journey. I will go deep into some of
 Speaker Bio
 -----------
 
+**Celso Martinho**
+
+![Celso Martinho](https://avatars2.githubusercontent.com/u/14289?v=4)
+
 Challenge-driven, optimistic geek technologist, product guy, and entrepreneurial soul, eventually thrown into a management career. Founder of SAPO. CEO and founder of Bright Pixel, a venture builder studio and investor, home to a team of who've been around with technology, creativity and early stage investments. Bright Pixel organizes Pixels Camp too.
 
 I'm from the time when Mosaic took over Gopher.
@@ -34,5 +37,8 @@ Links
 
 * Company: https://brpx.com/
 * GitHub: https://github.com/celso
-* Photo: https://pbs.twimg.com/profile_images/1165648004134649856/8voEpo4q_400x400.png
+* Linkedin: https://www.linkedin.com/in/celsomartinho/
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
