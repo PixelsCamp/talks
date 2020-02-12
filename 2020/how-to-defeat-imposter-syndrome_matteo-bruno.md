@@ -1,12 +1,9 @@
-
-
 How to defeat imposter syndrome: confessions of a developer
 =================================================
 
-* Speaker   : **Matteo Bruno**
-* Available : **any day**
-* Length    : **60**
-* Language  : **English**
+* Speaker   : [Matteo Bruno](https://pixels.camp/satboy78)
+* Length    : 60
+* Language  : English
 
 Description
 -----------
@@ -19,6 +16,10 @@ After many years working in tech for a lot of companies (from startups to big co
 
 Speaker Bio
 -----------
+
+**Matteo Bruno**
+
+![Matteo Bruno](https://avatars2.githubusercontent.com/u/3984438?v=4)
 
 Señor software engineer, pizza lover, traveller, runner, blockchain & crypto enthusiast (sometimes not in this order :) ).
 
@@ -34,7 +35,6 @@ Links
 * Blog: https://www.linkedin.com/in/brunomatteo
 * Company: https://global.ubeeqo.com/
 * GitHub: https://github.com/satboy78
-* Photo: <a href="https://www.linkedin.com/in/brunomatteo" target="_new"><img src="https://i.ibb.co/02Nkdyp/profile.jpg" alt="profile" border="0" align="bottom"></a>
 
 Extra Information
 -----------------
