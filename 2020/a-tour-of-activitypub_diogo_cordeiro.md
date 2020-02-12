@@ -1,9 +1,7 @@
-
 A Tour of ActivityPub
 =====================
 
-* Speaker   : Diogo Cordeiro
-* Available : Any
+* Speaker   : [Diogo Cordeiro](https://pixels.camp/diogogithub)
 * Length    : 1 hour
 * Language  : Portuguese
 
@@ -17,6 +15,10 @@ In this talk, we will go for a small tour through the history of the Fediverse, 
 Speaker Bio
 -----------
 
+**Diogo Cordeiro**
+
+![Diogo Cordeiro](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/diogo_cordeiro.png)
+
 I'm Diogo and I am a Computer Science student from University of Porto. I've a keen interest in scalable and federated software engineering and I'm the current lead developer of GNU social, a free software social networking platform. In it, I've implemented support for ActivityPub and ActivityStreams 2.0 - state-of-the-art W3C recommendations of 2018 and 2017, respectively) for federated social networks.
 
 Links
@@ -24,7 +26,6 @@ Links
 
 * Blog: https://blog.diogo.site/
 * GitHub: https://github.com/diogogithub
-* Photo: https://cv.diogo.site/face_cv.png
 
 Extra Information
 -----------------
@@ -42,3 +43,6 @@ Major topics to be covered during the talk:
 
 At the end of this journey, we should be able to better understand some of the advantages of this kind of social platforms as well as some of the technical complications in their maintenance and conception.
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
