@@ -1,13 +1,16 @@
 Accounting data in P2P-blockchain
 =================================================
 
-* Speaker   : Nuno Saraiva
+* Speaker   : [Nuno Saraiva](https://pixels.camp/saraivan)
 * Available : All days
-* Length    : 30 to 45 minutes
 * Language  : Portuguese (slides will be in english)
 
 Description
 -----------
+
+**Nuno Saraiva**
+
+![Nuno Saraiva](https://avatars1.githubusercontent.com/u/1025855?v=4)
 
 Artificial intelligence will kill accounting. Blockchain will make it reborn.
 
@@ -27,7 +30,6 @@ Links
 * GitHub:  https://github.com/saraivan
 * Photo: http://seedaccounting.com/imgs/me.jpg
 
-Extra Information
------------------
+Click [here][1] to see the full calendar and pick your favorite talks
 
-
+[1]: https://pixels.camp/schedule/
