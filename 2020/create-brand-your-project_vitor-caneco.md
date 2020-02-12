@@ -1,8 +1,7 @@
 Create a brand for your project that doesn't suck
 =================================================
 
-* Speaker   : Caneco
-* Available : Second day
+* Speaker   : [Vitor Caneco](https://pixels.camp/caneco)
 * Length    : 45 minutes
 * Language  : English
 
@@ -25,9 +24,9 @@ Join me and discover easy ways for you to:
 Speaker Bio
 -----------
 
-**Caneco**
+**Vitor Caneco**
 
-![Caneco](https://avatars0.githubusercontent.com/u/502041?v=4)
+![Vitor Caneco](https://avatars0.githubusercontent.com/u/502041?v=4)
 
 > _Web Contortionist. Short for Developer being Designer and vice-versa @ MEDICARE_
 
@@ -51,3 +50,7 @@ Despite having a degree on programming, and actually being paid to code, I've al
 And during this year I've started to help a friend of mine to brand some popular PHP projects, such as: Laravel Zero, PHP Insights, PHP-Plus, etc… And from a crazy idea during this month I opened up a *Call-For-Logos* ([twitter.com/Caneco/status/1179463831170486273](https://twitter.com/Caneco/status/1179463831170486273)) during the Hacktoberfest, and by the end of the marathon I had done **30 logos**, for open-source projects 🎉
 
 Read more about it here: [https://dev.to/caneco/the-30-logos-i-did-for-hacktoberfest-38l7](dev.to/caneco/the-30-logos-i-did-for-hacktoberfest)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
