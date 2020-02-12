@@ -1,8 +1,7 @@
 A trip down Docker build history to BuildKit
 =================================================
 
-* Speaker   : Fernando Miguel
-* Available : any
+* Speaker   : [Fernando Miguel](https://pixels.camp/FernandoMiguel)
 * Length    : 30 min
 * Language  : English
 
@@ -22,10 +21,12 @@ Enter BuildKit.
 BuildKit is an entire new code base meant to replace the current moby build engine.
 
 
-
-
 Speaker Bio
 -----------
+
+**Fernando Miguel**
+
+![Fernando Miguel](https://avatars2.githubusercontent.com/u/168366?v=4)
 
 Fernando is a Solution Architect, DevSecOps, SRE. He’s an advocate of self-empowering others.
 
@@ -43,3 +44,7 @@ Extra Information
 
 This talk was previously done at Docker London Meetup, in the Cloudflare London offices
 https://www.meetup.com/Docker-London/events/258668741/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
