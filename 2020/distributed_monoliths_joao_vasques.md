@@ -1,8 +1,7 @@
 Distributed Monoliths
 =================================================
 
-* Speaker   : Joao Vasques
-* Available : All days
+* Speaker   : [Joao Vasques](https://pixels.camp/JoaoVasques)
 * Length    : 45 minutes
 * Language  : English
 
@@ -20,6 +19,10 @@ If you don't treat Data as a first class citizen, almost all microservices archi
 
 Speaker Bio
 -----------
+
+**João Vasques**
+
+![João Vasques](https://avatars2.githubusercontent.com/u/1440120?v=4)
 
 + Engineering Manager for Data at Unbabel
 + 7 years of experience in Data systems
@@ -44,3 +47,6 @@ I gave a talk about Clojure on PixelsCamp V2
 - https://pixels.camp/JoaoVasques
 - https://www.slideshare.net/JooVazoVasques/purpose-of-programming-and-the-clojure-nirvana-80316123
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
