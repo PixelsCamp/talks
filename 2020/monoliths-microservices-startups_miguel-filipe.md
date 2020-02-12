@@ -30,7 +30,6 @@ Links
 * Blog: https://twitter.com/m3thos
 * Company: https://unbabel.com
 * GitHub: https://github.com/msf
-* Photo: https://s3.amazonaws.com/keybase_processed_uploads/b3b92f1a8ef25629ad5f18163278c605_360_360_square_360.png
 
 Extra Information
 -----------------
