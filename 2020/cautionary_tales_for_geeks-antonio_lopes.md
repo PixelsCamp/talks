@@ -1,9 +1,7 @@
-
 Cautionary Tales for Geeks
 =================================================
 
-* Speaker   : António Lopes
-* Available : Preferably on the second day, but available on all days
+* Speaker   : [António Lopes](https://pixels.camp/antoniolopes)
 * Length    : 60 minutes (including time for questions/discussion)
 * Language  : English
 
@@ -14,6 +12,10 @@ This is not a technical talk. There are already many (and very good) technical t
 
 Speaker Bio
 -----------
+
+**António Lopes**
+
+![António Lopes](https://avatars1.githubusercontent.com/u/329746?v=4)
 
 I've been a teacher (mostly about programming) for several years, but now I'm a programmer that leads a team of other programmers at a public University in Lisbon. When I find the extra time, I'm also an Artificial Intelligence researcher that is trying to work on the emergence of intelligence through large groups of cooperative agents, a.k.a., Skynet. The fact that I haven't been chased by beings from the future, probably means I won't be successful.
 
@@ -33,3 +35,7 @@ I've studied and worked on several different fields throughout my personal and p
 This talk presents a set of stories (from other fields that may not be related to technology) that usually involve some sort of mistake or mishap, each with a specific lesson that can be learned and applied to the way we geeks operate.
 
 I've had a previous talk at Pixels.camp about how a badly-designed algorithm for coordinating thousands of intelligent agents turned out to be a very good music composer: Bad Algorithms Make Great Music: https://www.youtube.com/watch?v=RG1IBCwbGe8. So I guess a pattern is emerging here: I like to turn mistakes into a positive thing.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
