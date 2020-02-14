@@ -2,7 +2,7 @@ Hooking up with React Hooks
 =================================================
 
 -   Speakers : João Dias and Mickael Costa
--   Available : first day, second day, third day
+-   Available : first day and second day
 -   Length : 90 minutes
 -   Language : English
 
