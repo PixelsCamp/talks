@@ -9,7 +9,7 @@ JAMstack Maps
 Description
 -----------
 
-Maps are ubiquitous, yet, we rely on some major providers for most of our geoinformation needs and we relegate maps to a support role. In this talk we are going to discuss a few key topics to design and implement effective maps for web sites. In particular, I will talk about some key considerations for using web maps in a JAMstack architecture and analize some of the common problems you can face.
+Porto Mapping Community talks about JAMstack Maps. Maps are ubiquitous, yet, we rely on some major providers for most of our geoinformation needs and we relegate maps to a support role. In this talk we are going to discuss a few key topics to design and implement effective maps for web sites. In particular, I will talk about some key considerations for using web maps in a JAMstack architecture and analize some of the common problems you can face.
 
 Speaker Bio
 -----------
