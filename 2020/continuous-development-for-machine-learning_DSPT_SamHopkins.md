@@ -34,5 +34,4 @@ Links
 
 Extra Information
 -----------------
-
-{{ Useful resources: https://martinfowler.com/articles/cd4ml.html }}
+Useful resources: https://martinfowler.com/articles/cd4ml.html
