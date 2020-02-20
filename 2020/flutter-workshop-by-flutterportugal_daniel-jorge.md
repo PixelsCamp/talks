@@ -1,8 +1,7 @@
 Flutter Workshop
 =================================================
 
-* Speaker   : Daniel Jorge
-* Available : Any
+* Speaker   : [Daniel Jorge](https://pixels.camp/danidroid)
 * Length    : 120 minutes
 * Language  : English
 
@@ -14,13 +13,18 @@ FlutterPortugal brings you a Flutter Workshop, learning about the fundamentals t
 Flutter is Google’s portable UI kit for crafting high-quality native interfaces on iOS and Android in record time.
 Flutter works with existing code, is used by developers and organizations around the world, is free and also open source.
 
-Workshop Contents 
+Workshop Contents:
+
 1. Flutter intro
 2. Create the initial project
 3. [TBA]
 
 Speaker Bio
 -----------
+
+**Daniel Jorge**
+
+![Daniel Jorge](https://avatars2.githubusercontent.com/u/3043406?v=4)
 
 I'm Daniel, Flutter Developer @Dengun and Part of @FlutterPortugal organization team. 
 Joined Dengun in late 2011, developing applications specifically for Android, from native to mobile frameworks.
@@ -55,5 +59,10 @@ Laptop with Flutter (https://flutter.dev/docs/get-started/install),
 Also, don't forget your charger!
 
 join us in Discord: https://chat.flutter.pt
-https://github.com/FlutterPortugal
-https://twitter.com/FlutterPortugal
+
+- https://github.com/FlutterPortugal
+- https://twitter.com/FlutterPortugal
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
