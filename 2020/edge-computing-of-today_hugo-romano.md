@@ -1,8 +1,7 @@
 Edge Computing of Today
 =================================================
 
-* Speaker   : Hugo Romano
-* Available : All days, Anytime
+* Speaker   : [Hugo Romano](https://pixels.camp/adaptive)
 * Length    : 45 minutes + QA
 * Language  : English
 
@@ -13,6 +12,10 @@ Feature analysis and benchmarking of the Edge Computing solutions in the market 
 
 Speaker Bio
 -----------
+
+**Hugo Romano**
+
+![Hugo Romano](https://avatars1.githubusercontent.com/u/17833?v=4)
 
 Software developer since 1999, working for travel, health and defence industries. MVP of Cloudflare Community and Local Meetup co-organizer. Also, the revenue manager of companies in travel and lodging, leveraged by machine learning and edge computing. 
 
@@ -29,3 +32,7 @@ Extra Information
 It is more a "State of Edge Computing" today and is being released soon. Presenting developers what path should they choose for their projects. Vendors Benchmarking: Feature analysis, lock-in risk, Geo-agnostic scope, Global coverage, and rough Economics.
 
 Finishing with an opportunity to fight Climate Change.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
