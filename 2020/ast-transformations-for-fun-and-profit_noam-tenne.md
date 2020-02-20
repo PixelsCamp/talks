@@ -1,9 +1,8 @@
 AST Transformations For Fun & Profit
 =================================================
 
-* Speaker   : Noam Tenne
-* Available : Every day, prefer the first day
-* Length    : 60 minutes.
+* Speaker   : [Noam Tenne](https://pixels.camp/noamt)
+* Length    : 60 minutes
 * Language  : English
 
 Description
@@ -17,6 +16,10 @@ We’ll review AST in theory, the important parts of the core ast package and se
 
 Speaker Bio
 -----------
+
+**Noam Tenne**
+
+![Noam Tenne](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/noam_tenne.jpg)
 
 A hacker-hearted software engineer and DevOps cowboy. 
 Noam has spent the past decade working on both cloud based and on-premise platforms,
@@ -36,7 +39,10 @@ Links
 Extra Information
 -----------------
 
-
 I’m very fond of messing around with AST.
 I’ve preached it during my Groovy development days, I’ve built a whole python framework based on it and used it to solve real world problems with Go.
 Quite a number of developers that I’ve met were wary about the subject, feeling that it’s a “hacky” way of getting things done. I couldn’t disagree more. I’d really like to help developers feel comfortable with the topic, as one can achieve many great things with it.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
