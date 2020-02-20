@@ -1,8 +1,7 @@
 Internal-Facing Products Don't Have to Be Bad
 =============================================
 
-* Speaker   : João Craveiro
-* Available : Thu 26 March & Fri 27 March (between 10am and 6pm)
+* Speaker   : [João Craveiro](https://pixels.camp/jpgcc)
 * Length    : 60 minutes (including Q&A)
 * Language  : English
 
@@ -15,6 +14,10 @@ Customer-facing products often have internal-facing tools — either to directly
 
 Speaker Bio
 -----------
+
+**João Craveiro**
+
+![João Craveiro](https://avatars3.githubusercontent.com/u/7196535?v=4)
 
 João Craveiro has been a researcher, teacher, developer, and product manager for over 11 years (the last 5 of which in Product Management). He is currently a Senior Product Manager at Farfetch, the global technology platform for luxury fashion. Formerly, João was a (Senior) Product Manager at Onfido; a Professor at U. Lusófona; a Product Manager and Software Engineer at Premium Minds; and researcher/teaching assistant at U. Lisboa.
 
@@ -31,3 +34,7 @@ Extra Information
 -----------------
 
 This will be an improved (and slightly adapted to the audience) version of the talk I gave at a couple of product meetups (Braga.Product, ProductTank). The slides from the ProductTank version are available [on Speakerdeck](https://speakerdeck.com/jpgcc/internal-facing-products-dont-have-to-be-bad-producttank).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
