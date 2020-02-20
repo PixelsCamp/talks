@@ -1,9 +1,7 @@
-
 React Hooks broke my tests, now what?
 =================================================
 
-* Speaker   : Daniel Afonso
-* Available : Any day
+* Speaker   : [Daniel Afonso](https://pixels.camp/danieljcafonso)
 * Length    : 45 minutes + QA
 * Language  : English
 
@@ -15,6 +13,10 @@ This presentation focuses on the common pitfalls of testing and what we have bee
 
 Speaker Bio
 -----------
+
+**Daniel Afonso**
+
+![Daniel Afonso](https://avatars3.githubusercontent.com/u/35337607?v=4)
 
 Daniel is a Software Engineer at Talkdesk. His current interest is in React and JavaScript, and he advocates for better testing principles using the testing library. He has a full-stack background, having worked on different languages and frameworks on various projects from IoT to Fraud Detection. In his free time, when he's not learning new technologies or writing about them, he's probably reading comics or watching superhero movies and shows.
 
@@ -31,3 +33,6 @@ Extra Information
 
 I’ve been advocating for better testing practices using the Testing Library and am one of its contributors. After spending months of refactoring implementation details focused tests, I’ve grown to understand the main pain points of testing React components and helped my team to build new practices and write better performant and resistant tests.
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
