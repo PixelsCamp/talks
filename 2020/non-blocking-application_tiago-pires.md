@@ -1,8 +1,7 @@
 Non blocking application with Spring Webflux
 =================================================
 
-* Speaker   : Tiago Pires, Tiago Batista
-* Available : first day, second day
+* Speaker   : [Tiago Pires](https://pixels.camp/tpires), [Tiago Batista](https://pixels.camp/tsbatista)
 * Length    : 60 minutes
 * Language  : English
 
@@ -14,7 +13,15 @@ Have you been wondering what Reactive programming and data streams are? If you h
 Speaker Bio
 -----------
 
+**Tiago Pires**
+
+![Tiago Pires](https://avatars1.githubusercontent.com/u/1906333?v=4)
+
 Tiago Pires - a resilient, curious person with an endless will to learn, trying everyday to be a better software engineer at Mindera.
+
+**Tiago Batista**
+
+![Tiago Batista](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/tiago_batista.jpg)
 
 Tiago Batista - Systems breaker, Linux aficionado, DevOps in the free times, Tiago Batista started fiddling with computers since a young age.  Somehow became a Software engineer in his 30s and has been building (and breaking) large systems ever since.
 
@@ -26,7 +33,6 @@ Links
 * GitHub: https://github.com/tpires and https://github.com/tsbatista
 * Photo: https://shorturl.at/bhiDO
 
-Extra Information
------------------
+Click [here][1] to see the full calendar and pick your favorite talks
 
-We already gave this talk at JUG Aveiro (https://www.linkedin.com/posts/mindera_mindera-aveiro-java-activity-6606199939322179584-tM-9) and it had quite a good attendance and received positive feedback.
+[1]: https://pixels.camp/schedule/
