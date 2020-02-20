@@ -1,8 +1,7 @@
 Cryptography Gone Wrong
 =================================================
 
-* Speaker   : Mathis Hammel
-* Available : first day
+* Speaker   : [Mathis Hammel](https://pixels.camp/MathisHammel)
 * Length    : 60 minutes
 * Language  : English
 
@@ -17,6 +16,10 @@ Through the source code or reverse engineering of the affected software, we stud
 
 Speaker Bio
 -----------
+
+**Mathis Hammel**
+
+![Mathis Hammel](https://avatars3.githubusercontent.com/u/6159437?v=4)
 
 Mathis Hammel is a Deputy CTO at Sogeti (part of Capgemini) and the founder of h25, a startup specialized in technical competitions.
 
@@ -43,3 +46,7 @@ This can serve as a practical introduction to many notions in cryptography for d
 - Asymmetric cryptography
 - Random number generation
 - Side-channel attacks
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
