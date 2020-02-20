@@ -1,10 +1,9 @@
 Building a Flight Tracker
 =================================================
 
-* Speaker   : **João Carvalho**
-* Available : **Any day**
-* Length    : **60 minutes**
-* Language  : **English**
+* Speaker   : [João Carvalho](https://pixels.camp/jcarvalho)
+* Length    : 60 minutes
+* Language  : English
 
 Description
 -----------
@@ -19,6 +18,10 @@ and accessible from anywhere in the world, for less than 100 euros.
 
 Speaker Bio
 -----------
+
+**João Carvalho**
+
+![João Carvalho](https://avatars3.githubusercontent.com/u/849596?v=4)
 
 I'm a Software Engineer at Talkdesk's SRE Team, with a passion for Reliability,
 Scalability and Performance.
@@ -48,3 +51,7 @@ that displays surrounding aircraft on a map (all running in a dedicated VM serve
 
 This talk will be a retelling of this story, from the first prototype to the
 current version.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
