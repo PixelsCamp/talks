@@ -1,8 +1,7 @@
 Murphy's Law in the IoT Age
 =================================================
 
-* Speaker   : João Pedro Dias
-* Available : Any day
+* Speaker   : [João Pedro Dias](https://pixels.camp/jpdias)
 * Length    : 60 minutes
 * Language  : English
 
@@ -15,6 +14,10 @@ From Google Home assistant to Amazon Ring doorbells, most IoT devices suffer fro
 
 Speaker Bio
 -----------
+
+**João Pedro Dias**
+
+![João Pedro Dias](https://avatars3.githubusercontent.com/u/3944845?v=4)
 
 I'm João Pedro Dias, a researcher at INESC TEC, an Invited Assistant Lecturer and PhD student at Faculty of Engineering, University of Porto. I'm currently researching on the thin line between hardware and software from a software engineering perspective, delving into thematics such as fault-tolerance, IoT system development, monitoring and maintenace. I'm passionate about technology in general, with a special focus on security and privacy, web development, embedded systems & Internet-of-Things.
 
@@ -34,3 +37,7 @@ Parts of these talk are inspired in a previous talk given at the [ØxＯＰＯ�
 Past Workshops @ PixelsCamp
 - [Unravelling the Web of Things: Exploring Mozilla Things Framework /2019](https://github.com/PixelsCamp/talks/blob/master/2019/unravelling-the-web-of-things_joao-pedro-dias.md)
 - [PiHeadquarters or How to Take Control of your House with Raspberry Pi and Docker /2017](https://github.com/PixelsCamp/talks/blob/master/2017/take_control_of_your_house_with_rpi_and_docker-joao_pedro_dias.md)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
