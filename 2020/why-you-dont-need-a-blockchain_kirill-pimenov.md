@@ -1,8 +1,7 @@
 Blockchain in your project — you don't need it, unless you don't have a choice
 =================================================
 
-* Speaker   : Kirill Pimenov
-* Available : Any day, no preference
+* Speaker   : [Kirill Pimenov](https://pixels.camp/kirushik)
 * Length    : 60 minutes (including Q&A)
 * Language  : English
 
@@ -27,6 +26,10 @@ I will never mention solutions of my company nor our competitors in the space wh
 Speaker Bio
 -----------
 
+**Kirill Pimenov**
+
+![Kirill Pimenov](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/kirill_pimenov.jpg)
+
 I'm Head of Security at Parity Technologies — a company which develops opensource technology for decentralized systems and helps customers (proudly including United Nations) to build on top of it.
 Before Parity I developed nontrivial application backends as a CTO of my own startup, and worked on continuously delivering web-facing services for SUSE Linux.
 
@@ -41,3 +44,7 @@ Extra Information
 -----------------
 
 Throughout the recent years I presented at multiple high-profile conferences, including Devcon 4 (https://www.youtube.com/watch?v=sEt1t_29DLw) and Web3 Summit 2018 (https://www.youtube.com/watch?v=J2lnjFqi-No).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
