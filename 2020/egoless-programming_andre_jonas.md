@@ -1,8 +1,7 @@
 Egoless Programming
 =================================================
 
-* Speaker   : André Jonas
-* Available : second day, third day
+* Speaker   : [André Jonas](https://pixels.camp/andrezzoid)
 * Length    : 30 minutes
 * Language  : English
 
@@ -14,6 +13,10 @@ There is no "i" in team, we've all heard that. Yet everyday we let our inflated 
 Speaker Bio
 -----------
 
+**André Jonas**
+
+![André Jonas](https://avatars1.githubusercontent.com/u/1095016?v=4)
+
 A geek, a problem solver, a communicator and forever a student - André is seasoned software engineer and a former teacher working remotely from the Algarve on a mission to support fellow engineers to do their best work.
 
 Links
@@ -22,3 +25,7 @@ Links
 * Blog: https://andrejonas.com/
 * GitHub: https://github.com/andrezzoid/
 * Photo: https://pbs.twimg.com/profile_images/1069707114161954816/DuLbABq6_400x400.jpg
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
