@@ -1,8 +1,7 @@
 The Dark Side of PR - for devs & startups
 =================================================
 
-* Speaker   : Vitor Domingos
-* Available : First and Second Day
+* Speaker   : [Vitor Domingos](https://pixels.camp/sonntage)
 * Length    : 30 minutes
 * Language  : English
 
@@ -13,6 +12,10 @@ PR for Devs & Startups - lessons from an ex-pr/comm guy, turned stealth journo, 
 
 Speaker Bio
 -----------
+
+**Vitor Domingos**
+
+![Vitor Domingos](https://avatars1.githubusercontent.com/u/8104873?v=4)
 
 Ex too many things, with a long techie background, passionate about security and cloud, turned stealth journalist whilst working for the 'dark side of the force' - the largest communication agencies in Portugal -, now a technologist, strategist and evangelist, globetrotting Europe. 
 
@@ -28,3 +31,6 @@ Extra Information
 
 Bring questions so that it can be addressed on stage. Views and opinions belong to the speaker and not the companies he worked or works for. 
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
