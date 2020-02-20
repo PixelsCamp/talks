@@ -38,7 +38,6 @@ Links
 
 * Company: https://parity.io
 * GitHub: https://github.com/kirushik
-* Photo: https://ipfs.io/ipfs/QmNeqT9wi8hFgj9DTyEsoEDkPLmoze41ENR7RNPtrcFp67
 
 Extra Information
 -----------------
