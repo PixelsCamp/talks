@@ -1,8 +1,7 @@
 PWAs and Fighting Against App Stores
 ====================================
 
-* Speaker : Gabriel Poça
-* Available : first day, second day
+* Speaker : [Gabriel Poça](https://pixels.camp/gabrielpoca)
 * Length : 60 minutes
 * Language : English
 
@@ -34,6 +33,10 @@ many years now.
 Speaker Bio
 -----------
 
+**Gabriel Poça**
+
+![Gabriel Poça](https://avatars0.githubusercontent.com/u/934580?v=4)
+
 I don't have a fancy title to show of. I'm a developer and my work goes from
 hiring to cloud infrastructure. For the past two years I've been focused on
 building the infrastructure for UTRUST (https://utrust.com/), which is a
@@ -47,3 +50,7 @@ Links
 * Blog: https://gabrielpoca.com/
 * Company: https://subvisual.co/
 * GitHub: https://github.com/gabrielpoca
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
