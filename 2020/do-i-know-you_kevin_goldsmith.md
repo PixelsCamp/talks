@@ -1,8 +1,7 @@
 Do I know you? Identity on the Internet and the Question of Trust
 =================================================
 
-* Speaker   : Kevin Goldsmith
-* Available : first day
+* Speaker   : [Kevin Goldsmith](https://pixels.camp/kevingoldsmith)
 * Length    : 45
 * Language  : English
 
@@ -15,6 +14,10 @@ In this talk, I cover the evolution of identity of the internet, from a product 
 
 Speaker Bio
 -----------
+
+**Kevin Goldsmith**
+
+![Kevin Goldsmith](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/kevin_goldsmith.jpg)
 
 Kevin Goldsmith has been a developer, software architect, technology manager, and senior technology executive for over 27 years. He is currently the Chief Technology Officer at Onfido in London, a machine learning and computer vision company helping users own their identities on the internet. Formerly, Kevin was the Chief Technology Officer at Avvo; the Vice President of Engineering, Consumer at Spotify; a Director of Engineering at Adobe Systems; and, development lead at Microsoft.
 
@@ -30,3 +33,7 @@ Extra Information
 -----------------
 
 See https://www.kevingoldsmith.com/talks/ for other talks, talk recordings and slides from all my talks.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
