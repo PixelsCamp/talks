@@ -1,8 +1,7 @@
 Agile and  Marketing, climbing the Tower of Babel
 =================================================
 
-* Speaker   : Bruno Amaral
-* Available : every day
+* Speaker   : [Bruno Amaral](https://pixels.camp/brunoamaral)
 * Length    : 30 minutes + 15 minutes for questions
 * Language  : English
 
@@ -16,6 +15,10 @@ This talk is a description of the friction that can arise between these two stak
 Speaker Bio
 -----------
 
+**Bruno Amaral**
+
+![Bruno Amaral](https://avatars3.githubusercontent.com/u/543344?v=4)
+
 I am a Digital Strategist, divided between tech and creativity. Currently working for the EDP Group, as a Product Owner, and teaching in the Masters Course of Communication and Digital Strategy, at the Lisbon University.
 
 Over the past two years I have helped launch 10 corporate websites for EDP, across 3 countries. 
@@ -28,12 +31,9 @@ Links
 -----
 
 * Blog: https://brunoamaral.eu/
-* Company: 
 * GitHub: https://github.com/brunoamaral
 * Photo: https://brunoamaral.eu/page/the-author/images/brunoamaral.jpg
 
-Extra Information
------------------
+Click [here][1] to see the full calendar and pick your favorite talks
 
-
-
+[1]: https://pixels.camp/schedule/
