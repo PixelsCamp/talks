@@ -1,8 +1,7 @@
 So you want to be a manager
 ===========================
 
-* Speaker   : Gil Gonçalves
-* Available : Any day
+* Speaker   : [Gil Gonçalves](https://pixels.camp/LuRsT)
 * Length    : 60min
 * Language  : English
 
@@ -23,6 +22,10 @@ Outline:
 Speaker Bio
 -----------
 
+**Gil Gonçalves**
+
+![Gil Gonçalves](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/gil_goncalves.jpg)
+
 Backend Lead living in London. Lives in the terminal, doesn't know anyone called GUI.
 
 - Developer for 10 years
@@ -40,3 +43,7 @@ Extra Information
 -----------------
 
 I've given this talk at the [Python London Meetup](https://www.meetup.com/LondonPython/) and at last year's [PyconUK](https://www.youtube.com/watch?v=5SyZSvSpax8). Although this talk changes as my I grow in my role.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
