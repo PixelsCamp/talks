@@ -1,8 +1,7 @@
 Taming giants, one test at a time
 =========================
 
-* Speaker   : Luis Correia
-* Available : all days
+* Speaker   : [Luis Correia](https://pixels.camp/luisfcorreia)
 * Length    : 60 minutes
 * Language  : English
 
@@ -20,6 +19,10 @@ Come to this talk to learn how we are testing some parts of Portuguese Social Se
 
 Speaker Bio
 -----------
+
+**Luis Correia**
+
+![Luis Correia](https://avatars2.githubusercontent.com/u/191885?v=4)
 
 Legendary bicopter/tricopter builder, member of the fine One Over Zero community, mostly known as the "lobster crew"
 Co-creator of OOZLabs, a closed maker group that essentially makes things and stuff.
@@ -39,6 +42,11 @@ Extra Information
 I usually prepare talks about things I've made but this time it's about real life work.
 This talk will be about our effort at Instituto de Informática, I.P. in creating a Test Framework for aiding test teams automate their funcional and integration tests.
 
-Past talks @ PixelsCamp 
+Past talks @ PixelsCamp:
+
 * https://github.com/PixelsCamp/talks/blob/master/2019/right-to-repair_luis-correia.md
 * https://github.com/PixelsCamp/talks/blob/master/2016/ooz2mars-rover_luis-correia.md
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
