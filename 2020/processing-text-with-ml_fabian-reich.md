@@ -1,8 +1,7 @@
 Processing Text with Machine Learning.
 =================================================
 
-* Speaker   : Fabian Reich
-* Available : first & second day
+* Speaker   : [Fabian Reich](https://pixels.camp/FabianReich)
 * Length    : 45min + QnA
 * Language  : English
 
@@ -20,6 +19,10 @@ You will get a better idea of which of your problems might be solved by using ML
 
 Speaker Bio
 -----------
+
+**Fabian Reich**
+
+![Fabian Reich](https://avatars3.githubusercontent.com/u/6339791?v=4)
 
 Computer Scientist turned Data Scientist (Hoppfully not the dark side).
 
@@ -43,3 +46,7 @@ Extra Information
 -----------------
 
 I gave the same talk on DEV DAY 2019 in Faro and it was well received (accroding to the hosts).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
