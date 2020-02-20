@@ -1,8 +1,7 @@
 Automating your Way to Confidence
 =================================================
 
-* Speaker   : Miguel Palhas
-* Available : first day, second day
+* Speaker   : [Miguel Palhas](https://pixels.camp/naps62)
 * Length    : 60 minutes
 * Language  : English
 
@@ -18,6 +17,10 @@ Along the way, I'll show examples of how we, at [Utrust](https://utrust.com) are
 
 Speaker Bio
 -----------
+
+**Miguel Palhas**
+
+![Miguel Palhas](https://avatars2.githubusercontent.com/u/283819?v=4)
 
 I have a history of being both lazy and an over-engineer. I'll spend hours
 tweaking that one vim config that will save me seconds later on.
@@ -44,3 +47,7 @@ Previous talks:
 * Pixels Camp 2019 - Smart Contracts: A Beginner’s Guide
 * ScaleConf Colombia 2018 - An Introduction to Smart Contracts
 * DevFest Siberia 2018 - An Introduction to Smart Contracts (https://www.youtube.com/watch?v=bYUrCHv9ewI)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
