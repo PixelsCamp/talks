@@ -2,7 +2,7 @@ Hyperledger Fabric 2.0 Workshop
 =================================================
 
 * Speaker   : Rafael Belchior
-* Available : All days
+* Available : 27 & 28
 * Length    : 60 minutes
 * Language  : English
 
