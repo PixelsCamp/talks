@@ -1,10 +1,9 @@
 Sandboxing in Linux with zero lines of code
 =================================================
 
-* Speaker   : **Ignat Korchagin**
-* Available : **any day**
-* Length    : **60 minutes**
-* Language  : **English**
+* Speaker   : [Ignat Korchagin](https://pixels.camp/ignatk)
+* Length    : 60 minutes
+* Language  : English
 
 Description
 -----------
@@ -14,6 +13,10 @@ Linux seccomp is a simple, yet powerful tool to sandbox running processes and si
 Speaker Bio
 -----------
 
+**Ignat Korchagin**
+
+![Ignat Korchagin](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ignat_korchagin.jpg)
+
 Ignat is a security engineer at Cloudflare working mostly on platform and hardware security. Ignat’s interests are cryptography, hacking, and low-level programming. Before Cloudflare, Ignat worked as a senior security engineer for Samsung Electronics’ Mobile Communications Division. His solutions may be found in many older Samsung smart phones and tablets. Ignat started his career as a security researcher in the Ukrainian government’s communications services.
 
 Links
@@ -22,7 +25,6 @@ Links
 * Blog: https://pqsec.org/
 * Company: https://www.cloudflare.com/
 * GitHub: https://github.com/ignatk
-* Photo: https://hacktivity.com/wp-content/uploads/2019/07/ignat_profile-390x390.jpg
 
 Extra Information
 -----------------
@@ -41,3 +43,7 @@ Some talks:
 * Live-Patching Weak Crypto with OpenSSL Engines: https://youtu.be/QJtiOhPEjtU
 * The Definitive Guide to Make Software Fail on ARM64: https://youtu.be/ZhIxQY-WwgQ
 * Exploiting USB/IP: https://youtu.be/EjYKF-xG_VY
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
