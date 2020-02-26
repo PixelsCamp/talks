@@ -1,8 +1,7 @@
 Are we paying attention to what we building?
 =================================================
 
-* Speaker   : Lawrence Braun
-* Available : Any
+* Speaker   : [Lawrence Braun](https://pixels.camp/mstrlaw)
 * Length    : 60 minutes
 * Language  : English
 
@@ -12,6 +11,11 @@ When we conceptualize and build products, we make decisions on a daily basis tha
 
 Speaker Bio
 -----------
+
+**Lawrence Braun**
+
+![Lawrence Braun](https://avatars2.githubusercontent.com/u/9217505?v=4)
+
 Senior Frontend Developer @unbabel. Interested on how technology affects people and society at large. Always looking forward to build something meaningful.
 
 Links
@@ -24,3 +28,7 @@ Links
 Extra Information
 -----------------
 This is less of a technical talk and more of an invitation to reflect on how, as technologists, we have the capacity to affect the world and how this capacity can be put to use (good and bad).
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
