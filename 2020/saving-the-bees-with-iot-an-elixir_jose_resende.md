@@ -1,10 +1,9 @@
- Saving the bees with IoT and Elixir 
+Saving the bees with IoT and Elixir
 =================================================
 
-* Speaker   :  Jose Resende 
-* Available :  first day, second day, third day 
-* Length    :  60 minute 
-* Language  :  English 
+* Speaker   :  [Jose Resende](https://pixels.camp/ZePedroResende)
+* Length    :  60 minute
+* Language  :  English
 
 Description
 -----------
@@ -20,6 +19,10 @@ Long live the bees 🐝
 Speaker Bio
 -----------
 
+**José Resende**
+
+![José Resende](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/jose_resende.jpg)
+
 Finishing a Distributed systems and High performance computing master's degree, obsessed with rust and Elixir.
 
 Hobbist musician and audiophile, Star Wars enthusiast. 
@@ -34,3 +37,6 @@ Links
 * GitHub: https://github.com/ZePedroResende 
 * Photo: https://raw.githubusercontent.com/cesium/codeweek18/master/assets/img/speakers/resende.jpg  
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
