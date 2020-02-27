@@ -15,7 +15,7 @@ Speaker Bio
 
 **Sofia Gomes**
 
-![Sofia Gomes]((https://raw.githubusercontent.com/PixelsCamp/talks/master/img/sofia_gomes.jpg)
+![Sofia Gomes](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/sofia_gomes.jpg)
 
 Sofia has a PhD in Computer Science from FCT/NOVA University, where she was a researcher in Knowledge Base Systems at NOVA/LINCS. Afterwards she worked in Vodafone for 3.5 years as a Product Manager and as a Data Engineer. Today she is working as a Data Engineer in at Feedzai Research, where she has been focusing on how to productize deep learning models, optimizing spark jobs, and graph storage and processing systems. 
 
