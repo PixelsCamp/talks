@@ -1,10 +1,9 @@
 Twitter Bot Hunting
 =================================================
 
-* Speaker   : **Miguel Sozinho Ramalho**
-* Available : **first day, second day, third day**
-* Length    : **45min**
-* Language  : **English, Portuguese**
+* Speaker   : [Miguel Sozinho Ramalho](https://pixels.camp/msramalho)
+* Length    : 45min
+* Language  : English, Portuguese
 
 Description
 -----------
@@ -21,11 +20,13 @@ If  buzzwords are your thing, here are some: machine learning, sentiment analysi
 Speaker Bio
 -----------
 
-<img align="right" :style="margin-right: 7px;" src="https://avatars1.githubusercontent.com/u/19508417?s=460&v=4" width="150px"> 
+**Miguel Sozinho Ramalho**
+
+![Miguel Sozinho Ramalho](https://avatars1.githubusercontent.com/u/19508417?v=4)
 
 Final year MSc Student of [Computer|Software][Engineering|Science] @FEUP currently working on a thesis entitled:
 
-`Political Interference Detection, Analysis and Impact Measurement on Twitter` 
+`Political Interference Detection, Analysis and Impact Measurement on Twitter`
 
 
 Links
@@ -39,3 +40,7 @@ Extra Information
 -----------------
 
 I gave a [talk](https://github.com/PixelsCamp/talks/blob/master/2019/quantum-supremacy_miguel-sozinho_ramalho.md) on PixelsCamp v3.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
