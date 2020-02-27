@@ -1,8 +1,7 @@
 My journey into Bioinformatics
 =================================================
 
-* Speaker   : Bruno Vieira
-* Available : Any day
+* Speaker   : [Bruno Vieira](https://pixels.camp/bmpvieira)
 * Length    : 60 minutes
 * Language  : English
 
@@ -14,6 +13,10 @@ I will talk about my unusual career path in academia, how I founded the open sou
 
 Speaker Bio
 -----------
+
+**Bruno Vieira**
+
+![Bruno Vieira](https://avatars3.githubusercontent.com/u/263386?v=4)
 
 Co-CTO at Resurgo Genetics, an antisense therapeutics target discovery company. Submitted a PhD at WurmLab, Queen Mary University of London.
 
@@ -31,7 +34,6 @@ Links
 * Blog: https://medium.com/@bmpvieira
 * Company: https://resurgo.com
 * GitHub: https://github.com/bmpvieira
-* Photo: https://pbs.twimg.com/profile_images/1901417721/bmpvieira_400x400.png
 
 Extra Information
 -----------------
@@ -39,3 +41,7 @@ Extra Information
 https://pseudocodigo.transistor.fm/episodes/2-bruno-vieira
 
 https://www.youtube.com/watch?v=S4NP-wnWMss&list=PLtlTN7msSXVsGK5SUYiQdPhA2cj2x452o
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
