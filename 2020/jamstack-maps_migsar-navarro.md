@@ -1,8 +1,7 @@
-JAMstack Maps 
+JAMstack Maps
 =================================================
 
-* Speaker   : Migsar Navarro
-* Available : any day
+* Speaker   : [Migsar Navarro](https://pixels.camp/migh)
 * Length    : 60 minutes
 * Language  : English
 
@@ -14,6 +13,10 @@ Porto Mapping Community talks about JAMstack Maps. Maps are ubiquitous, yet, we 
 Speaker Bio
 -----------
 
+**Migsar Navarro**
+
+![Migsar Navarro](https://avatars2.githubusercontent.com/u/268405?v=4)
+
 Migsar is a full-stack programmer from Mexico that lives in Porto with his girl and baby. He studied civil engineering but has been coding for the last 10 years. His favorite programming language is javascript but he also codes from time to time in python or go. He is most interested in software architecture, web technologies and geographic information systems. On his spare time he likes reading, photography and outdoor sports.
 
 Links
@@ -22,4 +25,7 @@ Links
 * Blog: [Migsar@Medium](https://medium.com/@migsarnavarro)
 * Company: [Vizzuality](https://www.vizzuality.com/)
 * GitHub: [Migsar@Github](https://github.com/migh)
-* Photo: ![Migsar](https://drive.google.com/file/d/1-rrVp846gB2o9lrHFYo0smvzqr5IFmgR/view)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
