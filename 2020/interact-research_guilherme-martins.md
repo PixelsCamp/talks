@@ -1,16 +1,7 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
-* When you submit your proposal, paste the contents of this file as the Pull Request's description.
-* Don't delete or rename this file, copy it.
-
-`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
 Artica Creative Computing presents Interact
 =================================================
 
-* Speaker   : André Almeida
-* Available : first day, second day, third, day
+* Speaker   : [André Almeida](https://pixels.camp/arspda)
 * Length    : 60 minutes
 * Language  : English or Portuguese
 
@@ -20,16 +11,22 @@ Description
 Artica has been in the Creative Industries market since 2011, embracing many different customized projects involving robotics, VR, AR, multi-user interactive installations, museums, exhibitions and even elevators.
 
 In this talk, Artica is going to share with you a Research Project entitled Interact:
+
 Interactive New Technologies Regarding Augmentation in a Computerized Taxonomy.
- 
+
 This research project aims to explore paradigms that involve:
+
 - Multiple-users interactive installations
 - Mixed realities, when physical and virtual worlds are blended
-- Multi-User Capture the Flag, with AR and GPS  
+- Multi-User Capture the Flag, with AR and GPS
 - And more..
 
 Speaker Bio
 -----------
+
+**André Almeida**
+
+![André Almeida](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/andre_almeida.jpg)
 
 André Almeida has extensive knowledge in interaction design, Computer Vision, VR and AR technologies. André has a curious mind and is a researcher by nature. 
 André co-founded ArticaCC in 2011 and since the beginning, managed and developed projects related to Robotics, Mechatronics, Computer Vision, AR, VR, and multi-user interactive installations.
@@ -40,5 +37,7 @@ Links
 * Blog: https://medium.com/artica
 * Company: https://artica.cc/
 * GitHub: https://github.com/artica/
-* Photo: https://drive.google.com/file/d/1834Aa3KeA6JJugNAJD1wRF5wVlfxobum/view?usp=sharing
 
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
