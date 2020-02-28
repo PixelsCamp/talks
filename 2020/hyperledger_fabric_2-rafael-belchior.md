@@ -1,8 +1,7 @@
 Hyperledger Fabric 2.0 Workshop
 =================================================
 
-* Speaker   : Rafael Belchior
-* Available : 27 & 28
+* Speaker   : [Rafael Belchior](https://pixels.camp/RafaelAPB)
 * Length    : 60 minutes
 * Language  : English
 
@@ -36,6 +35,11 @@ The practical part contains several components:
 
 Speaker Bio
 -----------
+
+**Rafael Belchior**
+
+![Rafael Belchior](https://avatars1.githubusercontent.com/u/11261236?v=4)
+
 Trying to see the big picture by applying technology to significant problems.
 
 * Ph.D. student @Técnico Lisboa
@@ -60,20 +64,14 @@ Required materials:
 
 * OS: Linux-based, Git
 * Docker version 17.06.2-ce or greater 
-
-
 * Node ^8.9.4 OR Node ^10.15.3
-
-
 * Python 2.7
-
- 
 * Hyperledger Fabric binaries:
 
 curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.0.0-beta 1.4.4 0.4.18
 
-
-
-
-
 The source code will be provided closer to the date of the conference.
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
