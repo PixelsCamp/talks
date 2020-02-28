@@ -2,7 +2,6 @@ Terraforming cloud cubed worlds - with one-liners and whimsy
 =================================================
 
 * Speaker   : João Anes
-* Available : Any, special preference for second or third day
 * Length    : 1 hour
 * Language  : English
 
@@ -17,6 +16,10 @@ Come along on our ride, and learn the sci-fi ways of cloud management today - so
 Speaker Bio
 -----------
 
+**João Anes**
+
+![João Anes](https://avatars3.githubusercontent.com/u/240720?v=4)
+
 Hi, thanks for reading this! I've been developing software since I graduated from FEUP in '14, with a knack and passion for development, system analysis, automation but mostly quirky retorts. I've dabbled in AR/VR, mobile, devops and product development, and you'll find me either drifting through the tubes online, poking around and looking for leaks, staring in awe at my AWS billing report or just passed out on the nearest couch!
 
 Links
@@ -24,7 +27,6 @@ Links
 
 * Company: https://company.fractal.id
 * GitHub: https://github.com/joaoanes
-* Photo: https://avatars0.githubusercontent.com/u/240720
 
 Extra Information
 -----------------
@@ -43,3 +45,7 @@ Handy links!
 1. [Terraform AWS Provider (we'll be using this)](https://www.terraform.io/docs/providers/aws/index.html)
 1. [AWS - Amazon Web Services. I promise I'm not a paid shill](https://aws.amazon.com/)
 1. [Here's what Minecraft is, in case you just left the rock you've slept for 12 years under](https://www.minecraft.net/)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
