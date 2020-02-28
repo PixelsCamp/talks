@@ -2,7 +2,6 @@ Doing Open Source as a contributor and a maintainer
 =================================================
 
 * Speaker   : Isabel Costa
-* Available : second and third day (27 and 28th March)
 * Length    : 40 min
 * Language  : English
 
