@@ -19,6 +19,10 @@ while sharing some tips on how to start contributing to a new project and keepin
 Speaker Bio
 -----------
 
+**Isabel Costa**
+
+![Isabel Costa](https://avatars1.githubusercontent.com/u/11148726?v=4)
+
 Isabel is a Software Engineer at GeoPhy.
 She got into Open Source through Google Summer of Code (GSoC) program in 2018.
 During her time as a GSoC student, she started a project with Systers Open Source community, 
@@ -30,9 +34,12 @@ Links
 
 * Blog: https://medium.com/@isabelcmdcosta
 * GitHub: https://github.com/isabelcosta
-* Photo: https://avatars0.githubusercontent.com/u/11148726?s=400&v=4
 
 Extra Information
 -----------------
 
 List of previous talks I've given: https://isabelcosta.github.io/talks/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
