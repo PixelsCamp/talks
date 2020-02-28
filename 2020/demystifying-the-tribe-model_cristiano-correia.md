@@ -1,8 +1,7 @@
 Demystifying the Tribe Model
 =========================
 
-* Speaker   : Cristiano Correia
-* Available : Both days, any time
+* Speaker   : [Cristiano Correia](https://pixels.camp/cristianocorreia)
 * Length    : 45 minutes + QA
 * Language  : English
 
@@ -66,3 +65,7 @@ Published articles:
 
 * [A Day in the Life of a Frontend Engineer at Zalando](https://jobs.zalando.com/tech/blog/frontend-engineer-zalando/) (Jan 2019 - [Zalando Tech Blog](https://jobs.zalando.com/tech/blog/))
 * [How to Style Accessibility: a Web Components Approach](https://medium.freecodecamp.org/styling-accessibility-a-web-components-approach-dc2aa8123eb2) (Dec 2018 - [freeCodeCamp]())
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
