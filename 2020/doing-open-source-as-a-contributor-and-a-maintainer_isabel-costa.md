@@ -1,7 +1,7 @@
 Doing Open Source as a contributor and a maintainer
 =================================================
 
-* Speaker   : Isabel Costa
+* Speaker   : [Isabel Costa](https://pixels.camp/isabelcosta)
 * Length    : 40 min
 * Language  : English
 
