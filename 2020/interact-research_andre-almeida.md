@@ -1,4 +1,4 @@
-Artica Creative Computing presents Interact
+Interact Research Project
 =================================================
 
 * Speaker   : [André Almeida](https://pixels.camp/arspda)
