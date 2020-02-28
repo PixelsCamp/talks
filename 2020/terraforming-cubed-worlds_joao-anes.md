@@ -1,7 +1,7 @@
 Terraforming cloud cubed worlds - with one-liners and whimsy
 =================================================
 
-* Speaker   : João Anes
+* Speaker   : [João Anes](https://pixels.camp/joaoanes)
 * Length    : 1 hour
 * Language  : English
 
