@@ -1,10 +1,9 @@
-Startups are hard, I can't wait to do it again 
+Startups are hard, I can't wait to do it again
 =================================================
 
-* Speaker   :  Tiago Henriques 
-* Available :  All days after 11am 
-* Length    :  60 minutes 
-* Language  :  English 
+* Speaker   :  [Tiago Henriques](https://pixels.camp/balgan)
+* Length    :  60 minutes
+* Language  :  English
 
 Description
 -----------
@@ -14,17 +13,24 @@ Description
 Speaker Bio
 -----------
 
+**Tiago Henriques**
+
+![Tiago Henriques](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/tiago_henriques.jpg)
+
 My name is Tiago Henriques, I was the ex-CEO of BinaryEdge up until a few months when it got acquired by Coalition, a cyber insurer. I love all things security, data and how I can make insurance better using both of those. 
 
 Links
 -----
 
-* Blog:  https://blog.binaryedge.io 
-* Company:  https://binaryedge.io 
-* GitHub:  https://github.com/balgan 
-* Photo:  https://example.com/me.jpg  — a picture of yourself for the speakers page 
+* Blog:  https://blog.binaryedge.io
+* Company:  https://binaryedge.io
+* GitHub:  https://github.com/balgan
 
 Extra Information
 -----------------
 
-To learn a bit of background information feel free to check: https://blog.binaryedge.io/2020/01/22/binaryedge-coalition/ 
+To learn a bit of background information feel free to check: https://blog.binaryedge.io/2020/01/22/binaryedge-coalition/
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
