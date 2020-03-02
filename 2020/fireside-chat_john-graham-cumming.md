@@ -24,6 +24,15 @@ Speaker Bio
 
 John Graham-Cumming is CTO of Cloudflare, and author of [The Geek Atlas](http://shop.oreilly.com/product/9780596523213.do) and [The GNU Make Book](https://nostarch.com/gnumake). In 2009 he persuaded the British Government to apologize for the mistreatment of Alan Turing and today he makes fun of the source code that appears in TV and Film on Tumblr and YouTube.
 
+Moderator Bio
+-----------
+
+**João Beltrão**
+
+![João Beltrão](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/joao_beltrao.jpg)
+
+João Beltrão is PMO of Bright Pixel. With a childhood of messing with ZX Spectrum, teen years of setting up a BBS, and young adulthood of creating a tech startup and winning the Young Entrepreneur of the Year award, João went on to SAPO and after than to the consulting world as an IT Admin and Project Manager.
+
 Links
 -----
 
