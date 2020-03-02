@@ -1,10 +1,9 @@
 Sharing is Daring
 =================================================
 
-* Speaker   : **Mário Gonçalves**
-* Available : **First and Second day**
-* Length    : **~45 minutes + QA**
-* Language  : **English**
+* Speaker   : [Mário Gonçalves](https://pixels.camp/mariomc)
+* Length    : ~45 minutes + QA
+* Language  : English
 
 Description
 -----------
@@ -17,6 +16,10 @@ This talk will identify and dissect those hidden costs, blockers and challenges 
 
 Speaker Bio
 -----------
+
+**Mário Gonçalves**
+
+![Mário Gonçalves](https://avatars3.githubusercontent.com/u/887163?v=4)
 
 Hello, I'm Mário: a Software Engineer at [Sky](https://www.linkedin.com/company/skyportugal/), a teacher at [Wild Code School](https://wildcodeschool.pt/) and a geek at ❤️.
 
@@ -44,3 +47,7 @@ Previous talks given:
 * Javascript, the new English @ Landing Festival 2018
 * [Javascript, the new English @ Pixels Camp 2017](https://github.com/PixelsCamp/talks/blob/master/2017/javascript-the-new-english_mario-goncalves.md)
 * [Javascript, the new English @ RequireLX](https://twitter.com/requirelx/status/864162863081979905)
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
