@@ -1,9 +1,9 @@
 Continuous Development for Machine Learning - CD4ML
 =================================================
 
-* Speaker   : **Sam Hopkins**
-* Length    : **30min + 30min ask me anytthing**
-* Language  : **English** 
+* Speaker   : [Sam Hopkins](https://pixels.camp/hershaw)
+* Length    : 30min + 30min ask me anytthing
+* Language  : English
 
 Description
 -----------
@@ -18,6 +18,10 @@ In this talk, we will focus on a use case and a set of technologies in which thi
 
 Speaker Bio
 -----------
+
+**Sam Hopkins**
+
+![Sam Hopkins](https://raw.githubusercontent.com/PixelsCamp/talks/master/img/sam_hopkins.jpg)
 
 Generalist Software Engineer, Data Scientist, Data Engineer, and IT educator. 
 
@@ -36,3 +40,7 @@ Links
 Extra Information
 -----------------
 Useful resources: https://martinfowler.com/articles/cd4ml.html
+
+Click [here][1] to see the full calendar and pick your favorite talks
+
+[1]: https://pixels.camp/schedule/
